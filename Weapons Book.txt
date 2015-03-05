@@ -5,331 +5,329 @@ The book text below is for a new book added by PerMa_Master (FormID: XX70C63D) a
 <p align="center">
 
 
-Weapons Manual v24
-
-by
-<img src='img://Textures/Interface/Books/Illuminated_Letters/C_letter.png'>pt. Jaymz A. Tiberius Raulfin III, Thane of Bruma
-
+Руководство по оружию, т.24
+Автор:
+капитан Джеймс Тиберий Раульфин III, Тан Брумы
 
 </p>
 [pagebreak]
-<p align="left"><img src='img://Textures/Interface/Books/Illuminated_Letters/T_letter.png'>he art or war has changed little since the Merethic Era, but the weapons have. Here I will give basic descriptions of several weapons and their primary use in combat. Most weapons fit into one or more overly simplified types, these are;
+Искусство войны не слишком изменилось со времен Меретической эры, но оружие - изменилось. Здесь я привожу базовые описания основных видов оружия и способов его применения в бою. Любое оружие можно отнести к одному или нескольким основным типам, которые приведены далее.
 [pagebreak]
-<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>lade: Any edged slashing weapon, like a sword or dagger.
+Клинковое: любое острое режущее оружие, например мечи или кинжалы.
 
-<img src='img://Textures/Interface/Books/Illuminated_Letters/B_letter.png'>lunt: Any solid weighted weapon, like a club or mace.
+Дробящее: любое массивное тяжелое оружие, например дубины или булавы.
 
-<img src='img://Textures/Interface/Books/Illuminated_Letters/P_letter.png'>iercing: Any pointed thrusting weapon, like a spear.
+Колющее: любое направленное колющее оружие, например копья.
 [pagebreak]
-After years training new recruits I have developed a basic system to classify weapons. It makes weapon cross-training much easier for the fresh recruit and the more experienced solider can confidently grab a new weapon in battle, proper training may lack with it, general knowledge will be second nature. The following details primary weapons and several improvised weapons.
+После нескольких лет обучения новобранцев я разработал базовую систему классификации оружия. Эта система облегчает овладевание несколькими видами оружия как для новичков, так и для видавших сражения воинов, благодаря чему в бою они могут с уверенностью пользоваться новым оружием. Ниже приведены основные детали этой системы.
 [pagebreak]
 
 
 
 
 <p align="center">
-<img src='img://Textures/Interface/Books/Illuminated_Letters/L_letter.png'><font size='20' face='$HandwrittenFont'>ight</font>
+- ЛЕГКОЕ ОРУЖИЕ -
 </p>
 [pagebreak]
-Weapon: Pickaxe
-Type: Waraxe
-Bleed Tier: I
-Debuff Tier: 0
-Stagger Tier: II
-Weapon Class:Blunt_Piercing
+Оружие: кирка
+Тип: боевой топор
+Ранг кровотечений: I
+Ранг штрафов: 0
+Ранг ошеломления: II
+Класс оружия: дробяще-колющее
 
-Weapon: Hatchet
-Type: Hatchet
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blunt_Blade
+Оружие: топорик
+Тип: топорик
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: дробяще-клинковое
 [pagebreak]
-Weapon: Broadsword
-Type: Armingsword
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: широкий меч
+Тип: боевой меч
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 
-Weapon: Armingsword
-Type: Armingsword
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: меч
+Тип: боевой меч
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 [pagebreak]
-Weapon: Waraxe
-Type: Waraxe
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: II
-Weapon Class: Blunt_Blade
+Оружие: боевой топор
+Тип: боевой топор
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: II
+Класс оружия: дробяще-клинковое
 
-Weapon: Shortspear
-Type: Shortspear
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Piercing
+Оружие: короткое копье
+Тип: короткое копье
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: колющее
 [pagebreak]
-Weapon: Spear
-Type: Shortspear
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Piercing 
+Оружие: копье
+Тип: короткое копье
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: колющее 
 
-Weapon: Mace
-Type: Mace
-Bleed Tier: 0
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blunt
+Оружие: булава
+Тип: булава
+Ранг кровотечений: 0
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: дробящее
 [pagebreak]
-Weapon: Spiked Mace
-Type: Mace
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: II
-Weapon Class: Blunt_Piercing
+Оружие: шипастая булава
+Тип: булава
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: II
+Класс оружия: дробяще-колющее
 
-Weapon: Morning Star
-Type: Mace
-Bleed Tier: II
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blunt_Piercing
+Оружие: цеп
+Тип: булава
+Ранг кровотечений: II
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: дробяще-колющее
 [pagebreak]
-Weapon: Club
-Type: Club
-Bleed Tier: 0
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blunt
+Оружие: дубина
+Тип: дубина
+Ранг кровотечений: 0
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: дробящее
 
-Weapon: Spiked Club
-Type: Club
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: II
-Weapon Class: Blunt_Piercing
+Оружие: шипастая дубина
+Тип: дубина
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: II
+Класс оружия: дробяще-колющее
 [pagebreak]
-Weapon: Maul
-Type: Maul
-Bleed Tier: 0
-Debuff Tier: III
-Stagger Tier: II
-Weapon Class: Blunt
+Оружие: кувалда
+Тип: кувалда
+Ранг кровотечений: 0
+Ранг штрафов: III
+Ранг ошеломления: II
+Класс оружия: дробящее
 
-Weapon: Katana
-Type: Katana
-Bleed Tier: III
-Debuff Tier: 0
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: катана
+Тип: катана
+Ранг кровотечений: III
+Ранг штрафов: 0
+Ранг ошеломления: I
+Класс оружия: клинковое
 [pagebreak]
-Weapon: Longsword
-Type: Longsword
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: длинный меч
+Тип: длинный меч
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 
-Weapon: Wakizashi
-Type: Wakizashi
-Bleed Tier: II
-Debuff Tier: 0
-Stagger Tier: I
-Weapon Class: Blade_Piercing
+Оружие: вакидзаси
+Тип: вакидзаси
+Ранг кровотечений: II
+Ранг штрафов: 0
+Ранг ошеломления: I
+Класс оружия: клинково-колющее
 [pagebreak]
-Weapon: Sabre
-Type: Sabre
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: сабля
+Тип: сабля
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 
-Weapon: Scimitar
-Type: Scimitar
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: скимитар
+Тип: скимитар
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 [pagebreak]
-Weapon: Shortsword
-Type: Shortsword
-Bleed Tier: I
-Debuff Tier: II
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: короткий меч
+Тип: короткий меч
+Ранг кровотечений: I
+Ранг штрафов: II
+Ранг ошеломления: I
+Класс оружия: клинковое
 
-Weapon: Tanto
-Type: Tanto
-Bleed Tier: II
-Debuff Tier: 0
-Stagger Tier: 0
-Weapon Class: Blade_Piercing
+Оружие: танто
+Тип: танто
+Ранг кровотечений: II
+Ранг штрафов: 0
+Ранг ошеломления: 0
+Класс оружия: клинково-колющее
 [pagebreak]
-Weapon: Dagger
-Type: Dagger
-Bleed Tier: II
-Debuff Tier: 0
-Stagger Tier: 0
-Weapon Class: Blade_Piercing
+Оружие: кинжал
+Тип: кинжал
+Ранг кровотечений: II
+Ранг штрафов: 0
+Ранг ошеломления: 0
+Класс оружия: клинково-колющее
 
-Weapon: Shiv
-Type: Dagger
-Bleed Tier: III
-Debuff Tier: 0
-Stagger Tier: 0
-Weapon Class: Piercing
+Оружие: заточка
+Тип: кинжал
+Ранг кровотечений: III
+Ранг штрафов: 0
+Ранг ошеломления: 0
+Класс оружия: колющее
 [pagebreak]
-Weapon: Hunting Knife
-Type: Dagger
-Bleed Tier: I
-Debuff Tier: 0
-Stagger Tier: 0
-Weapon Class: Blade_Piercing
+Оружие: охотничий нож
+Тип: кинжал
+Ранг кровотечений: I
+Ранг штрафов: 0
+Ранг ошеломления: 0
+Класс оружия: клинково-колющее
 
-Weapon: Claw
-Type: Fist
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: 0
-Weapon Class: Blade
+Оружие: коготь
+Тип: рукопашное
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: 0
+Класс оружия: клинковое
 [pagebreak]
-Weapon: Katar
-Type: Fist
-Bleed Tier: II
-Debuff Tier: I
-Stagger Tier: 0
-Weapon Class: Piercing
+Оружие: катар
+Тип: рукопашное
+Ранг кровотечений: II
+Ранг штрафов: I
+Ранг ошеломления: 0
+Класс оружия: колющее
 
-Weapon: Knuckles
-Type: Fist
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blunt
+Оружие: кастет
+Тип: рукопашное
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: дробящее
 [pagebreak]
 
 
 
 
 <p align="center">
-<img src='img://Textures/Interface/Books/Illuminated_Letters/H_letter.png'><font size='20' face='$HandwrittenFont'>eavy</font>
+- ТЯЖЕЛОЕ ОРУЖИЕ -
 </p>
 [pagebreak]
-Weapon: Battleaxe
-Type: Battleaxe
-Bleed Tier: II
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blunt_Blade
+Оружие: секира
+Тип: секира
+Ранг кровотечений: II
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: дробяще-клинковое
 
-Weapon: Partisan
-Type: Partisan
-Bleed Tier: III
-Debuff Tier: I
-Stagger Tier: II
-Weapon Class: Blade_Piercing
+Оружие: протазан
+Тип: протазан
+Ранг кровотечений: III
+Ранг штрафов: I
+Ранг ошеломления: II
+Класс оружия: клинково-колющее
 [pagebreak]
-Weapon: Halberd
-Type: Halberd
-Bleed Tier: II
-Debuff Tier: III
-Stagger Tier: III
-Weapon Class: All
+Оружие: алебарда
+Тип: алебарда
+Ранг кровотечений: II
+Ранг штрафов: III
+Ранг ошеломления: III
+Класс оружия: все
 
-Weapon: Warhammer
-Type: Warhammer
-Bleed Tier: 0
-Debuff Tier: III
-Stagger Tier: III
-Weapon Class: Blunt
+Оружие: боевой молот
+Тип: боевой молот
+Ранг кровотечений: 0
+Ранг штрафов: III
+Ранг ошеломления: III
+Класс оружия: дробящее
 [pagebreak]
-Weapon: Volendrung
-Type: Warhammer
-Bleed Tier: II
-Debuff Tier: III
-Stagger Tier: III
-Weapon Class: Blunt_Piercing
+Оружие: Волендранг
+Тип: боевой молот
+Ранг кровотечений: II
+Ранг штрафов: III
+Ранг ошеломления: III
+Класс оружия: дробяще-колющее
 
-Weapon: Longmace
-Type: Longmace
-Bleed Tier: I
-Debuff Tier: III
-Stagger Tier: III
-Weapon Class: Blunt
+Оружие: длинная булава
+Тип: длинная булава
+Ранг кровотечений: I
+Ранг штрафов: III
+Ранг ошеломления: III
+Класс оружия: дробящее
 [pagebreak]
-Weapon: Giant weapons
-Type: Longmace
-Bleed Tier: III
-Debuff Tier: III
-Stagger Tier: III
-Weapon Class: Blunt_Blade
+Оружие: оружие гигантов
+Тип: длинная булава
+Ранг кровотечений: III
+Ранг штрафов: III
+Ранг ошеломления: III
+Класс оружия: дробяще-клинковое
 
-Weapon: Battlestaff
-Type: Battlestaff
-Bleed Tier: 0
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blunt
+Оружие: боевой посох
+Тип: боевой посох
+Ранг кровотечений: 0
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: дробящее
 [pagebreak]
-Weapon: Greatsword
-Type: Greatsword
-Bleed Tier: III
-Debuff Tier: II
-Stagger Tier: III
-Weapon Class: Blunt_Blade
+Оружие: двуручный меч
+Тип: двуручный меч
+Ранг кровотечений: III
+Ранг штрафов: II
+Ранг ошеломления: III
+Класс оружия: дробяще-клинковое
 
-Weapon: Bastard Sword
-Type: Bastard Sword
-Bleed Tier: III
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Blade
+Оружие: полуторный меч
+Тип: полуторный меч
+Ранг кровотечений: III
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: клинковое
 [pagebreak]
-Weapon: Nodachi
-Type: Nodachi
-Bleed Tier: III
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Blade
+Оружие: нодати
+Тип: нодати
+Ранг кровотечений: III
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: клинковое
 [pagebreak]
 
 
 
 
 <p align="center">
-<img src='img://Textures/Interface/Books/Illuminated_Letters/R_letter.png'><font size='20' face='$HandwrittenFont'>anged</font>
+- СТРЕЛКОВОЕ ОРУЖИЕ -
 </p>
 [pagebreak]
-Weapon: Shortbow
-Type: Shortbow
-Bleed Tier: I
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Piercing
+Оружие: короткий лук
+Тип: короткий лук
+Ранг кровотечений: I
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: колющее
 
-Weapon: Longbow
-Type: Longbow
-Bleed Tier: II
-Debuff Tier: II
-Stagger Tier: II
-Weapon Class: Piercing
+Оружие: длинный лук
+Тип: длинный лук
+Ранг кровотечений: II
+Ранг штрафов: II
+Ранг ошеломления: II
+Класс оружия: колющее
 [pagebreak]
-Weapon: Crossbow
-Type: Crossbow
-Bleed Tier: II
-Debuff Tier: III
-Stagger Tier: II
-Weapon Class: Piercing
+Оружие: арбалет
+Тип: арбалет
+Ранг кровотечений: II
+Ранг штрафов: III
+Ранг ошеломления: II
+Класс оружия: колющее
 
-Weapon: Javelin
-Type: Shortbow
-Bleed Tier: II 
-Debuff Tier: I
-Stagger Tier: I
-Weapon Class: Piercing
+Оружие: дротик
+Тип: дротик
+Ранг кровотечений: II 
+Ранг штрафов: I
+Ранг ошеломления: I
+Класс оружия: колющее
