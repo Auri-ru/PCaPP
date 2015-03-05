@@ -1079,8 +1079,16 @@
 			<substring>Dragonsteel</substring>
 		</binding>
 		<binding>
+			<identifier>Dragonbone</identifier>
+			<substring>Драконья стальная стрела</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Exotic Arrow</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Чужеземная стрела</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1088,15 +1096,31 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Дариитовая стрела</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Justiciar</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Стрела Юстициара</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Seeker</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>Стрела Искателя</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>An-Xileel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Стрела Ан-Зайлил</substring>
 		</binding>
 	<!-- Immersive Weapons Ammo end -->
 	<!-- Sands of Time Ammo end -->
