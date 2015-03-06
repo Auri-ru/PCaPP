@@ -264,6 +264,10 @@
 			<identifier>Noisemaker</identifier>
 			<substring>шума</substring>
 		</binding>
+		<binding>
+			<identifier>Noisemaker</identifier>
+			<substring>Шумовая стрела</substring>
+		</binding>
 	<!-- PerMa -->
 		<binding>
 			<identifier>Cruel</identifier>
