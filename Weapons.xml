@@ -272,7 +272,7 @@
 			<identifier>used</identifier>
 		</binding>
 		<binding>
-			<substring> (использованный)</substring>
+			<substring>(использованный)</substring>
 			<identifier>used</identifier>
 		</binding>
 		<binding>
