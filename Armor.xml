@@ -9967,6 +9967,10 @@
 			<substringArmor>Dawnguard</substringArmor>
 			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Dawnguard end -->
 	
 	<!-- Falmer start -->
