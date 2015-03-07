@@ -5,7 +5,7 @@
 
 	<alchemy_effects>
 	<!-- New effects start -->
-	<alchemy_effect>
+		<alchemy_effect>
 			<identifier>Flare Undead</identifier>
 			<baseMagnitude>0</baseMagnitude>
 			<baseDuration>4</baseDuration>
@@ -407,23 +407,55 @@
 
 	<alchemy_effect_bindings>
 	<!-- New effects start -->
-	<binding>
+		<binding>
 			<identifier>Flare Undead</identifier>
 			<substring>Flare Undead</substring>
+		</binding>
+		<binding>
+			<identifier>Flare Undead</identifier>
+			<substring>Опустошение магии</substring>
+		</binding>
+		<binding>
+			<identifier>Flare Undead</identifier>
+			<substring>Воспламенение нежити</substring>
 		</binding>
 		<binding>
 			<identifier>Corrode Armor</identifier>
 			<substring>Corrode Armor</substring>
 		</binding>
 		<binding>
+			<identifier>Corrode Armor</identifier>
+			<substring>Опустошение запаса сил</substring>
+		</binding>
+		<binding>
+			<identifier>Corrode Armor</identifier>
+			<substring>Разложение брони</substring>
+		</binding>
+		<binding>
 			<identifier>Arcane Detachment</identifier>
 			<substring>Arcane Detachment</substring>
+		</binding>
+		<binding>
+			<identifier>Arcane Detachment</identifier>
+			<substring>Повреждение регенерации магии</substring>
+		</binding>
+		<binding>
+			<identifier>Arcane Detachment</identifier>
+			<substring>Мистический разрыв</substring>
 		</binding>
 		<binding>
 			<identifier>Exhaust</identifier>
 			<substring>Exhaust</substring>
 		</binding>
-	<!-- New effects end -->
+		<binding>
+			<identifier>Exhaust</identifier>
+			<substring>Повреждение регенерации запаса сил</substring>
+		</binding>
+		<binding>
+			<identifier>Exhaust</identifier>
+			<substring>Изнурение</substring>
+		</binding>
+		<!-- New effects end -->
 
 	<!-- Potions start -->
 	<!-- Alteration bindings start -->
@@ -432,8 +464,16 @@
 			<substring>Paralysis</substring>
 		</binding>
 		<binding>
+			<identifier>Paralysis</identifier>
+			<substring>Паралич</substring>
+		</binding>
+		<binding>
 			<identifier>Waterbreathing</identifier>
 			<substring>Waterbreathing</substring>
+		</binding>
+		<binding>
+			<identifier>Waterbreathing</identifier>
+			<substring>Водное дыхание</substring>
 		</binding>
 	<!-- Alteration bindings end -->
 	<!-- Illusion bindings start -->
@@ -442,27 +482,51 @@
 			<substring>Fear</substring>
 		</binding>
 		<binding>
+			<identifier>Fear</identifier>
+			<substring>Страх</substring>
+		</binding>
+		<binding>
 			<identifier>Frenzy</identifier>
 			<substring>Frenzy</substring>
+		</binding>
+		<binding>
+			<identifier>Frenzy</identifier>
+			<substring>Бешенство</substring>
 		</binding>
 		<binding>
 			<identifier>Invisibility</identifier>
 			<substring>Invisibility</substring>
 		</binding>
-	<!-- Illusion bindings end -->
+		<binding>
+			<identifier>Invisibility</identifier>
+			<substring>Невидимость</substring>
+		</binding>
+		<!-- Illusion bindings end -->
 	<!-- Restoration bindings start -->
 		<binding>
 			<identifier>Cure Disease</identifier>
 			<substring>Cure Disease</substring>
 		</binding>
 		<binding>
+			<identifier>Cure Disease</identifier>
+			<substring>Исцеление болезней</substring>
+		</binding>
+		<binding>
 			<identifier>Cure Poison</identifier>
 			<substring>Cure Poison</substring>
 		</binding>
-	<!-- Regenerate start -->
+		<binding>
+			<identifier>Cure Poison</identifier>
+			<substring>Противоядие</substring>
+		</binding>
+		<!-- Regenerate start -->
 		<binding>
 			<identifier>Regenerate Health</identifier>
 			<substring>Regenerate Health</substring>
+		</binding>
+		<binding>
+			<identifier>Regenerate Health</identifier>
+			<substring>Регенерация здоровья</substring>
 		</binding>
 		<binding>
 			<identifier>Regenerate</identifier>
@@ -470,7 +534,15 @@
 		</binding>
 		<binding>
 			<identifier>Regenerate</identifier>
+			<substring>Регенерация магии</substring>
+		</binding>
+		<binding>
+			<identifier>Regenerate</identifier>
 			<substring>Regenerate Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Regenerate</identifier>
+			<substring>Регенерация запаса сил</substring>
 		</binding>
 	<!-- Regenerate end -->
 	<!-- Resist start -->
@@ -479,26 +551,50 @@
 			<substring>Resist Fire</substring>
 		</binding>
 		<binding>
+			<identifier>Resist Fire</identifier>
+			<substring>Сопротивление огню</substring>
+		</binding>
+		<binding>
 			<identifier>Resist Frost</identifier>
 			<substring>Resist Frost</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Frost</identifier>
+			<substring>Сопротивление холоду</substring>
 		</binding>
 		<binding>
 			<identifier>Resist Shock</identifier>
 			<substring>Resist Shock</substring>
 		</binding>
 		<binding>
+			<identifier>Resist Shock</identifier>
+			<substring>Сопротивление электричеству</substring>
+		</binding>
+		<binding>
 			<identifier>Resist Magic</identifier>
 			<substring>Resist Magic</substring>
+		</binding>
+		<binding>
+			<identifier>Resist Magic</identifier>
+			<substring>Сопротивление магии</substring>
 		</binding>
 		<binding>
 			<identifier>Resist Poison</identifier>
 			<substring>Resist Poison</substring>
 		</binding>
-	<!-- Resist end -->
+		<binding>
+			<identifier>Resist Poison</identifier>
+			<substring>Сопротивление ядам</substring>
+		</binding>
+		<!-- Resist end -->
 	<!-- Restore start -->
 		<binding>
 			<identifier>Restore Health</identifier>
 			<substring>Restore Health</substring>
+		</binding>
+		<binding>
+			<identifier>Restore Health</identifier>
+			<substring>Восстановление здоровья</substring>
 		</binding>
 		<binding>
 			<identifier>Restore</identifier>
@@ -506,9 +602,17 @@
 		</binding>
 		<binding>
 			<identifier>Restore</identifier>
+			<substring>Восстановление магии</substring>
+		</binding>
+		<binding>
+			<identifier>Restore</identifier>
 			<substring>Restore Stamina</substring>
 		</binding>
-	<!-- Restore end -->
+		<binding>
+			<identifier>Restore</identifier>
+			<substring>Восстановление запаса сил</substring>
+		</binding>
+		<!-- Restore end -->
 	<!-- Fortify start -->
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
@@ -516,7 +620,15 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: изменение</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Fortify Conjuration</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: колдовство</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
@@ -524,7 +636,15 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: разрушение</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Fortify Illusion</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: иллюзия</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
@@ -532,7 +652,15 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: восстановление</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Fortify Marksman</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение искусства лучника</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
@@ -540,7 +668,15 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: блокирование</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Brawler</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: зачарование</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
@@ -548,11 +684,23 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: одноручное оружие</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Fortify Two-handed</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: двуручное оружие</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Fortify Sneak</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>Повышение навыка: скрытность</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Armor</identifier>
@@ -560,7 +708,15 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Armor</identifier>
+			<substring>Повышение навыка: легкая броня</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Armor</identifier>
 			<substring>Fortify Heavy Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Armor</identifier>
+			<substring>Повышение навыка: тяжелая броня</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Double Skill</identifier>
@@ -568,23 +724,59 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Double Skill</identifier>
+			<substring>Повышение навыка: кузнечное дело</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
+			<substring>Оружейник</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
 			<substring>Guardian</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
+			<substring>Повышение навыка: взлом</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Double Skill</identifier>
+			<substring>Страж</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Barter</identifier>
 			<substring>Fortify Barter</substring>
 		</binding>
 		<binding>
+			<identifier>Fortify Barter</identifier>
+			<substring>Повышение искусства торговли</substring>
+		</binding>
+		<binding>
 			<identifier>Dexterity</identifier>
 			<substring>Dexterity</substring>
+		</binding>
+		<binding>
+			<identifier>Dexterity</identifier>
+			<substring>Повышение навыка: карманные кражи</substring>
+		</binding>
+		<binding>
+			<identifier>Dexterity</identifier>
+			<substring>Повышение навыка: ловкость</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Carry Weight</identifier>
 			<substring>Fortify Carry Weight</substring>
 		</binding>
 		<binding>
+			<identifier>Fortify Carry Weight</identifier>
+			<substring>Повышение переносимого веса</substring>
+		</binding>
+		<binding>
 			<identifier>Fortify Health</identifier>
 			<substring>Fortify Health</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Health</identifier>
+			<substring>Повышение здоровья</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Magicka Stamina</identifier>
@@ -592,13 +784,25 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Magicka Stamina</identifier>
+			<substring>Повышение магии</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Magicka Stamina</identifier>
 			<substring>Fortify Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Magicka Stamina</identifier>
+			<substring>Повышение запаса сил</substring>
 		</binding>
 		<binding>
 			<identifier>Fortify Persuasion</identifier>
 			<substring>Fortify Persuasion</substring>
 		</binding>
-	<!-- Fortify end -->
+		<binding>
+			<identifier>Fortify Persuasion</identifier>
+			<substring>Повышение искусства убеждать</substring>
+		</binding>
+		<!-- Fortify end -->
 	<!-- Restoration bindings end -->
 	<!-- Potions end -->
 	<!-- Poisons start -->
@@ -609,12 +813,24 @@
 			<substring>Damage Health</substring>
 		</binding>
 		<binding>
+			<identifier>Damage Health</identifier>
+			<substring>Урон здоровью</substring>
+		</binding>
+		<binding>
 			<identifier>Lingering Damage Health</identifier>
 			<substring>Lingering Damage Health</substring>
 		</binding>
 		<binding>
+			<identifier>Lingering Damage Health</identifier>
+			<substring>Затяжной урон здоровью</substring>
+		</binding>
+		<binding>
 			<identifier>Ravage Health</identifier>
 			<substring>Ravage Health</substring>
+		</binding>
+		<binding>
+			<identifier>Ravage Health</identifier>
+			<substring>Опустошение здоровья</substring>
 		</binding>
 	<!-- Health end -->
 	<!-- Magicka start -->
@@ -623,22 +839,46 @@
 			<substring>Damage Magicka</substring>
 		</binding>
 		<binding>
+			<identifier>Damage Magicka</identifier>
+			<substring>Урон магии</substring>
+		</binding>
+		<binding>
 			<identifier>Lingering Damage Magicka</identifier>
 			<substring>Lingering Damage Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Lingering Damage Magicka</identifier>
+			<substring>Затяжной урон магии</substring>
 		</binding>
 		<binding>
 			<identifier>Ravage Magicka</identifier>
 			<substring>Ravage Magicka</substring>
 		</binding>
 		<binding>
+			<identifier>Ravage Magicka</identifier>
+			<substring>Опустошение магии</substring>
+		</binding>		
+		<binding>
 			<identifier>Damage Magicka Regen</identifier>
 			<substring>Damage Magicka Regen</substring>
+		</binding>
+		<binding>
+			<identifier>Damage Magicka Regen</identifier>
+			<substring>Повреждение регенерации магии</substring>
 		</binding>
 	<!-- Magicka end -->
 	<!-- Stamina start -->
 		<binding>
 			<identifier>Damage Stamina</identifier>
 			<substring>Damage Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Damage Stamina</identifier>
+			<substring>Урон запасу сил</substring>
+		</binding>
+		<binding>
+			<identifier>Lingering Damage Stamina</identifier>
+			<substring>Затяжной урон запасу сил</substring>
 		</binding>
 		<binding>
 			<identifier>Lingering Damage Stamina</identifier>
@@ -649,36 +889,68 @@
 			<substring>Ravage Stamina</substring>
 		</binding>
 		<binding>
+			<identifier>Ravage Stamina</identifier>
+			<substring>Опустошение запаа сил</substring>
+		</binding>
+		<binding>
 			<identifier>Damage Stamina Regen</identifier>
 			<substring>Damage Stamina Regen</substring>
 		</binding>
-	<!-- Stamina end -->
+		<binding>
+			<identifier>Damage Stamina Regen</identifier>
+			<substring>Повреждение регенерации запаса сил</substring>
+		</binding>
+		<!-- Stamina end -->
 		<binding>
 			<identifier>Slow</identifier>
 			<substring>Slow</substring>
 		</binding>
-	<!-- Weakness start -->
+		<binding>
+			<identifier>Slow</identifier>
+			<substring>Замедление</substring>
+		</binding>
+		<!-- Weakness start -->
 		<binding>
 			<identifier>Weakness to Fire</identifier>
 			<substring>Weakness to Fire</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Fire</identifier>
+			<substring>Уязвимость к огню</substring>
 		</binding>
 		<binding>
 			<identifier>Weakness to Frost</identifier>
 			<substring>Weakness to Frost</substring>
 		</binding>
 		<binding>
+			<identifier>Weakness to Frost</identifier>
+			<substring>Уязвимость к холоду</substring>
+		</binding>
+		<binding>
 			<identifier>Weakness to Shock</identifier>
 			<substring>Weakness to Shock</substring>
+		</binding>
+		<binding>
+			<identifier>Weakness to Shock</identifier>
+			<substring>Уязвимость к электричеству</substring>
 		</binding>
 		<binding>
 			<identifier>Weakness to Magic</identifier>
 			<substring>Weakness to Magic</substring>
 		</binding>
 		<binding>
+			<identifier>Weakness to Magic</identifier>
+			<substring>Уязвимость к магии</substring>
+		</binding>
+		<binding>
 			<identifier>Weakness to Poison</identifier>
 			<substring>Weakness to Poison</substring>
 		</binding>
-	<!-- Weakness end -->
+		<binding>
+			<identifier>Weakness to Poison</identifier>
+			<substring>Уязвимость к яду</substring>
+		</binding>
+		<!-- Weakness end -->
 	<!-- Destruction bindings end -->
 	<!-- Poisons end -->
 	</alchemy_effect_bindings>
@@ -718,17 +990,33 @@
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
+			<substring>Хисткарп</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
 			<substring>Silverside Perch</substring>
 		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Серебристый окунь</substring>
+		</binding>		
 		<binding>
 			<identifier>Fish Tier 1</identifier>
 			<substring>Cyrodilic Spadetail</substring>
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
+			<substring>Сиродильский лопатохвост</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
 			<substring>River Betty</substring>
 		</binding>
-	<!-- Fish Tier 1 end -->
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Бойцовая рыбка</substring>
+		</binding>
+		<!-- Fish Tier 1 end -->
 	<!-- Creature Tier 2 start -->
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -736,7 +1024,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Усик коруса-охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Hagraven Claw</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Коготь ворожеи</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -744,7 +1040,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Перья ворожеи</substring>
+		</binding>		
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Ice Wraith Teeth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Зубы ледяного привидения</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -752,7 +1056,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Большие рога</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Sabre Cat Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Клык саблезуба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -760,7 +1072,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Чешуя рыбы-убийцы</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Spriggan Sap</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Живица сприггана</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -768,7 +1088,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Стержневой корень</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Bear Claws</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Медвежьи когти</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -776,7 +1104,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Кабаний клык</substring>
+		</binding>		
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Bone Meal</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Костная мука</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -784,7 +1120,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Двемерское масло</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Ectoplasm</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Эктоплазма</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -792,7 +1136,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Глаз саблезуба</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Falmer Ear</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Ухо фалмера</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -800,7 +1152,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Светящаяся пыль</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Mudcrab Chitin</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Клешня грязевого краба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -808,13 +1168,25 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Хвост злокрыса</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Small Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Маленькие рога</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
 			<substring>Wisp Wrappings</substring>
 		</binding>
-	<!-- Creature Tier 2 end -->
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Пелена дымка</substring>
+		</binding>
+		<!-- Creature Tier 2 end -->
 	<!-- Special Classic Tier 3 start -->
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -822,7 +1194,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Собачий корень</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Swamp Fungal Pod</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Болотный стручок</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -830,7 +1210,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Ядовитый колокольчик</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Giant Lichen</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Гигантский лишайник</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -838,7 +1226,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Морозная мириам</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Charred Skeever Hide</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Жареная злокрысья кожа</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -846,17 +1242,33 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Корень Нирна</substring>
+		</binding>	
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Poison Bloom</substring>
 		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Ядовитый цветок</substring>
+		</binding>	
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
 			<substring>Garlic</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Чеснок</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Nightshade</substring>
 		</binding>
-	<!-- Special Classic Tier 3 end -->
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Паслен</substring>
+		</binding>
+		<!-- Special Classic Tier 3 end -->
 	<!-- Mythic Tier 4 start -->
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -864,7 +1276,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Морозная соль</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Moon Sugar</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Лунный сахар</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -872,7 +1292,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Жир тролля</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Briar Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Вересковое сердце</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -880,7 +1308,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Алый корень Нирна</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Daedra Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце даэдра</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -888,7 +1324,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Огненная соль</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Giant's Toe</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Палец великана</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -896,7 +1340,11 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
-			<substring>Human Heart</substring>
+			<substring>Human Flesh</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Человечье мясо</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -904,9 +1352,17 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Прах вампира</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Void Salts</substring>
 		</binding>
-	<!-- Mythic Tier 4 end -->	
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Соль пустоты</substring>
+		</binding>
+		<!-- Mythic Tier 4 end -->	
 	<!-- Hunterborn compatibility start -->
 	<!-- Hunterborn Tier 1 start -->
 		<binding>
@@ -1204,7 +1660,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier1</identifier>
+			<substring>Мало</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
 			<substring>Weak</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Слаб</substring>
 		</binding>
 		<binding>
 			<identifier>Tier1</identifier>
@@ -1212,9 +1676,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier1</identifier>
+			<substring>Отрава антимагии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
 			<substring>Lingering Stamina Poison</substring>
 		</binding>
-	<!-- Tier 1 end-->
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Отрава упадка сил</substring>
+		</binding>
+		<!-- Tier 1 end-->
 
 	<!-- Tier 2 start-->
 	<!-- Tier 2 Potions start-->
@@ -1225,11 +1697,23 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье изменения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Haggling</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье купца</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of the Defender</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье защитника</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1237,7 +1721,19 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье стража</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье взломщика</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Strength</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье силы</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1245,7 +1741,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье колдуна</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Destruction</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье разрушения</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1253,7 +1757,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье зачарователя</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of the Knight</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье рыцаря</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1261,7 +1773,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье иллюзии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Skirmisher's Potion</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье застрельщика</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1269,7 +1789,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of True Shot</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье меткости</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1277,7 +1805,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье воина</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Glibness</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье бойкой речи</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1285,7 +1821,19 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье карманника</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье ловкости</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of the Healer</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье лекаря</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1293,11 +1841,27 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье кузнеца</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье оружейника</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Light Feet</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье легких ног</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of the Berserker</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье берсерка</substring>
 		</binding>
 	<!-- Tier 2 - Fortify Skill Potions end-->
 	<!-- Tier 2 - Regenerate Attribute start-->
@@ -1307,7 +1871,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье регенерации</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Lasting Potency</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье магических сил</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1315,9 +1887,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье бодрости</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Enduring</substring>
 		</binding>
-	<!-- Tier 2 - Regenerate Attribute end-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Затянувш</substring>
+		</binding>
+		<!-- Tier 2 - Regenerate Attribute end-->
 	<!-- Tier 2 - Resist Element and Magic start-->
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1325,7 +1905,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье сопротивления огню</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Resist Cold</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье сопротивления холоду</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1333,9 +1921,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье сопротивления магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Resist Shock</substring>
 		</binding>
-	<!-- Tier 2 - Resist Element and Magic end-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье сопротивления электричеству</substring>
+		</binding>
+		<!-- Tier 2 - Resist Element and Magic end-->
 	<!-- Tier 2 - Restore Attribute start-->
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1343,11 +1939,23 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Stamina</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье запаса сил</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье магии</substring>
 		</binding>
 	<!-- Tier 2 - Restore Attribute end-->
 	<!-- Tier 2 - Thieves Guild Potions start-->
@@ -1357,7 +1965,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье добытчика</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Conflict</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье задиры</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1365,13 +1981,25 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье вора</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Keenshot</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье стрелка</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
 			<substring>Potion of Escape</substring>
 		</binding>
-	<!-- Tier 2 - Thieves Guild Potions start-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье беглеца</substring>
+		</binding>
+		<!-- Tier 2 - Thieves Guild Potions start-->
 	<!-- Tier 2 - Fortify Attribute start-->
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1379,11 +2007,23 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье здоровья</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Extra Magicka</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье добавочной магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of Enhanced Stamina</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Зелье улучшенного запаса сил</substring>
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
@@ -1401,13 +2041,21 @@
 			<identifier>Tier2</identifier>
 			<substring>Poi</substring> <!-- for Poison with FormID 00073f31 and Stamina Poison and Magicka Poison -->
 		</binding>
-	<!-- Tier 2 - Damage Attribute end-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Яд</substring> <!-- for Poison with FormID 00073f31 and Stamina Poison and Magicka Poison -->
+		</binding>
+		<!-- Tier 2 - Damage Attribute end-->
 	<!-- Tier 2 - Weakness to Element and Magic start-->
 		<binding>
 			<identifier>Tier2</identifier>
 			<substring>ver</substring> <!-- for Aversion to Fire, Frost, Magic, Shock -->
 		</binding>
-	<!-- Tier 2 - Weakness to Element and Magic end-->
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>еприятие</substring> <!-- for Aversion to Fire, Frost, Magic, Shock -->
+		</binding>
+		<!-- Tier 2 - Weakness to Element and Magic end-->
 	<!-- Tier 2 end-->
 
 	<!-- Tier 3 start-->
@@ -1421,7 +2069,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier3</identifier>
+			<substring>Микстура</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
 			<substring>Plentiful</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Сильное</substring>
 		</binding>
 		<binding>
 			<identifier>Tier3</identifier>
@@ -1433,9 +2089,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier3</identifier>
+			<substring>Продолжительн</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
 			<substring>Draught of Lasting Potency</substring>
 		</binding>
-	<!-- Tier 3 end-->
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Микстура магических сил</substring>
+		</binding>
+		<!-- Tier 3 end-->
 
 	<!-- Tier 3.5 start-->
 		<binding>
@@ -1444,9 +2108,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier3.5</identifier>
+			<substring>Напиток</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3.5</identifier>
 			<substring>Solution of Lasting Potency</substring>
 		</binding>
-	<!-- Tier 3.5 end-->
+		<binding>
+			<identifier>Tier3.5</identifier>
+			<substring>Напиток магических сил</substring>
+		</binding>
+		<!-- Tier 3.5 end-->
 
 	<!-- Tier 4 start-->
 		<binding>
@@ -1455,7 +2127,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier4</identifier>
+			<substring>Снадобье</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
 			<substring>Philter of Lasting Potency</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Снадобье магических сил</substring>
 		</binding>
 		<binding>
 			<identifier>Tier4</identifier>
@@ -1463,7 +2143,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier4</identifier>
+			<substring>Крепкое зелье</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
 			<substring>Virulent</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Вирулентный</substring>
 		</binding>
 		<binding>
 			<identifier>Tier4</identifier>
@@ -1471,9 +2159,17 @@
 		</binding>
 		<binding>
 			<identifier>Tier4</identifier>
+			<substring>Пагубн</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
 			<substring>Persisting</substring>
 		</binding>
-	<!-- Tier 4 end-->
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Длительн</substring>
+		</binding>
+		<!-- Tier 4 end-->
 
 	<!-- Tier 5 start-->
 		<binding>
@@ -1482,7 +2178,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier5</identifier>
+			<substring>Зелье долг</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
 			<substring>Elixir</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Эликсир</substring>
 		</binding>
 		<binding>
 			<identifier>Tier5</identifier>
@@ -1490,7 +2194,15 @@
 		</binding>
 		<binding>
 			<identifier>Tier5</identifier>
+			<substring>Эликсир магических сил</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
 			<substring>Extreme</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Наилучш</substring>
 		</binding>
 		<binding>
 			<identifier>Tier5</identifier>
@@ -1498,23 +2210,39 @@
 		</binding>
 		<binding>
 			<identifier>Tier5</identifier>
+			<substring>Смертельн</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
 			<substring>Unceasing</substring>
 		</binding>
-	<!-- Tier 5 end-->
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Беспрестанн</substring>
+		</binding>
+		<!-- Tier 5 end-->
 
 	<!-- Tier 6 start-->
 		<binding>
 			<identifier>Tier6</identifier>
 			<substring>Grand Elixir</substring>
 		</binding>
-	<!-- Tier 6 end-->
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Великий эликсир</substring>
+		</binding>
+		<!-- Tier 6 end-->
 
 	<!-- Tier 7 start-->
 		<binding>
 			<identifier>Tier7</identifier>
 			<substring>Prime Elixir</substring>
 		</binding>
-	<!-- Tier 7 end-->
+		<binding>
+			<identifier>Tier7</identifier>
+			<substring>Превосходный эликсир</substring>
+		</binding>
+		<!-- Tier 7 end-->
 
 	<!-- Workaround Damage Regeneration start-->
 		<binding>
@@ -1523,7 +2251,15 @@
 		</binding>
 		<binding>
 			<identifier>DamRegen1</identifier>
+			<substring>Слабый яд невосполнения</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen1</identifier>
 			<substring>Weak Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen1</identifier>
+			<substring>Слабый яд усталости</substring>
 		</binding>
 		<binding>
 			<identifier>DamRegen2</identifier>
@@ -1531,7 +2267,15 @@
 		</binding>
 		<binding>
 			<identifier>DamRegen2</identifier>
+			<substring>Яд невосполнения</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen2</identifier>
 			<substring>Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen2</identifier>
+			<substring>Яд усталости</substring>
 		</binding>
 		<binding>
 			<identifier>DamRegen3</identifier>
@@ -1539,7 +2283,15 @@
 		</binding>
 		<binding>
 			<identifier>DamRegen3</identifier>
+			<substring>Сильный яд невосполнения</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen3</identifier>
 			<substring>Potent Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen3</identifier>
+			<substring>Сильный яд усталости</substring>
 		</binding>
 		<binding>
 			<identifier>DamRegen4</identifier>
@@ -1547,13 +2299,25 @@
 		</binding>
 		<binding>
 			<identifier>DamRegen4</identifier>
+			<substring>Пагубный яд невосполнения</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen4</identifier>
 			<substring>Malign Vigor Poison</substring>
+		</binding>
+		<binding>
+			<identifier>DamRegen4</identifier>
+			<substring>Пагубный яд усталости</substring>
 		</binding>
 		<binding>
 			<identifier>DamRegen5</identifier>
 			<substring>Deadly Recovery Poison</substring>
 		</binding>
-	<!-- Workaround Damage Regeneration end-->
+		<binding>
+			<identifier>DamRegen5</identifier>
+			<substring>Смертельный яд невосполнения</substring>
+		</binding>
+		<!-- Workaround Damage Regeneration end-->
 	<!-- Mind affecting poisons start-->
 		<binding>
 			<identifier>MindAffecting1</identifier>
@@ -1561,7 +2325,15 @@
 		</binding>
 		<binding>
 			<identifier>MindAffecting1</identifier>
+			<substring>Слабый яд страха</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting1</identifier>
 			<substring>Weak Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting1</identifier>
+			<substring>Слабый яд бешенства</substring>
 		</binding>
 		<binding>
 			<identifier>MindAffecting2</identifier>
@@ -1569,7 +2341,15 @@
 		</binding>
 		<binding>
 			<identifier>MindAffecting2</identifier>
+			<substring>Яд страха</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting2</identifier>
 			<substring>Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting2</identifier>
+			<substring>Яд бешенства</substring>
 		</binding>
 		<binding>
 			<identifier>MindAffecting3</identifier>
@@ -1577,7 +2357,15 @@
 		</binding>
 		<binding>
 			<identifier>MindAffecting3</identifier>
+			<substring>Сильный яд страха</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting3</identifier>
 			<substring>Potent Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting3</identifier>
+			<substring>Сильный яд бешенства</substring>
 		</binding>
 		<binding>
 			<identifier>MindAffecting4</identifier>
@@ -1585,7 +2373,15 @@
 		</binding>
 		<binding>
 			<identifier>MindAffecting4</identifier>
+			<substring>Вирулентный яд страха</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting4</identifier>
 			<substring>Virulent Frenzy Poison</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting4</identifier>
+			<substring>Вирулентный яд бешенства</substring>
 		</binding>
 		<binding>
 			<identifier>MindAffecting5</identifier>
@@ -1593,9 +2389,17 @@
 		</binding>
 		<binding>
 			<identifier>MindAffecting5</identifier>
+			<substring>Смертельный яд страха</substring>
+		</binding>
+		<binding>
+			<identifier>MindAffecting5</identifier>
 			<substring>Deadly Frenzy Poison</substring>
 		</binding>
-	<!-- Mind affecting poisons end-->
+		<binding>
+			<identifier>MindAffecting5</identifier>
+			<substring>Смертельный яд бешенства</substring>
+		</binding>
+		<!-- Mind affecting poisons end-->
 	</potion_multiplier_bindings>
 
 	<potion_exclusions>
@@ -1611,7 +2415,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>ротивоядие</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Invisibility</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>евидимост</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1621,7 +2435,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>водного дыхания</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Potion of Ultimate</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Идеальное зелье</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1630,11 +2454,16 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Standard Poisons end -->	
+		<exclusion>
+			<text>аралич</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<!-- Standard Poisons end -->	
 
 	<!-- Special or Quest Potions start -->
 		<exclusion>
-			<text>Falmer Blood Elixir</text>
+			<text>Фалмерский кровяной эликсир</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1644,7 +2473,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Эссенция ледяного привидения</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Kordir's Skooma</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Скума Кордира</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1654,17 +2493,27 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Снадобье фантома</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Potion of Blood</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Soul Husk Extract</text>
+			<text>Зелье крови</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
 			<text>Soul Husk Extract</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>кстракт стручков душ</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1674,7 +2523,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>ивица Сонного дерева</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Stallion's Potion</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>елье лошадиной выносливости</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1684,7 +2543,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>еизвестное зелье</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Vaermina's Torpor</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>патия Вермины</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1693,10 +2562,20 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Special or Quest Potions end -->
+		<exclusion>
+			<text>Белый флакон</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<!-- Special or Quest Potions end -->
 	<!-- Special or Quest Poisons start -->
 		<exclusion>
 			<text>Frostbite Venom</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Яд обморожения</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1706,7 +2585,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>кстракт лотоса</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ice Wraith Bane</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>роклятие ледяного привидения</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -1715,7 +2604,12 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-	<!-- Special or Quest Poisons end -->
+		<exclusion>
+			<text>стракт паслена</text>  <!-- needs UESP -->
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<!-- Special or Quest Poisons end -->
 	<!-- Hunterborn compatibility start -->
 		<exclusion>
 			<text>_DS_BoneBlood</text>
