@@ -2174,11 +2174,11 @@
 			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionHigh</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Щит Солитьюда</substring>
 		</binding>
 		<binding>
@@ -4532,6 +4532,14 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Black Archmage Ebony Helm (L)</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Lord Marshal</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Steel Falcon</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -5308,6 +5316,10 @@
 			<identifier>GoldHeavy</identifier>
 			<substring>Gold Heavy</substring>
 		</binding>
+		<binding>
+			<identifier>GoldHeavy</identifier>
+			<substring>Golden plate</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
 	<!-- Gold Material Bindings end -->
 	
 	<!-- Hide Material Bindings start -->
@@ -5875,6 +5887,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Укрепленная роба Фодиза</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Nordic Iron Plates</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Robed Iron Armor</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -6654,11 +6674,51 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Кожаный капюшон клыков белого медведя</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Leather Ornate</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Кожаный украш. капюшон</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Leather Fancy</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кожаный мех. капюшон</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Boiled Leather</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Leather Doublet</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Jacket</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Mail Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail and Surcoat</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Oiled Mail Hauberk</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -7668,6 +7728,38 @@
 			<identifier>Scaled</identifier>
 			<substring>Корундовые чешуйчатые поножи</substring>
 		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Adept Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Apprentice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Expert Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Grand Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Master Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Novice Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Rogue Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Trainee Cleric Chainmail</substring>
+		</binding>
 	<!-- Scaled Material Bindings end -->
 	
 	<!-- Silver Material Bindings start -->
@@ -8272,6 +8364,26 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Попорченная церемониальная</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate cuirass</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate gloves</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate helmet</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate pauldrons</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -8376,6 +8488,10 @@
 			<identifier>Steel Plate</identifier>
 			<substring>Крестоносца</substring>
 		</binding>
+	<!-- Steel Material Bindings end -->
+	
+	<!-- Steel Plate Material Bindings start -->
+	<!-- Bindings allowed: Steel PlateLight, Steel PlateLow, Steel Plate, Steel PlateHigh -->
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>крестоносца</substring>
@@ -8591,6 +8707,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Plate Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Plate boots</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -9886,6 +10006,7 @@
 
 	<armor_masquerade_bindings>
 		<!-- Items can be used to match multiple factions, such as Fur Boots which are worn by both Stormcloaks and Bandits. -->
+	
 	<!-- Bandit start -->
 		<armor_masquerade_binding>
 			<substringArmor>Bandit</substringArmor>
@@ -9960,6 +10081,77 @@
 			<masqueradeFaction>CULTIST</masqueradeFaction>
 		</armor_masquerade_binding>
 	<!-- Cultist end -->
+	
+	<!-- Dawnguard start -->
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Armor</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Броня Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Boots</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Сапоги Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Full</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Закрытый шлем Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Шлем Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Gauntlets</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Перчатки Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Armor</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Легкая броня Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Boots</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Легкие сапоги Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Helmet</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Легкий шлем Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Dawnguard Light Gauntlets</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Легкие перчатки Стражи Рассвета</substringArmor>
+			<masqueradeFaction>DAWNGUARD</masqueradeFaction>
+		</armor_masquerade_binding>
+	<!-- Dawnguard end -->
 	
 	<!-- Falmer start -->
 		<armor_masquerade_binding>
