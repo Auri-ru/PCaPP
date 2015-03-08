@@ -8,6 +8,7 @@ Now covers:
 	Skyrim Sewers 4 (14351)
 	Common Clothes (51813)
 	Mage Armor - Cleric Chainmail Robes (54600)
+	B-D-Y-E-B Shield Mod (34433)
 
 Blocklist:
 
@@ -29,6 +30,8 @@ Updated Patches:
 	CCF: Keyword adjustments.
 
 New Patches:
+	BDYEB.esp (See changelog in Data/Readmes)
+	Unique Uniques.esp (Carried over some WAFR changes for consistency)
 </v2.4.4>
 </Current>
 
