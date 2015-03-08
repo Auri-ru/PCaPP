@@ -1579,6 +1579,10 @@
 			<substring>Ржавая булава</substring>
 		</binding>
 		<binding>
+			<identifier>DaedricLow</identifier>
+			<substring>ржавая булава</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Dawnbreaker</substring>
 		</binding>
