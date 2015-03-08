@@ -2500,6 +2500,14 @@
 			<substring>Aetherial</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Этериев</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>этериев</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Stormforge</substring>
 		</binding>
