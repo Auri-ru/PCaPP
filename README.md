@@ -30,21 +30,3 @@ PCaPP
 
 
 ----------
-**Поддерживаемые моды:**
-
- - Skyrim
- - Dawnguard
- - Dragonborn
- - Archer's Armory
- - Bound Armory
- - Cloaks of Skyrim
- - Frostfall
- - Forgotten Magic Redone
- - Ghosu - Horker Weapon Pack
- - Immersive Armors
- - Immersive Weapons
- - Improved Artifacts
- - Left Hand Rings
- - Winter is Coming
-
- 
