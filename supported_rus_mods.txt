@@ -1,0 +1,16 @@
+Название: FrostFall 2.6 
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/frostfall.shtml
+Метод: патч PerMa_Survivalism.esp + XML
+Ставить: патч после матера, Chrsko_frostfall после мастера?
+
+Название: RealShelter 1.4
+Источник: http://www.nexusmods.com/skyrim/mods/52612/?
+Метод: не требуется
+
+Название: Real Shelter-Frostfall Tents WIP
+Источник: http://www.nexusmods.com/skyrim/mods/60362/?
+Метод: не требуется
+
+Название: Immersive Weapons 1.5
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/immersive-weapons.shtml
+Метод: в процесса (Аури)
