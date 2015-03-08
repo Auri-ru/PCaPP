@@ -677,11 +677,39 @@
 			<identifier>Iron</identifier>
 			<substring>Фамильный меч Амрена</substring>
 		</binding>
+		<binding>
+			<identifier>Nordic</identifier>
+			<substring>Церемониальный меч</substring>
+		</binding>
+		<binding>
+			<identifier>Nordic</identifier>
+			<substring>Церемониальный топор</substring>
+		</binding>
 		<!-- не обрабатываемое родным патчером ваниль стоп -->
+		<!-- Immersive Weapons rus start -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Булава Эйвара Певца Камней</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
+			<substring>Имперский эбонитовый меч</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>тальное нордское</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>ордское cтальное</substring>
+		</binding>
+		<!-- Immersive Weapons rus End -->
+
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
 		</binding>
+		
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -1065,6 +1093,10 @@
 		</binding>
 		<binding>
 			<identifier>Imperial</identifier>
+			<substring>Гибкий стальной лук</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
 			<substring>Imperial</substring>
 		</binding>
 		<binding>
@@ -1107,7 +1139,11 @@
 			<identifier>Steel</identifier>
 			<substring>Soldier's</substring>
 		</binding>
-	<!-- Civil War material_Bindings end -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Солдата</substring>
+		</binding>
+		<!-- Civil War material_Bindings end -->
 
 	<!-- City/Guard start -->
 		<binding>
@@ -1343,7 +1379,15 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Аликр'с</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Stros M'Kai</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Строс М'Кай</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -1450,6 +1494,10 @@
 		</binding>
 		<binding>
 			<identifier>Advanced</identifier>
+			<substring>Регента</substring>
+		</binding>
+		<binding>
+			<identifier>Advanced</identifier>
 			<substring>Regent</substring>
 		</binding>
 		<binding>
@@ -1470,13 +1518,17 @@
 		</binding>
 		<binding>
 			<identifier>AdvancedHigh</identifier>
-			<substring>ристократ</substring>
+			<substring>Благородный клинок</substring>
 		</binding>
 		<binding>
 			<identifier>AdvancedHigh</identifier>
 			<substring>Nobleman's claymore</substring>
 		</binding>
-	<!-- Advance bindings end -->
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Благородный клеймор</substring>
+		</binding>
+		<!-- Advance bindings end -->
 
 	<!-- Bonemold bindings start -->
 	<!-- Bindings allowed: Bone, Mammoth Bone, Bonemold, BonemoldHigh -->
@@ -1556,12 +1608,20 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Луна Азуры</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Азур</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Malacath</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Секач Малаката</substring>
+		</binding>		
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Малакат</substring>
@@ -1720,7 +1780,7 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Ваббад</substring>
+			<substring>Вабба</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
@@ -1733,6 +1793,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>PenUmbra</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Пенумбра</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
@@ -1753,6 +1817,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Shadowsting</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Укус Тени</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1999,6 +2067,22 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Драконий стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконья стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконье стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконьи стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone</substring>
 		</binding>
 		<binding>
@@ -2101,7 +2185,7 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
-			<substring>Церемониальн</substring>
+			<substring>еремониальн</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2145,16 +2229,27 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Призрачная Коса</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Spearblade</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Пронзатель</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Noble</substring>
 		</binding>
-
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Justice</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Правосудие</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr HonedHigh</identifier>
@@ -2214,7 +2309,19 @@
 		</binding>
 		<binding>
 			<identifier>Draugr Honed</identifier>
+			<substring>Ворона</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
 			<substring>Mammoth Recurve Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Изогнутый светлый лук мамонта</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Изогнутый темный лук мамонта</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2230,7 +2337,15 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Боевой меч</substring> <!-- Arming Sword --> 
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Cavalry Broadsword</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Полуторный меч Конницы</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2238,7 +2353,15 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>ордская кирка</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Wolf Dadao</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Волчий дадао</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2246,7 +2369,19 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Волчий дайто</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Riders Blade</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>наездника</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Наездника</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2357,6 +2492,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Трезубец</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Nullsprocket</substring>
 		</binding>
 		<binding>
@@ -2426,6 +2565,10 @@
 		<binding>
 			<identifier>DwarvenHigh</identifier>
 			<substring>Duke's</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Герцога</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -2557,6 +2700,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Нордский двемерский</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Aemer's Mahakaman</substring>
 		</binding>
 		<binding>
@@ -2596,11 +2743,23 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Молот Шестого дома</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Exotic</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Чужеземный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Ornate Maul</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Украшенная кувалда</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -2640,6 +2799,10 @@
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
+			<substring>Хускарла</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
 			<substring>Housecarl</substring>
 		</binding>
 		<binding>
@@ -2648,7 +2811,19 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Ситис</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Black Sting</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Темного жала</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Темное жало</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -2716,7 +2891,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Ниндзято Феникса</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Hot Blood</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Горячая кровь</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -2741,6 +2924,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Assassin</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Убийцы</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3095,6 +3282,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Алинорск</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Moonstone</substring>
 		</binding>
 		<binding>
@@ -3120,6 +3311,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Aldmeri</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Альдмерск</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -3168,6 +3363,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Greyblade</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Серый клинок</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -3244,6 +3443,10 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Blue Dragon</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Синего дракона</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -3333,6 +3536,10 @@
 			<substring>Sorrow</substring>
 		</binding>
 		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>Горести</substring>
+		</binding>
+		<binding>
 			<identifier>ForswornHigh</identifier>
 			<substring>Briarheart Geis</substring>
 		</binding>
@@ -3416,11 +3623,19 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Сеймаллари</substring>
+		</binding>		
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Gemstone</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Orgnum</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Оргнум</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -3480,11 +3695,23 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Изумрудн</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Ruby</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Рубинов</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Sapphire</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Сапфиров</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -3525,6 +3752,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Black Dragon</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Черного дракона</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -3574,10 +3805,18 @@
 			<substring>Aries</substring>
 		</binding>
 		<binding>
+			<identifier>GoldHigh</identifier>
+			<substring>Арийский</substring>
+		</binding>
+		<binding>
 			<identifier>Gold</identifier>
 			<substring>Fleur De Lys</substring>
 		</binding>
-	<!-- Gold bindings end -->
+		<binding>
+			<identifier>Gold</identifier>
+			<substring>Цветок Лилии</substring>
+		</binding>
+		<!-- Gold bindings end -->
 	
 	<!-- Iron bindings start -->
 		<binding>
@@ -3591,6 +3830,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Splitter</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Разделитель</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3614,11 +3857,19 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Варварск</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>No Name</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Hollow</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Полый клинок</substring>
 		</binding>
 		<binding>
 			<identifier>IronLow</identifier>
@@ -3726,6 +3977,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Вилка Щекотки</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Jarrik's Crusher</substring>
 		</binding>
 		<binding>
@@ -3808,7 +4063,7 @@
 			<identifier>Iron</identifier>
 			<substring>Wood Compound Bow</substring>
 		</binding>
-	<!-- Iron bindings end -->
+		<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
 		<binding>
@@ -4014,6 +4269,10 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Ан-Зайлил</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>The Longhammer</substring>
 		</binding>
 		<binding>
@@ -4025,9 +4284,17 @@
 			<substring>Warchief's Might</substring>
 		</binding>
 		<binding>
+			<identifier>OrcishHigh</identifier>
+			<substring>Мощь Военачальника</substring>
+		</binding>
+		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Executioner's Hook</substring>
 		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Секач Палача</substring>
+		</binding>		
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Gorehowl</substring>
@@ -4156,6 +4423,10 @@
 		</binding>
 		<binding>
 			<identifier>Stalhrim</identifier>
+			<substring>Ледяной клинок Монарха</substring>
+		</binding>
+		<binding>
+			<identifier>Stalhrim</identifier>
 			<substring>Ice blade of the Monarch</substring>
 		</binding>
 		<binding>
@@ -4203,11 +4474,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Запоздалый удар</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Pokeblade</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Бандитский клинок</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Wicked</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Нечестив</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4216,6 +4499,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Chakram</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Чакрам</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4259,6 +4546,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Искателя</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Scoia'tael</substring>
 		</binding>
 		<binding>
@@ -4279,11 +4570,23 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Рыцаря</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Armsman's</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Оружейника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Viking</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>викингов</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4316,6 +4619,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Asuma</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Асумы</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4444,6 +4751,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Thresher Maul</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Кувалда Молотильщика</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -4918,7 +5229,19 @@
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
+			<substring>Волч</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
 			<substring>Captain's</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Капитанск</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring>Капитана</substring>
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
@@ -4967,6 +5290,10 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Quarterstaff</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>й посо</substring> <!-- Короткий посох -->
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -5205,10 +5532,18 @@
 			<substring>Colovian Composite Bow</substring>
 		</binding>
 		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>Коловианский составной лук</substring>
+		</binding>
+		<binding>
 			<identifier>Steelwood</identifier>
 			<substring>Colovian Dark Composite Bow</substring>
 		</binding>
-	<!-- Wood bindings end -->
+		<binding>
+			<identifier>Steelwood</identifier>
+			<substring>Темный коловианский лук</substring>
+		</binding>
+		<!-- Wood bindings end -->
 	</weapon_material_bindings>
 
 	<weapon_materials>
@@ -6005,6 +6340,10 @@
 			<identifier>Mace</identifier>
 		</binding>
 		<binding>
+			<substring>Эбонитовый молот</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
 			<substring>Mace</substring>
 			<identifier>Mace</identifier>
 		</binding>
@@ -6676,6 +7015,26 @@
 			<substring>Эдуж</substring>
 			<identifier>Armingsword</identifier>
 		</binding>
+		<binding>
+			<substring>Нордский двемерский клинок</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
+			<substring>Нордский двемерский клинок</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
+			<substring>Варварская двуручная секира</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>еликий клинок</substring>
+			<identifier>Greatswords</identifier>
+		</binding>		
+		<binding>
+			<substring>еликий Клинок</substring>
+			<identifier>Greatswords</identifier>
+		</binding>	
 		<!-- Russian Weapon bindings end -->
 	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
@@ -6685,10 +7044,6 @@
 		<binding>
 			<substring>Chillrend</substring>
 			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
-			<substring>Chillrend</substring>
-			<identifier>Охладитель</identifier>
 		</binding>
 		<binding>
 			<substring>Охладитель</substring>
@@ -6711,7 +7066,15 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Пенумбра</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Falkreath Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Фолкрита</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -6747,11 +7110,15 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Полый клинок</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Rider Blade</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Riders Blade</substring>
+			<substring>Клинок Наездника</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -6987,8 +7354,8 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Hopesfire</substring>
-			<identifier>Огонь Надежды</identifier>
+			<substring>Огонь Надежды</substring>
+			<identifier>Arming Sword</identifier>
 		</binding>		
 		<binding>
 			<substring>Bloodsbane</substring>
@@ -7064,6 +7431,10 @@
 		</binding>
 		<binding>
 			<substring>Nobleman's sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Благородный клинок</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -7167,7 +7538,15 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Клинок Асумы</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Chakram</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Чакрам</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -7259,7 +7638,15 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Вилка Щекотки</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Spearblade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Пронзатель</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -7340,6 +7727,10 @@
 		</binding>
 		<binding>
 			<substring>Black Sting</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Темное жало</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -7460,6 +7851,10 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
+			<substring>Ниндзято</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
 			<substring>Blades Sword</substring>
 			<identifier>Katana</identifier>
 		</binding>
@@ -7469,6 +7864,10 @@
 		</binding>		
 		<binding>
 			<substring>Goldbrand</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Золотая марка</substring>
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
@@ -7485,6 +7884,10 @@
 		</binding>
 		<binding>
 			<substring>Phoenix Ninjato</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Ниндзято Феникса</substring>
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
@@ -7534,6 +7937,10 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
+			<substring>Цветок Лилии</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
 			<substring>Narsil - 1H</substring>
 			<identifier>Longsword</identifier>
 		</binding>
@@ -7551,6 +7958,10 @@
 		</binding>
 		<binding>
 			<substring>Afterslash</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Запоздалый удар</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
@@ -7623,6 +8034,10 @@
 		</binding>
 		<binding>
 			<substring>Shadowsting</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Укус Тени</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
@@ -7705,7 +8120,19 @@
 			<identifier>Spiked Mace</identifier>
 		</binding>
 		<binding>
+			<substring> жезл </substring>
+			<identifier>Spiked Mace</identifier>
+		</binding>
+		<binding>
 			<substring>War Pick</substring>
+			<identifier>Spiked Mace</identifier>
+		</binding>
+		<binding>
+			<substring>ордская кирка</substring>
+			<identifier>Spiked Mace</identifier>
+		</binding>
+		<binding>
+			<substring>Стальная кирка</substring>
 			<identifier>Spiked Mace</identifier>
 		</binding>
 		<binding>
@@ -7904,7 +8331,15 @@
 			<identifier>Shortspear</identifier>
 		</binding>
 		<binding>
+			<substring>Бандитский клинок</substring>
+			<identifier>Shortspear</identifier>
+		</binding>
+		<binding>
 			<substring>Splitter</substring>
+			<identifier>Shortspear</identifier>
+		</binding>
+		<binding>
+			<substring>Разделитель</substring>
 			<identifier>Shortspear</identifier>
 		</binding>
 		<binding>
@@ -7999,6 +8434,10 @@
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
+			<substring>Трезубец</substring>
+			<identifier>Shortsword</identifier>
+		</binding>	
+		<binding>
 			<substring>Rapier</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
@@ -8011,6 +8450,10 @@
 	<!-- Tanto bindings start -->
 		<binding>
 			<substring>Sithis's Short Blade</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Короткий клинок Ситис</substring>
 			<identifier>Tanto</identifier>
 		</binding>
 		<binding>
@@ -8029,11 +8472,23 @@
 			<identifier>Wakizashi</identifier>
 		</binding>
 		<binding>
+			<substring>Черного дракона</substring>
+			<identifier>Wakizashi</identifier>
+		</binding>
+		<binding>
 			<substring>Blue Dragon</substring>
 			<identifier>Wakizashi</identifier>
 		</binding>
 		<binding>
+			<substring>Синего дракона</substring>
+			<identifier>Wakizashi</identifier>
+		</binding>
+		<binding>
 			<substring>Sithis's Blade</substring>
+			<identifier>Wakizashi</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Ситис</substring>
 			<identifier>Wakizashi</identifier>
 		</binding>
 		<binding>
@@ -8049,6 +8504,10 @@
 		</binding>
 		<binding>
 			<substring>Azura's Moon</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Луна Азуры</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
 		<binding>
@@ -8149,6 +8608,10 @@
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
+			<substring>дадао</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Deep-Rout</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
@@ -8210,9 +8673,17 @@
 		<binding>
 			<substring>Executioner's Hook</substring>
 			<identifier>Battleaxe</identifier>
-		</binding>
+		</binding>		
+		<binding>
+			<substring>Секач Палача</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>	
 		<binding>
 			<substring>Wabba Jaxe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Вабба Джакс</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
@@ -8220,11 +8691,27 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Мощь Военачальника</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Scythe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Призрачная Коса</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Драконья стальная коса</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Double Axe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>войной топор</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
@@ -8370,7 +8857,15 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Биполярный клинок</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Chrysamere</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Хризамер</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8378,11 +8873,23 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Клеймор</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>claymore</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>клеймор</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Malacath's Cleaver</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Секач Малаката</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8394,11 +8901,23 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Ice Blade of the Monarch</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Ледяной клинок Монарха</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Ice blade of the Monarch</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
 			<substring>Hot Blood</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Горячая кровь</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8410,11 +8929,23 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Правосудие</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Tombstone</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Похоронный церемониальный клинок</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Aries</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Арийский церемониальный</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8502,7 +9033,15 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Великий даэдрический полумесяц</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Greyblade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Серый клинок</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8563,6 +9102,10 @@
 		</binding>
 		<binding>
 			<substring>Daedric Crescent</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Даэдрический полумесяц</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -8675,11 +9218,23 @@
 			<identifier>Nodachi</identifier>
 		</binding>
 		<binding>
+			<substring>Дайто</substring>
+			<identifier>Nodachi</identifier>
+		</binding>
+		<binding>
 			<substring>daito</substring>
 			<identifier>Nodachi</identifier>
 		</binding>
 		<binding>
+			<substring>дайто</substring>
+			<identifier>Nodachi</identifier>
+		</binding>
+		<binding>
 			<substring>Changdao</substring>
+			<identifier>Nodachi</identifier>
+		</binding>
+		<binding>
+			<substring>Дао </substring>
 			<identifier>Nodachi</identifier>
 		</binding>
 		<binding>
@@ -8695,6 +9250,10 @@
 		</binding>
 		<binding>
 			<substring>Orcish Crippler</substring>
+			<identifier>Partisan</identifier>
+		</binding>
+		<binding>
+			<substring>Орочье копье Увечий</substring>
 			<identifier>Partisan</identifier>
 		</binding>
 		<binding>
@@ -8736,11 +9295,23 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Вабба Бум</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Thresher Maul</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Кувалда Молотильщика</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Ornate Maul</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Украшенная кувалда</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
@@ -8749,6 +9320,10 @@
 		</binding>
 		<binding>
 			<substring>Sixth House Bell Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Молот Шестого дома</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
@@ -8898,6 +9473,10 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
+			<substring>енный лук</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
 			<substring>Warbow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
@@ -8911,6 +9490,10 @@
 		</binding>
 		<binding>
 			<substring>An-Xileel War Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Боевой лук Ан-Зайлил</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
@@ -10045,7 +10628,7 @@
 			<text>Dragon Priest Staff</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
-		</exclusion>
+		</exclusion>		
 		<exclusion>
 			<text>драконьего жреца</text>
 			<target>NAME</target>

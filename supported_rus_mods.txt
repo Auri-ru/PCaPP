@@ -1,7 +1,16 @@
 Название: FrostFall 2.6 
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/frostfall.shtml
 Метод: патч PerMa_Survivalism.esp + XML
-Ставить: патч после матера, Chrsko_frostfall после мастера?
+Ставить: патч после мастера
+
+Название: Immersive Weapons 1.5
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/immersive-weapons.shtml
+Метод: замена Immersive Weapons.esp + XML
+Ставить: после мастера
+
+Название: Realistic Needs and Diseases 1.9.10
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
+Метод: в процессе
 
 Название: RealShelter 1.4
 Источник: http://www.nexusmods.com/skyrim/mods/52612/?
@@ -11,6 +20,6 @@
 Источник: http://www.nexusmods.com/skyrim/mods/60362/?
 Метод: не требуется
 
-Название: Immersive Weapons 1.5
-Источник: http://tes.riotpixels.com/mods/skyrim/weapons/immersive-weapons.shtml
-Метод: в процесса (Аури)
+Название: Skyrim Immersive Creatures v6.5.2a
+Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
+Метод: в процессе

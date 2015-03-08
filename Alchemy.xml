@@ -2483,6 +2483,11 @@
 
 	<!-- Special or Quest Potions start -->
 		<exclusion>
+			<text>Falmer Blood Elixir</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Фалмерский кровяной эликсир</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
