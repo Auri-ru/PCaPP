@@ -3912,8 +3912,40 @@
 			<substring>Dwarven Mage Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenLow</identifier>
+			<substring>Двемерские тяжелые сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLow</identifier>
+			<substring>Двемерские тяжелые перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLow</identifier>
+			<substring>Двемерский тяжелый капюшон мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLow</identifier>
+			<substring>Двемерская тяжелая роба мага</substring>
+		</binding>
+		<binding>
 			<identifier>DwarvenLight</identifier>
 			<substring>Dwarven Mage Light</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские легкие сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские легкие перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский легкий капюшон мага</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерская легкая роба мага</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4149,11 +4181,19 @@
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
-			<substring>Тяжелая мантия трибунала</substring>
+			<substring>Тяжелая мантия Трибунала</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
-			<substring>Тяжелая роба трибунала</substring>
+			<substring>Тяжелая роба Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелые сапоги Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Тяжелые перчатки Трибунала</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
@@ -5113,6 +5153,14 @@
 		</binding>
 		<binding>
 			<identifier>GlassLow</identifier>
+			<substring>Легкие сапоги Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Легкие перчатки Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
 			<substring>Tribunal Robes Black LIGHT</substring>
 		</binding>
 		<binding>
@@ -5550,6 +5598,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Brigand Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Разбойничья пластинчатая</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -6093,6 +6145,14 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Варварск</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>варварск</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Armguards</substring>
 		</binding>
 		<binding>
@@ -6109,6 +6169,10 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>егеря</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Ranger Jerkin - Noldorian</substring>
 		</binding>
 		<binding>
@@ -6118,6 +6182,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Highwayman</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>разбойника с большой дороги</substring>
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
