@@ -603,6 +603,25 @@
 			<identifier>Bonemold</identifier>
 			<substring>Bonemold</substring>
 		</binding>
+	<!-- Frostfall Start -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>меховой (Стендарр)</substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring> рюкзак и амулет Стендарра</substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>меховой (Кинарет)</substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring> рюкзак и амулет Кинарет</substring>
+		</binding>	
+		<!-- Frostfall End -->
+		
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->

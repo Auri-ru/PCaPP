@@ -3625,6 +3625,10 @@
 			<substring>Stone</substring>
 		</binding>
 		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Каменн</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Froki's</substring>
 		</binding>
@@ -5003,6 +5007,10 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Walking Stick</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Прогулочная трость</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -7093,6 +7101,10 @@
 	<!-- Club bindings start -->
 		<binding>
 			<substring>Walking Stick</substring>
+			<identifier>Club</identifier>
+		</binding>
+		<binding>
+			<substring>Прогулочная трость</substring>
 			<identifier>Club</identifier>
 		</binding>
 		<binding>

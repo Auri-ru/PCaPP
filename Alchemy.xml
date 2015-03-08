@@ -676,6 +676,14 @@
 		</binding>
 		<binding>
 			<identifier>Fortify Single Skill</identifier>
+			<substring>Дебошир</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
+			<substring>дебошир</substring>
+		</binding>
+		<binding>
+			<identifier>Fortify Single Skill</identifier>
 			<substring>Повышение навыка: зачарование</substring>
 		</binding>
 		<binding>
@@ -983,6 +991,10 @@
 		<binding>
 			<identifier>Fish Tier 1</identifier>
 			<substring>Abecean Longfin</substring> <!-- sic! -->
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Абесинский окунь</substring> <!-- sic! -->
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
@@ -1761,6 +1773,10 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
+			<substring>Зелье дебошира</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
 			<substring>Potion of the Knight</substring>
 		</binding>
 		<binding>
@@ -2241,6 +2257,10 @@
 		<binding>
 			<identifier>Tier7</identifier>
 			<substring>Превосходный эликсир</substring>
+		</binding>
+		<binding>
+			<identifier>Tier7</identifier>
+			<substring>Превосходный эликсир беглеца</substring>
 		</binding>
 		<!-- Tier 7 end-->
 
