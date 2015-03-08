@@ -734,8 +734,16 @@
 			<substring>Horker</substring>
 		</binding>
 		<binding>
+			<identifier>HorkerL</identifier>
+			<substring>кости хоркера</substring>
+		</binding>
+		<binding>
 			<identifier>HorkerH</identifier>
 			<substring>Horker Honed</substring>
+		</binding>
+		<binding>
+			<identifier>HorkerH</identifier>
+			<substring>крепкой кости хоркера</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -1577,6 +1585,10 @@
 		<binding>
 			<identifier>DaedricLow</identifier>
 			<substring>Ржавая булава</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLow</identifier>
+			<substring>ржавая булава</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
@@ -2500,6 +2512,14 @@
 			<substring>Aetherial</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Этериев</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>этериев</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Stormforge</substring>
 		</binding>
@@ -3415,6 +3435,14 @@
 			<substring>Ayleid</substring>
 		</binding>
 		<binding>
+			<identifier>Glass</identifier>
+			<substring>Айлейдск</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>айлейдск</substring>
+		</binding>
+		<binding>
 			<identifier>GlassHigh</identifier>
 			<substring>Harkon's</substring>
 		</binding>
@@ -3473,6 +3501,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Blackreach</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Черного Предела</substring>
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
@@ -3703,6 +3735,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Mammoth Tusk Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>из клыка мамонта</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
@@ -4539,6 +4575,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Воленфелл</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Harquebus</substring>
 		</binding>
 		<binding>
@@ -4958,6 +4998,10 @@
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
+			<substring>длинный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
 			<substring>Walking Stick</substring>
 		</binding>
 		<binding>
@@ -4965,8 +5009,16 @@
 			<substring>Greenheart</substring>
 		</binding>
 		<binding>
+			<identifier>Wood</identifier>
+			<substring>Гринхарт</substring>
+		</binding>
+		<binding>
 			<identifier>WoodHigh</identifier>
 			<substring>Bandit's Bow</substring>
+		</binding>
+		<binding>
+			<identifier>WoodHigh</identifier>
+			<substring>Бандитский лук</substring>
 		</binding>
 		<binding>
 			<identifier>WoodHigh</identifier>
@@ -4974,7 +5026,15 @@
 		</binding>
 		<binding>
 			<identifier>WoodHigh</identifier>
+			<substring>Украшенный деревянный лук</substring>
+		</binding>
+		<binding>
+			<identifier>WoodHigh</identifier>
 			<substring>Pa'alatiin Bow</substring>
+		</binding>
+		<binding>
+			<identifier>WoodHigh</identifier>
+			<substring>Па'алатин</substring>
 		</binding>
 		<binding>
 			<identifier>Oakwood</identifier>
@@ -4982,11 +5042,31 @@
 		</binding>
 		<binding>
 			<identifier>Oakwood</identifier>
+			<substring>Дубовый лук</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
 			<substring>Huntsman's Wooden</substring>
 		</binding>
 		<binding>
 			<identifier>Oakwood</identifier>
+			<substring>Деревянный длинный лук охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>деревянный длинный лук охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
 			<substring>Huntsman's Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>Стальной длинный лук охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Oakwood</identifier>
+			<substring>стальной длинный лук охотника</substring>
 		</binding>
 		<binding>
 			<identifier>Ashwood</identifier>
@@ -5002,11 +5082,23 @@
 		</binding>
 		<binding>
 			<identifier>Ashwood</identifier>
+			<substring>Улучшенный деревянный длинный лук охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
 			<substring>Huntsman's Improved Steel</substring>
 		</binding>
 		<binding>
 			<identifier>Ashwood</identifier>
+			<substring>Улучшенный стальной длинный лук охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
 			<substring>Huntsman</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
+			<substring>охотника</substring>
 		</binding>
 		<binding>
 			<identifier>Ashwood</identifier>
@@ -5018,15 +5110,35 @@
 		</binding>
 		<binding>
 			<identifier>Strongwood</identifier>
+			<substring>Акавирский деревянный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Strongwood</identifier>
 			<substring>Huntsman's Master Wooden</substring>
+		</binding>
+		<binding>
+			<identifier>Strongwood</identifier>
+			<substring>Мастерский деревянный длинный лук охотника</substring>
 		</binding>
 		<binding>
 			<identifier>Strongwood</identifier>
 			<substring>Huntsman's Master Steel</substring>
 		</binding>
 		<binding>
+			<identifier>Strongwood</identifier>
+			<substring>Мастерский стальной длинный лук охотника</substring>
+		</binding>
+		<binding>
 			<identifier>Wood</identifier>
 			<substring>The Khajiit's</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>Каджит</substring>
+		</binding>
+		<binding>
+			<identifier>Wood</identifier>
+			<substring>каджит</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
