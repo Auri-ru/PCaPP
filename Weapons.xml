@@ -3718,7 +3718,7 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
-			<substring>Лук из клыка мамонта</substring>
+			<substring>из клыка мамонта</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
