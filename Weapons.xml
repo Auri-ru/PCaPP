@@ -734,8 +734,16 @@
 			<substring>Horker</substring>
 		</binding>
 		<binding>
+			<identifier>HorkerL</identifier>
+			<substring>кости хоркера</substring>
+		</binding>
+		<binding>
 			<identifier>HorkerH</identifier>
 			<substring>Horker Honed</substring>
+		</binding>
+		<binding>
+			<identifier>HorkerH</identifier>
+			<substring>крепкой кости хоркера</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
