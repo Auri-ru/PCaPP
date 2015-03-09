@@ -657,7 +657,16 @@
 			<substring>Шипастый щит драугра</substring>
 		</binding>
 		<!-- SiC End-->
-		
+		<!-- CCO Start-->
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Корона из драконьей кости</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Чешуйчатый обруч</substring>
+		</binding>
+		<!-- CCO End-->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -1490,6 +1499,10 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionHigh</identifier>
+			<substring>Обруч главы гильдии</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
 			<substring>главы Гильдии</substring>
 		</binding>
 		<binding>
@@ -1683,6 +1696,10 @@
 		<binding>
 			<identifier>LightFactionHigh</identifier>
 			<substring>Linwe</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Линве</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionHigh</identifier>
@@ -2790,6 +2807,10 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Капюшон теней</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Обруч теней с накидкой</substring>
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
@@ -6817,7 +6838,7 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Кожаный капюшон клыков белого медведя</substring><!-- winter is coming -->
+			<substring>Кожаный капюшон</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6834,6 +6855,18 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Кожаный мех. капюшон</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кожаный капюшон шкуры черного волка</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Редкий кож. мех. капюшон</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Черный кож. мех. капюшон</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -7697,6 +7730,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Броня Охоты</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Apotheus</substring>
 		</binding>
 		<binding>
@@ -8537,7 +8574,11 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Стальной капюшон когтей белого медведя</substring><!-- winter is coming -->
+			<substring>Стальной капюшон</substring><!-- winter is coming -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной белый капюшон</substring><!-- winter is coming -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -8687,14 +8728,14 @@
 			<identifier>Steel Plate</identifier>
 			<substring>Крестоносца</substring>
 		</binding>
-	<!-- Steel Material Bindings end -->
-	
-	<!-- Steel Plate Material Bindings start -->
-	<!-- Bindings allowed: Steel PlateLight, Steel PlateLow, Steel Plate, Steel PlateHigh -->
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>крестоносца</substring>
 		</binding>
+	<!-- Steel Material Bindings end -->
+	
+	<!-- Steel Plate Material Bindings start -->
+	<!-- Bindings allowed: Steel PlateLight, Steel PlateLow, Steel Plate, Steel PlateHigh -->
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Witchplate</substring>
@@ -9066,6 +9107,10 @@
 		<binding>
 			<identifier>LStalhrim</identifier>
 			<substring>Сталгрим</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrim</identifier>
+			<substring>Сталгримовый обруч</substring>
 		</binding>
 		<binding>
 			<identifier>LStalhrim</identifier>

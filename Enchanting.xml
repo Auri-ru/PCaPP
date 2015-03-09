@@ -9016,6 +9016,13 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+		<!-- CCO start -->
+			<exclusion>
+				<text>KRYLevelUPSpellTome_CCO</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- CCO end -->
 		<!-- Immersive Wenches start -->
 			<exclusion>
 				<text>lalawenchspell</text>
@@ -9642,6 +9649,13 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+		<!-- CCO start -->
+			<exclusion>
+				<text>KRYLevelUPSpellTome_CCO</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- CCO end -->
 		<!-- Immersive Wenches start -->
 			<exclusion>
 				<text>lalawenchspell</text>

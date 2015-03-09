@@ -2059,7 +2059,11 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
-			<substring>Яд</substring> <!-- for Poison with FormID 00073f31 and Stamina Poison and Magicka Poison -->
+			<substring>Яд</substring> 
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Отрава</substring> 
 		</binding>
 		<!-- Tier 2 - Damage Attribute end-->
 	<!-- Tier 2 - Weakness to Element and Magic start-->
@@ -2069,7 +2073,7 @@
 		</binding>
 		<binding>
 			<identifier>Tier2</identifier>
-			<substring>еприятие</substring> <!-- for Aversion to Fire, Frost, Magic, Shock -->
+			<substring>еприятия</substring> <!-- for Aversion to Fire, Frost, Magic, Shock -->
 		</binding>
 		<!-- Tier 2 - Weakness to Element and Magic end-->
 	<!-- Tier 2 end-->
@@ -2093,7 +2097,7 @@
 		</binding>
 		<binding>
 			<identifier>Tier3</identifier>
-			<substring>Сильное</substring>
+			<substring>Сильн</substring>
 		</binding>
 		<binding>
 			<identifier>Tier3</identifier>
