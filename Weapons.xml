@@ -1489,6 +1489,10 @@
 			<substring>Norse</substring>
 		</binding>
 		<binding>
+			<identifier>Nord</identifier>
+			<substring>северн</substring>
+		</binding>
+		<binding>
 			<identifier>Advanced</identifier>
 			<substring>Regent's</substring>
 		</binding>
@@ -1664,11 +1668,15 @@
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
-			<substring>Азурбранд</substring>
+			<substring>Меч Азуры</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Dovah Luv</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Дова Лу</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -2430,6 +2438,10 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Ancient Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний меч</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr Honed</identifier>
@@ -3298,6 +3310,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Нефритовый клинок</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Firiniel's End</substring>
 		</binding>
 		<binding>
@@ -3359,6 +3375,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Albensword</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Албенсворд</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -4710,6 +4730,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Хаудеген</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Smallsword</substring>
 		</binding>
 		<binding>
@@ -4730,7 +4754,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Скьявона</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Gungnir</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Гангнир</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7198,6 +7230,10 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Албенсворд</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Imperial Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -7250,11 +7286,19 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Азурбранд</substring>
+			<substring>Меч Азуры</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>		
 		<binding>
 			<substring>Corundrum Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Корундовый клинок</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>корундовый клинок</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -7263,6 +7307,10 @@
 		</binding>
 		<binding>
 			<substring>Dovah Luv</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Дова Лу</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -7502,6 +7550,10 @@
 			<identifier>Hunting Knife</identifier>
 		</binding>
 		<binding>
+			<substring>хотничий нож</substring>
+			<identifier>Hunting Knife</identifier>
+		</binding>
+		<binding>
 			<substring>Bone Divining Knife</substring>
 			<identifier>Hunting Knife</identifier>
 		</binding>
@@ -7671,6 +7723,10 @@
 		</binding>
 		<binding>
 			<substring>Argonian Blade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Аргонианский клинок</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -8252,6 +8308,10 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
+			<substring>Хаудеген</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
 			<substring>Dremora Badelaire</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
@@ -8297,6 +8357,10 @@
 		</binding>
 		<binding>
 			<substring>Shiavonna</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Скьявона</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
@@ -8370,7 +8434,19 @@
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
+			<substring>Гангнир</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+			<binding>
+			<substring>Gungnir</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
 			<substring>Hunting Sword</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>Охотничий клинок</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
@@ -8383,6 +8459,10 @@
 		</binding>
 		<binding>
 			<substring>Boarding Knife</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>Абордажный нож</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
@@ -8612,7 +8692,15 @@
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Аргонианский боевой клинок</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Dragonbrand</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Драконий меч</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
