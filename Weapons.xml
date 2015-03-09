@@ -2337,7 +2337,15 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Оторванная нога</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Goreduster</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Кровогон</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2948,6 +2956,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Embersunder</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Угольный</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -4164,7 +4176,15 @@
 		</binding>
 		<binding>
 			<identifier>IronClutter</identifier>
+			<substring>Драконоборец</substring>
+		</binding>
+		<binding>
+			<identifier>IronClutter</identifier>
 			<substring>Eyegouger</substring>
+		</binding>
+		<binding>
+			<identifier>IronClutter</identifier>
+			<substring>Глазокол</substring>
 		</binding>
 	<!-- Iron/Wood Clutter bindings end -->
 	
@@ -7318,7 +7338,15 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Угольный</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Goreduster</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Кровогон</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -7734,7 +7762,15 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Глазокол</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Dragonslayer</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Драконоборец</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -9467,11 +9503,23 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Оторванная нога</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Jarrik's Crusher</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Крушитель Яррика</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Vanvir's Masterpiece</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Шедевр Ванвира</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>

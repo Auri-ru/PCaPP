@@ -4818,6 +4818,10 @@
 			<substring>Elmera's</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>Элмеры</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Cerberus Elder</substring>
 		</binding>
@@ -5528,6 +5532,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Daenlit's</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Дейнлит</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
