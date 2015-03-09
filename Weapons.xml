@@ -2475,6 +2475,10 @@
 			<identifier>Draugr</identifier>
 			<substring>Merethic</substring>
 		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Меретической эры</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->

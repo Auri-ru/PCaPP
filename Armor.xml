@@ -7803,7 +7803,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Бронзовая маска</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Bronze Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Бронзовая панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7811,7 +7819,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Бронзовые чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Bronze Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Бронзовые чешуйчатые поножи</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
