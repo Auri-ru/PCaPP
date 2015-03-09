@@ -102,11 +102,11 @@
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
-			<substring>Позолоченн</substring>
+			<substring>Золочен</substring>
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
-			<substring>позолоченн</substring>
+			<substring>золочен</substring>
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
@@ -1089,6 +1089,10 @@
 		</binding>
 		<binding>
 			<identifier>Imperial</identifier>
+			<substring>Рикке</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
 			<substring>Springsteel</substring>
 		</binding>
 		<binding>
@@ -1220,7 +1224,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Щит Белого берега</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Pale Guard</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>стражи Белого Берега</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -1232,7 +1244,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Reach</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Предел</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Markarth</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -1240,7 +1260,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Rift</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Рифт</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Riften</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -1248,7 +1276,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Whiterun</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Вайтран</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Winterhold</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -1287,7 +1323,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>емный эльф</substring>
+			<substring>Данмер</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>данмер</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>емных эльфов</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1299,7 +1343,11 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
-			<substring>есной эльф</substring>
+			<substring>босмер</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>есных эльфов</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -1320,6 +1368,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Wild Hunt</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Дикой охоты</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -1757,6 +1809,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Vampire's Mace</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Вампирская булава</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -2233,6 +2289,10 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Двойной топор черепов</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Wraith Scythe</substring>
 		</binding>
 		<binding>
@@ -2437,11 +2497,11 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
-			<substring>Fang</substring>
+			<substring>Клык</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
-			<substring>Fang</substring>
+			<substring>клык</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
@@ -2521,6 +2581,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Nullsprocket</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Нулевая шестерня</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -2987,6 +3051,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Игла</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Ashbringer</substring>
 		</binding>
 		<binding>
@@ -3283,6 +3351,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Умбра</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Penobscot War Bow III</substring>
 		</binding>
 		<binding>
@@ -3569,6 +3641,14 @@
 		</binding>
 		<binding>
 			<identifier>Forsworn</identifier>
+			<substring>Гоблинск</substring>
+		</binding>
+		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>гоблинск</substring>
+		</binding>
+		<binding>
+			<identifier>Forsworn</identifier>
 			<substring>Sorrow</substring>
 		</binding>
 		<binding>
@@ -3604,7 +3684,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Топор дикого великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Fishman</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Оружие рыбака</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3612,7 +3700,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Огненная дубина великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Executioner Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Топор великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3620,7 +3716,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Крушитель черепов великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Double</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Секира дикого великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3628,7 +3732,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Старая двемерская секира великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Steel Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Стальная дубина</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3636,7 +3748,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Железная дубина великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Double Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Секира великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3924,6 +4044,10 @@
 			<substring>Aegisbane</substring>
 		</binding>
 		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Эгиды</substring>
+		</binding>
+		<binding>
 			<identifier>Iron</identifier>
 			<substring>Headsman's</substring>
 		</binding>
@@ -3954,6 +4078,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Woodcutter</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Топор дровосека</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -3993,6 +4121,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Неотесанный топор</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Hunt</substring>
 		</binding>
 		<binding>
@@ -4006,6 +4138,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Executioner Double Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Двойной топор палача</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -4278,6 +4414,10 @@
 		</binding>
 		<binding>
 			<identifier>NordHigh</identifier>
+			<substring>Совнгард</substring>
+		</binding>
+		<binding>
+			<identifier>NordHigh</identifier>
 			<substring>Hrothmund's Battleaxe Replica</substring>
 		</binding>
 	<!-- Nord bindings end -->
@@ -4384,7 +4524,7 @@
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
-			<substring>Клинок Бладскал</substring>
+			<substring>линок Бладскал</substring>
 		</binding>
 		<binding>
 			<identifier>RSilver</identifier>
@@ -4787,6 +4927,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Corsair</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Пиратск</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7126,6 +7270,10 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Древний лимб</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>PenUmbra</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -7359,6 +7507,10 @@
 		</binding>
 		<binding>
 			<substring>Crescent</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>полумесяц</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -7642,10 +7794,6 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
-			<substring>Чакрам</substring>
-			<identifier>Dagger</identifier>
-		</binding>
-		<binding>
 			<substring>чакрам</substring>
 			<identifier>Dagger</identifier>
 		</binding>
@@ -7822,6 +7970,10 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Игла</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Stonefang</substring>
 			<identifier>Dagger</identifier>
 		</binding>
@@ -7894,6 +8046,10 @@
 	<!-- Hatchet bindings start -->
 		<binding>
 			<substring>Woodcutter's Axe</substring>
+			<identifier>Hatchet</identifier>
+		</binding>
+		<binding>
+			<substring>Топор дровосека</substring>
 			<identifier>Hatchet</identifier>
 		</binding>
 		<binding>
@@ -10647,7 +10803,17 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
+			<text>Меч королевы Фрейдис</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Rusty Mace</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ржавая булава</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10888,17 +11054,7 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Харкона</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
 			<text>Auriel</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Ауриэл</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
 		</exclusion>
@@ -10930,7 +11086,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
+			<text>Топор дикого великана</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>Giant Fishman</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Оружие рыбака</text>
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -10940,7 +11106,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
+			<text>Огненная дубина великана</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>Giant Double</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Секира великана</text>
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -10950,7 +11126,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
+			<text>Топор великана</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>Giant Skull Club</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Крушитель черепов великана</text>
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -10960,12 +11146,27 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
+			<text>секира великана</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
 			<text>Giant Steel Club</text>
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
 		<exclusion>
+			<text>Стальная дубина</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
 			<text>Giant Iron Club</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Железная дубина</text>
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
@@ -11041,6 +11242,11 @@
 	<!-- Huntsman's Bow -->
 		<exclusion>
 			<text>Huntsman</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>охотника</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
