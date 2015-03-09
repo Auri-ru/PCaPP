@@ -72,4 +72,4 @@
 
 Название: Wyrmstooth 1.15
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/wyrmstooth.shtml
-Ставить: XML
+Метод: XML
