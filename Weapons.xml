@@ -678,11 +678,11 @@
 			<substring>Фамильный меч Амрена</substring>
 		</binding>
 		<binding>
-			<identifier>Nordic</identifier>
+			<identifier>Nord</identifier>
 			<substring>Церемониальный меч</substring>
 		</binding>
 		<binding>
-			<identifier>Nordic</identifier>
+			<identifier>Nord</identifier>
 			<substring>Церемониальный топор</substring>
 		</binding>
 		<!-- не обрабатываемое родным патчером ваниль стоп -->
@@ -704,7 +704,6 @@
 			<substring>ордское cтальное</substring>
 		</binding>
 		<!-- Immersive Weapons rus End -->
-
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
@@ -2591,6 +2590,10 @@
 			<substring>Clutterbane</substring>
 		</binding>
 		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>Погибель паники</substring>
+		</binding>
+		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Dwemer Nordic</substring>
 		</binding>
@@ -2765,6 +2768,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Keeper Mace</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Булава Хранителя</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -3732,7 +3739,7 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
-			<substring>Старая двемерская секира великана</substring>
+			<substring>Старый двемерский двуручный топор великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -3741,6 +3748,10 @@
 		<binding>
 			<identifier>Death</identifier>
 			<substring>Стальная дубина</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Стальной боевой молот гиганта</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -8364,6 +8375,10 @@
 			<identifier>Mace</identifier>
 		</binding>
 		<binding>
+			<substring>Погибель паники</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
 			<substring>Quadrelle</substring>
 			<identifier>Mace</identifier>
 		</binding>
@@ -9583,6 +9598,10 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Нулевая шестерня</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Wabba Jackhammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
@@ -10067,6 +10086,10 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Топор дикого великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Fishman</substring>
 		</binding>
 		<binding>
@@ -10075,7 +10098,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Огненная дубина великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Double</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Секира великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -10083,7 +10114,15 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Топор великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Skull Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Крушитель черепов великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -10091,7 +10130,23 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Старая двемерская секира великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Старый двемерский двуручный топор  великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Steel Club</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Стальная дубина гиганта</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Стальной боевой молот гиганта</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
@@ -10099,7 +10154,19 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
+			<substring>Железная дубина великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
 			<substring>Giant Double Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Секира великана</substring>
+		</binding>
+		<binding>
+			<identifier>Death</identifier>
+			<substring>Секира дикого великана</substring>
 		</binding>
 		<binding>
 			<identifier>Death</identifier>

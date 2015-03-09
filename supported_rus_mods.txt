@@ -3,6 +3,14 @@
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
+Название: Climats of Tamriel (+witherPatch)
+Источник: 
+Метод: в процессе (Аури)
+
+Название: Complete Crafting Overhaul Remade 1.5
+Источник: 
+Метод: в процессе (Аури)
+
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
@@ -34,7 +42,7 @@
 
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
-Метод: в процессе
+Метод: XML
 
 Название: RealShelter 1.4
 Источник: http://www.nexusmods.com/skyrim/mods/52612/?
@@ -46,7 +54,16 @@
 
 Название: Skyrim Immersive Creatures v6.5.2a
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
-Метод: в процессе
+Метод: патч Pre PaMa SiC Patch.esp+XML
+Ставить: все после мастера
+
+Название: Weapons-and-Armor-Fixes-Remade-v5.0
+Источник: http://tes.riotpixels.com/mods/skyrim/patches/waf.shtml
+Метод: в процессе (Аури, Корвик)
+
+Название: Wet and Cold (+ ash+holidays)
+Источник: 
+Метод: в процессе (Аури)
 
 Название: Winter Is Coming - Cloaks v2.3
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/winter-is-coming.shtml
