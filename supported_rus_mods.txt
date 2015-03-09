@@ -7,9 +7,20 @@
 Источник: 
 Метод: в процессе (Аури)
 
+Название: Cloacks of Skyrim 1.2
+Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
+Метод: не требуется
+Ставить: ниже PerMa
+
 Название: Complete Crafting Overhaul Remade 1.5
-Источник: 
-Метод: в процессе (Аури)
+	+CCO-Frostfall-v1.1-ru.7z
+	+CCO-Skyrim-Immersive-Creatures-v1.1-ru
+	+CCO-Supported-Version-of-Cloaks-of-Skyrim-v1.5-ru
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/ccor.shtml
+Метод: патч Pre PaMa CCOR Patch.esp + XML
+Ставить: Complete Crafting Overhaul_Remade.esp, CCO-Frostfall, 
+	CCO-Skyrim-Immersive-Creatures- выше мастера, 
+	все остальное - ниже
 
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
