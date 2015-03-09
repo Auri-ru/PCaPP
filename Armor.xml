@@ -639,6 +639,24 @@
 			<substring> рюкзак и амулет Кинарет</substring>
 		</binding>	
 		<!-- Frostfall End -->
+		<!-- SiC Start -->
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Боевой шлем риклинга</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Броня крылатого сумрака</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring> искателя</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Шипастый щит драугра</substring>
+		</binding>
+		<!-- SiC End-->
 		
 	<!-- Custom material_Bindings End -->
 	
@@ -1296,15 +1314,15 @@
 		</binding>
 		<binding>
 			<identifier>Falmer Hardened</identifier>
-			<substring>Фалмерская усиленная</substring>
+			<substring>алмерская усиленная</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Hardened</identifier>
-			<substring>Фалмерские усиленные</substring>
+			<substring>алмерские усиленные</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Hardened</identifier>
-			<substring>Фалмерский усиленный</substring>
+			<substring>алмерский усиленный</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Heavy</identifier>
@@ -1312,15 +1330,15 @@
 		</binding>
 		<binding>
 			<identifier>Falmer Heavy</identifier>
-			<substring>Фалмерская тяжелая</substring>
+			<substring>алмерская тяжел</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Heavy</identifier>
-			<substring>Фалмерские тяжелые</substring>
+			<substring>алмерские тяжел</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Heavy</identifier>
-			<substring>Фалмерский тяжелый</substring>
+			<substring>алмерский тяжел</substring>
 		</binding>
 		<binding>
 			<identifier>ForswornHigh</identifier>
