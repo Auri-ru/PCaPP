@@ -440,6 +440,18 @@
 			<substring>совершен</substring>
 			<identifier>officer</identifier>
 		</binding>
+		<binding>
+			<substring>Reinforced</substring>
+			<identifier>reinforced</identifier>
+		</binding>
+		<binding>
+			<substring>Усилен</substring>
+			<identifier>reinforced</identifier>
+		</binding>
+		<binding>
+			<substring>усилен</substring>
+			<identifier>reinforced</identifier>
+		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
@@ -593,6 +605,12 @@
 			<factorArmor>1.1</factorArmor>
 			<factorValue>1.25</factorValue>
 			<factorWeight>1.1</factorWeight>
+		</armor_modifier>
+		<armor_modifier>
+			<identifier>reinforced</identifier>
+			<factorArmor>1.15</factorArmor>
+			<factorValue>1.1</factorValue>
+			<factorWeight>1.2</factorWeight>
 		</armor_modifier>
 	</armor_modifiers>
 
@@ -2193,11 +2211,11 @@
 			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionHigh</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionHigh</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Щит Солитьюда</substring>
 		</binding>
 		<binding>
@@ -3014,6 +3032,18 @@
 		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Eternal Magus</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Pouches</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Demon Hunter Wig</substring>
 		</binding>
 	<!-- Clothing Material Bindings end -->
 	
@@ -4268,7 +4298,7 @@
 			<substring>Bloodplate</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier>
+			<identifier>EbonyLight</identifier>
 			<substring>Demon Hunter</substring>
 		</binding>
 		<binding>
@@ -4786,6 +4816,10 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Elmera's</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Элмеры</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -5498,6 +5532,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Daenlit's</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Дейнлит</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -6753,10 +6791,6 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Demon Hunter</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
 			<substring>Bard</substring>
 		</binding>
 		<binding>
@@ -7777,7 +7811,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Бронзовая маска</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Bronze Plate Robes</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Бронзовая панцирная роба</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7785,7 +7827,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Бронзовые чешуйчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Bronze Scale Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Бронзовые чешуйчатые поножи</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -7850,6 +7900,46 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Trainee Cleric Chainmail</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Striphold Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Hood</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief High Heel Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Reinforced Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Corset Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
