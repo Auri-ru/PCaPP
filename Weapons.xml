@@ -3985,6 +3985,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Крушитель Яррика</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Light of Day</substring>
 		</binding>
 		<binding>
@@ -4759,6 +4763,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Vanvir's Masterpiece</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Шедевр Ванвира</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
