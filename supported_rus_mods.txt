@@ -50,7 +50,8 @@
 
 Название: Winter Is Coming - Cloaks v2.3
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/winter-is-coming.shtml
-Метод: в процессе
+Метод: замена 1nivWICCloaks.esp + XML
+Ставить: ниже PerMa
 
 Название: Wyrmstooth 1.15
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/wyrmstooth.shtml
