@@ -10130,10 +10130,6 @@
 		</binding>
 		<binding>
 			<identifier>Death</identifier>
-			<substring>Старая двемерская секира великана</substring>
-		</binding>
-		<binding>
-			<identifier>Death</identifier>
 			<substring>Старый двемерский двуручный топор  великана</substring>
 		</binding>
 		<binding>
