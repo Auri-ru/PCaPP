@@ -8,9 +8,10 @@
 Метод: замена BDYEB.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
-Название: Climats of Tamriel (+witherPatch)
-Источник: 
-Метод: в процессе (Аури)
+Название: Climats of Tamriel 3.1 (full)
+Источник: http://tes.riotpixels.com/mods/skyrim/graphics/cot
+		http://tes.riotpixels.com/mods/skyrim/graphics/cot-weather-patch
+Метод: не требуется
 
 Название: Cloacks of Skyrim 1.2
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
@@ -82,8 +83,10 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/patches/waf.shtml
 Метод: в процессе (Аури, Корвик)
 
-Название: Wet and Cold (+ ash+holidays)
-Источник: 
+Название: Wet and Cold v1.422 (+ ash v1.09+holidays v1.07)
+Источник: 	http://tes.riotpixels.com/mods/skyrim/gameplay/wc.shtml
+			http://tes.riotpixels.com/mods/skyrim/gameplay/wc-ashes.shtml
+			http://tes.riotpixels.com/mods/skyrim/gameplay/wc-holidays.shtml
 Метод: в процессе (Аури)
 
 Название: Winter Is Coming - Cloaks v2.3
