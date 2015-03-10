@@ -3,6 +3,11 @@
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
+Название: B-D-Y-E-B Shield Mod
+Источник: http://www.nexusmods.com/skyrim/mods/34433/?
+Метод: замена BDYEB.esp (перевод уже встроен) + XML 
+Ставить: ниже PerMa
+
 Название: Climats of Tamriel (+witherPatch)
 Источник: 
 Метод: в процессе (Аури)

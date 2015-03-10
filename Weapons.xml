@@ -4825,11 +4825,11 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Рыцаря</substring>
+			<substring>Рыцар</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>рыцаря</substring>
+			<substring>рыцар</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
