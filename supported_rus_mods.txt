@@ -68,6 +68,11 @@
 Метод: патч Pre PaMa SiC Patch.esp+XML
 Ставить: все после мастера
 
+Название: Unique Uniques v1.8
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/uniques.shtml
+Метод: замена Unique Uniques.esp + XML
+Ставить: ниже PerMa
+
 Название: Weapons-and-Armor-Fixes-Remade-v5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/patches/waf.shtml
 Метод: в процессе (Аури, Корвик)
