@@ -1481,6 +1481,14 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>Редгардский рыцарский тяжелый</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Thalmor Glass</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Thalmor Wings</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Faction material_Bindings start -->
@@ -3084,6 +3092,10 @@
 			<identifier>Clothing</identifier>
 			<substring>Demon Hunter Wig</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Dragon Priest Robes</substring>
+		</binding>
 	<!-- Clothing Material Bindings end -->
 	
 	<!-- Daedric Material Bindings start -->
@@ -3623,6 +3635,10 @@
 		<binding>
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonbone Barbarian Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Silver Dragon</substring>
 		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
@@ -5375,18 +5391,6 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Shadow Fang</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Thalmor</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Thalmor</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Талмор</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
