@@ -3,6 +3,11 @@
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
+Название: B-D-Y-E-B Shield Mod
+Источник: http://www.nexusmods.com/skyrim/mods/34433/?
+Метод: замена BDYEB.esp (перевод уже встроен) + XML 
+Ставить: ниже PerMa
+
 Название: Climats of Tamriel (+witherPatch)
 Источник: 
 Метод: в процессе (Аури)
@@ -67,6 +72,11 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
 Метод: патч Pre PaMa SiC Patch.esp+XML
 Ставить: все после мастера
+
+Название: Unique Uniques v1.8
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/uniques.shtml
+Метод: замена Unique Uniques.esp + XML
+Ставить: ниже PerMa
 
 Название: Weapons-and-Armor-Fixes-Remade-v5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/patches/waf.shtml
