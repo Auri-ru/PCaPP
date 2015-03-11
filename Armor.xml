@@ -5290,6 +5290,10 @@
 		</binding>
 		<binding>
 			<identifier>GlassLow</identifier>
+			<substring>Легкий капюшон Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
 			<substring>Tribunal Robes Black LIGHT</substring>
 		</binding>
 		<binding>
