@@ -1486,6 +1486,30 @@
 			<substring>Thalmor Glass</substring>
 		</binding>
 		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморский стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморская стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморские стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморский Стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморская Стеклян</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>алморские Стеклян</substring>
+		</binding>
+		<binding>
 			<identifier>Clothing</identifier>
 			<substring>Thalmor Wings</substring>
 		</binding>
@@ -5398,6 +5422,14 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Thalmor</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Rothvine</substring>
 		</binding>
 		<binding>
@@ -5599,6 +5631,10 @@
 		<binding>
 			<identifier>HideLow</identifier>
 			<substring>Snowshoes</substring>
+		</binding>
+		<binding>
+			<identifier>HideLow</identifier>
+			<substring>Снегоступы</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
