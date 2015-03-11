@@ -9474,6 +9474,10 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>еликий клинок</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Great Blade</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
