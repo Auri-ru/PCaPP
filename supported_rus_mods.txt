@@ -57,6 +57,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: OBIS 2.1
+Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
+Метод: в процессе
+Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
+
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
 Метод: XML
@@ -87,7 +92,7 @@
 Источник: 	http://tes.riotpixels.com/mods/skyrim/gameplay/wc.shtml
 			http://tes.riotpixels.com/mods/skyrim/gameplay/wc-ashes.shtml
 			http://tes.riotpixels.com/mods/skyrim/gameplay/wc-holidays.shtml
-Метод: в процессе (Аури)
+Метод: XML
 
 Название: Winter Is Coming - Cloaks v2.3
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/winter-is-coming.shtml

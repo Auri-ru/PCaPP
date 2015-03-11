@@ -16,7 +16,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Blanket excluder end -->
+			<exclusion>
+				<text>елепорт</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Blanket excluder end -->
 			<exclusion>
 				<text>doom</text>
 				<target>EDID</target>
@@ -187,6 +192,11 @@
 				<target>NAME</target>
 				<type>EQUALS</type>
 			</exclusion>
+			<exclusion>
+				<text>ызов драконьего жреца</text>
+				<target>NAME</target>
+				<type>EQUALS</type>
+			</exclusion>			
 			<exclusion>
 				<text>FavorJobsMorviah</text>
 				<target>EDID</target>
@@ -1073,7 +1083,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Blanket excluder end -->
+			<exclusion>
+				<text>елепорт</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Blanket excluder end -->
 			<exclusion>
 				<text>Diary</text>
 				<target>EDID</target>
@@ -1166,6 +1181,11 @@
 			</exclusion>
 			<exclusion>
 				<text>Power of the Elements</text>
+				<target>NAME</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>Сила стихий</text>
 				<target>NAME</target>
 				<type>EQUALS</type>
 			</exclusion>
@@ -1786,7 +1806,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Акавири</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Blades</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинков</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1796,7 +1836,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>вампир</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Вампир</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dawnguard</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Стражи рассвета</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Стражи Рассвета</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1817,6 +1877,11 @@
 			</exclusion>
 			<exclusion>
 				<text>Nightingale</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Соловьин</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1848,12 +1913,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Имперск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Imperial</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>Stormcloak</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Братьев Бури</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1885,7 +1960,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Крапивник</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Angi's Bow</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Лук Анги</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1895,7 +1980,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Кинжал Алессандры</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Amren's Family Sword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Фамильный меч Амрена</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1905,7 +2000,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Двуручный меч Балгруфа</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Ceremonial Axe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Церемониальный топор</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1915,7 +2020,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Церемониальный меч</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dravin's Bow</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Лук Дравина</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1930,7 +2045,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Меч Хьялти</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Phantom Sword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Фантомный меч</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1940,7 +2065,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Меч королевы Фрейдис</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Rusty Mace</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Ржавая булава</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1950,7 +2085,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Боевой молот Шагрола</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Vilkas's Sword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Вилкаса</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1960,7 +2105,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Посох драконьего жреца</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Grimsever</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Лютый</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1970,7 +2125,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Топор Скорби</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Wuuthrad</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Вутрад</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -1979,7 +2144,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-	<!-- Quest Items end -->
+			<exclusion>
+				<text>Счастливый кинжал Вальдра</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Quest Items end -->
 			<exclusion>
 				<text>Scamp's Hammer</text>
 				<target>NAME</target>
@@ -1992,6 +2162,11 @@
 			</exclusion>
 			<exclusion>
 				<text>Horripilation</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Вилка Щекотки</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2041,6 +2216,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Длинный молот</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DUPLICATE</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -2051,7 +2231,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Копия</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>копия</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DUP</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>КОП</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2101,12 +2296,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Солонор</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Shiv</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Заточка</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Bound</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Призванн</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2117,6 +2327,16 @@
 			</exclusion>
 			<exclusion>
 				<text>Nord</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>нордск</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2141,6 +2361,16 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Enhanced</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
@@ -2151,7 +2381,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Харкон</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Horksbane</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Бич Хоркеров</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2166,12 +2406,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Друг лесника</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DX_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
 				<text>Pickaxe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Кирка</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2200,7 +2450,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Inigo-->
+			<exclusion>
+				<text>Жало</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Inigo-->
 			<exclusion>
 				<text>Inigo</text>
 				<target>EDID</target>
@@ -2446,6 +2701,11 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Лук Охотника</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>		
 		<!-- Huntsman's Bow -->
 		<!-- Hunterborn  -->
 			<exclusion>
@@ -3304,6 +3564,16 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Blades</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -3314,7 +3584,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Вампир</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>вампир</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dawnguard</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Стражи Рассвета</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3344,6 +3629,16 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Соловьин</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Соловьин</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>ThievesGuild</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -3356,12 +3651,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Имперск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Imperial</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>Stormcloak</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Братьев Бури</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3393,6 +3698,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Вилка Щекотки</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DA0</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -3413,12 +3723,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Крапивник</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Chillrend</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Охладитель</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dawnbreaker</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Сияние Рассвета</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3443,14 +3768,34 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Меч призрака</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Призрачный клинок</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Zephyr</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Daedric Artifacts end -->
+			<exclusion>
+				<text>Зефир</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Daedric Artifacts end -->
 		<!-- Quest Items start -->
 			<exclusion>
 				<text>Dragon Priest Staff</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Посох драконьего жреца</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3460,7 +3805,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Лютый</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>The Rueful Axe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Топор Скорби</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3470,7 +3825,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Вутрад</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Gauldur</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Голдур</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3480,7 +3845,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Лук-бич мага</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Drainheart</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Душегуб</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>душегуб</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3489,7 +3869,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-	<!-- Quest Items end -->
+			<exclusion>
+				<text>Солонор</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Quest Items end -->
 			<exclusion>
 				<text>Player</text>
 				<target>EDID</target>
@@ -3546,7 +3931,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Bound</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Призванн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>призванн</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3561,7 +3966,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Харкон</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Horksbane</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Бич Хоркеров</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3581,12 +3996,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DX_</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
 				<text>Pickaxe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Кирка</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3767,7 +4197,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Проклятие Эгиды</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Angi's Bow</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Лук Анги</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3777,7 +4217,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Кровавый шип</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Bolar's Oathblade</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинок Болара</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3787,7 +4237,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Бич драконов</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Kahvozein's Fang</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Кавозеин</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3797,7 +4257,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Бледный клинок</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Red Eagle</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Красного Орла</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3807,7 +4277,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Длинный молот</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Valdr</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Счастливый кинжал Вальдра</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3816,7 +4296,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Unique Uniques end -->
+			<exclusion>
+				<text>Порыв Ветра</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Unique Uniques end -->
 		<!-- Ygrayne -->
 			<exclusion>
 				<text>Ygrayne</text>
@@ -3837,14 +4322,24 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Huntsman's Bow -->
+			<exclusion>
+				<text>Лук Охотника</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Huntsman's Bow -->
 		<!-- Hunterborn  -->
 			<exclusion>
 				<text>Hunting Knife</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Hunterborn  -->
+			<exclusion>
+				<text>Охотничий нож</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Hunterborn  -->
 		<!-- Helgen Reborn -->
 			<exclusion>
 				<text>Balok</text>
@@ -4333,7 +4828,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>	
+			<exclusion>
+				<text>акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>	
+			<exclusion>
 				<text>Blades</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинков</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4357,10 +4867,25 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Faction Exclusions end -->
+			<exclusion>
+				<text>Эйлы</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Faction Exclusions end -->
 		<!-- Civil War Exclusions start -->
 			<exclusion>
 				<text>Imperial</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Имперск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>имперск</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4402,7 +4927,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Старых богов</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Asgeir's Wedding Band</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Обручальное кольцо Асгейра</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4412,7 +4947,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Кансельмо</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Cursed Ring of Hircine</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Проклятое кольцо Хирсина</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4422,7 +4967,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Обручальное кольцо Фьолы</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Fjotli's Silver Locket</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Серебряный кулон Фьотли</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4432,7 +4987,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Шлем Винтерхолда</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Hrolfdir's Shield</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Щит Хролфдира</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4442,7 +5007,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Зубчатая корона</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Jeweled Amulet</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Амулет с самоцветами</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4452,7 +5027,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Серебряное кольцо Мадези</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Moon Amulet</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Лунный амулет</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4462,7 +5047,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Мистические настроечные перчатки</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Noster's Helmet</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Шлем Ностера</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4472,7 +5067,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Ожерелье Рейды</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Roggi's Ancestral Shield</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Щит предков Рогги</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4482,7 +5087,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Странный амулет</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Viola's Gold Ring</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Золотое кольцо Виолы</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4491,7 +5106,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Quest Items end -->
+			<exclusion>
+				<text>Илас-Те</text> <!-- Ilas-Tei's Ring -->
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Quest Items end -->
 			<exclusion>
 				<text>xMAEasterEggMaskNerjal</text>
 				<target>EDID</target>
@@ -4523,7 +5143,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Архимага</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>архимага</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Bound</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Призванн</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4553,6 +5188,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>КОП</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DUP</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -4568,12 +5208,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>качеств.</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Reforged</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Переков.</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Warforged</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Закален.</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4604,6 +5259,16 @@
 			</exclusion>
 			<exclusion>
 				<text>Nord</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>нордск</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4642,7 +5307,17 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- Skyrim Immersive Creatures start -->
+			<exclusion>
+				<text>Небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
 				<target>EDID</target>
@@ -5880,7 +6555,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Азидал</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Dukaan</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Дукан</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5890,7 +6575,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Хевнорак</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Konahrik</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Конарик</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5900,7 +6595,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Кросис</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Miraak</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Мирак</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5910,7 +6615,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Мороке</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Nahkriin</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Накрин</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5920,7 +6635,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Отар</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Rahgot</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Рагот</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5930,12 +6655,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Вокун</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Volsung</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Вольсунг</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Zahkriisos</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Закрисош</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5952,7 +6692,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>акавирск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Blades</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинков</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5976,10 +6731,20 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Эйлы</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Quest Items start -->
 			<exclusion>
 				<text>of the Old Gods</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Старых богов</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6014,7 +6779,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Амулет Аркея</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Gauldur Amulet</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text> Амулет Голдура</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6024,7 +6799,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Амулет Талоса, принадлежащий Огмунду</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Raerek's Inscribed Amulet of Talos</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Амулет Талоса, принадлежащий Рерику</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6034,12 +6819,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Shahvee's Amulet of Zenithar</text>
+				<text>Кольцо чистейшей смеси</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Амулет Зенитара, принадлежащий Шави</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>The Forgemaster's Fingers</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Перчатки мастера-кузнеца</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6064,12 +6859,22 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Архимага</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Muiri</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>Muiri</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Муири</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6104,6 +6909,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Линве</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DLC1LD_Aetherial</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
@@ -6114,13 +6924,28 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Разрушитель Заклятий</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Ilas</text> <!-- Ilas-Tei's Ring -->
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Илас-Те</text> <!-- Ilas-Tei's Ring -->
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>		
 		<!-- Quest Items end -->
 			<exclusion>
 				<text>Bound</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Призванн</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6140,12 +6965,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>качеств.</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Reforged</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Переков.</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Warforged</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Закален.</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6195,6 +7035,16 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>небесн</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Nord</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -6204,7 +7054,17 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-		<!-- OBIS start -->
+			<exclusion>
+				<text>Нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>нордск</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<!-- OBIS start -->
 			<exclusion>
 				<text>Bounty</text>
 				<target>EDID</target>

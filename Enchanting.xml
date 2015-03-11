@@ -6788,11 +6788,6 @@
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
-			<text>Blade of Sacrifice</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
 			<text>Жертвенный клинок</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
