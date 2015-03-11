@@ -1707,7 +1707,7 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
-			<substring>Волчь</substring>
+			<substring>Волч</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -4306,6 +4306,10 @@
 		</binding>
 		<binding>
 			<identifier>EbonyLow</identifier>
+			<substring>Тяжелый капюшон Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
 			<substring>Tribunal Robes Black HEAVY</substring>
 		</binding>
 		<binding>
@@ -4359,6 +4363,14 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Paladin</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Паладина</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>паладина</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -5275,6 +5287,10 @@
 		<binding>
 			<identifier>GlassLow</identifier>
 			<substring>Легкие перчатки Трибунала</substring>
+		</binding>
+		<binding>
+			<identifier>GlassLow</identifier>
+			<substring>Легкий капюшон Трибунала</substring>
 		</binding>
 		<binding>
 			<identifier>GlassLow</identifier>
