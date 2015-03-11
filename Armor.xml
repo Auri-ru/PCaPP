@@ -164,11 +164,7 @@
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
-			<substring>Качеств</substring>
-			<identifier>quality</identifier>
-		</binding>
-		<binding>
-			<substring>качеств</substring>
+			<substring>качеств.</substring>
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
@@ -176,11 +172,7 @@
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
-			<substring>Переков</substring>
-			<identifier>reforged</identifier>
-		</binding>
-		<binding>
-			<substring>переков</substring>
+			<substring>Переков.</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -188,11 +180,7 @@
 			<identifier>warforged</identifier>
 		</binding>
 		<binding>
-			<substring>Закален</substring>
-			<identifier>warforged</identifier>
-		</binding>
-		<binding>
-			<substring>закален</substring>
+			<substring>Закален.</substring>
 			<identifier>warforged</identifier>
 		</binding>
 	<!-- Armor variants created by PaMa (do not edit) end -->

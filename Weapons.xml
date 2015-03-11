@@ -2391,6 +2391,10 @@
 			<substring>душегуб</substring>
 		</binding>	
 		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Душегуб</substring>
+		</binding>	
+		<binding>
 			<identifier>Draugr Honed</identifier>
 			<substring>Crow</substring>
 		</binding>
@@ -4942,6 +4946,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Horksbane</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Бич Хоркеров</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -8516,6 +8524,10 @@
 			<substring>Horksbane</substring>
 			<identifier>Mace</identifier>
 		</binding>
+		<binding>
+			<substring>Бич Хоркеров</substring>
+			<identifier>Mace</identifier>
+		</binding>	
 		<binding>
 			<substring>Rod</substring>
 			<identifier>Spiked Mace</identifier>
