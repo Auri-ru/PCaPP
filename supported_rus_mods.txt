@@ -28,6 +28,11 @@
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
 
+Название: Emfy Cleric Robes
+Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
 Метод: XML
@@ -46,6 +51,11 @@
 Метод: замена Ghosu - Horker Weapon Pack.esp (перевод уже встроен) + XML
 Ставить: ниже PerMa
 
+Название: Gwelda Armor Pack
+Источник: http://modgames.net/load/tes_v_skyrim/1/gwelda_armor_pack_unp/306-1-0-18246
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
 Название: Immersive Armors 7.1
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/immersive-armors.shtml
 Метод: замена Hothtrooper44_ArmorCompilation.esp + XML
@@ -56,14 +66,24 @@
 Метод: замена Immersive Weapons.esp + XML
 Ставить: выше PerMa
 
+Название: Interesting NPCs
+Источник: http://tes.riotpixels.com/mods/skyrim/companions/interesting-npcs.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Konahriks Accoutrements - Dragon Priest Armory v5.5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/dragon-priest-armory.shtml
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Merta Assassin Armor
+Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
 Название: OBIS 2.1
 Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
-Метод: в процессе
+Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
 Название: Realistic Needs and Diseases 1.9.10
@@ -83,9 +103,29 @@
 Метод: патч Pre PaMa SiC Patch.esp+XML
 Ставить: все после мастера
 
+Название: Sotteta Huntress Armor
+Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_huntress_armor/306-1-0-18216
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
+Название: Sotteta Necromancer Outfit 
+Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_necromancer_outfit/306-1-0-18404
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
+Название: Tembtra Thief Armor
+Источник: http://modgames.net/load/tes_v_skyrim/1/tembtra_thief_armor/306-1-0-18444
+Метод: в процессе Аури
+Ставить: ниже PerMa
+
 Название: Unique Uniques v1.8
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/uniques.shtml
 Метод: замена Unique Uniques.esp + XML
+Ставить: ниже PerMa
+
+Название: Ursine Armor Pack
+Источник: http://modgames.net/load/tes_v_skyrim/1/ursine_armor_pack/306-1-0-18235
+Метод: в процессе Аури
 Ставить: ниже PerMa
 
 Название: Weapons-and-Armor-Fixes-Remade-v5.0

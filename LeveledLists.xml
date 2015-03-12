@@ -1841,11 +1841,6 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Клинков</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
 				<text>Vampire</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
