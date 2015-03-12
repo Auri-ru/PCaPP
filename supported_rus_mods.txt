@@ -58,7 +58,7 @@
 
 Название: Konahriks Accoutrements - Dragon Priest Armory v5.5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/dragon-priest-armory.shtml
-Метод: в процессе
+Метод: XML
 Ставить: ниже PerMa
 
 Название: OBIS 2.1

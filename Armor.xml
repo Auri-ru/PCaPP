@@ -1235,7 +1235,7 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
-			<substring>из лунного камня</substring>
+			<substring>лунного камня</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
