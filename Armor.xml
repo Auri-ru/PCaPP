@@ -5910,7 +5910,15 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Слепоглазых"</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
 			<substring>Bandit Blue Skull</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Синего черепа"</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -5918,7 +5926,15 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Мясников"</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
 			<substring>Bandit Digger</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Копателей"</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -5926,7 +5942,15 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Сумрачных дельцов"</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
 			<substring>Bandit Iron Blood</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Железной крови"</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -5934,7 +5958,15 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Искроволка"</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
 			<substring>Bandit Unloyal</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Непримиримых"</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -5942,7 +5974,15 @@
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Хищников"</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
 			<substring>Bandit Women of the Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Бандитский щит "Леди молота"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5950,7 +5990,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Слепоглазых"</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Heavy Bandit Blue Skull</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Синего черепа"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5958,7 +6006,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Мясников"</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Heavy Bandit Digger</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Копателей"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5966,7 +6022,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Сумрачных дельцов"</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Heavy Bandit Iron Blood</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Железной крови"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5974,7 +6038,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Искроволка"</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Heavy Bandit Unloyal</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Непримиримых"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5982,7 +6054,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Хищников"</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Heavy Bandit Women of the Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Тяжелый щит "Леди молота"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -6563,6 +6643,10 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Hidden Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Капюшон скрытности</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -8462,6 +8546,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Синего черепа</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Cerberus Stare</substring>
 		</binding>
 		<binding>
@@ -10358,6 +10446,47 @@
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
 			<substringArmor>бандит</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+			<!-- русский ОБИС -->
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Слепоглазых"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Синего черепа"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Мясников"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Копателей"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Сумрачных дельцов"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Железной крови"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Искроволка"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Непримиримых"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Хищников"</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Тяжелый щит "Леди молота"</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<!-- Fur set is listed individually to prevent several cloaks, capes and backpacks from flagging the player as a bandit -->
