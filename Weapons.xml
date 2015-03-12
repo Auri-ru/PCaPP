@@ -2734,6 +2734,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Снежный молот</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>DSword of Absorption NPC</substring>
 		</binding>
 		<binding>
@@ -3568,6 +3572,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Ариель</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Frostwyrm Bow</substring>
 		</binding>
 		<binding>
@@ -3946,6 +3954,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Stormblade</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Клинок бурь</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5132,7 +5144,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Камсин</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Lex Iustificati</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Правосудие</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -7658,7 +7678,15 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Правосудие</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Stormblade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок бурь</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -9888,6 +9916,10 @@
 		</binding>
 		<binding>
 			<substring>Snow Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Снежный молот</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>

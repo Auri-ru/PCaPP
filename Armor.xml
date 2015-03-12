@@ -6622,11 +6622,19 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Сапоги ослепляющей скорости</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Telvanni Apprentice</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Springheel Jak</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Быстроногого Джека</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -8931,6 +8939,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Tower</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Крепость</substring>
 		</binding>
 		<binding>
 			<identifier>Steel PlateLight</identifier>
