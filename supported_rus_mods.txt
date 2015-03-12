@@ -28,6 +28,10 @@
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
 
+Название: Faction Crossbows
+Источник: в процессе
+Метод: в процессе (DJ_Kovrik)
+
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
