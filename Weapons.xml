@@ -86,6 +86,10 @@
 			<identifier>hero</identifier>
 		</binding>
 		<binding>
+			<substring>геройск</substring>
+			<identifier>hero</identifier>
+		</binding>
+		<binding>
 			<substring>Legend</substring>
 			<identifier>legendary</identifier>
 		</binding>
