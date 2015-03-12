@@ -8,12 +8,12 @@
 Метод: замена BDYEB.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
-Название: Climats of Tamriel 3.1 (full)
+Название: Climates of Tamriel 3.1 (full)
 Источник: http://tes.riotpixels.com/mods/skyrim/graphics/cot
 		http://tes.riotpixels.com/mods/skyrim/graphics/cot-weather-patch
 Метод: не требуется
 
-Название: Cloacks of Skyrim 1.2
+Название: Cloaks of Skyrim 1.2
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
 Метод: не требуется
 Ставить: ниже PerMa
@@ -27,6 +27,10 @@
 Ставить: Complete Crafting Overhaul_Remade.esp, CCO-Frostfall, 
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
+
+Название: Faction Crossbows
+Источник: в процессе
+Метод: в процессе (DJ_Kovrik)
 
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml

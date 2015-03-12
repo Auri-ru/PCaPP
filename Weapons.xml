@@ -86,6 +86,10 @@
 			<identifier>hero</identifier>
 		</binding>
 		<binding>
+			<substring>геройск</substring>
+			<identifier>hero</identifier>
+		</binding>
+		<binding>
 			<substring>Legend</substring>
 			<identifier>legendary</identifier>
 		</binding>
@@ -2318,6 +2322,9 @@
 			<identifier>Draugr</identifier>
 			<substring>Призрачная Коса</substring>
 		</binding>
+	<!-- Ebony bindings end -->
+	
+	<!-- Elven bindings start -->
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Spearblade</substring>
@@ -2728,6 +2735,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Snow Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Снежный молот</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -3404,6 +3415,10 @@
 			<identifier>EbonyHigh</identifier>
 			<substring>Elder Compound Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebonsteel</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -3558,6 +3573,10 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Arielle's</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Ариель</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -3939,6 +3958,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Stormblade</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Клинок бурь</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5125,7 +5148,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Камсин</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Lex Iustificati</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Правосудие</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -7651,7 +7682,15 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Правосудие</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Stormblade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок бурь</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -9884,6 +9923,10 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Снежный молот</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Artophysical Manipulator</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
@@ -11116,7 +11159,17 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-		<!-- Artifacts -->
+		<exclusion>
+			<text>Lydia's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лидии</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Artifacts -->
 		<exclusion>
 			<text>Dawnbreaker</text>
 			<target>NAME</target>

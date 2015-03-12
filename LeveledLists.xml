@@ -93,7 +93,17 @@
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
+				<text>Фокусирующая линза - Огонь</text>
+				<target>NAME</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
 				<text>Focus Lense - Frost</text>
+				<target>NAME</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>Фокусирующая линза - Холод</text>
 				<target>NAME</target>
 				<type>EQUALS</type>
 			</exclusion>
@@ -1130,6 +1140,11 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Древний свиток</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>DLC1</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
@@ -1827,7 +1842,7 @@
 			</exclusion>
 			<exclusion>
 				<text>Клинков</text>
-				<target>EDID</target>
+				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
@@ -1951,6 +1966,11 @@
 		<!-- Quest Items start -->
 			<exclusion>
 				<text>Gharol's Iron Sword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Железный меч Гарола</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2372,6 +2392,11 @@
 			</exclusion>
 			<exclusion>
 				<text>Enhanced</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Улучшенный</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -6283,6 +6308,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Jethead Armors -->
+		<!-- Everybodys Different -->
+			<exclusion>
+				<text>EBDRing</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Everybodys Different -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7847,6 +7879,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Jethead Armors -->
+		<!-- Everybodys Different -->
+			<exclusion>
+				<text>EBDRing</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Everybodys Different -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
