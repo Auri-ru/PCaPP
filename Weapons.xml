@@ -2563,7 +2563,15 @@
 		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
+			<substring>Хрупкий костяной топор</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
 			<substring>Axe of Forgotten Kings</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Топор Забытых Королей</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr Honed</identifier>
@@ -2929,7 +2937,7 @@
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
-			<substring>Хускарла</substring>
+			<substring>ускарла</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -3213,7 +3221,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Кинжал Темной стали</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Stonefang</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Каменный Клык</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3221,7 +3237,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Ослабленный Клинок Троих</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Trinity Blade</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Клинок Троих</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3600,7 +3624,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Кинжал писателя</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Pelgurt</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Пелгурта</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -4292,6 +4324,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Bow of Betrothal</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Лук Бетротал</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5296,7 +5332,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Ханегири</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Tategatana</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Татегатана</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5304,7 +5348,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Лук Глатриэль</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Honorbound</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Благородный</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5312,7 +5364,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Бетротал</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Slaver's War Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Боевой топор работорговца</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7774,11 +7834,23 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Ханегири</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Tategatana</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Татегатана</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Honorbound</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Благородный</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -8152,6 +8224,10 @@
 		<binding>
 			<substring>Stonefang</substring>
 			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Stonefang</substring>
+			<identifier>Каменный Клык</identifier>
 		</binding>
 		<binding>
 			<substring>Dragon's Fang</substring>
@@ -9283,7 +9359,15 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Хрупкий костяной топор</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Axe of Forgotten Kings</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Топор Забытых Королей</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
@@ -9622,6 +9706,10 @@
 		</binding>
 		<binding>
 			<substring>Trinity Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Троих</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
