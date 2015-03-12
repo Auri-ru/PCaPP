@@ -3652,6 +3652,10 @@
 			<identifier>DragonplateHigh</identifier>
 			<substring>Silver Dragon</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Dragonsteel</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -3704,6 +3708,10 @@
 			<identifier>Dragonscale</identifier>
 			<substring>Dragonhide Light</substring>
 		</binding>
+	<!-- Dragonplate Material Bindings end -->
+	
+	<!-- Dragonscale Material Bindings start -->
+	<!-- Bindings allowed: DragonscaleLow, Dragonscale, DragonscaleHigh -->
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Легкая роба из драконьей шкуры</substring>
@@ -11246,6 +11254,16 @@
 		</exclusion>
 		<exclusion>
 			<text>копия</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Lydia's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лидии</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>

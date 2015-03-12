@@ -2318,6 +2318,9 @@
 			<identifier>Draugr</identifier>
 			<substring>Призрачная Коса</substring>
 		</binding>
+	<!-- Ebony bindings end -->
+	
+	<!-- Elven bindings start -->
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Spearblade</substring>
@@ -3403,6 +3406,10 @@
 		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Elder Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebonsteel</substring>
 		</binding>
 	<!-- Ebony bindings end -->
 	
@@ -11116,7 +11123,17 @@
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
-		<!-- Artifacts -->
+		<exclusion>
+			<text>Lydia's</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Лидии</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Artifacts -->
 		<exclusion>
 			<text>Dawnbreaker</text>
 			<target>NAME</target>
