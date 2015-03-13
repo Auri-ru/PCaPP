@@ -76,6 +76,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Isilmeriel LOTR Weapons Collection
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lotr-weapons.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Konahriks Accoutrements - Dragon Priest Armory v5.5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/dragon-priest-armory.shtml
 Метод: XML

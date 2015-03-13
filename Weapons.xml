@@ -1927,6 +1927,10 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Булава Саурона</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Lustmord Crossbow</substring>
 		</binding>
 		<binding>
@@ -5244,11 +5248,23 @@
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Нарсил</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Glamdring</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Гламдринг</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Anduril</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Андурил</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5256,15 +5272,31 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Погибель пауков</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Morgul Blade</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Моргульский клинок</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Witch-king's Sword</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Клинок Короля-Чародея</substring>
+		</binding>
+		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Sting</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Жало</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -5272,7 +5304,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Двуручный меч Гнева</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Ancient Wraith Greatsword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Древний двуручный меч Гнева</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7054,6 +7094,14 @@
 			<identifier>Armingsword</identifier>
 		</binding>
 		<binding>
+			<substring>клинок</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
 			<substring>палаш</substring>
 			<identifier>Broadsword</identifier>
 		</binding>
@@ -8414,6 +8462,10 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Моргульский клинок</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Elven Short Blade</substring>
 			<identifier>Dagger</identifier>
 		</binding>
@@ -8589,7 +8641,15 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
+			<substring>Нарсил</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
 			<substring>Anduril - 1H</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Андурил</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
@@ -8742,6 +8802,10 @@
 		</binding>
 		<binding>
 			<substring>Glamdring</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Гламдринг</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
@@ -9086,7 +9150,15 @@
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
+			<substring>Жало</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
 			<substring>Spiderbane</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>Погибель пауков</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
 		<binding>
@@ -9300,11 +9372,23 @@
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Нарсил (двуручн.)</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Anduril - 2H</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Андурил (двуручн.)</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Claidhem</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клайдем</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 		<binding>
@@ -9698,6 +9782,10 @@
 		</binding>
 		<binding>
 			<substring>Ancient Wraith Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Древний двуручный меч Гнева</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
