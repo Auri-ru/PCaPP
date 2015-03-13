@@ -2985,7 +2985,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Абордажный топор</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Boarding Greataxe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Абордажная секира</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2995,7 +3005,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Лук Зеленой стрелы</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Claidhem-More</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клайдем-Мор</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3005,7 +3025,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Меч Конана</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Conan's Greatsword</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Двуручеый меч Конана</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3015,7 +3045,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Дубовое сердце</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Death Dagger</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Кинжал Смерти</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3025,7 +3065,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Клинок Смерти</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Death Claymore</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клеймор Смерти</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3035,7 +3085,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Гладиус I</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Sword of the Golden Army</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинок Золотой армии</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3045,7 +3105,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Боевой клинок Золотой армии</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Khanda</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Кханда</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3055,7 +3125,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Верный Клятве</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Pirate Saber</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>иратская сабля</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3065,7 +3145,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Седетул</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Stonewasp Dagger</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Каменной осы</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3075,7 +3165,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Странника</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Tauriel</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Тауриэль</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3085,12 +3185,27 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Молот Тора</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Thor's Warhammer</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Боевой молот Тора</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Yataghan</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Ятаган</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5759,6 +5874,11 @@
 		<!-- Ghosus Weapon Pack -->
 			<exclusion>
 				<text>Aegis of Champions</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Щит Чемпионов</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>

@@ -4501,6 +4501,10 @@
 			<substring>Aegis of Champions</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Щит Чемпионов</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Draugr Lord</substring>
 		</binding>

@@ -46,6 +46,11 @@
 Метод: патч PerMa_Survivalism.esp + XML
 Ставить: патч после мастера
 
+Название: Ghosu Weapon Pack 1.8
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/ghosus-weapon-pack.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Ghosu - Horker Weapon Pack
 Источник: http://www.nexusmods.com/skyrim/mods/48557/?
 Метод: замена Ghosu - Horker Weapon Pack.esp (перевод уже встроен) + XML
