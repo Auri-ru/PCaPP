@@ -1506,6 +1506,10 @@
 	<!-- Faction material_Bindings start -->
 	<!-- Bindings allowed: LightFactionLow, LightFaction, LightFactionHigh, Tong, HeavyFactionLow, HeavyFaction, HeavyFactionHigh, HTong -->
 		<binding>
+			<identifier>LightFactionHigh</identifier>
+			<substring>Rough Leather</substring>
+		</binding>
+		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Nightingale</substring>
 		</binding>
@@ -6180,10 +6184,18 @@
 			<identifier>Iron</identifier>
 			<substring>Robed Iron Armor</substring>
 		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Ranger Shield</substring>
+		</binding>
 	<!-- Iron Material Bindings end -->
 	
 	<!-- Leather Material Bindings start -->
 	<!-- Bindings allowed: PauldronL, Pauldron, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Hunter-Archer</substring><!-- Hunter Archer Armor -->
+		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Dark Cowl</substring>
@@ -7035,6 +7047,26 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Oiled Mail Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Draped Cowl</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Fur Hood</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Ranger Boots</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
