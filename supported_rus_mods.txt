@@ -30,12 +30,21 @@
 
 Название: Emfy Cleric Robes
 Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
 Метод: XML
+
+Название: Ethereal Elven Overhaul 1.1.1
+Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
+Метод: в процессе (Аури)
+Ставить: 
+
+Название: Faction Crossbows
+Источник: в процессе
+Метод: в процессе (DJ_Kovrik)
 
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
@@ -58,7 +67,7 @@
 
 Название: Gwelda Armor Pack
 Источник: http://modgames.net/load/tes_v_skyrim/1/gwelda_armor_pack_unp/306-1-0-18246
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Immersive Armors 7.1
@@ -70,6 +79,11 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/immersive-weapons.shtml
 Метод: замена Immersive Weapons.esp + XML
 Ставить: выше PerMa
+
+Название: Inconsequential NPCs 1.9с
+Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
+Метод: в процессе (Аури)
+Ставить: 
 
 Название: Interesting NPCs
 Источник: http://tes.riotpixels.com/mods/skyrim/companions/interesting-npcs.shtml
@@ -88,7 +102,7 @@
 
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: OBIS 2.1
@@ -96,6 +110,36 @@
 Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
+Название: Populated Dungeons Caves Ruins 1.07
+Источник: http://tesall.ru/files/file/5782-naselennye-podzemelya-peschery-i-ruiny/
+Метод: в процессе (Аури)
+Ставить: 
+
+Название: Populated Cities Towns Villages 1.25
+Источник: http://tesall.ru/files/file/5622-naselennye-goroda-i-derevni/
+Метод: в процессе (Аури)
+Ставить: 
+
+Название: Populated Forts Towers Places 1.28
+Источник: http://tesall.ru/files/file/5728-naselennye-forty-bashni-i-prochie-mesta/
+Метод: в процессе (Аури)
+Ставить: 
+
+Название: Populated Lands Roads Paths 1.26
+Источник: http://tesall.ru/files/file/5695-stranstvuyuschie-personazhi/
+Метод: в процессе (Аури)
+Ставить:
+
+Название: Populated Skyrim Civil War 1.01
+Источник: http://tesall.ru/files/file/5820-naselennyj-skajrim-grazhdanskaya-vojna/
+Метод: в процессе (Аури)
+Ставить:
+
+Название: Populated Skyrim Prisons Cells 1.0
+Источник: http://modmaximus.net/load/3-1-0-3585
+Метод: в процессе (Аури)
+Ставить:
+ 
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
 Метод: XML
@@ -115,18 +159,23 @@
 
 Название: Sotteta Huntress Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_huntress_armor/306-1-0-18216
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Sotteta Necromancer Outfit 
 Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_necromancer_outfit/306-1-0-18404
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Tembtra Thief Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/tembtra_thief_armor/306-1-0-18444
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
+
+Название: Ultimate Assortment 1.11
+Источник: http://tesall.ru/files/file/5225-maksimalnyj-assortiment/
+Метод: в процессе (Аури)
+Ставить: 
 
 Название: Unique Uniques v1.8
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/uniques.shtml
@@ -135,12 +184,13 @@
 
 Название: Ursine Armor Pack
 Источник: http://modgames.net/load/tes_v_skyrim/1/ursine_armor_pack/306-1-0-18235
-Метод: в процессе Аури
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Weapons-and-Armor-Fixes-Remade-v5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/patches/waf.shtml
-Метод: в процессе (Аури, Корвик)
+Метод: патч Pre PaMa WAFR Patch.esp + XML
+Ставить: сам мод выше PaMa, патч - ниже
 
 Название: Wet and Cold v1.422 (+ ash v1.09+holidays v1.07)
 Источник: 	http://tes.riotpixels.com/mods/skyrim/gameplay/wc.shtml

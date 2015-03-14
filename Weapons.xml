@@ -708,6 +708,16 @@
 			<substring>ордское cтальное</substring>
 		</binding>
 		<!-- Immersive Weapons rus End -->
+	    <!-- Sotteta armor end-->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Затмение</substring>
+		</binding>
+ 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Eclipse</substring>
+		</binding>
+    	<!-- Sotteta armor end-->
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
@@ -1136,11 +1146,11 @@
 		</binding>
 		<binding>
 			<identifier>Stormcloak</identifier>
-			<substring>>Братья Бури</substring>
+			<substring>Братья Бури</substring>
 		</binding>
 		<binding>
 			<identifier>Stormcloak</identifier>
-			<substring>>Братьев Бури</substring>
+			<substring>Братьев Бури</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -2096,6 +2106,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Merta Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Мерта, кинжал ассассина</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
@@ -3801,6 +3815,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Emfy Mace</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Эмфи, булава клерика</substring>
 		</binding>
 		<binding>
 			<identifier>ElvenHigh</identifier>
@@ -7596,6 +7614,16 @@
 		</binding>
 		<!-- CCO end -->
 		<!-- Russian Weapon bindings end -->
+	    <!-- Sotteta armor end-->
+		<binding>
+			<substring>Затмение</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+ 		<binding>
+			<substring>Eclipse</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+    	<!-- Sotteta armor end-->
 	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
@@ -8947,6 +8975,10 @@
 		</binding>
 		<binding>
 			<substring>Emfy Mace</substring>
+			<identifier>Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Эмфи, булава клерика</substring>
 			<identifier>Morning Star</identifier>
 		</binding>
 	<!-- Morning Star -->

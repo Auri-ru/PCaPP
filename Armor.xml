@@ -3094,14 +3094,6 @@
 		</binding>
 		<binding>
 			<identifier>Clothing</identifier>
-			<substring>Tembtra Thief Collar</substring>
-		</binding>
-		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Tembtra Thief Pouches</substring>
-		</binding>
-		<binding>
-			<identifier>Clothing</identifier>
 			<substring>Demon Hunter Wig</substring>
 		</binding>
 		<binding>
@@ -3363,10 +3355,6 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Overlord's Heavy Shield</substring>
-		</binding>
-		<binding>
-			<identifier>DaedricLight</identifier>
-			<substring>Merta</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -3811,10 +3799,6 @@
 		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Scout</substring>
-		</binding>
-		<binding>
-			<identifier>Dragonscale</identifier>
-			<substring>Gwelda</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -5007,10 +4991,6 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Crimson Guard</substring>
-		</binding>
-		<binding>
-			<identifier>ElvenHigh</identifier>
-			<substring>Emfy</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -6674,22 +6654,6 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Dress</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Gloves</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Stockings</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
-			<substring>Sotteta Necromancer Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Leather</identifier>
 			<substring>Rogue Thief</substring>
 		</binding>
 		<binding>
@@ -8034,10 +7998,6 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
-			<substring>Ursine</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
 			<substring>Bronze Mask</substring>
 		</binding>
 		<binding>
@@ -8131,46 +8091,6 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Trainee Cleric Chainmail</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Striphold Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Armlets</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Hood</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledLow</identifier>
-			<substring>Tembtra Thief Trousers</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief High Heel Boots</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Reinforced Trousers</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Corset Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Tembtra Thief Tunic</substring>
-		</binding>
-		<binding>
-			<identifier>ScaledHigh</identifier>
-			<substring>Tembtra Thief Reinforced Tunic</substring>
 		</binding>
 	<!-- Scaled Material Bindings end -->
 	
@@ -9380,7 +9300,355 @@
 	
 	<!-- Wood Material Bindings start -->
 	<!-- Bindings allowed: Wood, Wood_Metal -->
-	<!-- Wood Material Bindings end -->
+	<!-- Sotteta armor start-->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sotteta Necromancer Dress</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Соттэта, балахон некроманта</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sotteta Necromancer Gloves</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Соттэта, перчатки некроманта</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sotteta Necromancer Stockings</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Соттэта, шортики некроманта</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Sotteta Necromancer Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Соттэта, сапожки некроманта</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Sotteta Huntress</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, платье охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, гетры охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, наручи охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, наручи охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, штаны охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, обруч охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, топик охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Соттэта, чулки охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Scarf</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Соттэта, шарф охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Panty</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Соттэта, трусики охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Thong</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Соттэта, стринги охотницы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Sotteta Huntress Socks</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Соттэта, чулки охотницы</substring>
+		</binding>
+	<!-- Sotteta armor end-->
+	<!-- Ursine armor start-->
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Ursine Imperial</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Урсина, имперск</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Ursine Stormcloak</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Урсина, </substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Imperial Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, имперские трусики</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Imperial Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, имперское колье</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Stormcloak Scarf</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, накидка Братьев Бури</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Stormcloak Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, трусики Братьев Бури</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Barbarian Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, меховое колье</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Barbarian Underwear</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, меховые трусики</substring>
+		</binding>
+ 		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Ursine Barbarian Cloak</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Урсина, меховой плащ</substring>
+		</binding>
+ 	<!-- Ursine armor end-->
+	<!-- Gwelda armor start-->
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Gwelda Dawnguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, повязки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, броня Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, сапожки Стражи Рассвета</substring>
+		</binding>
+        		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, защита для</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, перчатки Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, обруч Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Гвельда, штаны Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Гвельда, колье Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Гвельда, стринги Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Гвельда, плащ Стражи Рассвета</substring>
+		</binding>
+	<!-- Gwelda armor end-->
+ 	<!-- Tembtra armor start-->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Collar</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Тэмбтра, колье воровки</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Tembtra Thief Pouches</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Тэмбтра, подсумки воровки</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Striphold Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Тэмбтра, </substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Armlets</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Hood</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief High Heel Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Reinforced Trousers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Corset Tunic</substring>
+		</binding>
+      	<binding>
+			<identifier>Scaled</identifier>
+			<substring>Tembtra Thief Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Tembtra Thief Reinforced Tunic</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Тэмбтра, усиленная туника воровки</substring>
+		</binding>
+ 	<!-- Tembtra armor end-->
+ 	<!-- Merta armor start-->
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Merta Assassin</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Мерта, </substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Merta Assassin Belt Choker</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Мерта, ошейник ассассина</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Merta Assassin Fishnet Choker</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Мерта, колье</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Merta Assassin Elegant Choker</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Мерта, элегантное колье</substring>
+		</binding>
+ 	<!-- Merta armor end-->
+ 	<!-- Emfy armor start-->
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Emfy</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Эмфи, </substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Emfy Cleric Amulet</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Эмфи, амулет клерика</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Emfy Cleric Halo</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Эмфи, нимб клерика</substring>
+		</binding>
+ 	<!-- Emfy armor end-->
+
 	
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
