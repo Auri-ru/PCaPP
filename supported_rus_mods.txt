@@ -46,6 +46,11 @@
 Метод: патч PerMa_Survivalism.esp + XML
 Ставить: патч после мастера
 
+Название: Ghosu Weapon Pack 1.8
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/ghosus-weapon-pack.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Ghosu - Horker Weapon Pack
 Источник: http://www.nexusmods.com/skyrim/mods/48557/?
 Метод: замена Ghosu - Horker Weapon Pack.esp (перевод уже встроен) + XML
@@ -65,6 +70,16 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/immersive-weapons.shtml
 Метод: замена Immersive Weapons.esp + XML
 Ставить: выше PerMa
+
+Название: Interesting NPCs
+Источник: http://tes.riotpixels.com/mods/skyrim/companions/interesting-npcs.shtml
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Isilmeriel LOTR Weapons Collection
+Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lotr-weapons.shtml
+Метод: XML
+Ставить: ниже PerMa
 
 Название: Konahriks Accoutrements - Dragon Priest Armory v5.5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/dragon-priest-armory.shtml

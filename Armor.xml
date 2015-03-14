@@ -832,7 +832,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Эбонит</substring>
+			<substring>Эбони</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3226,6 +3226,10 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Даэдрические перчатки Гриффита</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Nightmare</substring>
 		</binding>
 		<binding>
@@ -4497,6 +4501,10 @@
 			<substring>Aegis of Champions</substring>
 		</binding>
 		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Щит Чемпионов</substring>
+		</binding>
+		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Draugr Lord</substring>
 		</binding>
@@ -5446,6 +5454,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Росвайн</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Light Aetherial Crown</substring>
 		</binding>
 		<binding>
@@ -6098,6 +6110,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Бетротал</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Ancient Helmet of the Unburned</substring>
 		</binding>
 		<binding>
@@ -6746,11 +6762,23 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Гриффита</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Elenthil</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Элентил</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Blood of Skyrim's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Доспехи Крови Скайрима</substring>
 		</binding>
 		<binding>
 			<identifier>LeatherHeavy</identifier>
@@ -8595,6 +8623,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Betrothal</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Бетротал</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -11816,6 +11848,11 @@
 		</exclusion>
 		<exclusion>
 			<text>Skjel's Leather Boots</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Кожаные сапоги Скьела</text>
 			<target>NAME</target>
 			<type>EQUALS</type>
 		</exclusion>
