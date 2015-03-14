@@ -1077,11 +1077,45 @@
 		<!-- Torch Arrow end-->
 		<!-- Tembtra Thief Armor -->
 			<exclusion>
-				<text>DX_MAC_TembtraThief04</text>
+				<text>DX_MAC_Tembtra</text>
 				<target>EDID</target>
-				<type>EQUALS</type>
+				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- Tembtra Thief Armor -->
+		<!-- Sotteta Armor -->
+			<exclusion>
+				<text>DX_MAC_Sotteta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- SottetaArmor -->
+		<!-- Ursine Armor -->
+			<exclusion>
+				<text>DX_MAC_Ursine</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine Armor -->
+		<!-- Gwelda Armor -->
+			<exclusion>
+				<text>DX_MAC_Gwelda</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gwelda Armor -->
+		<!-- Merta Armor -->
+			<exclusion>
+				<text>DX_MAC_Merta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Merta Armor -->
+		<!-- Emfy Armor -->
+			<exclusion>
+				<text>DX_MAC_Emfy</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Emfy Armor -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1671,7 +1705,41 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- Tembtra Thief Armor -->
+		<!-- Sotteta Armor -->
+			<exclusion>
+				<text>DX_MAC_Sotteta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- SottetaArmor -->
+		<!-- Ursine Armor -->
+			<exclusion>
+				<text>DX_MAC_Ursine</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine Armor -->
+		<!-- Gwelda Armor -->
+			<exclusion>
+				<text>DX_MAC_Gwelda</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gwelda Armor -->
+		<!-- Merta Armor -->
+			<exclusion>
+				<text>DX_MAC_Merta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Merta Armor -->
+		<!-- Emfy Armor -->
+			<exclusion>
+				<text>DX_MAC_Emfy</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Emfy Armor -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -6402,13 +6470,47 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- Schwertleite set -->
-		<!-- Tembtra theif armor -->
+		<!-- Tembtra Thief Armor -->
 			<exclusion>
 				<text>DX_MAC_Tembtra</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- Tembtra theif armor -->
+		<!-- Sotteta Armor -->
+			<exclusion>
+				<text>DX_MAC_Sotteta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- SottetaArmor -->
+		<!-- Ursine Armor -->
+			<exclusion>
+				<text>DX_MAC_Ursine</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine Armor -->
+		<!-- Gwelda Armor -->
+			<exclusion>
+				<text>DX_MAC_Gwelda</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gwelda Armor -->
+		<!-- Merta Armor -->
+			<exclusion>
+				<text>DX_MAC_Merta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Merta Armor -->
+		<!-- Emfy Armor -->
+			<exclusion>
+				<text>DX_MAC_Emfy</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Emfy Armor -->
 		<!-- Demon Hunter Armor v3? by Jojjo -->
 			<exclusion>
 				<text>GDDH</text>
@@ -7980,13 +8082,47 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar -->
-		<!-- Tembtra theif armor -->
+		<!-- Tembtra Thief Armor -->
 			<exclusion>
 				<text>DX_MAC_Tembtra</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- Tembtra theif armor -->
+		<!-- Sotteta Armor -->
+			<exclusion>
+				<text>DX_MAC_Sotteta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- SottetaArmor -->
+		<!-- Ursine Armor -->
+			<exclusion>
+				<text>DX_MAC_Ursine</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Ursine Armor -->
+		<!-- Gwelda Armor -->
+			<exclusion>
+				<text>DX_MAC_Gwelda</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gwelda Armor -->
+		<!-- Merta Armor -->
+			<exclusion>
+				<text>DX_MAC_Merta</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Merta Armor -->
+		<!-- Emfy Armor -->
+			<exclusion>
+				<text>DX_MAC_Emfy</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Emfy Armor -->
 		<!-- Jethead Armors -->
 			<exclusion>
 				<text>JH</text>
