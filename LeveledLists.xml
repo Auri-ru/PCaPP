@@ -7270,7 +7270,7 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Линве</text>
+				<text>Линв</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
