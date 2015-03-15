@@ -33,14 +33,13 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Ethereal Elven Overhaul 1.1.1
+Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
+Метод: Не требуется
+
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
 Метод: XML
-
-Название: Ethereal Elven Overhaul 1.1.1
-Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
-Метод: в процессе (Аури)
-Ставить: 
 
 Название: Faction Crossbows
 Источник: в процессе
@@ -82,8 +81,8 @@
 
 Название: Inconsequential NPCs 1.9с
 Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
-Метод: в процессе (Аури)
-Ставить: 
+Метод: XMl
+Ставить: после PerMa
 
 Название: Interesting NPCs
 Источник: http://tes.riotpixels.com/mods/skyrim/companions/interesting-npcs.shtml
@@ -100,6 +99,10 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Lady Body 2.1
+Источник: 
+Метод: не требуется, патчи под Imperious и PaMa_skyRe_races процессе (Аури)
+
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
 Метод: XML
@@ -110,35 +113,39 @@
 Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
+Название: Perfect Legioner
+Источник: 
+Метод: в процессе (Аури)
+
 Название: Populated Dungeons Caves Ruins 1.07
 Источник: http://tesall.ru/files/file/5782-naselennye-podzemelya-peschery-i-ruiny/
-Метод: в процессе (Аури)
-Ставить: 
+Метод: XML
+Ставить: не важно
 
 Название: Populated Cities Towns Villages 1.25
 Источник: http://tesall.ru/files/file/5622-naselennye-goroda-i-derevni/
-Метод: в процессе (Аури)
-Ставить: 
+Метод: XML
+Ставить: не важно
 
 Название: Populated Forts Towers Places 1.28
 Источник: http://tesall.ru/files/file/5728-naselennye-forty-bashni-i-prochie-mesta/
-Метод: в процессе (Аури)
-Ставить: 
+Метод: XML
+Ставить: не важно
 
 Название: Populated Lands Roads Paths 1.26
 Источник: http://tesall.ru/files/file/5695-stranstvuyuschie-personazhi/
-Метод: в процессе (Аури)
-Ставить:
+Метод: XML
+Ставить: не важно
 
 Название: Populated Skyrim Civil War 1.01
 Источник: http://tesall.ru/files/file/5820-naselennyj-skajrim-grazhdanskaya-vojna/
-Метод: в процессе (Аури)
-Ставить:
+Метод: XML
+Ставить: не важно
 
 Название: Populated Skyrim Prisons Cells 1.0
 Источник: http://modmaximus.net/load/3-1-0-3585
-Метод: в процессе (Аури)
-Ставить:
+Метод: XML
+Ставить: не важно
  
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
@@ -174,7 +181,7 @@
 
 Название: Ultimate Assortment 1.11
 Источник: http://tesall.ru/files/file/5225-maksimalnyj-assortiment/
-Метод: в процессе (Аури)
+Метод: XML
 Ставить: 
 
 Название: Unique Uniques v1.8
@@ -206,3 +213,7 @@
 Название: Wyrmstooth 1.15
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/wyrmstooth.shtml
 Метод: XML
+
+Название: Бандитам тоже хочется
+Источник: 
+Метод: в процессе (Аури)
