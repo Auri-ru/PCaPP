@@ -4442,6 +4442,10 @@
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
+			<substring>Отбивающий сталь</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
 			<substring>Ebony Buckler</substring>
 		</binding>
 		<binding>
@@ -6063,6 +6067,10 @@
 		<binding>
 			<identifier>IronLight</identifier>
 			<substring>Westland Rondache</substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Западный рондаш</substring>
 		</binding>
 		<binding>
 			<identifier>IronLight</identifier>
@@ -7918,6 +7926,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Кольчужн</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>voidmeld</substring>
 		</binding>
 		<binding>
@@ -8534,6 +8546,10 @@
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Щит львиной храбрости</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Armored Fur</substring>
 		</binding>
 		<binding>
@@ -8555,6 +8571,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Full Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Пластинчат</substring>
 		</binding>
 		<binding>
 			<identifier>SteelLight</identifier>

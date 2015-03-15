@@ -1973,7 +1973,7 @@
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
-			<substring>Эль'Друин</substring>
+			<substring>Эльдруин</substring>
 		</binding>		
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3219,15 +3219,31 @@
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
+			<substring>Звезда Уступчивости</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
 			<substring>Sword of Truth</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Меч Истины</substring>
+		</binding>	
 		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Daedra Slayer</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
+			<substring>Погибель даэдра</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
 			<substring>Shortsword of Backstabbing +3</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Короткий меч коварного удара +3</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5297,6 +5313,10 @@
 			<substring>Nameless Light</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Безымянный свет</substring>
+		</binding>
+		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Narsil</substring>
 		</binding>
@@ -5418,11 +5438,23 @@
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Клинок Черноводной</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Sword of Judgment</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Меч правосудия</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Ironhart's Might</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Сила Айронхарта</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7946,6 +7978,10 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Безымянный свет</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Skycutter</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -8014,11 +8050,23 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Эльдруин</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Sword of Judgment</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Меч правосудия</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Blackwater Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Черноводной</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -8442,7 +8490,15 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
+			<substring>Погибель даэдра</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
 			<substring>Shortsword of Backstabbing +3</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Короткий меч коварного удара +3</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -8829,6 +8885,10 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
+			<substring>Меч Истины</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
 			<substring>Lilith's Thorn</substring>
 			<identifier>Longsword</identifier>
 		</binding>
@@ -8952,7 +9012,15 @@
 			<identifier>Mace</identifier>
 		</binding>
 		<binding>
+			<substring>Сила Айронхарта</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
 			<substring>The Giving Star</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
+			<substring>Звезда Уступчивости</substring>
 			<identifier>Mace</identifier>
 		</binding>
 		<binding>

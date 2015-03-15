@@ -1116,6 +1116,98 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Emfy Armor -->
+		<!-- Populated start -->
+			<exclusion>
+				<text>iiiiPowerRedguardStaminaRegenTown</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>iiiiPowerNordBattleCryTown</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>iiiiRaceOrcBerserkTown</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WordOrcBersekerRageTown</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WordRedguardAdrenalineTown</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>AbWarg</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllNordBattleCry</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllRedguardPower</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllDunmerPower</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllImperialPower</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllOrcPower</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllWoodElfPower</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllPowerNordBattleCry</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllPowerRedguardStaminaRegen</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllPowerDarkElfFlameCloak</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllPowerImperialPacify</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllRaceOrcBerserk</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>llllPowerWoodElfCommandAnimal</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+         <!-- Populated end -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2639,7 +2731,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Звезда Уступчивости</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Ironhart's Might</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Сила Айронхарта</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2649,7 +2751,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Меч правосудия</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Sword of Truth</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Меч Истины</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2659,7 +2771,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Погибель даэдра</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Shortsword of Backstabbing +3</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Короткий меч коварного удара +3</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -2669,7 +2791,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Эльдруин</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
 				<text>Blackwater Blade</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Клинок Черноводной</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3324,6 +3456,11 @@
 		<!-- Nameless Light -->
 			<exclusion>
 				<text>Nameless Light</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Безымянный свет</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -4783,6 +4920,11 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
+			<exclusion>
+				<text>Безымянный свет</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
 		<!-- Nameless Light -->
 		<!-- Frostfall -->
 			<exclusion>
@@ -5737,7 +5879,17 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
+				<text>Западный рондаш</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+            <exclusion>
 				<text>Lion's Shield of Courage</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Щит львиной храбрости</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -8563,3 +8715,5 @@
 		</distribution_exclusions_list_enchanted>
 	</distribution_exclusions_armor>
 </ns2:leveledLists>
+
+
