@@ -620,7 +620,6 @@
 	<!-- Custom material_Bindings start -->
 	<!-- Use this section to add your own bindings. Bindings substrings that are identical to a binding below will 'win' the conflict. -->
 	<!-- не обрабатываемое родным патчером ваниль старт -->
-	<!-- не обрабатываемое родным патчером ваниль стоп -->
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Лук Анги</substring>
@@ -718,6 +717,221 @@
 			<substring>Eclipse</substring>
 		</binding>
     	<!-- Sotteta armor end-->
+		<!-- TERA Weapons Start-->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Берсерк"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Острота"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Acuity</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Герой"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Голос"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Завоеватель"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Ксерст"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Легат"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Беспокойство"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Прожигания"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Раскалыватель"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Умбра"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Расправа"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Вербовшик"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Бомбардир"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bombard</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Палрада"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Элениум"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>"Вайтинг"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>"Темной стали"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>"Вестония"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>"Северной стали"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Осграта"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Лин"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Аркадиан"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Arcadian</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Кристалл"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Экспедиционный"</substring>
+		</binding>		
+		<!-- TERA Weapons English Start-->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Acuity</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Graceshed</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Unraveler</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Phonic</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Conqueror</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Xersteel</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Legate</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Restless</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Cauterus</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Sunder</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Umbra</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Reprisal</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Webrend</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bombard</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Palrada</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elenium</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Vaunting</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Shadsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Westonia</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Norsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ostgarath</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Linsteel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Arcadian</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Krysteel</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Expedition</substring>
+		</binding>		
+		<!-- TERA Weapons End-->
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
@@ -7692,7 +7906,132 @@
 			<identifier>Longbow</identifier>
 		</binding>
     	<!-- Sotteta armor end-->
-	
+		<!-- TERA Weapons Start-->
+		<binding>
+			<substring>Лук "Острота"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Acuity Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Берсерк"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Graceshed Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Завоеватель"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Conqueror Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Ксерст"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Xersteel Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Прожигания"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Cauterus Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Умбра"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Umbra Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Палрада"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Palrada Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Элениум"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Elenium Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Вайтинг"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Vaunting Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Темной стали"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Shadsteel Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Осграта"</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ostgarath Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Лук "Аркадиан"</substring>
+			<identifier>Longbow</identifier>
+		</binding>	
+		<binding>
+			<substring>Arcadian Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>	
+		<binding>
+			<substring>Лэнс </substring>
+			<identifier>Spear</identifier>
+		</binding>
+		<binding>
+			<substring>Lance</substring>
+			<identifier>Spear</identifier>
+		</binding>
+		<binding>
+			<substring>Sunder Sword</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
+			<substring>Sunder Lance</substring>
+			<identifier>Spear</identifier>
+		</binding>
+		<binding>
+			<substring>Sunder Axe</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Sunder Bow</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Umbra Axe</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<!-- TERA Weapons End-->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->

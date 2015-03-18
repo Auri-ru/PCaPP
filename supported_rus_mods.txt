@@ -113,7 +113,7 @@
 Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
-Название: Perfect Legioner
+Название: Perfect Legionnaire
 Источник: 
 Метод: в процессе (Аури)
 
@@ -174,6 +174,16 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: TERA Armors Collection
+Источник: http://gamer-mods.ru...unp/11-1-0-1034 
+Метод: XML
+Ставить: ниже PerMa
+
+Название: TERA Weapons Collection
+Источник: http://modmaximus.net/load/5-1-0-1487
+Метод: замена TERA Weapons.esp на 1 из представленных+XML
+Ставить: ниже PerMa
+
 Название: Tembtra Thief Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/tembtra_thief_armor/306-1-0-18444
 Метод: XML
@@ -192,6 +202,11 @@
 Название: Ursine Armor Pack
 Источник: http://modgames.net/load/tes_v_skyrim/1/ursine_armor_pack/306-1-0-18235
 Метод: XML
+Ставить: ниже PerMa
+
+Название: Vilja in Skyrim
+Источник: 
+Метод: в процессе (Аури)
 Ставить: ниже PerMa
 
 Название: Weapons-and-Armor-Fixes-Remade-v5.0
