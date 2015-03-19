@@ -1810,11 +1810,11 @@
 			<substring>Древняя броня теней</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Dawnguard</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Стражи Рассвета</substring>
 		</binding>
 		<binding>
@@ -1840,6 +1840,14 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Легкий шлем Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Dawnguard Full</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Закрытый шлем Стражи Рассвета</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -1904,6 +1912,10 @@
 		<binding>
 			<identifier>HeavyFaction</identifier>
 			<substring>Волч</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Соратн</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -2369,6 +2381,10 @@
 			<identifier>LightFactionS</identifier><!-- Imperial -->
 			<substring>Imperial Ward</substring>
 		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Imperial Outcast</substring>
+		</binding>
 	<!-- Civil War material_Bindings end -->
 
 	<!-- City/Guard Armors start -->
@@ -2478,11 +2494,11 @@
 			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
-			<identifier>HeavyFactionLow</identifier>
+			<identifier>LightFactionLow</identifier>
 			<substring>Щит Солитьюда</substring>
 		</binding>
 		<binding>
@@ -3888,6 +3904,14 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Dragonsteel</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Of Thorns</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Knight Thorns</substring>
+		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
 	<!-- Dragonscale Material Bindings start -->
@@ -4427,6 +4451,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Last Hope</substring><!-- Same name is used for a Elven Shield -->
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Markarth Silverblood</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -4992,6 +5020,18 @@
 			<identifier>Ebony</identifier>
 			<substring>Оплот Аззинота</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Gilded Mail</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ebony Heavy Mail</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Ebony Silver Mail</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -5360,6 +5400,10 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Electrum Elven</substring>
 		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Sword Master</substring>
+		</binding>
 	<!-- Elven Material Bindings end -->
 	
 	<!-- Falmer Material Bindings start -->
@@ -5545,7 +5589,7 @@
 			<substring>Black Wisteria</substring>
 		</binding>
 		<binding>
-			<identifier>GlassHigh</identifier>
+			<identifier>Glass</identifier>
 			<substring>Steel Glass</substring>
 		</binding>
 		<binding>
@@ -6051,6 +6095,10 @@
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Перчатки мастера-кузнеца</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Blacksmith's Tribute Iron</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -7431,6 +7479,22 @@
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>Ranger Boots</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Witch Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Vampire Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Mord Sith</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Savage Hunter</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -9620,6 +9684,14 @@
 			<identifier>Steel Plate</identifier>
 			<substring>Black Archmage Plate Armor (H)</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Solitude Infantry</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Windhelm Steel</substring>
+		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
 	<!-- Stalhrim Material Bindings start -->
@@ -9743,10 +9815,6 @@
 		<binding>
 			<identifier>Vampire</identifier>
 			<substring>Cowl of Midnight</substring>
-		</binding>
-		<binding>
-			<identifier>SteelLight</identifier>
-			<substring>Vampire Hunter</substring>
 		</binding>
 		<binding>
 			<identifier>Vampire</identifier>
@@ -10042,6 +10110,10 @@
 		<binding>
 			<identifier>ScaledHigh</identifier>
 			<substring>Тэмбтра, усиленная туника воровки</substring>
+		</binding>
+		<binding>
+			<identifier>ScaledHigh</identifier>
+			<substring>Riften Nightwatch</substring>
 		</binding>
  	<!-- Tembtra armor end-->
  	<!-- Merta armor start-->
@@ -11721,6 +11793,10 @@
 			<substringArmor>легата</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
+		<armor_masquerade_binding>
+			<substringArmor>Imperial Outcast</substringArmor>
+			<masqueradeFaction>IMPERIAL</masqueradeFaction>
+		</armor_masquerade_binding>
 	<!-- Imperial end -->
 	
 	<!-- Stormcloak start -->
@@ -12771,5 +12847,40 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- B-D-Y-E-B -->
+	<!-- Lord's Mail -->
+		<exclusion>
+			<text>LM_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Lord's Mail -->
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<exclusion>
+			<text>ArmorThorns</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+	<!-- Mord Sith Cara Armor -->
+		<exclusion>
+			<text>xxxMordSith</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Mord Sith Cara Armor -->
+	<!-- Draconic Bloodline -->
+		<exclusion>
+			<text>DBL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Draconic Bloodline -->
+	<!-- aMidianBorn_ContentAddon -->
+		<exclusion>
+			<text>Blacksmith's Tribute Iron</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- aMidianBorn_ContentAddon -->
 	</reforge_exclusions>
 </ns2:armor>
