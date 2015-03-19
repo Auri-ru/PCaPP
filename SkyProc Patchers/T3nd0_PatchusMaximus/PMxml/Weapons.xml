@@ -166,7 +166,7 @@
 			<identifier>honed</identifier>
 		</binding>
 		<binding>
-			<substring>Заточен</substring>
+			<substring>заточенн</substring>
 			<identifier>honed</identifier>
 		</binding>
 		<binding>
@@ -1149,22 +1149,6 @@
 			<substring>Draugr</substring>
 		</binding>
 		<binding>
-			<identifier>Draugr</identifier>
-			<substring>ревний нордский</substring>
-		</binding>
-		<binding>
-			<identifier>Draugr</identifier>
-			<substring>ревнее нордское</substring>
-		</binding>
-		<binding>
-			<identifier>Draugr</identifier>
-			<substring>ревняя нордская</substring>
-		</binding>
-		<binding>
-			<identifier>Draugr</identifier>
-			<substring>ревние нордские</substring>
-		</binding>
-		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale</substring>
 		</binding>
@@ -1758,6 +1742,10 @@
 		<binding>
 			<identifier>Nord</identifier>
 			<substring>Драконобой</substring>
+		</binding>
+		<binding>
+			<identifier>Nord</identifier>
+			<substring>Dragonrend</substring>
 		</binding>
 		<binding>
 			<identifier>Nord</identifier>
@@ -3067,6 +3055,18 @@
 		<binding>
 			<identifier>DwarvenHigh</identifier>
 			<substring>Eastern Dwemer</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>вемерский восточн </substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>вемерская восточн </substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenHigh</identifier>
+			<substring>вемерское восточн </substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -5288,6 +5288,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Пепельный длинный лук</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>порождения пепла</substring>
 		</binding>
 		<binding>
@@ -6220,10 +6224,6 @@
 		<binding>
 			<identifier>Wood</identifier>
 			<substring>Длинный лук</substring>
-		</binding>
-		<binding>
-			<identifier>Wood</identifier>
-			<substring>длинный лук</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -7863,6 +7863,14 @@
 		</binding>
 		<binding>
 			<substring>линный лук</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>радиционный Лук</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>радиционный лук</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
@@ -10015,6 +10023,22 @@
 		</binding>		
 		<binding>
 			<substring>Секач Палача</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Wabba Jaxe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Вабба Джакс</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Warchief's Might</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Мощь Военачальника</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
