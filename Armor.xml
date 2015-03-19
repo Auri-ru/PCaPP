@@ -655,6 +655,210 @@
 			<substring>Чешуйчатый обруч</substring>
 		</binding>
 		<!-- CCO End-->
+		<!-- TERA Weapons Start-->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Щит "Острота"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Щит "Берсерк"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Щит "Герой"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Щит "Голос"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит "Завоеватель"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит "Ксерст"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит "Легат"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит "Беспокойство"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит "Прожигания"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит "Раскалыватель"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит "Умбра"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит "Расправа"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Щит "Вербовшик"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Щит "Бомбардир"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Щит "Палрада"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Щит "Элениум"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Щит "Вайтинг"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Щит "Темной стали"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Щит "Вестония"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Щит "Северной стали"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит "Осграта"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит "Лин"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит "Аркадиан"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит "Кристалл"</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит "Экспедиционный"</substring>
+		</binding>		
+		<!-- TERA Weapons English Start-->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Acuity Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Graceshed Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Unraveler Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Phonic Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Conqueror Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Xersteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Legate Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Restless Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Cauterus Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Sunder Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Umbra Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Reprisal Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Webrend Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bombard Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Palrada Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elenium Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Vaunting Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Shadsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Westonia Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Norsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ostgarath Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Linsteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Arcadian Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Krysteel Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Expedition Shield</substring>
+		</binding>		
+		<!-- TERA Weapons End-->
+
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -2094,6 +2298,10 @@
 			<substring>Liberator</substring>
 		</binding>
 		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>"Либератора"</substring>
+		</binding>
+		<binding>
 			<identifier>LightFactionLow</identifier>
 			<substring>Imperial Leather</substring>
 		</binding>
@@ -3130,11 +3338,23 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>"Вэл Тиркай"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Deathshell</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>"Панцирь Смерти"</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Viridinium</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Виридиниум"</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3187,6 +3407,10 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Chaos Bloodplate</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>"Кровавый хаос"</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3574,7 +3798,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>"Восхождения"</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Atroscine</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>"Атроскайн"</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3582,11 +3814,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>"Сентенция"</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Eternal centurion</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Eternal Centurion</substring>
+			<substring>"Бессмертный центурион"</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -3794,11 +4030,23 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>"Несбыточная мечта"</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Elseworlder</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>"Другой мир"</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Eternal Warden</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>"Бессмертного надзирателя"</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -3946,7 +4194,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>"Аркадии"</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Orphic</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Орфика</substring>
 		</binding>
 		<binding>
 			<identifier>Zero_Dwarven</identifier>
@@ -4342,6 +4598,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>"Трайлека"</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Ebonsteel</substring>
 		</binding>
 		<binding>
@@ -4391,6 +4651,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Tenebrescent</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Утренний аромат"</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -4475,6 +4739,10 @@
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Xenocite</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>"Ксеносити"</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -4834,6 +5102,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Эльфийские ламеллярные</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Myrmidon</substring>
 		</binding>
 		<binding>
@@ -4974,6 +5246,10 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Кромос</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Moonbuckled</substring>
 		</binding>
 		<binding>
@@ -4982,15 +5258,31 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>"Золотой рог"</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Jalmarak</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Джалмарок"</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Moon Buckled</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>"Полумесяца"</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Rysio</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>"Райоса"</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5406,7 +5698,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>"Космика"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Deathskin</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Лик смерти"</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5414,7 +5714,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>"Эль-Леон"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Kshara</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>"Кшара"</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5422,11 +5730,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>"Квантум"</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Shadow fang</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
-			<substring>Shadow Fang</substring>
+			<substring>"Клык Теней"</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -5658,7 +5970,15 @@
 		</binding>
 		<binding>
 			<identifier>HideHigh</identifier>
+			<substring>"Бригантина"</substring>
+		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
 			<substring>Crisping</substring>
+		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
+			<substring>"Решительности"</substring>
 		</binding>
 		<binding>
 			<identifier>HideHigh</identifier>
@@ -5666,7 +5986,15 @@
 		</binding>
 		<binding>
 			<identifier>HideHigh</identifier>
+			<substring>"Рецессия"</substring>
+		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
 			<substring>Karassia</substring>
+		</binding>
+		<binding>
+			<identifier>HideHigh</identifier>
+			<substring>"Карассия"</substring>
 		</binding>
 		<binding>
 			<identifier>HideHeavy</identifier>
@@ -6093,8 +6421,16 @@
 			<substring>Keener Iron</substring>
 		</binding>
 		<binding>
+			<identifier>Iron</identifier>
+			<substring>"Энергия железа"</substring>
+		</binding>
+		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Velkas</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>"Велкаса"</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -6610,6 +6946,10 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Кастаник</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Hunting Grounds</substring>
 		</binding>
 		<binding>
@@ -6690,7 +7030,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>"Стингера"</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Heartsworn</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>"Сердечная клятва"</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -6698,7 +7046,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>"Морехода"</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Zalisleather</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>"Залисвефера"</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -7566,11 +7922,23 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Рубикэйт</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Sinestral</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Синестро</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Ulciscor</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>"Ульцискора"</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -7938,6 +8306,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>"Пустоты"</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Savior's Hide</substring>
 		</binding>
 		<binding>
@@ -7955,6 +8327,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Sylward</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>"Силвард"</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -8318,7 +8694,15 @@
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
+			<substring>"Танец клинка"</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
 			<substring>Viator</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>"Виатор"</substring>
 		</binding>
 		<binding>
 			<identifier>Studded</identifier>
@@ -8443,6 +8827,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Scion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>"Пластинчатые"</substring>
 		</binding>
 		<binding>
 			<identifier>LightFaction</identifier>
@@ -8591,6 +8979,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Ciebel Guard</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>стражника Кабельо</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9047,6 +9439,18 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Palrada Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ластинчатые "Палрада"</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ластинчатый "Палрада"</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ластинчатая "Палрада"</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
