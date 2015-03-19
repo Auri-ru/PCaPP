@@ -332,11 +332,6 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-			<exclusion>
-				<text>xMAILL</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
 		<!-- Apocalypse - The Spell Package end -->
 		<!-- Hearthfire multiple adoptions start -->
 			<exclusion>
@@ -1081,6 +1076,14 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- Tembtra Thief Armor -->
+		<!-- Draconic Bloodline -->
+			<exclusion>
+				<text>DBL</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Draconic Bloodline -->
 		<!-- Sotteta Armor -->
 			<exclusion>
 				<text>DX_MAC_Sotteta</text>
@@ -2275,12 +2278,12 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Dragon Priest Staff</text>
+				<text>Dragon Priest</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>Посох драконьего жреца</text>
+				<text>раконьего жреца</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -3664,6 +3667,13 @@
 				<type>CONTAINS</type>
 			</exclusion>
 		<!-- Diverse Bows -->
+		<!-- Knight of Thorns Armor and Spear of Thorns -->
+			<exclusion>
+				<text>ThornsSpear</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Knight of Thorns Armor and Spear of Thorns -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4183,7 +4193,7 @@
 			<!-- Daedric Artifacts end -->
 		<!-- Quest Items start -->
 			<exclusion>
-				<text>Dragon Priest Staff</text>
+				<text>Dragon Priest</text>
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
@@ -5320,6 +5330,16 @@
 			<exclusion>
 				<text>Эйлы</text>
 				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DLC1ClothesVampireLordArmor</text> <!-- Vampire Lord Skin -->
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>DLC1ClothesVampireLordRoyalArmor</text> <!-- Vampire Lord Skin -->
+				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
 			<!-- Faction Exclusions end -->
@@ -6796,6 +6816,58 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Grace Darklings Ranger Armor -->
+		<!-- Deadly Trio -->
+			<exclusion>
+				<text>xxxSwordMaster</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>xxxWitchHunter</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>xxxVampireHunter</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Deadly Trio -->
+		<!-- Knight of Thorns Armor and Spear of Thorns -->
+			<exclusion>
+				<text>ArmorThorns</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<!-- Mord Sith Cara Armor -->
+			<exclusion>
+				<text>xxxMordSith</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mord Sith Cara Armor -->
+		<!-- Draconic Bloodline -->
+			<exclusion>
+				<text>DBL</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Draconic Bloodline -->
+		<!-- Omegared99 - Gallery of Armor -->
+			<exclusion>
+				<text>099</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Omegared99 - Gallery of Armor -->
+		<!-- aMidianBorn_ContentAddon -->
+			<exclusion>
+				<text>Blacksmith's Tribute Iron</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- aMidianBorn_ContentAddon -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -8401,6 +8473,27 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Everybodys Different -->
+		<!-- Lord's Mail -->
+			<exclusion>
+				<text>LM</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Lord's Mail -->
+		<!-- Draconic Bloodline -->
+			<exclusion>
+				<text>DBL</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Draconic Bloodline -->
+		<!-- Wind Destruction -->
+			<exclusion>
+				<text>WDM_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wind Destruction -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
