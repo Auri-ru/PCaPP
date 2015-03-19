@@ -2253,9 +2253,21 @@
 			<identifier>Daedric</identifier>
 			<substring>Cyrus' Saber</substring>
 		</binding>
+ 		<binding>
+			<substring>Great Daedric Crescent</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Великий даэдрический полумесяц</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Iceblade of the Monarch</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ледяной клинок Монарха</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -2452,6 +2464,10 @@
 			<identifier>Dragonplate</identifier>
 			<substring>Uznahgaar</substring>
 		</binding>
+		<binding>
+			<substring>Mithrodin I</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Dragonplate bindings end -->
 	
 	<!-- Dragonscale bindings start -->
@@ -2482,6 +2498,10 @@
 	<!-- Dragonscale bindings end -->
 	
 	<!-- Drauger bindings start -->
+ 		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Nordic Honed</substring>
+		</binding>
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Forged Bow</substring>
@@ -3127,6 +3147,10 @@
 		<binding>
 			<identifier>DwarvenHigh</identifier>
 			<substring>Blade of the Rourken</substring>
+		</binding>
+		<binding>
+			<substring>Mithrodin II</substring>
+			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -3819,6 +3843,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Ebonsteel</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Spear of Thorns</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -4109,6 +4137,14 @@
 	<!-- Elven bindings end -->
 	
 	<!-- Falmer/Forsworn bindings start -->
+ 		<binding>
+			<identifier>FalmerHigh</identifier>
+			<substring>Falmer Honed</substring>
+		</binding>
+		<binding>
+			<identifier>FalmerHigh</identifier>
+			<substring>Honed Falmer</substring>
+		</binding>
 		<binding>
 			<identifier>Forsworn</identifier>
 			<substring>Goblin</substring>
@@ -5004,6 +5040,22 @@
 	<!-- Orcish bindings end -->
 	
 	<!-- Silver bindings start -->
+ 		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Honed Silver</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Silver Honed</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Honed Silver</substring>
+		</binding>
+		<binding>
+			<identifier>RSilverHigh</identifier>
+			<substring>Refined Silver Honed</substring>
+		</binding>
 		<binding>
 			<identifier>Silver</identifier>
 			<substring>Серебрян</substring>
@@ -5107,6 +5159,10 @@
 		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Mournbringer</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Mithrodin</substring>
 		</binding>
 	<!-- Silver bindings end -->
 	
@@ -8536,6 +8592,10 @@
 			<substring>Uznahgaar</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Mithrodin I</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -9956,22 +10016,6 @@
 		<binding>
 			<substring>Секач Палача</substring>
 			<identifier>Battleaxe</identifier>
-		</binding>	
-		<binding>
-			<substring>Wabba Jaxe</substring>
-			<identifier>Battleaxe</identifier>
-		</binding>
-		<binding>
-			<substring>Вабба Джакс</substring>
-			<identifier>Battleaxe</identifier>
-		</binding>
-		<binding>
-			<substring>Warchief's Might</substring>
-			<identifier>Battleaxe</identifier>
-		</binding>
-		<binding>
-			<substring>Мощь Военачальника</substring>
-			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
 			<substring>Scythe</substring>
@@ -10479,6 +10523,10 @@
 			<substring>Blade of the Rourken</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Mithrodin II</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -10581,6 +10629,10 @@
 		</binding>
 		<binding>
 			<identifier>Trident</identifier>
+			<substring>Partisan</substring>
+		</binding>
+		<binding>
+			<identifier>Spear Of Thorns</identifier>
 			<substring>Partisan</substring>
 		</binding>
 	<!-- Partisan bindings end -->
@@ -10956,7 +11008,7 @@
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
-			<substring>Vindskjaer</substring>
+			<substring>Vindskjaer Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>
@@ -11520,7 +11572,7 @@
 			<baseWeaponType>TANTO</baseWeaponType>
 			<damageBase>7.5</damageBase>
 			<reachBase>0.65</reachBase>
-			<speedBase>1.22</speedBase>
+			<speedBase>1.15</speedBase>
 			<critDamageFactor>1.5</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
@@ -11532,10 +11584,10 @@
 		<weapon_type>
 			<identifier>Dagger</identifier>
 			<baseWeaponType>DAGGER</baseWeaponType>
-			<damageBase>8.0</damageBase>
+			<damageBase>7.5</damageBase>
 			<reachBase>0.6</reachBase>
-			<speedBase>1.2</speedBase>
-			<critDamageFactor>1.75</critDamageFactor>
+			<speedBase>1.1</speedBase>
+			<critDamageFactor>1.6</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>2</meltdownInput>
 			<bleedTier>TWO</bleedTier>
@@ -12637,6 +12689,13 @@
 			<type>CONTAINS</type>
 		</exclusion>
 	<!-- Skyrim Knights -->
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<exclusion>
+			<text>ThornsSpear</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Knight of Thorns Armor and Spear of Thorns -->
 	</reforge_exclusions>
 
 </ns2:weapons>

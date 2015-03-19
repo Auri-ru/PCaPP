@@ -1,33 +1,144 @@
 <Versions>
 <Current>
-<v2.4.5>
+<v3>
+Now covers:
+
+Blocklist:
+
+Exclusions:
+	Several secondary spells will no longer improperly have a scroll made. (PerMa)
+	Tightened up distribution exclusions for Dragon Priest weapons.
+
+Fixes:
+	Corrected masters on WAFR patch. USKP was added for a test and I forgot to remove it.
+	Corrected a typo that made light Dawnguard armors heavy.
+	Removed a faulty Book exclusion that prevented many Illusion spells from being added to merchant chests and loot tables.
+
+Changes:
+
+Additions:
+	Added Enchanting and Language updates for changes made to newest version of Wintermyst.
+	Added some more French to Languages.xml
+
+Balancing:
+
+Renamed:
+	Vindskjær -> Vindskjaer PaMa doesn't speak Nordic. (N2T)
+	Forsworn Bow -> Forsworn Bow (Improved) (N2T)
+
+Updated Patches:
+	Nock to Tip (N2T)
+	Per PaMa WAFR Patch.esp
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
+<v2.5.2>
+Now covers:
+	Draconic Bloodline (51401) v1.1
+	Mord Sith Cara Armor (50930)
+	Deadly Trio (37746)
+	Gallery of Armor (49827) v1.5a
+	Lords Mail - Armor and Quest (40497)
+	Knight Of Thorns Armor And Spear of Thorns (18940)
+	aMidianborn Content Addon (24909) v1.9
+	
+Exclusions:
+	DLC1ClothesVampireLordRoyalArmor and DLC1ClothesVampireLordArmor (Vampire Lord form skins) can no longer be enchanted or distributed.
+
+Fixes:
+	Removed some extra keywords from PerMa added Silver weapons. (WAFR)
+	Added missing WAFR keywords to PerMa added SkyForge Steel weapons. (WAFR)
+	Corrected a typo on binding for Rikke's Longbow that prevented it from patching correctly.
+	Wind Destruction patch now has PerMa_Mage as a master, the Destruction tree would be messed up if PerMa_Mage was not used.
+	Changed Spell Tomes to Book/Tome type to have the correct icon in SkyUI. (WDM)
+
+Changes:
+	Shield of Solitude changed to Light to match WAFR.
+
+Additions:
+	"Spear" added to Languages.xml
+	"Explodes upon impact, dealing 2 points of poison damage per second for 20 seconds." added to Languages.xml
+
+Updated Patches:
+	CCF
+	WAFR
+	Wind Destruction.esp (Changes in included Readme)
+
+New Patches:
+	Nock2Tip.esp (updated by Force70)
+	Unique Uniques.esp
+</v2.5.2>
+<v2.5.1>
+Updated Patches:
+	Quick fix for script version data error in CCOR patches.
+</v2.5.1>
+<v2.5>
 Now covers:
 	Rough Leather Armor (54672)
 	Hunter Archer Armor (43649) English Translation (43873)
 	Diverse Bows (59224)
 	Grace Darklings Ranger Armor v3 (7184)
 
-Blocklist:
-
-Exclusions:
-
 Fixes:
+	Fixed a typo I made in PerMa Fixes.esp that made the Apprentice Destruction perks "+15% damage for next destruction spell" only work on apprentice destruction spells.
+	LLs updated to better match WAFR (IW)
+	Immersive Armors will no longer tell CCOR that Immersive Weapons is installed.
+	My custom "Leather Strip to Leather" recipes had bad conditions that made them not properly upgrade to the "good" version. (WAFR)
+		5 Strips makes 1 Leather while Smithing skill is below 50.
+		4 Strips makes 1 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
+		25 Strips makes 5 Leather while Smithing skill is below 50.
+		21 Strips makes 5 Leather while Smithing skill is 50 or more and the Material: Leather perk is taken.
+		Values are based on the CCOR "Leather to Strips" recipes to use more strips than made by that recipe so there isn't an "infinite experience loop"
 
 Changes:
+	Lockpick recipe will require Inventor perk in Dexterity or the Wax Key perk in Lockpicking. (CCOR)
+	Will now be in the "Tools and Materials" section of the crafting menu and can be hidden with the ToolRecipe toggle (CCOR);
+	Crossbow Modification Kit (WAFR)
+	Lockpick recipe (WAFR) (May conflict with other mods that edit Lockpick record weight/keywords)
+	
+	Now require the "Material: Gold and Silver" perk;
+	Gold and Silver Ingots 
+	Jewellery recipes that didn't already. (CCOR)
+	Gem cutting recipes.
+	Silver Sword and Greatsword recipes. (CCOR)
+	Silver Gilded Crusader's Sword and Silver Crusader's Sword (CCOR)
+	
+	Now require the "Material: Leather" perk;
+	Bandoliers Bags and Pouches (CCOR)
 
 Additions:
+	Included CCOR script "CCO_SubCraftingArmor" in the unmerged WAFR patch so my "Leather Strip to Leather" recipes will act right. It is an unedited copy of the script, if you use any CCOR variant you won't get the script (since CCOR already added it)
+	Non-Iron, non-Fur, and non-Hide Breakdown recipes now require the Meltdown perk. (CCOR)
 
 Balancing:
+	Lowered fArmorRatingMax (NPC armor multiplier variable) from *2.5 to *2
+	Reduced base damage and speed of Daggers by 0.5, should help resolve an issue where NPCs use daggers even with better, more appropriate, weapons in their inventory.
+	Reduced Tanto base speed by 0.02.
 
 Renamed:
+	Horker Bow -> Horker Shortbow (GHWP)
+	Dukes Longsword -> Dukes Greatsword (IW)
+	Regent's Longsword -> Regent's Greatsword (IW)
+	Silver Honed Longsword -> Silver Honed Greatsword (IW)
+	Wabba Jaxe -> Wabba Jaxe Halberd (IW)
+	Warchief's Might -> Warchief's Halberd (IW)
 
 Updated Patches:
+	PerMa Fixes.esp
+	WAFR patches updated to WAFR 5.1
+	CCF patches updated to CCF 1.4
+	CCOR patches updated to CCOR 1.6
+	Immersive Armors (IA)
+	Immersive Weapons (IW)
+	Ghosu - Horker Weapon Pack (GHWP)
 
-New Patches:
-</v2.4.5>
-</Current>
-
-<Old>
+Removed Patches:
+	Nock 2 Tip: Use patch by Force70 (63671) Is being reworked to be a replacer.
+	Unique Uniques: Use patch by Old Nick (63111) It's a replacement esp also.
+</v2.5>
 <v2.4.4>
 Now covers:
 	zzjay's wardrobe (53442)
