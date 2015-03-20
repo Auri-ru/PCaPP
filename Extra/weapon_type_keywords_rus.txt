@@ -150,6 +150,8 @@ Shortbow - PIERCING
 Longbow - PIERCING
 	линный Лук
 	линный лук
+	радиционный Лук
+	радиционный лук
 Crossbow - PIERCING
 	рбалет
 Javelin - PIERCING
