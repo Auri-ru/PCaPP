@@ -1320,7 +1320,7 @@
 		</binding>
 		<binding>
 			<identifier>Imperial</identifier>
-			<substring>Legate</substring>
+			<substring>Legate Longbow</substring>
 		</binding>
 		<binding>
 			<identifier>Imperial</identifier>
@@ -5015,6 +5015,18 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring> орочь</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Орочий</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring> орочий</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Orc</substring>
 		</binding>
 		<binding>
@@ -7886,11 +7898,11 @@
 			<identifier>Battlestaff</identifier>
 		</binding>	
 		<binding>
-			<substring>уручный меч</substring>
+			<substring>вуручный меч</substring>
 			<identifier>Greatsword</identifier>
 		</binding>		
 		<binding>
-			<substring>уручный Меч</substring>
+			<substring>вуручный Меч</substring>
 			<identifier>Greatsword</identifier>
 		</binding>	
 		<binding>
