@@ -858,6 +858,12 @@
 			<substring>Expedition Shield</substring>
 		</binding>		
 		<!-- TERA Weapons End-->
+		<!-- Vilja in Skyrim Start-->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Меховой плащ Лейфура</substring>
+		</binding>				
+		<!-- Vilja in Skyrim End-->
 
 	<!-- Custom material_Bindings End -->
 	
@@ -9041,6 +9047,10 @@
 			<substring>Wolfcry</substring>
 		</binding>
 		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>«Волчий Клич»</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Ciebel Guard</substring>
 		</binding>
@@ -9089,8 +9099,16 @@
 			<substring>Broken Wolfcry Heavy Shield</substring>
 		</binding>
 		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>«Волчий Клич» - Тяжелый сломанный щит</substring>
+		</binding>
+		<binding>
 			<identifier>Steel</identifier>
 			<substring>Wolfcry Heavy Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>«Волчий Клич» - Тяжелый щит</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
@@ -9569,8 +9587,24 @@
 			<substring>Wolfcry Heavy</substring>
 		</binding>
 		<binding>
+			<identifier>Steel PlateHigh</identifier>
+			<substring>«Волчий Клич» - Тяжел</substring>
+		</binding>
+		<binding>
 			<identifier>Steel PlateLow</identifier>
 			<substring>Broken Wolfcry Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>«Волчий Клич» - Тяжелый сломанн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>«Волчий Клич» - Тяжелые сломанн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLow</identifier>
+			<substring>«Волчий Клич» - Тяжелая сломанн</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>

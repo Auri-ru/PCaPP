@@ -908,11 +908,11 @@
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
-			<substring>Серебрянн</substring>
+			<substring>Серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Silver</identifier>
-			<substring>серебрянн</substring>
+			<substring>серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
