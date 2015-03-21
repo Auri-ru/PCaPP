@@ -5336,10 +5336,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Пепельный длинный лук</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Crusader</substring>
 		</binding>
 		<binding>
