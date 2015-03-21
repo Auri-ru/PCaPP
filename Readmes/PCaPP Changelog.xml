@@ -10,16 +10,26 @@ Exclusions:
 Fixes:
 	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
 	Corrected a broken Enchantment link on The Forgemasters Fingers. (WAFR CCOR patch)
+	Corrected a weapon modifier that was making all Greatswords stronger than intended.
+	Corrected a double binding for 'Ash' weapons.
 
 Changes:
+	Changed material keyword on 'Colovian Composite Bow' and 'Colovian Dark Composite Bow' to sort them in the wood category. (IW)
 
 Additions:
+	New binding for Ash Spawn weapons from Dragonborn.
+	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
 
 Balancing:
+	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
+	Slightly increased Club and Spiked Club damage. (9 -> 10/11)
+	Slightly reduced Morning Star damage. (14 -> 12)
 
 Renamed:
 
 Updated Patches:
+	Immersive Weapons (IW)
+	Immersive Armors (IA)
 
 New Patches:
 </v3>
