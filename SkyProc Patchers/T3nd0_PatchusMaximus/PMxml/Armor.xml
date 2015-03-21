@@ -12882,5 +12882,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- aMidianBorn_ContentAddon -->
+	<!-- Sofia - The Funny Fully Voiced Follower -->
+		<exclusion>
+			<text>SofiaBodyArmor</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Sofia - The Funny Fully Voiced Follower -->
 	</reforge_exclusions>
 </ns2:armor>

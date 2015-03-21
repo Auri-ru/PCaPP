@@ -176,7 +176,7 @@
 
 Название: Sofia - The Funny Fully Voiced Follower
 Источник: http://modgames.net/load/tes_v_skyrim/kompanony/novyj_kompanon_sofija/251-1-0-17918
-Метод: в процессе
+Метод: XML
 Ставить: ниже PerMa
 
 Название: TERA Armors Collection
