@@ -8,14 +8,18 @@
 Метод: замена BDYEB.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
-Название: Climates of Tamriel 3.1 (full)
-Источник: http://tes.riotpixels.com/mods/skyrim/graphics/cot
-		http://tes.riotpixels.com/mods/skyrim/graphics/cot-weather-patch
-Метод: не требуется
+Название: Bathing Beauties - Luxury Suite 5.1a
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/skyrim_kupalni_skajrima_quot_ljuks_quot_v5_1a_bathing_beauties_luxury_suite/15-1-0-1482
+Метод: в процессе (Аури) 
+
+Название: Book Covers Skyrim 3.1
+Источник: http://tes.riotpixels.com/mods/skyrim/graphics/book-covers.shtml
+Метод: патчи из состава мода (патч для CCOR ставить выше патча для PerMa)
+Ставить: выше PerMa
 
 Название: Cloaks of Skyrim 1.2
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
-Метод: не требуется
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Complete Crafting Overhaul Remade 1.5
@@ -32,10 +36,6 @@
 Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
 Метод: XML
 Ставить: ниже PerMa
-
-Название: Ethereal Elven Overhaul 1.1.1
-Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
-Метод: Не требуется
 
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
@@ -69,6 +69,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Hunterborn
+Источник: 
+Метод: XML
+Ставить: в процессе (Аури)
+
 Название: Immersive Armors 7.1
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/immersive-armors.shtml
 Метод: замена Hothtrooper44_ArmorCompilation.esp + XML
@@ -99,10 +104,6 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Lady Body 2.1
-Источник: 
-Метод: не требуется, патчи под Imperious и PaMa_skyRe_races процессе (Аури)
-
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
 Метод: XML
@@ -113,9 +114,10 @@
 Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
-Название: Perfect Legionnaire
-Источник: 
-Метод: в процессе (Аури)
+Название: Perfect Legionnaire 6.0
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/replejsery/skyrim_idealnyj_legioner/8-1-0-937
+Метод: XML
+Ставить: ниже PerMa
 
 Название: Populated Dungeons Caves Ruins 1.07
 Источник: http://tesall.ru/files/file/5782-naselennye-podzemelya-peschery-i-ruiny/
@@ -150,14 +152,6 @@
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
 Метод: XML
-
-Название: RealShelter 1.4
-Источник: http://www.nexusmods.com/skyrim/mods/52612/?
-Метод: не требуется
-
-Название: Real Shelter-Frostfall Tents WIP
-Источник: http://www.nexusmods.com/skyrim/mods/60362/?
-Метод: не требуется
 
 Название: Skyrim Immersive Creatures v6.5.2a
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
@@ -209,9 +203,9 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Vilja in Skyrim
-Источник: 
-Метод: в процессе (Аури)
+Название: Vilja in Skyrim 4.1
+Источник: tesall.ru/files/file/6335-vilya-v-skajrime/
+Метод: XML
 Ставить: ниже PerMa
 
 Название: Weapons-and-Armor-Fixes-Remade-v5.0
@@ -237,3 +231,21 @@
 Название: Бандитам тоже хочется
 Источник: 
 Метод: в процессе (Аури)
+
+Моды для которых поддержка не требуется:
+Cart in Each Big Town
+Climates of Tamriel 3.1
+Ethereal Elven Overhaul 1.1.1
+Extended UI (требуется для варианта с полными описаниями перков)
+Fantasy Music Overhaul
+iHUD
+Lady Body 2.1 (патчи под Imperious и PaMa_skyRe_races процессе)
+RealShelter 1.4
+Real Shelter-Frostfall Tents WIP
+SkyUI 4.1
+Vivid Landscapes
+
+
+
+
+

@@ -1055,6 +1055,10 @@
 			<substring>Перья ворожеи</substring>
 		</binding>		
 		<binding>
+			<identifier>Creature Tier 2</identifier><!-- Вилья в скайриме -->
+			<substring>Обработанные Магдой перья Ворожей</substring>
+		</binding>	
+		<binding>
 			<identifier>Creature Tier 2</identifier>
 			<substring>Ice Wraith Teeth</substring>
 		</binding>

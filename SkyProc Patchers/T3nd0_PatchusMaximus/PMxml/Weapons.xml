@@ -6012,6 +6012,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>«Волчий Клич»</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Valdmire's Blade</substring>
 		</binding>
 		<binding>
@@ -6061,6 +6065,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Vilja's Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Лук Вильи</substring>
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
