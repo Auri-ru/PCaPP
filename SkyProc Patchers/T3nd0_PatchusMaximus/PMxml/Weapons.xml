@@ -146,7 +146,7 @@
 			<identifier>great</identifier>
 		</binding>
 		<binding>
-			<substring>Great</substring>
+			<substring>Great </substring>
 			<identifier>great</identifier>
 		</binding>
 		<binding>
@@ -2869,6 +2869,14 @@
 			<identifier>Draugr</identifier>
 			<substring>Меретической эры</substring>
 		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Ash Spawn</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>порождения пепла</substring>
+		</binding>
 	<!-- Drauger bindings end -->
 	
 	<!-- Dwarven bindings start -->
@@ -5320,15 +5328,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Ash</substring>
+			<substring>Ash</substring> <!-- a dagger added by something I can't find anymore -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>пепла</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Пепельный длинный лук</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>порождения пепла</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -6442,12 +6450,12 @@
 			<substring>каджит</substring>
 		</binding>
 		<binding>
-			<identifier>Wood</identifier>
-			<substring>Ash</substring>
+			<identifier>Ashwood</identifier>
+			<substring>Ash Longbow</substring>
 		</binding>
 		<binding>
-			<identifier>Wood</identifier>
-			<substring>Пепельный</substring>
+			<identifier>Ashwood</identifier>
+			<substring>Пепельный длинный лук</substring>
 		</binding>
 		<binding>
 			<identifier>Wood</identifier>
@@ -7193,7 +7201,7 @@
 	<!-- Wood Material Listings start -->
 		<weapon_material>
 			<damageModifier>0.8</damageModifier>
-			<identifier>Wood</identifier><!-- long bow -->
+			<identifier>Wood</identifier>
 			<materialMeltdown>WOOD</materialMeltdown>
 			<materialTemper>WOOD</materialTemper>
 			<reachModifier>0.0</reachModifier>
@@ -11538,7 +11546,7 @@
 		<weapon_type>
 			<identifier>Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>10.0</damageBase>
 			<reachBase>0.88</reachBase>
 			<speedBase>0.82</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
@@ -11552,7 +11560,7 @@
 		<weapon_type>
 			<identifier>Spiked Mace</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>13.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.88</reachBase>
 			<speedBase>0.82</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
@@ -11566,7 +11574,7 @@
 		<weapon_type>
 			<identifier>Morning Star</identifier>
 			<baseWeaponType>MACE</baseWeaponType>
-			<damageBase>14.0</damageBase>
+			<damageBase>13.0</damageBase>
 			<reachBase>0.9</reachBase>
 			<speedBase>0.8</speedBase>
 			<critDamageFactor>0.5</critDamageFactor>
@@ -11580,7 +11588,7 @@
 		<weapon_type>
 			<identifier>Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>10.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.89</speedBase>
 			<critDamageFactor>0.3</critDamageFactor>
@@ -11594,7 +11602,7 @@
 		<weapon_type>
 			<identifier>Spiked Club</identifier>
 			<baseWeaponType>CLUB</baseWeaponType>
-			<damageBase>9.0</damageBase>
+			<damageBase>11.0</damageBase>
 			<reachBase>0.95</reachBase>
 			<speedBase>0.85</speedBase>
 			<critDamageFactor>0.4</critDamageFactor>
