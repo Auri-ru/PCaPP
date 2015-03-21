@@ -1211,6 +1211,23 @@
 				<type>EQUALS</type>
 			</exclusion>
          <!-- Populated end -->
+		 <!-- Sofia - The Funny Fully Voiced Follower -->
+			<exclusion>
+				<text>Sofia</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>JJSofia</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>SummonSofiaSpell</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		 <!-- Sofia - The Funny Fully Voiced Follower -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -6873,6 +6890,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- aMidianBorn_ContentAddon -->
+		<!-- Sofia - The Funny Fully Voiced Follower -->
+			<exclusion>
+				<text>SofiaBodyArmor</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Sofia - The Funny Fully Voiced Follower -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
