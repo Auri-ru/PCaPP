@@ -2094,6 +2094,14 @@
 			<substring>Вабба</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Wabba Jaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Вабба Джакс</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Goldbrand</substring>
 		</binding>
@@ -5080,6 +5088,14 @@
 		<binding>
 			<identifier>OrcishHigh</identifier>
 			<substring>Мощь Военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
+			<substring>Warchief's</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
+			<substring>Военачальника</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -10151,6 +10167,14 @@
 		</binding>
 		<binding>
 			<substring>Вабба Джакс</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Warchief's Halberd</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Алебарда Военачальника</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
