@@ -278,6 +278,10 @@
 			<identifier>Fletched</identifier>
 			<substring>Fletched</substring>
 		</binding>
+		<binding>
+			<identifier>Fletched</identifier>
+			<substring>Оперенная</substring>
+		</binding>
 	<!-- Nock to Tip -->
 	</ammunition_modifier_bindings>
 

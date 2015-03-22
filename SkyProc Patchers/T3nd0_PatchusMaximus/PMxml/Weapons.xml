@@ -258,7 +258,15 @@
 			<identifier>80</identifier>
 		</binding>
 		<binding>
+			<substring>(улучшенный)</substring>
+			<identifier>80</identifier>
+		</binding>
+		<binding>
 			<substring>(Legendary)</substring>
+			<identifier>120</identifier>
+		</binding>
+		<binding>
+			<substring>(легендарный)</substring>
 			<identifier>120</identifier>
 		</binding>
 		<binding>
