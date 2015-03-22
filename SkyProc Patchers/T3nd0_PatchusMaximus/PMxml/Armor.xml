@@ -2047,6 +2047,26 @@
 			<identifier>LightFactionLow</identifier>
 			<substring>Братьев Бури</substring>
 		</binding>
+ 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Stormcloak Officer</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерский шлем Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерские наручи Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерские сапоги Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерская броня Братьев Бури</substring>
+		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Stormcloak</substring>
@@ -10104,6 +10124,10 @@
 		<binding>
 			<identifier>ScaledLow</identifier>
 			<substring>Тэмбтра, </substring>
+		</binding>
+ 		<binding>
+ 			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Gloves</substring>
 		</binding>
 		<binding>
 			<identifier>ScaledLow</identifier>
