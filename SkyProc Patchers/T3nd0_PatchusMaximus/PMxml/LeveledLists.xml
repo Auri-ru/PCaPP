@@ -4764,7 +4764,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-			<!-- Hunterborn  -->
+			<exclusion>
+				<text>Divining Knife</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Hunterborn  -->
 		<!-- Helgen Reborn -->
 			<exclusion>
 				<text>Balok</text>
