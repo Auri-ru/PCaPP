@@ -8,6 +8,34 @@ Blocklist:
 Exclusions:
 
 Fixes:
+
+Changes:
+
+Additions:
+
+Balancing:
+
+Renamed:
+
+Updated Patches:
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
+<v2.6>
+Now covers:
+	Sovereign Slayer (57363)
+	True Thief Armor (38409)
+
+Blocklist:
+	Throwing_Weapons_Redux.esp
+
+Exclusions:
+	Removed overreaching distribution exclusions on Dawnguard and Dagonborn Books.
+
+Fixes:
 	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
 	Corrected a broken Enchantment link on The Forgemasters Fingers. (WAFR CCOR patch)
 	Corrected a weapon modifier that was making all Greatswords stronger than intended.
@@ -20,15 +48,15 @@ Changes:
 Additions:
 	New binding for Ash Spawn weapons from Dragonborn.
 	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
-	Adjusted summoning spells and summoned NPCs to use PerMa stuff. (SiC)
+	Adjusted summoning spells and summoned NPCs to PerMa standards. (SiC)
+	Wyrmstooth patch to adjust spells and summoned creatures to PerMa standards and can be learned randomly when taking the Studies perks. (Wyrm)
+	Cure Poison and Cure Disease Spell Tomes will now teach the PerMa spell. (Wyrm)
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
 	Slightly increased Club and Spiked Club damage. (9 -> 10/11)
 	Slightly reduced Morning Star damage. (14 -> 12)
 	Increased armor of 'Stormcloak Officer' to be better than normal 'Stormcloak'.
-
-Renamed:
 
 Updated Patches:
 	Pre PaMa WAFR CCOR Patch (WAFR CCOR)
@@ -38,10 +66,8 @@ Updated Patches:
 	Skyrim Immersive Creatures (SiC)
 
 New Patches:
-</v3>
-</Current>
-
-<Old>
+	Wyrmstooth - PerMa Patch.esp (Wyrm)
+</v2.6>
 <v2.5.3>
 Now covers:
 	Albion Swords - The Chieftain (58257)
@@ -49,6 +75,7 @@ Now covers:
 	Albion Swords - The Sherwood (58374)
 	Albion The Baron (56438) (Two-Hand version needs name changed to 'The Great Baron)
 	The Vassal (56785)
+	Mithrodin Sword (23085)
 
 Exclusions:
 	Several secondary spells will no longer improperly have a scroll made. (PerMa)
