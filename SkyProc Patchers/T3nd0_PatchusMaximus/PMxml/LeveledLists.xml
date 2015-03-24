@@ -1291,22 +1291,62 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC1</text>
+				<text>Jiub's Opus</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Сочинение Святого Джиуба</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ецепт</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC2</text>
-				<target>EDID</target>
+				<text>Recipe</text>
+				<target>NAME</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>dlc2</text>
-				<target>EDID</target>
+				<text>Рецепт</text>
+				<target>NAME</target>
 				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Orders</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Book</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>BYOH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>HouseDecorate</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
@@ -3691,6 +3731,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<!-- Sovereign Slayer Armor -->
+			<exclusion>
+				<text>yuricaSovereign</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sovereign Slayer Armor -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3726,6 +3773,11 @@
 				<text>Dawnguard</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Civil War Exclusions start -->
@@ -5136,6 +5188,11 @@
 				<text>Skyforge</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Some 'USE ALL' LLs that otherwise can overload an NPCs inventory -->
 			<exclusion>
@@ -6902,6 +6959,20 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Sofia - The Funny Fully Voiced Follower -->
+		<!-- Sovereign Slayer Armor -->
+			<exclusion>
+				<text>yuricaSovereign</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sovereign Slayer Armor -->
+		<!-- True Thief Armor -->
+			<exclusion>
+				<text>xxxthief</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- True Thief Armor -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
