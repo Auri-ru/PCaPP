@@ -1228,6 +1228,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		 <!-- Sofia - The Funny Fully Voiced Follower -->
+		 <!-- Destroy the Thieves Guild -->
+			<exclusion>
+				<text>TGD</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- Destroy the Thieves Guild -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1892,6 +1899,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Emfy Armor -->
+		<!-- Destroy the Thieves Guild -->
+			<exclusion>
+				<text>TGD</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- Destroy the Thieves Guild -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
