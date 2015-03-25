@@ -10254,8 +10254,16 @@
 			<substring>Эмфи, нимб клерика</substring>
 		</binding>
  	<!-- Emfy armor end-->
-
-	
+	<!-- Legendary Rings start-->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Драгоценность Румаре</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Черная лента</substring>
+		</binding>
+	<!-- Legendary Rings end-->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 
@@ -12967,5 +12975,12 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Sofia - The Funny Fully Voiced Follower -->
+	<!-- Legendary Rings -->
+		<exclusion>
+			<text>1884LR_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Legendary Rings -->
 	</reforge_exclusions>
 </ns2:armor>

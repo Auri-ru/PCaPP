@@ -114,6 +114,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Legendary Rings
+Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
 Метод: XML
