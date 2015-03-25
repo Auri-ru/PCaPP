@@ -1242,6 +1242,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		 <!-- Dragon Soul Relinquishment -->
+		 <!-- High Level Enemies -->
+			<exclusion>
+				<text>crUnarmedDamage</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- High Level Enemies -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>

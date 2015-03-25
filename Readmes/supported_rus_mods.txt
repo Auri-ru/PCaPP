@@ -79,6 +79,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: High Level Enemies 
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/high-level-enemies.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Hunterborn
 Источник: 
 Метод: XML
