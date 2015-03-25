@@ -37,6 +37,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Dragon Soul Relinquishment
+Источник: http://tesall.ru/files/file/4635-zhertvovanie-dush-drakonov/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Emfy Cleric Robes
 Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
 Метод: XML

@@ -1235,6 +1235,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		 <!-- Destroy the Thieves Guild -->
+		 <!-- Dragon Soul Relinquishment -->
+			<exclusion>
+				<text>DSRShoutPowerAbility</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		 <!-- Dragon Soul Relinquishment -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
