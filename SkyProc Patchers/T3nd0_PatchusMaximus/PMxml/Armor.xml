@@ -10264,6 +10264,20 @@
 			<substring>Черная лента</substring>
 		</binding>
 	<!-- Legendary Rings end-->
+	<!-- Iomaungandr Rising -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Седобородых</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Непримечательн</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Катафракт Талоса</substring>
+		</binding>
+	<!-- Iomaungandr Rising -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 
@@ -12982,5 +12996,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Legendary Rings -->
+	<!-- Iomaungandr Rising -->
+		<exclusion>
+			<text>DT_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Iomaungandr Rising -->
 	</reforge_exclusions>
 </ns2:armor>

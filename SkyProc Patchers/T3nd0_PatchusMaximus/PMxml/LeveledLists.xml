@@ -1249,6 +1249,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		 <!-- High Level Enemies -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1920,6 +1927,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		 <!-- Destroy the Thieves Guild -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -7001,6 +7015,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- True Thief Armor -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -8634,6 +8655,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Legendary Rings -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

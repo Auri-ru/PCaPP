@@ -109,6 +109,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Iomaungandr Rising
+Источник: http://tesall.ru/files/file/6087-vozvraschenie-jomaunganda/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Isilmeriel LOTR Weapons Collection
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lotr-weapons.shtml
 Метод: XML
