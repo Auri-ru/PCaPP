@@ -12936,6 +12936,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Telvanni Hall -->
+	<!-- Vampiric Thirst -->
+		<exclusion>
+			<text>mslVTPwMagShaARendingClawsWPN</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Vampiric Thirst -->
 	</reforge_exclusions>
 
 </ns2:weapons>

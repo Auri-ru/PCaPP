@@ -1282,6 +1282,33 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Telvanni Hall-->
+		<!-- Vampiric Thirst-->
+			<exclusion>
+				<text>mslVT</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>crVampire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>VampireVampirism</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>VampirePoisonResist</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>VampireHuntersSight</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Vampiric Thirst-->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -3834,6 +3861,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Telvanni Hall -->
+		<!-- Vampiric Thirst -->
+			<exclusion>
+				<text>mslVTPwMagShaARendingClawsWPN</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Vampiric Thirst -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

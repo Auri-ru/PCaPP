@@ -243,6 +243,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Vampiric Thirst
+Источник: http://tesall.ru/files/file/5739-golod/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Vilja in Skyrim 4.1
 Источник: tesall.ru/files/file/6335-vilya-v-skajrime/
 Метод: XML
