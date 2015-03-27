@@ -1270,6 +1270,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall-->
+			<exclusion>
+				<text>TEGConjure</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>TEGFireboltSpecial</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall-->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1955,6 +1967,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall -->
+			<exclusion>
+				<text>TEGJonBoldenTribute01</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3808,6 +3827,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall -->
+			<exclusion>
+				<text>TegTelvanniStaffQuestItem</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

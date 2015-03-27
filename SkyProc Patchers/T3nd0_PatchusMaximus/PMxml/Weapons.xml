@@ -12929,6 +12929,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Knight of Thorns Armor and Spear of Thorns -->
+	<!-- Telvanni Hall -->
+		<exclusion>
+			<text>TegTelvanniStaffQuestItem</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Telvanni Hall -->
 	</reforge_exclusions>
 
 </ns2:weapons>
