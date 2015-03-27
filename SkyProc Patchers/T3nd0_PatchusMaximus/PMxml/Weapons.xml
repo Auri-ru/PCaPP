@@ -5032,7 +5032,11 @@
 		</binding>
 		<binding>
 			<identifier>NordHigh</identifier>
-			<substring>Hrothmund's Battleaxe Replica</substring>
+			<substring>Hrothmund's</substring>
+		</binding>
+		<binding>
+			<identifier>NordHigh</identifier>
+			<substring>Хротмунда</substring>
 		</binding>
 	<!-- Nord bindings end -->
 	
@@ -6157,6 +6161,14 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Great Cluny</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Loner's Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Loner's Greatword</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -8752,6 +8764,10 @@
 			<substring>The Sherwood</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Loner's Sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -10321,6 +10337,14 @@
 			<substring>Natat 2H</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
+		<binding>
+			<substring>Hrothmund</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Хротмунда</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
 	<!-- Battleaxe bindings end -->
 	
 	<!-- Battlestaff bindings start -->
@@ -10729,6 +10753,10 @@
 		</binding>
 		<binding>
 			<substring>Blade of the Wicked</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Loner's Greatsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->

@@ -5099,11 +5099,11 @@
 			<substring>Эльфийский тяжелый</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>Snow Elf</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>снежных эльфов</substring>
 		</binding>
 		<binding>
@@ -10696,8 +10696,8 @@
 			<armorBase>32</armorBase> <!-- Equal to Glass -->
 			<identifier>Ancient Falmer</identifier> <!-- Light Armor/Elven perk -->
 			<type>LIGHT</type>
-			<materialMeltdown>FALMER</materialMeltdown>
-			<materialTemper>FALMER</materialTemper>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
 		</armor_material>
 		<armor_material>
 			<armorBase>37</armorBase> <!-- Equal to Dwarven -->
