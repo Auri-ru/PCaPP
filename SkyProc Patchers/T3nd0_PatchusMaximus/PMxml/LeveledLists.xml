@@ -1263,6 +1263,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spell Eraser -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>Tweak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1941,6 +1948,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Iomaungandr Rising -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>Tweak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3787,6 +3801,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Sovereign Slayer Armor -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>FollowerHuntingBow</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

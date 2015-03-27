@@ -10278,6 +10278,12 @@
 			<substring>Катафракт Талоса</substring>
 		</binding>
 	<!-- Iomaungandr Rising -->
+	<!-- Amazing Folower Tweaks -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Дополнительн</substring>
+		</binding>
+	<!-- Iomaungandr Rising -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 

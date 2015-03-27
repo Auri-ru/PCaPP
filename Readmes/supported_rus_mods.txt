@@ -1,3 +1,8 @@
+Название: Amazing Follower Tweaks
+Источник: http://tes.riotpixels.com/mods/skyrim/companions/aft.shtml
+Метод: XML 
+Ставить: ниже PerMa
+
 Название: Archer's Armory
 Источник: http://www.nexusmods.com/skyrim/mods/59345/?
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
