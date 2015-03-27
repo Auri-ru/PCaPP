@@ -1256,6 +1256,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Iomaungandr Rising -->
+		<!-- Spell Eraser -->
+			<exclusion>
+				<text>SpellEraser</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Spell Eraser -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
