@@ -149,6 +149,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Moonlight Tales
+Источник: http://tesall.ru/files/file/4893-moonlight-tales-werewolf-and-werebear-overhaul/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: OBIS 2.1
 Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
 Метод: XML

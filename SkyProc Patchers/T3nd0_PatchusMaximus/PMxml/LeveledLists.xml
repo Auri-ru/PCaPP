@@ -1333,6 +1333,23 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Dimond Weapon Smithing -->
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+			<exclusion>
+				<text>MT_Spell_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>MT_Disease_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>WerewolfChange</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>

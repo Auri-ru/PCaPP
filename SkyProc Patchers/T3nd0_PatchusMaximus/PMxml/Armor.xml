@@ -13184,6 +13184,13 @@
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
-	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<exclusion>
+			<text>MT_Armor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+	
 	</reforge_exclusions>
 </ns2:armor>
