@@ -4241,6 +4241,22 @@
 			<identifier>ForswornHigh</identifier>
 			<substring>Вересковый Гейс</substring>
 		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ancient Falmer</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древний фалмерский</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древняя фалмерская</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древнее фалмерское</substring>
+		</binding>
 		<!-- Falmer/Forsworn bindings end -->
 
 	<!-- Giant Weapon bindings start -->
@@ -6971,6 +6987,14 @@
 			<reachModifier>-0.08</reachModifier>
 			<speedModifier>-0.1</speedModifier>
 		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.6</damageModifier> <!-- 1.44 after Ancient binding-->
+			<identifier>Ancient Falmer</identifier>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>-0.03</speedModifier>
+		</weapon_material>
 	<!-- Falmer Material Listings end -->
 
 	<!-- Forsworn Material Listings start -->
@@ -8768,6 +8792,10 @@
 			<substring>Loner's Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>WinterStorm</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -9158,6 +9186,10 @@
 		</binding>
 		<binding>
 			<substring>Elven Short Blade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>HoarFrost</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 	<!-- Dagger bindings end -->
@@ -10773,6 +10805,14 @@
 			<substring>Great Club</substring>
 			<identifier>Longmace</identifier>
 		</binding>
+		<binding>
+			<substring>Warmace</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Black Ice</substring>
+			<identifier>Longmace</identifier>
+		</binding>
 	<!-- Longmace bindings end -->
 	
 	<!-- Nodachi bindings start -->
@@ -11285,6 +11325,14 @@
 		</binding>
 		<binding>
 			<substring>Dwemer Recurve Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ancient Falmer Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Snowfall</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -12943,6 +12991,38 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Vampiric Thirst -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>Moth's</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ZZZ</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Snowfall</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>WinterStorm</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Black Ice</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>HoarFrost</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</reforge_exclusions>
 
 </ns2:weapons>
