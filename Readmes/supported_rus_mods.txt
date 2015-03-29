@@ -42,6 +42,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Dimond Armor Smithing
+Источник: http://tesall.ru/files/file/4873-samotcvetnaya-bronya/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Dragon Soul Relinquishment
 Источник: http://tesall.ru/files/file/4635-zhertvovanie-dush-drakonov/
 Метод: XML

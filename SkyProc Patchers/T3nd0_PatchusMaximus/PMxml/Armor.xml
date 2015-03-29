@@ -10283,7 +10283,176 @@
 			<identifier>Clothing</identifier>
 			<substring>Дополнительн</substring>
 		</binding>
-	<!-- Iomaungandr Rising -->
+	<!-- Dimond Armor Smithing -->
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкая гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкие гранатовые</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкий гранатовый</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Средняя гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелая гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелые гранатовые</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелый гранатовый</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкая аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкие аметистовые</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкий аметистовый</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Средняя аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелая аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелые аметистовые</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелый аметистовый</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкая рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкие рубиновые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкий рубиновый</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Средняя рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелая рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелые рубиновые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелый рубиновый</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкие сапфировые</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий сапфировый</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Средняя сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелая сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелые сапфировые</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелый сапфировый</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкая изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкие изумрудные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкий изумрудный</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Средняя изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелая изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелые изумрудные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелый изумрудный</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкая алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкие алмазные</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкий алмазный</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Средняя алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелая алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелые алмазные</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелый алмазный</substring>
+		</binding>
+	<!-- Dimond Armor Smithing -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 
