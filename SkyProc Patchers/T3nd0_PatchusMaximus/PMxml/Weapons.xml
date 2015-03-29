@@ -274,7 +274,15 @@
 			<identifier>speed</identifier>
 		</binding>
 		<binding>
+			<substring>(скорострельный)</substring>
+			<identifier>speed</identifier>
+		</binding>
+		<binding>
 			<substring>(High Tension)</substring>
+			<identifier>tension</identifier>
+		</binding>
+		<binding>
+			<substring>(мощный)</substring>
 			<identifier>tension</identifier>
 		</binding>
 	<!-- Nock to Tip end -->
