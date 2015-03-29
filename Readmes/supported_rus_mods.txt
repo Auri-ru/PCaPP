@@ -228,6 +228,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Tales of Lycanthropy
+Источник: http://modgames.net/load/tes_v_skyrim/gejmplej/1/247-1-0-13347
+Метод: XML
+Ставить: ниже PerMa
+
 Название: TERA Armors Collection
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/bronja_dlja_cbbe_unp_7b_adec/kollekcija_broni_tehra_dlja_unp_tera_armors_collection_for_unp/11-1-0-1034
 Метод: XML

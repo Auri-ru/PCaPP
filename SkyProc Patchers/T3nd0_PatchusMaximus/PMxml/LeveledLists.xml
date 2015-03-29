@@ -1350,6 +1350,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+			<exclusion>
+				<text>ToL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -7306,6 +7313,20 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Diamond Armor -->
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+			<exclusion>
+				<text>MT_Armor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+			<exclusion>
+				<text>ToL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
