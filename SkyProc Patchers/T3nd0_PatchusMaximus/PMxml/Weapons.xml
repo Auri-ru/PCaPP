@@ -944,7 +944,32 @@
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
 		</binding>
-		
+		<!-- Dimond Weapon Smithing -->
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Алмазн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Аметистов</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Гранатов</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Изумрудн</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Рубинов</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Сапфиров</substring>
+		</binding>
+		<!-- Dimond Weapon Smithing -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->

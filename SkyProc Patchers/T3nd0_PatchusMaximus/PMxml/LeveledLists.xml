@@ -1316,6 +1316,23 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Dimond Weapon Smithing -->
+			<exclusion>
+				<text>HazardBolt</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>HazardArrow</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>TrapOilHazardSpell01</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Dimond Weapon Smithing -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -3889,6 +3906,38 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Dimond Weapon Smithing -->
+			<exclusion>
+				<text>Amethyst</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Diamond</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Emerald</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Garnet</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Ruby</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Sapphire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dimond Weapon Smithing -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>

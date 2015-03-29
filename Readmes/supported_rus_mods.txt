@@ -47,6 +47,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Dimond Weapon Smithing
+Источник: http://tesall.ru/files/file/4013-almaznoe-oruzhie/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Dragon Soul Relinquishment
 Источник: http://tesall.ru/files/file/4635-zhertvovanie-dush-drakonov/
 Метод: XML
