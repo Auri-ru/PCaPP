@@ -1,3 +1,8 @@
+Название: Amazing Follower Tweaks
+Источник: http://tes.riotpixels.com/mods/skyrim/companions/aft.shtml
+Метод: XML 
+Ставить: ниже PerMa
+
 Название: Archer's Armory
 Источник: http://www.nexusmods.com/skyrim/mods/59345/?
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
@@ -31,6 +36,26 @@
 Ставить: Complete Crafting Overhaul_Remade.esp, CCO-Frostfall, 
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
+	
+Название: Destroy the Thieves Guild
+Источник: http://tesall.ru/files/file/5264-unichtozhenie-gildii-vorov/
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Dimond Armor Smithing
+Источник: http://tesall.ru/files/file/4873-samotcvetnaya-bronya/
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Dimond Weapon Smithing
+Источник: http://tesall.ru/files/file/4013-almaznoe-oruzhie/
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Dragon Soul Relinquishment
+Источник: http://tesall.ru/files/file/4635-zhertvovanie-dush-drakonov/
+Метод: XML
+Ставить: ниже PerMa
 
 Название: Emfy Cleric Robes
 Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
@@ -69,6 +94,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: High Level Enemies 
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/high-level-enemies.shtml
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Hunterborn
 Источник: 
 Метод: XML
@@ -94,6 +124,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Iomaungandr Rising
+Источник: http://tesall.ru/files/file/6087-vozvraschenie-jomaunganda/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Isilmeriel LOTR Weapons Collection
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lotr-weapons.shtml
 Метод: XML
@@ -104,8 +139,18 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Legendary Rings
+Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Moonlight Tales
+Источник: http://tesall.ru/files/file/4893-moonlight-tales-werewolf-and-werebear-overhaul/
 Метод: XML
 Ставить: ниже PerMa
 
@@ -173,8 +218,23 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Spell Eraser
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/spell-eraser.shtml
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Telvanni Hall
+Источник: http://tes.riotpixels.com/mods/skyrim/quests/telvanni-hall.shtml
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Tales of Lycanthropy
+Источник: http://modgames.net/load/tes_v_skyrim/gejmplej/1/247-1-0-13347
+Метод: XML
+Ставить: ниже PerMa
+
 Название: TERA Armors Collection
-Источник: http://gamer-mods.ru...unp/11-1-0-1034 
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/bronja_dlja_cbbe_unp_7b_adec/kollekcija_broni_tehra_dlja_unp_tera_armors_collection_for_unp/11-1-0-1034
 Метод: XML
 Ставить: ниже PerMa
 
@@ -200,6 +260,11 @@
 
 Название: Ursine Armor Pack
 Источник: http://modgames.net/load/tes_v_skyrim/1/ursine_armor_pack/306-1-0-18235
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Vampiric Thirst
+Источник: http://tesall.ru/files/file/5739-golod/
 Метод: XML
 Ставить: ниже PerMa
 

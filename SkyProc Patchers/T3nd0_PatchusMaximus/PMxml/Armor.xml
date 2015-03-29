@@ -2047,6 +2047,26 @@
 			<identifier>LightFactionLow</identifier>
 			<substring>Братьев Бури</substring>
 		</binding>
+ 		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Stormcloak Officer</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерский шлем Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерские наручи Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерские сапоги Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Офицерская броня Братьев Бури</substring>
+		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Heroic Stormcloak</substring>
@@ -3626,6 +3646,10 @@
 			<identifier>DaedricLight</identifier>
 			<substring>Avatar Of Grenth</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Sovereign's Slayer</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -5075,11 +5099,11 @@
 			<substring>Эльфийский тяжелый</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>Snow Elf</substring>
 		</binding>
 		<binding>
-			<identifier>Elven</identifier>
+			<identifier>ElvenHigh</identifier>
 			<substring>снежных эльфов</substring>
 		</binding>
 		<binding>
@@ -5213,10 +5237,6 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Rivendell</substring>
-		</binding>
-		<binding>
-			<identifier>Elven</identifier>
-			<substring>Jalamark</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5436,6 +5456,10 @@
 		</binding>
 		<binding>
 			<identifier>Falmer</identifier>
+			<substring>Falmer Shaman</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer</identifier>
 			<substring>Shalk Chitin</substring>
 		</binding>
 		<binding>
@@ -5453,6 +5477,10 @@
 		<binding>
 			<identifier>Falmer Hardened</identifier>
 			<substring>Фалмерский обруч</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>SunBlessed</substring>
 		</binding>
 	<!-- Falmer Material Bindings end -->
 	
@@ -7501,6 +7529,18 @@
 		<binding>
 			<identifier>LeatherHigh</identifier>
 			<substring>Savage Hunter</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Thief</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Воров</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>воров</substring>
 		</binding>
 	<!-- Leather Material Bindings end -->
 	
@@ -10105,6 +10145,10 @@
 			<identifier>ScaledLow</identifier>
 			<substring>Тэмбтра, </substring>
 		</binding>
+ 		<binding>
+ 			<identifier>ScaledLow</identifier>
+			<substring>Tembtra Thief Gloves</substring>
+		</binding>
 		<binding>
 			<identifier>ScaledLow</identifier>
 			<substring>Tembtra Thief Armlets</substring>
@@ -10210,8 +10254,205 @@
 			<substring>Эмфи, нимб клерика</substring>
 		</binding>
  	<!-- Emfy armor end-->
-
-	
+	<!-- Legendary Rings start-->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Драгоценность Румаре</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Черная лента</substring>
+		</binding>
+	<!-- Legendary Rings end-->
+	<!-- Iomaungandr Rising -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Седобородых</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Непримечательн</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Катафракт Талоса</substring>
+		</binding>
+	<!-- Iomaungandr Rising -->
+	<!-- Amazing Folower Tweaks -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Дополнительн</substring>
+		</binding>
+	<!-- Dimond Armor Smithing -->
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкая гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкие гранатовые</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Легкий гранатовый</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Средняя гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелая гранатовая</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелые гранатовые</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Тяжелый гранатовый</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкая аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкие аметистовые</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLow</identifier>
+			<substring>Легкий аметистовый</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Средняя аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелая аметистовая</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелые аметистовые</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>Тяжелый аметистовый</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкая рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкие рубиновые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenLow</identifier>
+			<substring>Легкий рубиновый</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Средняя рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелая рубиновая</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелые рубиновые</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHeavy</identifier>
+			<substring>Тяжелый рубиновый</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкая сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкие сапфировые</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Легкий сапфировый</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Средняя сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелая сапфировая</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелые сапфировые</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHeavy</identifier>
+			<substring>Тяжелый сапфировый</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкая изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкие изумрудные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Легкий изумрудный</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Средняя изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелая изумрудная</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелые изумрудные</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Тяжелый изумрудный</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкая алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкие алмазные</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleLow</identifier>
+			<substring>Легкий алмазный</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Средняя алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелая алмазная</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелые алмазные</substring>
+		</binding>
+		<binding>
+			<identifier>DragonscaleHigh</identifier>
+			<substring>Тяжелый алмазный</substring>
+		</binding>
+	<!-- Dimond Armor Smithing -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 
@@ -10368,7 +10609,7 @@
 	<!-- Daedric Material Listings start -->
 	<!-- Bindings allowed: DaedricLight, DaedricLow, Daedric, DaedricHigh -->
 		<armor_material>
-			<armorBase>41</armorBase> <!-- Equal to Dragonscale -->
+			<armorBase>41</armorBase> <!-- Equal to Dragonscale +1 -->
 			<identifier>DaedricLight</identifier>
 			<type>LIGHT</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
@@ -10630,8 +10871,8 @@
 			<armorBase>32</armorBase> <!-- Equal to Glass -->
 			<identifier>Ancient Falmer</identifier> <!-- Light Armor/Elven perk -->
 			<type>LIGHT</type>
-			<materialMeltdown>FALMER</materialMeltdown>
-			<materialTemper>FALMER</materialTemper>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
 		</armor_material>
 		<armor_material>
 			<armorBase>37</armorBase> <!-- Equal to Dwarven -->
@@ -12923,5 +13164,33 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Sofia - The Funny Fully Voiced Follower -->
+	<!-- Legendary Rings -->
+		<exclusion>
+			<text>1884LR_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Legendary Rings -->
+	<!-- Iomaungandr Rising -->
+		<exclusion>
+			<text>DT_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Iomaungandr Rising -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>SunBlessed</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<exclusion>
+			<text>MT_Armor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+	
 	</reforge_exclusions>
 </ns2:armor>

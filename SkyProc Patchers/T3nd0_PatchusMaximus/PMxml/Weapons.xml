@@ -258,7 +258,15 @@
 			<identifier>80</identifier>
 		</binding>
 		<binding>
+			<substring>(улучшенный)</substring>
+			<identifier>80</identifier>
+		</binding>
+		<binding>
 			<substring>(Legendary)</substring>
+			<identifier>120</identifier>
+		</binding>
+		<binding>
+			<substring>(легендарный)</substring>
 			<identifier>120</identifier>
 		</binding>
 		<binding>
@@ -266,7 +274,15 @@
 			<identifier>speed</identifier>
 		</binding>
 		<binding>
+			<substring>(скорострельный)</substring>
+			<identifier>speed</identifier>
+		</binding>
+		<binding>
 			<substring>(High Tension)</substring>
+			<identifier>tension</identifier>
+		</binding>
+		<binding>
+			<substring>(мощный)</substring>
 			<identifier>tension</identifier>
 		</binding>
 	<!-- Nock to Tip end -->
@@ -936,7 +952,32 @@
 			<identifier>Wood</identifier>
 			<substring>Wood</substring>
 		</binding>
-		
+		<!-- Dimond Weapon Smithing -->
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Алмазн</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Аметистов</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Гранатов</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Изумрудн</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Рубинов</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Сапфиров</substring>
+		</binding>
+		<!-- Dimond Weapon Smithing -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -2086,6 +2127,14 @@
 			<substring>Вабба</substring>
 		</binding>
 		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Wabba Jaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Вабба Джакс</substring>
+		</binding>
+		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Goldbrand</substring>
 		</binding>
@@ -2377,6 +2426,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Penobscot War Bow IV</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Sovereign's Slayer</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -2486,6 +2539,18 @@
 	<!-- Dragonscale bindings end -->
 	
 	<!-- Drauger bindings start -->
+ 		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Ancient Nord</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Honed Ancient Nord</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Ancient Nord Honed</substring>
+		</binding>
  		<binding>
 			<identifier>Draugr Honed</identifier>
 			<substring>Nordic Honed</substring>
@@ -3624,14 +3689,6 @@
 			<substring>Wolf Bow</substring>
 		</binding>
 		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony Morning Star</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Ebony War Morning Star</substring>
-		</binding>
-		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Boarding Axe</substring>
 		</binding>
@@ -4216,6 +4273,22 @@
 		<binding>
 			<identifier>ForswornHigh</identifier>
 			<substring>Вересковый Гейс</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Ancient Falmer</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древний фалмерский</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древняя фалмерская</substring>
+		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древнее фалмерское</substring>
 		</binding>
 		<!-- Falmer/Forsworn bindings end -->
 
@@ -4982,6 +5055,10 @@
 	<!-- None bindings end -->
 	
 	<!-- Nord bindings start -->
+ 		<binding>
+ 			<identifier>NordHigh</identifier>
+			<substring>Marshborn Blight</substring>
+		</binding>
 		<binding>
 			<identifier>NordHigh</identifier>
 			<substring>Shadow Bite</substring>
@@ -5004,7 +5081,11 @@
 		</binding>
 		<binding>
 			<identifier>NordHigh</identifier>
-			<substring>Hrothmund's Battleaxe Replica</substring>
+			<substring>Hrothmund's</substring>
+		</binding>
+		<binding>
+			<identifier>NordHigh</identifier>
+			<substring>Хротмунда</substring>
 		</binding>
 	<!-- Nord bindings end -->
 	
@@ -5072,6 +5153,14 @@
 		<binding>
 			<identifier>OrcishHigh</identifier>
 			<substring>Мощь Военачальника</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
+			<substring>Warchief's</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishHigh</identifier>
+			<substring>Военачальника</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -6122,6 +6211,14 @@
 			<identifier>Steel</identifier>
 			<substring>Great Cluny</substring>
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Loner's Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Loner's Greatword</substring>
+		</binding>
 	<!-- Steel bindings end -->
 
 	<!-- Skyforge bindings start -->
@@ -6922,6 +7019,14 @@
 			<materialTemper>FALMER</materialTemper>
 			<reachModifier>-0.08</reachModifier>
 			<speedModifier>-0.1</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.6</damageModifier> <!-- 1.44 after Ancient binding-->
+			<identifier>Ancient Falmer</identifier>
+			<materialMeltdown>ELVEN</materialMeltdown>
+			<materialTemper>ELVEN</materialTemper>
+			<reachModifier>0.00</reachModifier>
+			<speedModifier>-0.03</speedModifier>
 		</weapon_material>
 	<!-- Falmer Material Listings end -->
 
@@ -8716,6 +8821,14 @@
 			<substring>The Sherwood</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Loner's Sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>WinterStorm</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -9106,6 +9219,10 @@
 		</binding>
 		<binding>
 			<substring>Elven Short Blade</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>HoarFrost</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 	<!-- Dagger bindings end -->
@@ -10146,6 +10263,14 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Warchief's Halberd</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Алебарда Военачальника</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Warchief's Might</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
@@ -10275,6 +10400,14 @@
 		</binding>
 		<binding>
 			<substring>Natat 2H</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Hrothmund</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Хротмунда</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 	<!-- Battleaxe bindings end -->
@@ -10687,6 +10820,10 @@
 			<substring>Blade of the Wicked</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Loner's Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
@@ -10699,6 +10836,14 @@
 		</binding>
 		<binding>
 			<substring>Great Club</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Warmace</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Black Ice</substring>
 			<identifier>Longmace</identifier>
 		</binding>
 	<!-- Longmace bindings end -->
@@ -10976,10 +11121,6 @@
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
-			<substring>Great Morning Star</substring>
-			<identifier>Great Morning Star</identifier>
-		</binding>
-		<binding>
 			<substring>War Morning Star</substring>
 			<identifier>Great Morning Star</identifier>
 		</binding>
@@ -11217,6 +11358,14 @@
 		</binding>
 		<binding>
 			<substring>Dwemer Recurve Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ancient Falmer Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Snowfall</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -12861,6 +13010,52 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Knight of Thorns Armor and Spear of Thorns -->
+	<!-- Telvanni Hall -->
+		<exclusion>
+			<text>TegTelvanniStaffQuestItem</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Telvanni Hall -->
+	<!-- Vampiric Thirst -->
+		<exclusion>
+			<text>mslVTPwMagShaARendingClawsWPN</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Vampiric Thirst -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>Moth's</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ZZZ</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>Snowfall</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>WinterStorm</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Black Ice</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>HoarFrost</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</reforge_exclusions>
 
 </ns2:weapons>

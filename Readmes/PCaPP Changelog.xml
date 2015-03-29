@@ -2,10 +2,52 @@
 <Current>
 <v3>
 Now covers:
+	The Loners Sword (16751) The two-hand version needs to be renamed 'Loner's Greatsword'
+	Axe of Hrothmund (31116)
+	Added Much Ado about Snow Elves - A Tragedy - Act I (16455)
 
 Blocklist:
 
 Exclusions:
+
+Fixes:
+	Added some keywords I had missed before. (SiC)
+	Corrected a typo in Silver Ingot recipes that caused it to hide when the Gold and Silver perk was taken. (CCOR)
+	The Wyrmstooth patch was incorrectly credited to the wrong user, Velgath made it.
+	Sorted masters. (Wyrm)
+
+Changes:
+
+Additions:
+	Added proper bindings for 'Ancient Nord' and 'Honed Ancient Nord'/'Ancient Nord Honed' weapons.
+
+Balancing:
+
+Renamed:
+	Orcish Bow (Legendry) -> Orcish Bow (Legendary) (N2T)
+	Vindskjær -> Vindskjaer (N2T) for real this time.
+
+Updated Patches:
+	Nock to Tip (N2T)
+	Immersive Creatures (SiC)
+	Compelete Crafting Overhaul (CCOR)
+	Wyrmstooth patch (Wyrm)
+
+New Patches:
+</v3>
+</Current>
+
+<Old>
+<v2.6>
+Now covers:
+	Sovereign Slayer (57363)
+	True Thief Armor (38409)
+
+Blocklist:
+	Throwing_Weapons_Redux.esp
+
+Exclusions:
+	Removed overreaching distribution exclusions on Dawnguard and Dagonborn Books.
 
 Fixes:
 	Corrected a broken keyword on Thalmor Cloths. (WAFR CCOR patch)
@@ -15,27 +57,31 @@ Fixes:
 
 Changes:
 	Changed material keyword on 'Colovian Composite Bow' and 'Colovian Dark Composite Bow' to sort them in the wood category. (IW)
+	Reduced Bound weapon costs and spells can now be randomly learned from Studies perks. (BA)
 
 Additions:
 	New binding for Ash Spawn weapons from Dragonborn.
 	Added clothing keyword all clothing items so they will sort to the Clothing category and be recognized as clothing. (IA)
+	Adjusted summoning spells and summoned NPCs to PerMa standards. (SiC)
+	Wyrmstooth patch to adjust spells and summoned creatures to PerMa standards and can be learned randomly when taking the Studies perks. (Wyrm)
+	Cure Poison and Cure Disease Spell Tomes will now teach the PerMa spell. (Wyrm)
 
 Balancing:
 	Slightly reduced Mace and Spiked Mace damage. (13 -> 10/11)
 	Slightly increased Club and Spiked Club damage. (9 -> 10/11)
 	Slightly reduced Morning Star damage. (14 -> 12)
-
-Renamed:
+	Increased armor of 'Stormcloak Officer' to be better than normal 'Stormcloak'.
 
 Updated Patches:
+	Pre PaMa WAFR CCOR Patch (WAFR CCOR)
 	Immersive Weapons (IW)
 	Immersive Armors (IA)
+	Bound Armory (BA)
+	Skyrim Immersive Creatures (SiC)
 
 New Patches:
-</v3>
-</Current>
-
-<Old>
+	Wyrmstooth - PerMa Patch.esp (Wyrm)
+</v2.6>
 <v2.5.3>
 Now covers:
 	Albion Swords - The Chieftain (58257)
@@ -43,6 +89,7 @@ Now covers:
 	Albion Swords - The Sherwood (58374)
 	Albion The Baron (56438) (Two-Hand version needs name changed to 'The Great Baron)
 	The Vassal (56785)
+	Mithrodin Sword (23085)
 
 Exclusions:
 	Several secondary spells will no longer improperly have a scroll made. (PerMa)

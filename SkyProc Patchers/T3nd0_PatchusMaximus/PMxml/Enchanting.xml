@@ -7816,6 +7816,25 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!--Knight of Thorns Armor and Spear of Thorns-->
+	<!-- Sovereign's Slayer Armor -->
+		<exclusion>
+			<text>yuricaSovereign</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sovereign's Slayer Armor -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>LB_Steel</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>LB_Orcish</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9058,6 +9077,27 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- aMidianBorn_ContentAddon -->
+	<!-- Sovereign's Slayer -->
+		<exclusion>
+			<text>yuricaSovereign</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sovereign's Slayer -->
+	<!-- True Thief Armor -->
+		<exclusion>
+			<text>xxxThief</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- True Thief Armor -->
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<exclusion>
+			<text>LB_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

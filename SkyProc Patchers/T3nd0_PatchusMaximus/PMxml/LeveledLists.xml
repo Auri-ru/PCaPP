@@ -108,11 +108,6 @@
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
-				<text>SOT_</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-			<exclusion>
 				<text>Quest</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
@@ -239,6 +234,11 @@
 			</exclusion>
 		<!-- 3DNPC/Interesting NPCs end -->
 		<!-- Sands of Time start -->
+			<exclusion>
+				<text>SOT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
 			<exclusion>
 				<text>ISS_ConjureSkeleton</text>
 				<target>EDID</target>
@@ -1228,6 +1228,135 @@
 				<type>EQUALS</type>
 			</exclusion>
 		 <!-- Sofia - The Funny Fully Voiced Follower -->
+		 <!-- Destroy the Thieves Guild -->
+			<exclusion>
+				<text>TGD</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- Destroy the Thieves Guild -->
+		 <!-- Dragon Soul Relinquishment -->
+			<exclusion>
+				<text>DSRShoutPowerAbility</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		 <!-- Dragon Soul Relinquishment -->
+		 <!-- High Level Enemies -->
+			<exclusion>
+				<text>crUnarmedDamage</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- High Level Enemies -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
+		<!-- Spell Eraser -->
+			<exclusion>
+				<text>SpellEraser</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Spell Eraser -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>Tweak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall-->
+			<exclusion>
+				<text>TEGConjure</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>TEGFireboltSpecial</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall-->
+		<!-- Vampiric Thirst-->
+			<exclusion>
+				<text>mslVT</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>crVampire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>VampireVampirism</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>VampirePoisonResist</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>VampireHuntersSight</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Vampiric Thirst-->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Dimond Weapon Smithing -->
+			<exclusion>
+				<text>HazardBolt</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>HazardArrow</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>TrapOilHazardSpell01</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Dimond Weapon Smithing -->
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+			<exclusion>
+				<text>MT_Spell_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>MT_Disease_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>WerewolfChange</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+			<exclusion>
+				<text>ToL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1291,22 +1420,62 @@
 				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC1</text>
+				<text>Jiub's Opus</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Сочинение Святого Джиуба</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>ецепт</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Recipe</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>DLC2</text>
-				<target>EDID</target>
+				<text>Recipe</text>
+				<target>NAME</target>
 				<type>STARTSWITH</type>
 			</exclusion>
 			<exclusion>
-				<text>dlc2</text>
-				<target>EDID</target>
+				<text>Рецепт</text>
+				<target>NAME</target>
 				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Orders</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Book</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
 			</exclusion>
 			<exclusion>
 				<text>BYOH</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>HouseDecorate</text>
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
@@ -1852,6 +2021,41 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Emfy Armor -->
+		<!-- Destroy the Thieves Guild -->
+			<exclusion>
+				<text>TGD</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		 <!-- Destroy the Thieves Guild -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>Tweak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall -->
+			<exclusion>
+				<text>TEGJonBoldenTribute01</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3691,6 +3895,73 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Knight of Thorns Armor and Spear of Thorns -->
+		<!-- Sovereign Slayer Armor -->
+			<exclusion>
+				<text>yuricaSovereign</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sovereign Slayer Armor -->
+		<!-- Amazing Follower Tweaks -->
+			<exclusion>
+				<text>FollowerHuntingBow</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Amazing Follower Tweaks -->
+		<!-- Telvanni Hall -->
+			<exclusion>
+				<text>TegTelvanniStaffQuestItem</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Telvanni Hall -->
+		<!-- Vampiric Thirst -->
+			<exclusion>
+				<text>mslVTPwMagShaARendingClawsWPN</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Vampiric Thirst -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Dimond Weapon Smithing -->
+			<exclusion>
+				<text>Amethyst</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Diamond</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Emerald</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Garnet</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Ruby</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Sapphire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dimond Weapon Smithing -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -3726,6 +3997,11 @@
 				<text>Dawnguard</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Faction Exclusions end -->
 		<!-- Civil War Exclusions start -->
@@ -3886,6 +4162,14 @@
 				<target>EDID</target>
 				<type>CONTAINS</type>
 			</exclusion>
+		<!-- Some 'USE ALL' LLs that otherwise can overload an NPCs inventory -->
+		<!-- Some LLs that can get overloaded by PaMa's Similarity system-->
+			<exclusion>
+				<text>LItemWeaponDaggerTown</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Some LLs that can get overloaded by PaMa's Similarity system-->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
@@ -4764,7 +5048,12 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-			<!-- Hunterborn  -->
+			<exclusion>
+				<text>Divining Knife</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Hunterborn  -->
 		<!-- Helgen Reborn -->
 			<exclusion>
 				<text>Balok</text>
@@ -5062,6 +5351,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Sewers 4 -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -5131,6 +5427,11 @@
 				<text>Skyforge</text>
 				<target>EDID</target>
 				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Courier</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Some 'USE ALL' LLs that otherwise can overload an NPCs inventory -->
 			<exclusion>
@@ -6897,6 +7198,135 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Sofia - The Funny Fully Voiced Follower -->
+		<!-- Sovereign Slayer Armor -->
+			<exclusion>
+				<text>yuricaSovereign</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sovereign Slayer Armor -->
+		<!-- True Thief Armor -->
+			<exclusion>
+				<text>xxxthief</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- True Thief Armor -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Diamond Armor -->
+			<exclusion>
+				<text>ArmorHAmethyst</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorHDiamond</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorHEmerald</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorHGarnet</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorHRuby</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorHSapphire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorLAmethyst</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorLDiamond</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorLEmerald</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorLGarnet</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorLRuby</text>
+				<target>EDID</target>
+				<type>ArmorLSapphire</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMAmethyst</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMDiamond</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMEmerald</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMGarnet</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMRuby</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArmorMSapphire</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Diamond Armor -->
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+			<exclusion>
+				<text>MT_Armor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+			<exclusion>
+				<text>ToL_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -8523,6 +8953,27 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wind Destruction -->
+		<!-- Legendary Rings -->
+			<exclusion>
+				<text>1884LR_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Legendary Rings -->
+		<!-- Iomaungandr Rising -->
+			<exclusion>
+				<text>DT_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Iomaungandr Rising -->
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+			<exclusion>
+				<text>LB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
