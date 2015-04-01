@@ -297,6 +297,12 @@
 Источник: 
 Метод: в процессе (Аури)
 
+Название: Расширенные руины Винтерхолда
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
+Метод: XML
+       Опциональный патч CCOR/WAFR (с реплейсером брони/оружия на уникальные) - https://mega.co.nz/#!JlIQUKIY!ayZUX5vaECRfj60JD9EzP5XyIR5cA8xzeanfK9oWfJQ
+Ставить: ниже PerMa и ExpandedWinterholdRuins.esp
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1

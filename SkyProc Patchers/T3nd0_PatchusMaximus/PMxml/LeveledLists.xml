@@ -186,6 +186,43 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wyrmstooth end -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
+			<exclusion>
+				<text>SpellTomeEnervatingCharge</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeFrozenBurst</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeParalysisRune</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeSearingFlames</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeConjureCoruptedEliteGuard</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeHealingBreeze</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomePeaceandHarmony</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Expanded Winterhold Destruction Ruins end -->
 		<!-- 3DNPC/Interesting NPCs start -->
 			<exclusion>
 				<text>3DNPC</text>
@@ -4756,6 +4793,28 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar-->
+				<!-- Expanded Winterhold Destruction Ruins start -->
+			<exclusion>
+				<text>WinterholdCaptainSword</text>
+				<target>EDID</target>
+				<tpe>EQUALS</tpe>
+			</exclusion>
+			<exclusion>
+				<text>WinterNufalBow</text>
+				<target>EDID</target>
+				<tpe>EQUALS</tpe>
+			</exclusion>
+			<exclusion>
+				<text>WinterJarlThorraxe</text>
+				<target>EDID</target>
+				<tpe>EQUALS</tpe>
+			</exclusion>
+			<exclusion>
+				<text>WinterholdDagger</text>
+				<target>EDID</target>
+				<tpe>EQUALS</tpe>
+			</exclusion>
+			<!-- Expanded Winterhold Destruction Ruins end -->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>

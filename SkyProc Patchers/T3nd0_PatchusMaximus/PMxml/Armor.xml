@@ -864,7 +864,33 @@
 			<substring>Меховой плащ Лейфура</substring>
 		</binding>				
 		<!-- Vilja in Skyrim End-->
+		<!-- Expanded Winterhold Destruction Ruins Start -->
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Элитной Гвардии</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Элитной Гвардии кольцо</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Элитной Гвардии капюшон мага</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Элитной Гвардии перчатки мага</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Элитной Гвардии сапоги мага</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Элитной Гвардии одеяние мага</substring>
+		</binding>
 
+		<!-- Expanded Winterhold Destruction Ruins End -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->

@@ -978,6 +978,24 @@
 			<substring>Сапфиров</substring>
 		</binding>
 		<!-- Dimond Weapon Smithing -->
+				<!-- Expanded Winterhold Destruction Ruins start -->
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Прикосновение холода</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Лук Ньюфала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Морозное жало</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Клык саблезуба</substring>
+		</binding>
+		<!-- Expanded Winterhold Destruction Ruins end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -8297,6 +8315,24 @@
 			<identifier>Waraxe</identifier>
 		</binding>
 		<!-- TERA Weapons End-->
+				<!-- Expanded Winterhold Destruction Ruins start -->
+		<binding>
+			<substring>Прикосновение холода</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Лук Ньюфала</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Морозное жало</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Клык саблезуба</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<!-- Expanded Winterhold Destruction Ruins end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
