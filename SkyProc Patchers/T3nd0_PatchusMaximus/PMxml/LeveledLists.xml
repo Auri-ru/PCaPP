@@ -2903,6 +2903,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Inigo-->
+		<!-- Expanded Towns and cities start -->
+			<exclusion>
+				<text>MJB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>LB_Jishad</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Expanded Towns and cities end -->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
@@ -4793,28 +4805,40 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar-->
-				<!-- Expanded Winterhold Destruction Ruins start -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
 			<exclusion>
 				<text>WinterholdCaptainSword</text>
 				<target>EDID</target>
-				<tpe>EQUALS</tpe>
+				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>WinterNufalBow</text>
 				<target>EDID</target>
-				<tpe>EQUALS</tpe>
+				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>WinterJarlThorraxe</text>
 				<target>EDID</target>
-				<tpe>EQUALS</tpe>
+				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>WinterholdDagger</text>
 				<target>EDID</target>
-				<tpe>EQUALS</tpe>
+				<type>EQUALS</type>
 			</exclusion>
-			<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and cities start -->
+			<exclusion>
+				<text>MJB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>LB_Jishad</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Expanded Towns and cities end -->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>

@@ -303,6 +303,12 @@
        Опциональный патч CCOR/WAFR (с реплейсером брони/оружия на уникальные) - https://mega.co.nz/#!JlIQUKIY!ayZUX5vaECRfj60JD9EzP5XyIR5cA8xzeanfK9oWfJQ
 Ставить: ниже PerMa и ExpandedWinterholdRuins.esp
 
+Название: Расширение городов Скайрима
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirenie_gorodov_skajrima/15-1-0-1799
+Метод: XML + Патч
+		Патч: https://mega.co.nz/#!UgZDXDKS!RzLJ49FKg-mbAlXmtxpZvTvYrJvbw_mQUF-uXTiwZoU
+Ставить: Ниже PerMa
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1
