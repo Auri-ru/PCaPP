@@ -965,6 +965,11 @@
 
 	<ingredient_variations>
 		<ingredient_variation>
+			<identifier>Bug Tier 1</identifier>
+			<multiplierMagnitude>1.1</multiplierMagnitude>
+			<multiplierDuration>1</multiplierDuration>
+		</ingredient_variation>
+		<ingredient_variation>
 			<identifier>Fish Tier 1</identifier>
 			<multiplierMagnitude>1.2</multiplierMagnitude>
 			<multiplierDuration>1</multiplierDuration>
@@ -987,6 +992,28 @@
 	</ingredient_variations>
 
 	<ingredient_variation_bindings>
+	<!-- 83 Willos 101 Bugs start -->
+		<binding>
+			<identifier>Bug Tier 1</identifier>
+			<substring>трекоза</substring>
+		</binding>
+		<binding>
+			<identifier>Bug Tier 1</identifier>
+			<substring>Крыло</substring>
+		</binding>
+		<binding>
+			<identifier>Bug Tier 1</identifier>
+			<substring>крыло</substring>
+		</binding>
+		<binding>
+			<identifier>Bug Tier 1</identifier>
+			<substring>Торакс</substring>
+		</binding>
+		<binding>
+			<identifier>Bug Tier 1</identifier>
+			<substring>торакс</substring>
+		</binding>
+	<!-- 83 Willos 101 Bugs end -->
 	<!-- Fish Tier 1 start -->
 		<binding>
 			<identifier>Fish Tier 1</identifier>

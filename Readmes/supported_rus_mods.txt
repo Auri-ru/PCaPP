@@ -309,6 +309,10 @@
 		Патч: https://mega.co.nz/#!UgZDXDKS!RzLJ49FKg-mbAlXmtxpZvTvYrJvbw_mQUF-uXTiwZoU
 Ставить: Ниже PerMa
 
+Название: Бабочки-стрекозы-жучки Скайрима (83Willows 101BugsHD Butterfly Dragonfly Luna-Moth Torchbug)
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/zhivnost/babochki_strekozy_zhuchki_skajrima_83willows_101bugshd_butterfly_dragonfly_luna_moth_torchbug/45-1-0-1969
+Метод: XML
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1
