@@ -223,6 +223,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Revenge of the Enemies start -->
+			<exclusion>
+				<text>aaaMR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Revenge of the Enemies end -->
 		<!-- 3DNPC/Interesting NPCs start -->
 			<exclusion>
 				<text>3DNPC</text>
@@ -1764,6 +1771,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wyrmstooth end -->
+		<!-- Revenge of the Enemies start -->
+			<exclusion>
+				<text>aaaMR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Revenge of the Enemies end -->
 		<!-- 3DNPC/Interesting NPCs start -->
 			<exclusion>
 				<text>3DNPC</text>

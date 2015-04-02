@@ -1014,6 +1014,89 @@
 			<substring>Королевский клинок Дунара</substring>
 		</binding>
 		<!-- Expanded Towns and Cities End -->
+		<!-- Revenge of The Enemies start -->
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Ледяной нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный Нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Кристальный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский меч отступника</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский лук</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Холодный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Epic</identifier>
+			<substring>Священный меч</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный нордский двуручный меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Пламенный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Blades</identifier>
+			<substring>Клинок вампира</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Нордский боевой топор героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный нордский лук героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Пламенный нордский двуручный меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Кристальный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный Нордский меч героя</substring>
+		</binding>		
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Нордский меч тени</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Призрачный меч тьмы</substring>
+		</binding>		
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Призрачный меч тени</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Древний теневой клинок</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Огненный клинок</substring>
+		</binding>
+		
+		<!-- Revenge of The Enemies start -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -1224,6 +1307,22 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Draugr</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя нордская</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний Нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя Нордская</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -2921,6 +3020,10 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>Древний меч</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя секира</substring>
 		</binding>
 		<binding>
 			<identifier>Draugr Honed</identifier>
@@ -6933,6 +7036,14 @@
 			<reachModifier>-0.1</reachModifier>
 			<speedModifier>-0.05</speedModifier>
 		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.8</damageModifier>
+			<identifier>Draugr Epic</identifier>
+			<materialMeltdown>DRAUGR</materialMeltdown>
+			<materialTemper>DRAUGR</materialTemper>
+			<reachModifier>-0.1</reachModifier>
+			<speedModifier>-0.05</speedModifier>
+		</weapon_material>
 	<!-- Draugr Material Listings end -->
 
 	<!-- Dwarven Material Listings start -->
@@ -8405,6 +8516,20 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<!-- Expanded Towns and Cities End -->
+		<!-- Revenge of the Enemies start -->
+		<binding>
+			<substring>Огненный клинок</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок вампира</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Древний теневой клинок</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<!-- Revenge of the Enemies end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->

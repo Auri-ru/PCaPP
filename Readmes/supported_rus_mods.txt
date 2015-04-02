@@ -82,6 +82,10 @@
        ESP (Перевод, CCOR/WAFR TrueOrcish weapons patch) - https://mega.co.nz/#!ssAHEQgb!i4-eYOPFW76TqF8JUGQjzwRnxKC0gREbDpgF_9k-X5E
 Ставить: Ниже PerMa (после PerkusMaximus_Warrior.esp)
 
+Название: Опасные противники (Revenge of the Enemies)
+Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
+Метод: XML
+
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
