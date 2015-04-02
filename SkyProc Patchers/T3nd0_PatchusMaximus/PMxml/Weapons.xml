@@ -1349,6 +1349,10 @@
 			<substring>Соловьин</substring>
 		</binding>
 		<binding>
+			<identifier>Nightingale</identifier>
+			<substring>соловьин</substring>
+		</binding>
+		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Ancient Assassin's Black Sacrament</substring>
 		</binding>

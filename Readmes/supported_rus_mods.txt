@@ -71,6 +71,11 @@
 Источник: в процессе
 Метод: в процессе (DJ_Kovrik)
 
+Название: An NPO Module - Crossbows
+Источник: http://www.nexusmods.com/skyrim/mods/43517/? (Версия не имеет значение, ESP должен быть заменен на патч)
+Метод: Замена esp
+       ESP (Перевод, CCOR/WAFR TrueOrcish weapons patch) - https://mega.co.nz/#!ssAHEQgb!i4-eYOPFW76TqF8JUGQjzwRnxKC0gREbDpgF_9k-X5E
+
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
