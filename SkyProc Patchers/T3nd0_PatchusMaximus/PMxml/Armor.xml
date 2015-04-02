@@ -1675,6 +1675,10 @@
 			<identifier>Leather</identifier>
 			<substring>Бретон</substring>
 		</binding>
+ 		<binding>
+			<identifier>Leather</identifier>
+			<substring>Breton Knight</substring>
+		</binding>
 		<binding>
 			<identifier>Leather</identifier>
 			<substring>бретон</substring>
@@ -5126,6 +5130,10 @@
 			<identifier>EbonyLight</identifier>
 			<substring>Ebony Silver Mail</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Nerevarine</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -8202,6 +8210,10 @@
 			<identifier>Orcish</identifier>
 			<substring>Shield of Doom</substring>
 		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Bandit Leader's Helm</substring>
+		</binding>
 	<!-- Orcish Material Bindings end -->
 	
 	<!-- Scaled Material Bindings start -->
@@ -10517,6 +10529,20 @@
 			<substring>Тяжелый алмазный</substring>
 		</binding>
 	<!-- Dimond Armor Smithing -->
+	<!-- Arissa - The Wandering Rogue -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Штаны Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Наряд Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Пострадавшего от Бури</substring>
+		</binding>
+	<!-- Arissa - The Wandering Rogue -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 
@@ -13269,6 +13295,7 @@
 			<target>NAME</target>
 			<type>STARTSWITH</type>
 		</exclusion>
+	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
 		<exclusion>
 			<text>MT_Armor_</text>
@@ -13276,6 +13303,24 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moonlight Tales - Werewolf and Werebear Overhaul -->
-	
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>Bhabhilon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+			</exclusion>
+	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</reforge_exclusions>
 </ns2:armor>
