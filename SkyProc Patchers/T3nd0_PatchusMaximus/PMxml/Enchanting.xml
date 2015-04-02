@@ -7835,6 +7835,52 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- Conan Hyborian Age -->
+		<exclusion>
+			<text>PROM_Atlantean</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Cimmerian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Hyborian</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Rexor</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Thorgrim</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>PROM_Thulsa</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Conan Hyborian Age -->
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type></type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9098,6 +9144,25 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>Bhabhilon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moon and Star -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
