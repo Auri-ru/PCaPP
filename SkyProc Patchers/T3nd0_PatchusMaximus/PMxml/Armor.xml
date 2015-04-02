@@ -10529,6 +10529,33 @@
 			<substring>Тяжелый алмазный</substring>
 		</binding>
 	<!-- Dimond Armor Smithing -->
+	<!-- Arissa - The Wandering Rogue -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Штаны Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Наряд Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Пострадавшего от Бури</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Штаны Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Штаны Ариссы</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Штаны Ариссы</substring>
+		</binding>
+		
+	<!-- Arissa - The Wandering Rogue -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
 

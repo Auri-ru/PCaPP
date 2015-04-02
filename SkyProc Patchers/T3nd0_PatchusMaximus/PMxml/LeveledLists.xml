@@ -1418,6 +1418,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Arissa - The Wandering Rogue -->
+			<exclusion>
+				<text>_Arissa_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Arissa - The Wandering Rogue -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2146,6 +2153,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Arissa - The Wandering Rogue -->
+			<exclusion>
+				<text>_Arissa_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Arissa - The Wandering Rogue -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
