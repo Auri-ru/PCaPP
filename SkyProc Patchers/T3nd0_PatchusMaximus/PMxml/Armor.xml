@@ -10542,19 +10542,6 @@
 			<identifier>Clothing</identifier>
 			<substring>Пострадавшего от Бури</substring>
 		</binding>
-		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Штаны Ариссы</substring>
-		</binding>
-		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Штаны Ариссы</substring>
-		</binding>
-		<binding>
-			<identifier>Clothing</identifier>
-			<substring>Штаны Ариссы</substring>
-		</binding>
-		
 	<!-- Arissa - The Wandering Rogue -->
 	<!-- ============================================================== Materials end =================================================== -->
 	</armor_material_bindings>
