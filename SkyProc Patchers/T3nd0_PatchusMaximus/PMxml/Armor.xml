@@ -26,6 +26,15 @@
 		</binding>
 		<!-- Bindings that make no adjustments end-->
 		
+		<!-- Custom bindings start -->
+		<!-- Remodelled Armor for CBBE start -->
+		<binding>
+			<substring>- до бедра</substring>
+			<identifier>highheels</identifier>
+		</binding>
+		<!-- Remodelled Armor for CBBE end -->
+		<!-- Custom bindings end -->
+		
 		<!-- Bindings that lower the quality of armor start-->
 		<binding>
 			<substring>Alduin</substring>
@@ -600,6 +609,14 @@
 			<factorValue>1.1</factorValue>
 			<factorWeight>1.2</factorWeight>
 		</armor_modifier>
+		<!-- Remodelled Armor for CBBE High heels boots modifier start -->
+		<armor_modifier>
+			<identifier>highheels</identifier>
+			<factorArmor>1.05</factorArmor>
+			<factorValue>1.1</factorValue>
+			<factorWeight>1.1</factorWeight>
+		</armor_modifier>
+		<!-- Remodelled Armor for CBBE High heels boots modifier end -->
 	</armor_modifiers>
 
 	<armor_material_bindings>
@@ -889,8 +906,29 @@
 			<identifier>Clothing</identifier>
 			<substring>Элитной Гвардии одеяние мага</substring>
 		</binding>
-
 		<!-- Expanded Winterhold Destruction Ruins End -->
+		<!-- Remodelled Armor for CBBE bikini start -->
+		<binding>
+			<identifier>LeatherBikini</identifier>
+			<substring>Кожаные бикини</substring>
+		</binding>
+		<binding>
+			<identifier>FurBikini</identifier>
+			<substring>Бикини Бандитки</substring>
+		</binding>
+		<binding>
+			<identifier>SteelBikini</identifier>
+			<substring>Стальные бикини</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>егкая кольчужн</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>егкие кольчужн</substring>
+		</binding>
+		<!-- Remodelled Armor for CBBE bikini end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -10949,7 +10987,14 @@
 	<!-- Forsworn Material Listings end -->
 
 	<!-- Fur Material Listings start -->
-	<!-- Bindings allowed: Zero_Fur, FurLow, Fur, FurHigh, FurHeavy -->
+	<!-- Bindings allowed: Zero_Fur, FurBikini, FurLow, Fur, FurHigh, FurHeavy -->
+		<armor_material>
+			<armorBase>4</armorBase>
+			<identifier>FurBikini</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>FUR</materialMeltdown>
+			<materialTemper>FUR</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>9</armorBase>
 			<identifier>FurLow</identifier>
@@ -11141,7 +11186,14 @@
 	<!-- Iron Material Listings end -->
 
 	<!-- Leather Material Listings start -->
-	<!-- Bindings allowed: PauldronL, Pauldron, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+	<!-- Bindings allowed: PauldronL, Pauldron, LeatherBikini, LeatherLow, Leather, LeatherHigh, LeatherHeavy -->
+		<armor_material>
+			<armorBase>6</armorBase>
+			<identifier>LeatherBikini</identifier>
+			<type>LIGHT</type>
+			<materialMeltdown>LEATHER</materialMeltdown>
+			<materialTemper>LEATHER</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>13</armorBase>
 			<identifier>LeatherLow</identifier>
@@ -11361,7 +11413,14 @@
 	<!-- Stalhrim Material Listings end -->
 
 	<!-- Steel Material Listings start -->
-	<!-- Bindings allowed: SteelLight, SteelLow, Steel, SteelHigh, Steel Heavy -->
+	<!-- Bindings allowed: SteelBikini, SteelLight, SteelLow, Steel, SteelHigh, Steel Heavy -->
+		<armor_material>
+			<armorBase>12</armorBase>
+			<identifier>SteelBikini</identifier>
+			<type>HEAVY</type>
+			<materialMeltdown>STEEL</materialMeltdown>
+			<materialTemper>STEEL</materialTemper>
+		</armor_material>
 		<armor_material>
 			<armorBase>16</armorBase> <!-- Equal to Hide -->
 			<identifier>SteelLight</identifier>
