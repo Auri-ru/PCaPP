@@ -978,7 +978,7 @@
 			<substring>Сапфиров</substring>
 		</binding>
 		<!-- Dimond Weapon Smithing -->
-				<!-- Expanded Winterhold Destruction Ruins start -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
 		<binding>
 			<identifier>EbonyLow</identifier>
 			<substring>Прикосновение холода</substring>
@@ -996,6 +996,24 @@
 			<substring>Клык саблезуба</substring>
 		</binding>
 		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and Cities Start -->
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Меч Джишада</substring>
+		</binding>
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Бич вампиров</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Бессмертный клинок</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Королевский клинок Дунара</substring>
+		</binding>
+		<!-- Expanded Towns and Cities End -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -8315,7 +8333,7 @@
 			<identifier>Waraxe</identifier>
 		</binding>
 		<!-- TERA Weapons End-->
-				<!-- Expanded Winterhold Destruction Ruins start -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
 		<binding>
 			<substring>Прикосновение холода</substring>
 			<identifier>Longsword</identifier>
@@ -8333,6 +8351,24 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and Cities Start -->
+		<binding>
+			<substring>Меч Джишада</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Бич вампиров</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Королевский клинок Дунара</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Бессмертный клинок</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<!-- Expanded Towns and Cities End -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -13092,6 +13128,28 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- Expanded Towns and Cities Start -->
+		<exclusion>
+			<text>LB_JishadSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_ImperialSword01</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_AyleidDynarBlade</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_AyleidGreatsword02</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Expanded Towns and Cities End -->
 	</reforge_exclusions>
 
 </ns2:weapons>
