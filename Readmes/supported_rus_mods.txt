@@ -313,6 +313,12 @@
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/zhivnost/babochki_strekozy_zhuchki_skajrima_83willows_101bugshd_butterfly_dragonfly_luna_moth_torchbug/45-1-0-1969
 Метод: XML
 
+Название: Реплейсер всей игровой брони для CBBE v5.1 (Remodeled Armor for CBBE Bodyslide и TBBP HDT)
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/replejsery/skyrim_retekstur_igrovoj_broni_dlja_cbbev3_v4_4_2_remodeled_armor_for_cbbev3_bodyslide/8-1-0-993
+Метод: XML + ESP
+		ESP: https://mega.co.nz/#!hoYgSaLT!ruvUSyd7KFOO5Ak5wNf4QAelnDA_HXnv7-hLdBjAgm4
+		WAFR/CCOR смерженный ESP. Использовать вместо всех трех ESP! Ставить после Complete Crafting Overhaul_Remade.esp и перед PerMa.
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1
