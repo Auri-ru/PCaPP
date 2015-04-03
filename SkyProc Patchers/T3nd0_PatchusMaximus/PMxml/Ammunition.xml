@@ -217,6 +217,14 @@
 			<substring>огня</substring>
 		</binding>
 		<binding>
+			<identifier>Fire</identifier>
+			<substring>Огненн</substring>
+		</binding>
+		<binding>
+			<identifier>Fire</identifier>
+			<substring>огненн</substring>
+		</binding>
+		<binding>
 			<identifier>Frost</identifier>
 			<substring>Frost</substring>
 		</binding>
@@ -225,12 +233,28 @@
 			<substring>холода</substring>
 		</binding>
 		<binding>
+			<identifier>Frost</identifier>
+			<substring>Ледян</substring>
+		</binding>
+		<binding>
+			<identifier>Frost</identifier>
+			<substring>ледян</substring>
+		</binding>
+		<binding>
 			<identifier>Shock</identifier>
 			<substring>Shock</substring>
 		</binding>
 		<binding>
 			<identifier>Shock</identifier>
 			<substring>электричества</substring>
+		</binding>
+		<binding>
+			<identifier>Shock</identifier>
+			<substring>Электрическ</substring>
+		</binding>
+		<binding>
+			<identifier>Shock</identifier>
+			<substring>электрическ</substring>
 		</binding>
 		<binding>
 			<identifier>Timebomb</identifier>
@@ -706,6 +730,40 @@
 			<multiply>true</multiply>
 		</ammunition_material>
 	<!-- Hunterborn modifiers end -->
+	<!-- Factions modifiers start -->
+		<ammunition_material>
+			<identifier>Imperial</identifier>
+			<damageModifier>3</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-175</speedModifier>
+			<gravityModifier>0.26</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>ImperialNoMult</identifier>
+			<damageModifier>3</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-175</speedModifier>
+			<gravityModifier>0.26</gravityModifier>
+			<multiply>false</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>Stormcloak</identifier>
+			<damageModifier>3</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-175</speedModifier>
+			<gravityModifier>0.26</gravityModifier>
+			<multiply>true</multiply>
+		</ammunition_material>
+		<ammunition_material>
+			<identifier>StormcloakNoMult</identifier>
+			<damageModifier>3</damageModifier>
+			<rangeModifier>0</rangeModifier>
+			<speedModifier>-175</speedModifier>
+			<gravityModifier>0.26</gravityModifier>
+			<multiply>false</multiply>
+		</ammunition_material>
+	<!-- Factions modifiers end -->
 	</ammunition_materials>
 
 	<ammunition_material_bindings>
@@ -762,6 +820,24 @@
 			<identifier>Dwarven</identifier>
 			<substring>двемерск</substring>
 		</binding>
+		<!-- Exclusions doesn't work for ammunition now, so putting workaround for exploding dwarven bolts here -->
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Взрывной двемерск</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Взрывная двемерск</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>взрывной двемерск</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>взрывная двемерск</substring>
+		</binding>
+		<!-- End of workaround -->
 		<binding>
 			<identifier>Ebony</identifier>
 			<substring>Ebony</substring>
@@ -938,6 +1014,24 @@
 			<identifier>Steel</identifier>
 			<substring>стальн</substring>
 		</binding>
+		<!-- Exclusions for ammunition doesn't work, so putting workaround for Exploding steel bolts here -->
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Взрывной стальн</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>Взрывная стальн</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>взрывной стальн</substring>
+		</binding>
+		<binding>
+			<identifier>SteelNoMult</identifier>
+			<substring>взрывная стальн</substring>
+		</binding>
+		<!-- End of workaround -->
 		<binding>
 			<identifier>Skyforge</identifier>
 			<substring>Skyforge</substring>
@@ -1053,6 +1147,104 @@
 			<substring>Водян</substring>
 		</binding>
 		<!-- PerMa end -->
+		<!-- Faction Crossbows start -->
+		<binding>
+			<identifier>Corundum</identifier>
+			<substring>Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>CorundumNoMult</identifier>
+			<substring>Огненный болт Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>CorundumNoMult</identifier>
+			<substring>Ледяной болт Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>CorundumNoMult</identifier>
+			<substring>Электрический болт Стражи Рассвета</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Огненный болт Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Ледяной болт Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Электрический болт Темного Братства</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Огненный болт Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Ледяной болт Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyNoMult</identifier>
+			<substring>Электрический болт Гильдии Воров</substring>
+		</binding>
+		<binding>
+			<identifier>SkyforgeNoMult</identifier>
+			<substring>Небесный стальной огненный болт</substring>
+		</binding>
+		<binding>
+			<identifier>SkyforgeNoMult</identifier>
+			<substring>Небесный стальной ледяной болт</substring>
+		</binding>
+		<binding>
+			<identifier>SkyforgeNoMult</identifier>
+			<substring>Небесный стальной электрический болт</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
+			<substring>Имперск</substring>
+		</binding>
+		<binding>
+			<identifier>Imperial</identifier>
+			<substring>имперск</substring>
+		</binding>
+		<binding>
+			<identifier>ImperialNoMult</identifier>
+			<substring>Имперский огненный болт</substring>
+		</binding>
+		<binding>
+			<identifier>ImperialNoMult</identifier>
+			<substring>Имперский ледяной болт</substring>
+		</binding>
+		<binding>
+			<identifier>ImperialNoMult</identifier>
+			<substring>Имперский электрический болт</substring>
+		</binding>
+		<binding>
+			<identifier>Stormcloak</identifier>
+			<substring>Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>StormcloakNoMult</identifier>
+			<substring>Огненный болт Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>StormcloakNoMult</identifier>
+			<substring>Ледяной болт Братьев Бури</substring>
+		</binding>
+		<binding>
+			<identifier>StormcloakNoMult</identifier>
+			<substring>Электрический болт Братьев Бури</substring>
+		</binding>
+		<!-- Faction Crossbows end -->
 	<!-- Hunterborn -->
 		<binding>
 			<identifier>Crude</identifier>
@@ -1338,7 +1530,17 @@
 			<text>огня</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
-		</exclusion>		
+		</exclusion>
+		<exclusion>
+			<text>огненн</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Огненн</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>			
 		<exclusion>
 			<text>of Frost</text>
 			<target>NAME</target>
@@ -1373,7 +1575,17 @@
 			<text>льда</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>Ледян</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
 		</exclusion>	
+		<exclusion>
+			<text>ледян</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>		
 		<exclusion>
 			<text>of Shock</text>
 			<target>NAME</target>
@@ -1396,6 +1608,16 @@
 		</exclusion>	
 		<exclusion>
 			<text>Электричества</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>
+		<exclusion>
+			<text>электрическ</text>
+			<target>NAME</target>
+			<type>CONTAINS</type>
+		</exclusion>	
+		<exclusion>
+			<text>Электрическ</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>

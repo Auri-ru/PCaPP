@@ -69,11 +69,30 @@
 
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
-Метод: XML
+Метод: XML + замена esp
+       Патч: https://mega.co.nz/#!c9AjAarS!ZqsWIuJnf9antVmhh3i_-QEIO4qYqTqy8ykpVEtVDGI
 
 Название: Faction Crossbows
 Источник: в процессе
 Метод: в процессе (DJ_Kovrik)
+
+Название: An NPO Module - Crossbows
+Источник: http://www.nexusmods.com/skyrim/mods/43517/? (Версия не имеет значение, ESP должен быть заменен на патч)
+Метод: Замена esp
+       ESP (Перевод, CCOR/WAFR TrueOrcish weapons patch) - https://mega.co.nz/#!ssAHEQgb!i4-eYOPFW76TqF8JUGQjzwRnxKC0gREbDpgF_9k-X5E
+Ставить: Ниже PerMa (после PerkusMaximus_Warrior.esp)
+
+Название: Опасные противники (Revenge of the Enemies)
+Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
+Метод: XML
+
+Название: Civil War Overhaul
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/civil-war-overhaul.shtml
+Метод: XML
+
+Название: The Choice is Yours
+Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
+Метод: XML
 
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml

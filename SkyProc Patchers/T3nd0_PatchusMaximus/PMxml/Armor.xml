@@ -929,6 +929,12 @@
 			<substring>егкие кольчужн</substring>
 		</binding>
 		<!-- Remodelled Armor for CBBE bikini end -->
+		<!-- The Choice is Yours start -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Руки Хладной гавани</substring>
+		</binding>
+		<!-- The Choice is Yours end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
