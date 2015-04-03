@@ -1095,8 +1095,29 @@
 			<identifier>SteelHigh</identifier>
 			<substring>Огненный клинок</substring>
 		</binding>
-		
 		<!-- Revenge of The Enemies start -->
+		<!-- Civil War Overhaul start -->
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Камсин</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>"Милосердие вне закона"</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>"Начало"</substring>
+		</binding>
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Самум</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Безымянная секира</substring>
+		</binding>
+		<!-- Civil War Overhaul end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -8530,6 +8551,24 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<!-- Revenge of the Enemies end -->
+		<!-- Civil war overhaul start -->
+		<binding>
+			<substring>Камсин</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>"Милосердие вне закона"</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>"Начало"</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
+			<substring>Самум</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<!-- Civil war overhaul end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->

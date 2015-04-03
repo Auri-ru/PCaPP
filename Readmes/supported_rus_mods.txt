@@ -86,6 +86,14 @@
 Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
 Метод: XML
 
+Название: Civil War Overhaul
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/civil-war-overhaul.shtml
+Метод: XML
+
+Название: The Choice is Yours
+Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
+Метод: XML
+
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
