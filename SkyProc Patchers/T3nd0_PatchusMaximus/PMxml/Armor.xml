@@ -4626,7 +4626,31 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Золотые эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Золотая эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Золотой эбонитовый</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Silver Ebony</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Серебряные эбонитовые</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Серебряная эбонитовая</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Серебряный эбонитовый</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5711,6 +5735,18 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Steel Glass</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стальные стеклянные</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стальная стеклянная</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стальной стеклянный</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
