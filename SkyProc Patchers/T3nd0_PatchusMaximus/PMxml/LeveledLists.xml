@@ -1432,6 +1432,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Arissa - The Wandering Rogue -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -7616,6 +7623,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -9270,6 +9284,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Moon and Star -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

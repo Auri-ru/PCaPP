@@ -5789,14 +5789,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Champion</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Дубинка Защитника</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Bronze</substring>
 		</binding>
 		<binding>
@@ -5870,6 +5862,14 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Champion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>защитника</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
