@@ -6378,6 +6378,10 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Странника</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>White Tree</substring>
 		</binding>
 		<binding>
