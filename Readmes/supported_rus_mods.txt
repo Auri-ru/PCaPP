@@ -1,3 +1,7 @@
+Название: Aesir Armor-Броня Асгарда
+Источник: 
+Метод: в процессе Аури
+
 Название: Amazing Follower Tweaks
 Источник: http://tes.riotpixels.com/mods/skyrim/companions/aft.shtml
 Метод: XML 
@@ -30,7 +34,7 @@
 
 Название: Bathing Beauties - Luxury Suite 5.1a
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/skyrim_kupalni_skajrima_quot_ljuks_quot_v5_1a_bathing_beauties_luxury_suite/15-1-0-1482
-Метод: в процессе (Аури) 
+Метод: XML
 
 Название: Book Covers Skyrim 3.1
 Источник: http://tes.riotpixels.com/mods/skyrim/graphics/book-covers.shtml
@@ -134,7 +138,7 @@
 Ставить: ниже PerMa
 
 Название: Hunterborn
-Источник: 
+Источник: http://modgames.net/load/tes_v_skyrim/gejmplej/hunterborn_okhotorozhdennyj/247-1-0-18797
 Метод: XML
 Ставить: в процессе (Аури)
 
@@ -177,6 +181,16 @@
 Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
 Метод: XML
 Ставить: ниже PerMa
+
+Название: Lady Body 2.1
+Источник: http://modgames.net/load/tes_v_skyrim/replejsery_tel/1/256-1-0-11011
+Метод: XML + патч (патчи есть в составе мода Бандитам снова хочется)
+Ставить: вместо esp ставить esm (в опциях мода).
+
+Название: Lore Weapon Expansion
+Источник: 
+Метод: 
+Ставить: в процессе Аури
 
 Название: Merta Assassin Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/merta_armory_assassin_armor/306-1-0-18524
@@ -292,6 +306,10 @@
 Метод: XML
 Ставить: 
 
+Название: Ultimate Combat/Беспощадный бой v.2.52
+Источник: 
+Метод: в процессе Аури
+
 Название: Unique Uniques v1.8
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/uniques.shtml
 Метод: замена Unique Uniques.esp + XML
@@ -334,7 +352,7 @@
 
 Название: Бандитам тоже хочется
 Источник: 
-Метод: в процессе (Аури)
+Метод: не поддерживается ввиду большого количества лишнего контента
 
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
@@ -358,6 +376,10 @@
 		ESP: https://mega.co.nz/#!hoYgSaLT!ruvUSyd7KFOO5Ak5wNf4QAelnDA_HXnv7-hLdBjAgm4
 		WAFR/CCOR смерженный ESP. Использовать вместо всех трех ESP! Ставить после Complete Crafting Overhaul_Remade.esp и перед PerMa.
 
+азвание: Бандитам снова хочется
+Источник: 
+Метод: XML ставить после PerMa
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1
@@ -365,12 +387,18 @@ Ethereal Elven Overhaul 1.1.1
 Extended UI (требуется для варианта с полными описаниями перков)
 Fantasy Music Overhaul
 iHUD
-Lady Body 2.1 (патчи под Imperious и PaMa_skyRe_races процессе)
 RealShelter 1.4
 Real Shelter-Frostfall Tents WIP
 SkyUI 4.1
 Vivid Landscapes
 
+На проверке (было запрошено, ответ не дали)
+Wrath of Nature - The Path of the Druid
+Wrath of Nature - The Champion of Kynareth
+Trade and Barter
+Dynamic loot
+Expanded Towns and Cities
+Helgen Reborn/Возрождение Хелгена v.105.3
 
 
 
