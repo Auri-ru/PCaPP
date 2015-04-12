@@ -626,6 +626,225 @@
 			<identifier>Bonemold</identifier>
 			<substring>Bonemold</substring>
 		</binding>
+		<!-- Бандиткам снова хочется (+LB Eng) Start -->
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Lady Alina</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherLow</identifier>
+			<substring>Алина - кожан</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Golden Chainmail bikini</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Золотой Леопард -</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Dark Maiden</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Тёмная Дева - </substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Валькирия -</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Valkyrie</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Воительница -</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Underworld</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Антипод -</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Lidia</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Лидия - </substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Охотница - </substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Rappelz</substring>
+		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Раппелз - лег </substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Lady MT</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Дева Мораг Тонг -</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Lady Bat</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Лет.мышь -</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Mandu Light</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Мандука - </substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Dread Knight</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Броня Ужаса</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Наручи Ужаса</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Сапоги Ужаса</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Queen's blood</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Изящество - </substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Кровь Королевы - </substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Изящество - Шорты</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Dragon Princess</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Принцесса драконов - </substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Keaira</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Кэйра - </substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Phoenix</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Феникс - </substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Divine Blood Enchanted Light</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Divine Blood Light</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Кровь Богов - Л </substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Royal Lord Vampire Armor</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Кровавая Королева</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Royal Lord Vampire Enchanted Armor</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Revenant</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Ревенант -</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHeavy</identifier>
+			<substring>Mandu Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHeavy</identifier>
+			<substring>Мандука - тяж</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Lux Lucius</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Люции -</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Люции Чёрный -</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Divine Blood Enchanted Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Divine Blood Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Кровь Богов - Т </substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Rappelz Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Раппелз - тяж </substring>
+		</binding>
+		
+		<!-- Бандиткам снова хочется (+LB Eng) End -->
 	<!-- Frostfall Start -->
 		<binding>
 			<identifier>Clothing</identifier>
@@ -13383,7 +13602,7 @@
 			<text>_bh</text>
 			<target>EDID</target>
 			<type>CONTAINS</type>
-			</exclusion>
+		</exclusion>
 	<!-- The Hanging Gardens -->
 	<!-- Moon and Star -->
 		<exclusion>
@@ -13392,5 +13611,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Бандиткам снова хочется (+LB Eng) Start -->
+		<exclusion>
+			<text>KR_LB_Naked_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>0KR_LB_Naked_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>	
+	<!-- Бандиткам снова хочется (+LB Eng) Start -->
 	</reforge_exclusions>
 </ns2:armor>
