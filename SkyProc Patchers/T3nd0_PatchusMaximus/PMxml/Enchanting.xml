@@ -7835,6 +7835,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9098,6 +9110,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
@@ -9802,6 +9826,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -10459,6 +10495,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Forgotten Magic Redone -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>
