@@ -3,6 +3,7 @@
 //One per line
 Animated Dragon Wings.esp
 Chesko_WearableLantern.esp
+ColdharbourDaedra.esp
 CollegeDaysWinterhold.esp
 Combat Evolved.esp
 Convenient Horses.esp
@@ -26,6 +27,7 @@ HorseCloakCH.esp
 HorseCloak.esp
 iNeed.esp
 Ish's Respec Mod.esp
+ItBeatsForHer.esp
 JaxonzDiagnostics.esp
 kuerteeEatAndSleep.esp
 KWTelescope.esp

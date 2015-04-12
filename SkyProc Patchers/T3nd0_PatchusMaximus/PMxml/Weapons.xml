@@ -978,6 +978,146 @@
 			<substring>Сапфиров</substring>
 		</binding>
 		<!-- Dimond Weapon Smithing -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Прикосновение холода</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Лук Ньюфала</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLow</identifier>
+			<substring>Морозное жало</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Клык саблезуба</substring>
+		</binding>
+		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and Cities Start -->
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Меч Джишада</substring>
+		</binding>
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Бич вампиров</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Бессмертный клинок</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Королевский клинок Дунара</substring>
+		</binding>
+		<!-- Expanded Towns and Cities End -->
+		<!-- Revenge of The Enemies start -->
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Ледяной нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный Нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Кристальный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский меч отступника</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский лук</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Холодный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Epic</identifier>
+			<substring>Священный меч</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный нордский двуручный меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Пламенный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>Blades</identifier>
+			<substring>Клинок вампира</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Нордский боевой топор героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный нордский лук героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Пламенный нордский двуручный меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Кристальный нордский меч героя</substring>
+		</binding>
+		<binding>
+			<identifier>DraugrHigh</identifier>
+			<substring>Морозный Нордский меч героя</substring>
+		</binding>		
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Нордский меч тени</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Призрачный меч тьмы</substring>
+		</binding>		
+		<binding>
+			<identifier>Draugr HonedHigh</identifier>
+			<substring>Призрачный меч тени</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Древний теневой клинок</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
+			<substring>Огненный клинок</substring>
+		</binding>
+		<!-- Revenge of The Enemies start -->
+		<!-- Civil War Overhaul start -->
+		<binding>
+			<identifier>Advanced</identifier>
+			<substring>Камсин</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>"Милосердие вне закона"</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>"Начало"</substring>
+		</binding>
+		<binding>
+			<identifier>AdvancedHigh</identifier>
+			<substring>Самум</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Безымянная секира</substring>
+		</binding>
+		<!-- Civil War Overhaul end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -1190,6 +1330,22 @@
 			<substring>Draugr</substring>
 		</binding>
 		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя нордская</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний Нордский</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя Нордская</substring>
+		</binding>
+		<binding>
 			<identifier>Dragonscale</identifier>
 			<substring>Dragonscale</substring>
 		</binding>
@@ -1311,6 +1467,10 @@
 		<binding>
 			<identifier>Nightingale</identifier>
 			<substring>Соловьин</substring>
+		</binding>
+		<binding>
+			<identifier>Nightingale</identifier>
+			<substring>соловьин</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -1749,7 +1909,11 @@
 			<identifier>Elven</identifier>
 			<substring>бретон</substring>
 		</binding>
-		<!-- Racial material_Bindings end -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Breton Knight</substring>
+		</binding>
+	<!-- Racial material_Bindings end -->
 
 	<!-- Advanced bindings start -->
 		<binding>
@@ -1903,6 +2067,10 @@
 		<binding>
 			<identifier>BoundLow</identifier>
 			<substring>Divine Hammer</substring>
+		</binding>
+		<binding>
+			<identifier>BoundLow</identifier>
+			<substring>Bow of Shadows</substring>
 		</binding>
 	<!-- Bound Weapon bindings end -->
 
@@ -2280,14 +2448,6 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
-			<substring>Hopesfire</substring>
-		</binding>
-		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Огонь Надежды</substring>
-		</binding>		
-		<binding>
-			<identifier>Daedric</identifier>
 			<substring>Cyrus' Saber</substring>
 		</binding>
  		<binding>
@@ -2429,6 +2589,14 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Sovereign's Slayer</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Black Hands Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Sulfuras</substring>
 		</binding>
 	<!-- Daedric bindings end -->
 	
@@ -2879,6 +3047,10 @@
 			<substring>Древний меч</substring>
 		</binding>
 		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древняя секира</substring>
+		</binding>
+		<binding>
 			<identifier>Draugr Honed</identifier>
 			<substring>Ancient Sword shock</substring>
 		</binding>
@@ -3207,10 +3379,6 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
-			<substring>Trueflame</substring>
-		</binding>
-		<binding>
-			<identifier>Dwarven</identifier>
 			<substring>Metal Compound Bow</substring>
 		</binding>
 		<binding>
@@ -3224,6 +3392,14 @@
 		<binding>
 			<substring>Mithrodin II</substring>
 			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Staff of Automaton Mastery</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Dorana's Hammer</substring>
 		</binding>
 	<!-- Dwarven bindings end -->
 	
@@ -3948,6 +4124,22 @@
 			<identifier>EbonyHigh</identifier>
 			<substring>Spear of Thorns</substring>
 		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Hopesfire</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Огонь Надежды</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Trueflame</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyHigh</identifier>
+			<substring>Истинное Пламя</substring>
+		</binding>
 	<!-- Ebony bindings end -->
 	
 	<!-- Elven bindings start -->
@@ -4592,6 +4784,10 @@
 			<identifier>Glass</identifier>
 			<substring>Dragon Skin Compound Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Seadog Cutlass</substring>
+		</binding>
 	<!-- Glass bindings end -->
 	
 	<!-- Gold bindings start -->
@@ -4898,6 +5094,10 @@
 			<identifier>Iron</identifier>
 			<substring>Wood Compound Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Valfar's Battleaxe</substring>
+		</binding>
 		<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -5001,7 +5201,7 @@
 			<substring>Dart Trap Weapon</substring>
 		</binding>
 		<binding>
-			<identifier>None</identifier>
+			<identifier>Death</identifier>
 			<substring>Ловушка с дротиками</substring>
 		</binding>
 		<binding>
@@ -5358,7 +5558,7 @@
 		</binding>
 		<binding>
 			<identifier>Stalhrim</identifier>
-			<substring>Darkshade Blade</substring>
+			<substring>Mace of Aevar Stone-Singer</substring>
 		</binding>
 	<!-- Stalhrim bindings end -->
 	
@@ -5597,14 +5797,6 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Champion</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Дубинка Защитника</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
 			<substring>Bronze</substring>
 		</binding>
 		<binding>
@@ -5678,6 +5870,14 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Champion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>защитника</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -6630,6 +6830,10 @@
 			<identifier>Steelwood</identifier>
 			<substring>Темный коловианский лук</substring>
 		</binding>
+		<binding>
+			<identifier>Steelwood</identifier>
+			<substring>Ashlander's Bow</substring>
+		</binding>
 		<!-- Wood bindings end -->
 	</weapon_material_bindings>
 
@@ -6856,6 +7060,14 @@
 		<weapon_material>
 			<damageModifier>1.45</damageModifier>
 			<identifier>Draugr HonedHigh</identifier>
+			<materialMeltdown>DRAUGR</materialMeltdown>
+			<materialTemper>DRAUGR</materialTemper>
+			<reachModifier>-0.1</reachModifier>
+			<speedModifier>-0.05</speedModifier>
+		</weapon_material>
+		<weapon_material>
+			<damageModifier>1.8</damageModifier>
+			<identifier>Draugr Epic</identifier>
 			<materialMeltdown>DRAUGR</materialMeltdown>
 			<materialTemper>DRAUGR</materialTemper>
 			<reachModifier>-0.1</reachModifier>
@@ -8297,6 +8509,74 @@
 			<identifier>Waraxe</identifier>
 		</binding>
 		<!-- TERA Weapons End-->
+		<!-- Expanded Winterhold Destruction Ruins start -->
+		<binding>
+			<substring>Прикосновение холода</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Лук Ньюфала</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Морозное жало</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Клык саблезуба</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and Cities Start -->
+		<binding>
+			<substring>Меч Джишада</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Бич вампиров</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Королевский клинок Дунара</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Бессмертный клинок</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<!-- Expanded Towns and Cities End -->
+		<!-- Revenge of the Enemies start -->
+		<binding>
+			<substring>Огненный клинок</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок вампира</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Древний теневой клинок</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<!-- Revenge of the Enemies end -->
+		<!-- Civil war overhaul start -->
+		<binding>
+			<substring>Камсин</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>"Милосердие вне закона"</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>"Начало"</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
+			<substring>Самум</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<!-- Civil war overhaul end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -8676,15 +8956,7 @@
 		<binding>
 			<substring>Mhaznier</substring>
 			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
-			<substring>Hopesfire</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
-			<substring>Огонь Надежды</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>		
+		</binding>	
 		<binding>
 			<substring>Bloodsbane</substring>
 			<identifier>Arming Sword</identifier>
@@ -8790,10 +9062,6 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Trueflame</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
 			<substring>Windhelm sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -8829,6 +9097,10 @@
 			<substring>WinterStorm</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Breton Knight Sword</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -8838,6 +9110,26 @@
 		</binding>
 		<binding>
 			<substring>Фальшион</substring>
+			<identifier>Broadsword</identifier>
+		</binding>
+		<binding>
+			<substring>Genesis' Rapier</substring>
+			<identifier>Broadsword</identifier>
+		</binding>
+		<binding>
+			<substring>Baskethilt</substring>
+			<identifier>Broadsword</identifier>
+		</binding>
+		<binding>
+			<substring>Хаудеген</substring>
+			<identifier>Broadsword</identifier>
+		</binding>
+		<binding>
+			<substring>Shiavonna</substring>
+			<identifier>Broadsword</identifier>
+		</binding>
+		<binding>
+			<substring>Скьявона</substring>
 			<identifier>Broadsword</identifier>
 		</binding>
 	<!-- Broadsword bindings end -->
@@ -9729,24 +10021,24 @@
 			<identifier>Sabre</identifier>
 		</binding>
 		<binding>
-			<substring>Genesis' Rapier</substring>
+			<substring>Cutlass</substring>
 			<identifier>Sabre</identifier>
 		</binding>
 		<binding>
-			<substring>Cutlass</substring>
+			<substring>Абордажная сабля</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
+			<substring>абордажная сабля</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
+			<substring>Corsair's Sword</substring>
 			<identifier>Sabre</identifier>
 		</binding>
 	<!-- Sabre bindings end -->
 
 	<!-- Scimitar bindings start -->
-		<binding>
-			<substring>Baskethilt</substring>
-			<identifier>Scimitar</identifier>
-		</binding>
-		<binding>
-			<substring>Хаудеген</substring>
-			<identifier>Scimitar</identifier>
-		</binding>
 		<binding>
 			<substring>Dremora Badelaire</substring>
 			<identifier>Scimitar</identifier>
@@ -9792,14 +10084,6 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
-			<substring>Shiavonna</substring>
-			<identifier>Scimitar</identifier>
-		</binding>
-		<binding>
-			<substring>Скьявона</substring>
-			<identifier>Scimitar</identifier>
-		</binding>
-		<binding>
 			<substring>The Eagle Sword</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
@@ -9833,6 +10117,14 @@
 		</binding>
 		<binding>
 			<substring>Rysh</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Trueflame</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Истинное Пламя</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 	<!-- Scimitar bindings end -->
@@ -11118,6 +11410,18 @@
 			<substring>Heavy spiked mace</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Staff of Automaton Mastery</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Dorana's Hammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Sulfuras</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
@@ -11838,8 +12142,8 @@
 			<identifier>Sabre</identifier>
 			<baseWeaponType>SABRE</baseWeaponType>
 			<damageBase>11.0</damageBase>
-			<reachBase>0.85</reachBase>
-			<speedBase>0.85</speedBase>
+			<reachBase>0.9</reachBase>
+			<speedBase>1.05</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
 			<meltdownInput>1</meltdownInput>
@@ -11852,7 +12156,7 @@
 			<identifier>Scimitar</identifier>
 			<baseWeaponType>SCIMITAR</baseWeaponType>
 			<damageBase>12.0</damageBase>
-			<reachBase>0.95</reachBase>
+			<reachBase>1.0</reachBase>
 			<speedBase>0.95</speedBase>
 			<critDamageFactor>1.0</critDamageFactor>
 			<meltdownOutput>1</meltdownOutput>
@@ -13056,6 +13360,56 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+	<!-- Expanded Towns and Cities Start -->
+		<exclusion>
+			<text>LB_JishadSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_ImperialSword01</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_AyleidDynarBlade</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>MJB_AyleidGreatsword02</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Expanded Towns and Cities End -->
+	<!-- The Hanging Gardens -->
+		<exclusion>
+			<text>_bh</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- The Hanging Gardens -->
+	<!-- Moon and Star -->
+		<exclusion>
+			<text>MAS</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Moon and Star -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
+	<!-- Sulfuras - The Reclaimed Hand -->
+		<exclusion>
+			<text>Sulfuras</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sulfuras - The Reclaimed Hand -->
 	</reforge_exclusions>
 
 </ns2:weapons>

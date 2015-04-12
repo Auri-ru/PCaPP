@@ -186,6 +186,50 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wyrmstooth end -->
+		<!-- Expanded Winterhold Destruction Ruins start -->
+			<exclusion>
+				<text>SpellTomeEnervatingCharge</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeFrozenBurst</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeParalysisRune</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeSearingFlames</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeConjureCoruptedEliteGuard</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeHealingBreeze</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomePeaceandHarmony</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Revenge of the Enemies start -->
+			<exclusion>
+				<text>aaaMR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Revenge of the Enemies end -->
 		<!-- 3DNPC/Interesting NPCs start -->
 			<exclusion>
 				<text>3DNPC</text>
@@ -1357,6 +1401,63 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AbShieldMassCastBodyFXDUPLICATE001</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Arissa - The Wandering Rogue -->
+			<exclusion>
+				<text>_Arissa_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Arissa - The Wandering Rogue -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
+		<!-- Aurora - Standing Stones of Skyrim -->
+			<exclusion>
+				<text>Aur_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Aurora - Standing Stones of Skyrim -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -1696,6 +1797,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wyrmstooth end -->
+		<!-- Revenge of the Enemies start -->
+			<exclusion>
+				<text>aaaMR</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Revenge of the Enemies end -->
 		<!-- 3DNPC/Interesting NPCs start -->
 			<exclusion>
 				<text>3DNPC</text>
@@ -2056,6 +2164,56 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>BhaBhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Arissa - The Wandering Rogue -->
+			<exclusion>
+				<text>_Arissa_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Arissa - The Wandering Rogue -->
+		<!-- Sulfuras - The Reclaimed Hand -->
+			<exclusion>
+				<text>Sulfuras</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sulfuras - The Reclaimed Hand -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -2866,6 +3024,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Inigo-->
+		<!-- Expanded Towns and cities start -->
+			<exclusion>
+				<text>MJB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>LB_Jishad</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Expanded Towns and cities end -->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
@@ -3962,6 +4132,73 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Dimond Weapon Smithing -->
+		<!-- Conan Hyborian Age -->
+			<exclusion>
+				<text>PROM_Atlantean</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Cimmerian</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Hyborian</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Rexor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Thorgrim</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Thulsa</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Conan Hyborian Age -->
+		<!-- Breton Knight -->
+			<exclusion>
+				<text>xxxBretonKnight</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Breton Knight -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Companion Valfar -->
+			<exclusion>
+				<text>OS_CV</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Companion Valfar -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4756,6 +4993,40 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Falskaar-->
+		<!-- Expanded Winterhold Destruction Ruins start -->
+			<exclusion>
+				<text>WinterholdCaptainSword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WinterNufalBow</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WinterJarlThorraxe</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>WinterholdDagger</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Expanded Winterhold Destruction Ruins end -->
+		<!-- Expanded Towns and cities start -->
+			<exclusion>
+				<text>MJB_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>LB_Jishad</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Expanded Towns and cities end -->
 		<!-- Skyrim Immersive Creatures start -->
 			<exclusion>
 				<text>_00</text>
@@ -5358,6 +5629,59 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Conan Hyborian Age -->
+			<exclusion>
+				<text>PROM_Atlantean</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Cimmerian</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Hyborian</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Rexor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Thorgrim</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>PROM_Thulsa</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Conan Hyborian Age -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Sulfuras - The Reclaimed Hand -->
+			<exclusion>
+				<text>Sulfuras</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sulfuras - The Reclaimed Hand -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -7327,6 +7651,53 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Tales of Lycanthropy - Werewolf Overhaul -->
+		<!-- Breton Knight -->
+			<exclusion>
+				<text>xxxBretonKnight</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Breton Knight -->
+		<!-- The Hanging Gardens -->
+			<exclusion>
+				<text>Bhabhilon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_bh</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- The Hanging Gardens -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
+		<!-- Companion Valfar -->
+			<exclusion>
+				<text>OS_CV</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Companion Valfar -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -8974,6 +9345,27 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- Moon and Star -->
+			<exclusion>
+				<text>MAS</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Moon and Star -->
+		<!-- Osare Culort Outfit - UNP -->
+			<exclusion>
+				<text>Culort</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Osare Culort Outfit - UNP -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
