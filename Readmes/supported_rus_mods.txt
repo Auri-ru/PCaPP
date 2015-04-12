@@ -8,8 +8,18 @@
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
+Название: Armor of Yngol
+Источник: http://tesall.ru/files/file/5111-bronya-ingola/
+Метод: XML 
+Ставить: ниже PerMa
+
 Название: Arissa - The Wandering Rogue
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/kompanony_i_rasy/stranstvujushhaja_razbojnica_arissa_arissa_the_wandering_rouge_1_3/68-1-0-2244
+Метод: XML 
+Ставить: ниже PerMa
+
+Название: Aurora - Standing Stones of Skyrim
+Источник: http://tesall.ru/files/file/6662-kamni-sudby/
 Метод: XML 
 Ставить: ниже PerMa
 
@@ -175,6 +185,11 @@
 
 Название: Moonlight Tales
 Источник: http://tesall.ru/files/file/4893-moonlight-tales-werewolf-and-werebear-overhaul/
+Метод: XML
+Ставить: ниже PerMa
+
+Название: Mrissi - A tail of troubles
+Источник: http://www.nexusmods.com/skyrim/mods/33362/?
 Метод: XML
 Ставить: ниже PerMa
 

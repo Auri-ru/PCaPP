@@ -13634,5 +13634,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- Mrissi - A tail of troubles -->
+		<exclusion>
+			<text>Mrissi</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Mrissi - A tail of troubles -->
 	</reforge_exclusions>
 </ns2:armor>

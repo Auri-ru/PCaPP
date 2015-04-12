@@ -1439,6 +1439,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Osare Culort Outfit - UNP -->
+		<!-- Aurora - Standing Stones of Skyrim -->
+			<exclusion>
+				<text>Aur_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Aurora - Standing Stones of Skyrim -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2188,6 +2207,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Sulfuras - The Reclaimed Hand -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4166,6 +4192,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Companion Valfar -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -7658,6 +7691,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Companion Valfar -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -9319,6 +9359,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Osare Culort Outfit - UNP -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>Mrissi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles-->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

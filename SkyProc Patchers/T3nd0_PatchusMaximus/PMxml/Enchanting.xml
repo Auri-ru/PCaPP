@@ -10139,6 +10139,13 @@
 				<type>EQUALS</type>
 			</exclusion>	
 		<!-- BBLuxorySuit end -->
+		<!-- Mrissi - A tail of troubles -->
+			<exclusion>
+				<text>MrissiDisplacerEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Mrissi - A tail of troubles -->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
