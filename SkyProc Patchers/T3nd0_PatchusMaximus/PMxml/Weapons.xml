@@ -2594,6 +2594,10 @@
 			<identifier>Daedric</identifier>
 			<substring>Black Hands Dagger</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Sulfuras</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -5089,6 +5093,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Wood Compound Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Valfar's Battleaxe</substring>
 		</binding>
 		<!-- Iron bindings end -->
 	
@@ -11410,6 +11418,10 @@
 			<substring>Dorana's Hammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
+		<binding>
+			<substring>Sulfuras</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
 	<!-- Warhammer bindings end -->
 	<!-- Great Morning Star bindings start -->
 		<binding>
@@ -13384,6 +13396,20 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Moon and Star -->
+	<!-- Companion Valfar -->
+		<exclusion>
+			<text>OS_CV</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Companion Valfar -->
+	<!-- Sulfuras - The Reclaimed Hand -->
+		<exclusion>
+			<text>Sulfuras</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Sulfuras - The Reclaimed Hand -->
 	</reforge_exclusions>
 
 </ns2:weapons>
