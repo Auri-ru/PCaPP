@@ -7950,6 +7950,19 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
+
 	<!-- Conan Hyborian Age -->
 		<exclusion>
 			<text>PROM_Atlantean</text>
@@ -9378,6 +9391,19 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
+		<!-- BBLuxorySuit start -->
+			<exclusion>
+				<text>LSresurrectionEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>LSfarGripEffect</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>	
+		<!-- BBLuxorySuit end -->
+
 	<!-- The Hanging Gardens -->
 		<exclusion>
 			<text>Bhabhilon</text>

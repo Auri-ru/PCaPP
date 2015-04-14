@@ -898,7 +898,7 @@
 		</binding>
 		<binding>
 			<identifier>Ravage Stamina</identifier>
-			<substring>Опустошение запаа сил</substring>
+			<substring>Опустошение запаcа сил</substring>
 		</binding>
 		<binding>
 			<identifier>Damage Stamina Regen</identifier>
@@ -1107,7 +1107,7 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
-			<substring>Клык саблезуба</substring>
+			<substring>лык саблезуба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1139,7 +1139,7 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
-			<substring>Медвежьи когти</substring>
+			<substring>едвежьи когти</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1200,6 +1200,14 @@
 		<binding>
 			<identifier>Creature Tier 2</identifier>
 			<substring>Mudcrab Chitin</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>итин краба</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Клешня большого краба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1414,7 +1422,15 @@
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз медведя</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
 			<substring>Eye of Bristleback</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз щетиноспина</substring>
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
@@ -1422,7 +1438,15 @@
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз лисицы</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
 			<substring>Eye of Hare</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз зайца</substring>
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
@@ -1430,7 +1454,15 @@
 		</binding>
 		<binding>
 			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз мамонта</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
 			<substring>Eye of Wolf</substring>
+		</binding>
+		<binding>
+			<identifier>Fish Tier 1</identifier>
+			<substring>Глаз волка</substring>
 		</binding>
 	<!-- Hunterborn Tier 1 end -->
 	<!-- Hunterborn Tier 2 start -->
@@ -1440,7 +1472,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Клык медведя</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Bonesap</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Костное желе</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1448,7 +1488,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Бычий рог</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Canine Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Собачий клык</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1456,7 +1504,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Печеный клюв</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Doe Antlers</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Малые рога</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1464,7 +1520,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Окрашенные перья ястреба</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Eye of Troll</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Глаз тролля</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1472,7 +1536,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Глаз вервольфа</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Flawless Bear Tooth</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный клык медведя</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1480,7 +1552,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Большие рога</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Large Sabre Cat Claws</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Большие когти саблезуба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1488,7 +1568,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз медведя</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Polished Bristleback Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Блестящий глаз щетиноспина</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1496,7 +1584,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз лисицы</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Polished Hare Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз зайца</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1504,7 +1600,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз мамонта</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Polished Sabre Cat Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз саблезуба</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1512,7 +1616,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречная чешуя</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Polished Wolf Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Безупречный глаз волка</substring>
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
@@ -1520,7 +1632,15 @@
 		</binding>
 		<binding>
 			<identifier>Creature Tier 2</identifier>
+			<substring>Когти саблезуба</substring>
+		</binding>
+		<binding>
+			<identifier>Creature Tier 2</identifier>
 			<substring>Wolf Claws</substring>
+		</binding>		
+		<binding>
+			<identifier>Creature Tier 2</identifier>
+			<substring>Волчьи когти</substring>
 		</binding>		
 	<!-- Hunterborn Tier 2 end -->
 	<!-- Hunterborn Tier 3 start -->
@@ -1530,7 +1650,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Вареный хвост злокрыса</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Bristleback Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Сердце щетиноспина</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -1538,7 +1666,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Выскобленная шкура злокрыса</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Deer Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Сердце оленя</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -1546,7 +1682,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Безупречный глаз тролля</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Polished Werewolf Eye</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Безупречный глаз вервольфа</substring>
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
@@ -1554,7 +1698,15 @@
 		</binding>
 		<binding>
 			<identifier>Special Classic Tier 3</identifier>
+			<substring>Сердце саблезуба</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
 			<substring>Wolf Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Сердце волка</substring>
 		</binding>
 	<!-- Hunterborn Tier 3 end -->
 	<!-- Hunterborn Tier 4 start -->
@@ -1564,7 +1716,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце медведя</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Dragon Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце дракона</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -1572,7 +1732,15 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Глаз дракона</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Mammoth Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце мамонта</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
@@ -1580,11 +1748,23 @@
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Безупречный глаз дракона</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Troll Heart</substring>
 		</binding>
 		<binding>
 			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце тролля</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
 			<substring>Werewolf Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Mythic Tier 4</identifier>
+			<substring>Сердце вервольфа</substring>
 		</binding>
 	<!-- Hunterborn Tier 4 end -->
 	<!-- Hunterborn compatibility end -->

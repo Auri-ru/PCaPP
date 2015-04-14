@@ -2113,7 +2113,7 @@
 			<substring>Dawnguard</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionLow</identifier>
+			<identifier>HeavyFactionLow</identifier>
 			<substring>Стражи Рассвета</substring>
 		</binding>
 		<binding>

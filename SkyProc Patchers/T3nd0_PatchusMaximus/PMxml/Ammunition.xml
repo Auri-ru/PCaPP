@@ -1251,24 +1251,52 @@
 			<substring>Crude Bone</substring>
 		</binding>
 		<binding>
+			<identifier>Crude</identifier>
+			<substring>Грубая костяная</substring>
+		</binding>
+		<binding>
 			<identifier>Hunter</identifier>
 			<substring>Hunter's Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Hunter</identifier>
+			<substring>Охотничья костяная стрела</substring>
 		</binding>
 		<binding>
 			<identifier>Honed</identifier>
 			<substring>Honed Bone</substring>
 		</binding>
 		<binding>
+			<identifier>Honed</identifier>
+			<substring>Острая костяная</substring>
+		</binding>
+		<binding>
 			<identifier>Stalker</identifier>
 			<substring>Stalker's Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Stalker</identifier>
+			<substring>Охотничья стрела преслодевателя</substring>
+		</binding>
+		<binding>
+			<identifier>Stalker</identifier>
+			<substring>Охотничья стрела преследователя</substring>
 		</binding>
 		<binding>
 			<identifier>Perfect</identifier>
 			<substring>Perfect Bone</substring>
 		</binding>
 		<binding>
+			<identifier>Perfect</identifier>
+			<substring>Идеальная костяная</substring>
+		</binding>
+		<binding>
 			<identifier>WoodNoMult</identifier>
 			<substring>Mudcrab</substring>
+		</binding>
+		<binding>
+			<identifier>WoodNoMult</identifier>
+			<substring>Крабья стрела</substring>
 		</binding>
 	<!-- Hunterborn -->
 	<!-- Noldor Content Pack start -->
