@@ -84,11 +84,6 @@
 Название: Faction Crossbows 1.03
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/faction-crossbows.shtml
 Метод: XML + замена esp
-       Патч: https://mega.co.nz/#!c9AjAarS!ZqsWIuJnf9antVmhh3i_-QEIO4qYqTqy8ykpVEtVDGI
-
-Название: Faction Crossbows
-Источник: в процессе
-Метод: в процессе (DJ_Kovrik)
 
 Название: An NPO Module - Crossbows
 Источник: http://www.nexusmods.com/skyrim/mods/43517/? (Версия не имеет значение, ESP должен быть заменен на патч)
