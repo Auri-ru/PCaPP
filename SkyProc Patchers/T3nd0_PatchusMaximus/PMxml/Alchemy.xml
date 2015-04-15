@@ -2997,6 +2997,11 @@
 			<target>EDID</target>
 			<type>EQUALS</type>
 		</exclusion>
+		<exclusion>
+			<text>VolundrHerb</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
 	</ingredient_exclusions>
 
 </ns2:alchemy>
