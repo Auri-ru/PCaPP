@@ -198,6 +198,10 @@
 			<identifier>Reforged</identifier>
 		</binding>
 		<binding>
+			<substring> (Безупречн.)</substring>
+			<identifier>Reforged</identifier>
+		</binding>
+		<binding>
 			<substring>Cyrodiilic</substring>
 			<identifier>fine</identifier>
 		</binding>
@@ -978,6 +982,30 @@
 			<substring>Сапфиров</substring>
 		</binding>
 		<!-- Dimond Weapon Smithing -->
+		<!-- Russian Hunterborn add Start -->
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Орочий нож охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Костяной нож охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стальной нож охотника</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Драконий нож охотника</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Каменный нож охотника</substring>
+		</binding>
+		<!-- Russian Hunterborn add End -->
+
+
 		<!-- Expanded Winterhold Destruction Ruins start -->
 		<binding>
 			<identifier>EbonyLow</identifier>
@@ -2025,8 +2053,16 @@
 			<substring>Mammoth Bone</substring>
 		</binding>
 		<binding>
+			<identifier>Mammoth Bone</identifier>
+			<substring>кости мамонта</substring>
+		</binding>
+		<binding>
 			<identifier>Mammoth BoneHigh</identifier>
 			<substring>Bone Axe (Masterwork)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Костяной топор (Безупречн.)</substring>
 		</binding>
 		<binding>
 			<identifier>Mammoth BoneHigh</identifier>
@@ -2034,15 +2070,31 @@
 		</binding>
 		<binding>
 			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Костяной лук (Безупречн.)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
 			<substring>Bone Sword (Masterwork)</substring>
+		</binding>
+		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Костяной меч (Безупречн.)</substring>
 		</binding>
 		<binding>
 			<identifier>Mammoth BoneHigh</identifier>
 			<substring>Mammoth Bone Club (Masterwork)</substring>
 		</binding>
 		<binding>
+			<identifier>Mammoth BoneHigh</identifier>
+			<substring>Булава кости мамонта (Безупречн.)</substring>
+		</binding>
+		<binding>
 			<identifier>Bone</identifier>
 			<substring>Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Bone</identifier>
+			<substring>Костяной</substring>
 		</binding>
 		<binding>
 			<identifier>BonemoldHigh</identifier>
@@ -2446,6 +2498,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Стендар</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Hopesfire</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Огонь Надежды</substring>
+		</binding>		
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Cyrus' Saber</substring>
@@ -3376,6 +3436,10 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Hologram Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Trueflame</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -5797,6 +5861,14 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Champion</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Дубинка Защитника</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Bronze</substring>
 		</binding>
 		<binding>
@@ -6725,6 +6797,10 @@
 		<binding>
 			<identifier>Ashwood</identifier>
 			<substring>Heartwood</substring>
+		</binding>
+		<binding>
+			<identifier>Ashwood</identifier>
+			<substring>ядровой древесины</substring>
 		</binding>
 		<binding>
 			<identifier>Strongwood</identifier>
@@ -7979,6 +8055,10 @@
 			<identifier>Hunting Knife</identifier>
 		</binding>		
 		<binding>
+			<substring>нож охотника</substring>
+			<identifier>Hunting Knife</identifier>
+		</binding>		
+		<binding>
 			<substring>хотничий кинжал</substring>
 			<identifier>Hunting Knife</identifier>
 		</binding>		
@@ -8372,6 +8452,11 @@
 			<identifier>Waraxe</identifier>
 		</binding>
 		<!-- CCO end -->
+		<binding>
+			<substring>Булава кости мамонта</substring>
+			<identifier>Club</identifier>
+		</binding>
+	
 		<!-- Russian Weapon bindings end -->
 	    <!-- Sotteta armor end-->
 		<binding>
@@ -8958,6 +9043,14 @@
 			<identifier>Arming Sword</identifier>
 		</binding>	
 		<binding>
+			<substring>Hopesfire</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Огонь Надежды</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>		
+		<binding>
 			<substring>Bloodsbane</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -9059,6 +9152,10 @@
 		</binding>
 		<binding>
 			<substring>Thornblade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Trueflame</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -9167,6 +9264,10 @@
 		</binding>
 		<binding>
 			<substring>Bone Divining Knife</substring>
+			<identifier>Hunting Knife</identifier>
+		</binding>
+		<binding>
+			<substring>Костяной нож Пророчества</substring>
 			<identifier>Hunting Knife</identifier>
 		</binding>
 		<binding>
@@ -10021,6 +10122,10 @@
 			<identifier>Sabre</identifier>
 		</binding>
 		<binding>
+			<substring>Genesis' Rapier</substring>
+			<identifier>Sabre</identifier>
+		</binding>
+		<binding>
 			<substring>Cutlass</substring>
 			<identifier>Sabre</identifier>
 		</binding>
@@ -10039,6 +10144,14 @@
 	<!-- Sabre bindings end -->
 
 	<!-- Scimitar bindings start -->
+		<binding>
+			<substring>Baskethilt</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Хаудеген</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
 		<binding>
 			<substring>Dremora Badelaire</substring>
 			<identifier>Scimitar</identifier>
@@ -10081,6 +10194,14 @@
 		</binding>
 		<binding>
 			<substring>Rustam</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Shiavonna</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+		<binding>
+			<substring>Скьявона</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
@@ -11392,6 +11513,10 @@
 		</binding>
 		<binding>
 			<substring>Bone Staff</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Костяной посох</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
