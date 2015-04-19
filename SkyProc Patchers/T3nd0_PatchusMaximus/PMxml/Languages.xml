@@ -2720,7 +2720,7 @@
 		</stringBinding>
 		<stringBinding>
 			<identifier>Lightweight</identifier>
-			<outputString>легкий</outputString>
+			<outputString>легковесный</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Shortbow</identifier>

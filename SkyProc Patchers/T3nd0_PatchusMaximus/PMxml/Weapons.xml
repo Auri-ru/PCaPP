@@ -232,7 +232,15 @@
 			<identifier>warforged</identifier>
 		</binding>
 		<binding>
+			<substring>Закален.</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
 			<substring>Reforged</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>Переков.</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -240,7 +248,15 @@
 			<identifier>recurve</identifier>
 		</binding>
 		<binding>
+			<substring>изогнутый</substring>
+			<identifier>recurve</identifier>
+		</binding>
+		<binding>
 			<substring>Lightweight</substring>
+			<identifier>lightweight</identifier>
+		</binding>
+		<binding>
+			<substring>легковесный</substring>
 			<identifier>lightweight</identifier>
 		</binding>
 		<binding>
@@ -248,11 +264,23 @@
 			<identifier>silenced</identifier>
 		</binding>
 		<binding>
+			<substring>бесшумный</substring>
+			<identifier>silenced</identifier>
+		</binding>
+		<binding>
 			<substring>Arbalest</substring>
 			<identifier>arbalest</identifier>
 		</binding>
 		<binding>
+			<substring>утяжеленный</substring>
+			<identifier>arbalest</identifier>
+		</binding>
+		<binding>
 			<substring>Refined</substring>
+			<identifier>refined</identifier>
+		</binding>
+		<binding>
+			<substring>Очищен.</substring>
 			<identifier>refined</identifier>
 		</binding>
 	<!-- PerMa modifiers (do not change) end-->
