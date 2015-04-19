@@ -8047,6 +8047,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9499,6 +9506,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
