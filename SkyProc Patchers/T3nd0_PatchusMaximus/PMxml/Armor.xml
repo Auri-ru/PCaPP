@@ -3947,6 +3947,14 @@
 			<identifier>Daedric</identifier>
 			<substring>H8</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -6463,6 +6471,10 @@
 			<identifier>Hide</identifier>
 			<substring>Gray Cowl Of Nocturnal</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Belko</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -8234,6 +8246,10 @@
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Feyngaar's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>VanNord</substring>
 		</binding>
 	<!-- Nord Material Bindings end -->
 	
@@ -10258,6 +10274,10 @@
 		<binding>
 			<identifier>HStalhrim</identifier>
 			<substring>Red Stalhrim Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrimLow</identifier>
+			<substring>Vayan</substring>
 		</binding>
 	<!-- Stalhrim Material Bindings end -->
 	
@@ -13689,5 +13709,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</reforge_exclusions>
 </ns2:armor>

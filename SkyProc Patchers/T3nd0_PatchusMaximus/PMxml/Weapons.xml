@@ -2004,6 +2004,10 @@
 			<identifier>Nord</identifier>
 			<substring>Северный топор</substring>
 		</binding>
+ 		<binding>
+			<identifier>Nord</identifier>
+			<substring>VanNord</substring>
+		</binding>
 		<binding>
 			<identifier>Advanced</identifier>
 			<substring>Regent's</substring>
@@ -2661,6 +2665,14 @@
 		<binding>
 			<identifier>Daedric</identifier>
 			<substring>Ancient Tongue</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
 		</binding>
 	<!-- Daedric bindings end -->
 	
@@ -9226,6 +9238,14 @@
 			<substring>Black Sting</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Daedric Crescent - Short</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Sword of the Divine Aegis</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -9646,6 +9666,14 @@
 			<substring>HoarFrost</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Shards of Narsil</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Осколки Нарсила</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -9769,6 +9797,10 @@
 		</binding>
 		<binding>
 			<substring>Cloud Courtblade</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Zatoichi</substring>
 			<identifier>Katana</identifier>
 		</binding>
 	<!-- Katana bindings end -->
@@ -10464,6 +10496,30 @@
 			<substring>Акавирская короткая сабля</substring>
 			<identifier>Tanto</identifier>
 		</binding>
+		<binding>
+			<substring>Short Steel Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Iron Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Ebony  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Dwarven  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Orcish Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Elven Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
 	<!-- Tanto bindings end -->
 
 	<!-- Wakizashi bindings start -->
@@ -10866,6 +10922,10 @@
 			<substring>Хротмунда</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
+		<binding>
+			<substring>Battlexe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
 	<!-- Battleaxe bindings end -->
 	
 	<!-- Battlestaff bindings start -->
@@ -11162,6 +11222,10 @@
 		</binding>
 		<binding>
 			<substring>Stormforge</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Deadric Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -11625,6 +11689,10 @@
 			<substring>Dwemer Automatic Projectile Launcher</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
+		<binding>
+			<substring>Aetherial Bolt Launcher</substring>
+			<identifier>Crossbow</identifier>
+		</binding>
 	<!-- Crossbow bindings end -->
 	
 	<!-- Longbow bindings start -->
@@ -11850,6 +11918,14 @@
 		</binding>
 		<binding>
 			<substring>Bow of the Forgotten Chaos</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>VanNord Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Mystic Elven Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -13609,6 +13685,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</reforge_exclusions>
 
 </ns2:weapons>
