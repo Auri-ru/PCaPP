@@ -346,8 +346,8 @@
 Метод: XML
 
 Название: Бандитам тоже хочется
-Источник: 
-Метод: не поддерживается ввиду большого количества лишнего контента
+Источник: http://modgames.net/load/tes_v_skyrim/replejsery/banditam_snova_khochetsja/252-1-0-19286
+Метод: XML ставить после PerMa
 
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
