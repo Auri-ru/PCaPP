@@ -8028,6 +8028,32 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Weapon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma -->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>CasiusVaron</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9449,6 +9475,44 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Companion Valfar -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Armor_GrayCowl</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_BootsofSpringheelJak</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_Yokuda</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Armor Of Intrigue -->
+		<exclusion>
+			<text>ArmorOfIntrigue</text>
+			<target>EDID</target>
+			<type>CONTAINS</type>
+		</exclusion>
+	<!-- Armor Of Intrigue -->
+	<!-- Rigmor of Bruma -->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

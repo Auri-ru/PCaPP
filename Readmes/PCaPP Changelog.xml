@@ -2,12 +2,12 @@
 <Current>
 <v3>
 Now covers:
-	Moon and Star (52397)
-	Osare Culort Armor -UNP (43609)
-	Daedra of Coldharbour (51596)
-	Valfar (25360)
-	Sofia (54527)
-	Sulfuras - The Reclaimed Hand (64628)
+	InsanitySorrow's Zatoichi (26619)
+	Vayan Armor (61616)
+	Belko (62149) Default gear
+	VanNord Carved Nordic Armour (64560)
+	Mystic Elven Armor - HD (5600)
+	Divine Aegis HD (9109) (20809)
 
 Blocklist:
 
@@ -16,16 +16,21 @@ Exclusions:
 Fixes:
 
 Changes:
+	Removed a few ITM records (SiC)
 
 Additions:
 
 Balancing:
-	Sabre speed increased from 0.85 to 1.05 reach increased from 0.85 to 0.9.
-	Scimitar reach increased from 0.95 to 1.0.
 
 Renamed:
+	Deadric Crescent -> Daedric Crescent - Short (IW) (Arming Sword)
+	Great Deadric Crescent -> Deadric Crescent (IW) (Greatsword) - Changed to match TES lore
+	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA)
 
 Updated Patches:
+	Immersive Weapons (IW)
+	AetheriumSwordsnArmor.esp (AAA)
+	Immersive Creatures Patch (SiC)
 
 New Patches:
 	Daedra of Coldharbour
@@ -33,6 +38,32 @@ New Patches:
 </Current>
 
 <Old>
+<v2.6.3>
+Now covers:
+	Elemental Arrows (49983)
+	Sword of the Anient Tongues (52700)
+	Insanitys Celtic Katana (15389)
+	Campfire (64798)
+</v2.6.3>
+<v2.6.2>
+Now covers:
+	Moon and Star (52397)
+	Osare Culort Armor -UNP (43609)
+	Daedra of Coldharbour (51596)
+	Valfar (25360)
+	Sofia (54527)
+	Sulfuras - The Reclaimed Hand (64628)
+	The Grey Cowl of Nocturnal (64651)
+	Rigmor of Bruma (53068)
+	Armor of intrigue (36875)
+
+Exclusions:
+	Ingredient added by Volundr (64401) to prevent patcher from crashing.
+
+Balancing:
+	Sabre speed increased from 0.85 to 1.05 reach increased from 0.85 to 0.9.
+	Scimitar reach increased from 0.95 to 1.0.
+</v2.6.2>
 <v2.6.1>
 Now covers:
 	The Loners Sword (16751) The two-hand version needs to be renamed 'Loner's Greatsword'

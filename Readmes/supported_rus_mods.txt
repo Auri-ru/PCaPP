@@ -86,11 +86,6 @@
 Метод: XML + замена esp
        Патч: https://mega.co.nz/#!c9AjAarS!ZqsWIuJnf9antVmhh3i_-QEIO4qYqTqy8ykpVEtVDGI
 
-Название: Faction Crossbows
-Источник: в процессе
-Метод: в процессе (DJ_Kovrik)
-
-Название: An NPO Module - Crossbows
 Источник: http://www.nexusmods.com/skyrim/mods/43517/? (Версия не имеет значение, ESP должен быть заменен на патч)
 Метод: Замена esp
        ESP (Перевод, CCOR/WAFR TrueOrcish weapons patch) - https://mega.co.nz/#!ssAHEQgb!i4-eYOPFW76TqF8JUGQjzwRnxKC0gREbDpgF_9k-X5E
@@ -138,9 +133,9 @@
 Ставить: ниже PerMa
 
 Название: Hunterborn
-Источник: http://modgames.net/load/tes_v_skyrim/gejmplej/hunterborn_okhotorozhdennyj/247-1-0-18797
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/hunterborn.shtml
 Метод: XML
-Ставить: в процессе (Аури)
+Ставить: после PerMa
 
 Название: Immersive Armors 7.1
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/immersive-armors.shtml
@@ -351,8 +346,8 @@
 Метод: XML
 
 Название: Бандитам тоже хочется
-Источник: 
-Метод: не поддерживается ввиду большого количества лишнего контента
+Источник: http://modgames.net/load/tes_v_skyrim/replejsery/banditam_snova_khochetsja/252-1-0-19286
+Метод: XML ставить после PerMa
 
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
@@ -377,8 +372,9 @@
 		WAFR/CCOR смерженный ESP. Использовать вместо всех трех ESP! Ставить после Complete Crafting Overhaul_Remade.esp и перед PerMa.
 
 азвание: Бандитам снова хочется
-Источник: 
+Источник: http://modgames.net/load/tes_v_skyrim/replejsery/banditam_snova_khochetsja/252-1-0-19286
 Метод: XML ставить после PerMa
+
 
 Моды для которых поддержка не требуется:
 Cart in Each Big Town

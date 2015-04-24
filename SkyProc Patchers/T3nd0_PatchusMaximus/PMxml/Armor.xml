@@ -3947,6 +3947,14 @@
 			<identifier>Daedric</identifier>
 			<substring>H8</substring>
 		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -6459,6 +6467,14 @@
 			<identifier>Hide</identifier>
 			<substring>L1</substring>
 		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Gray Cowl Of Nocturnal</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Belko</substring>
+		</binding>
 	<!-- Hide Material Bindings end -->
 
 	<!-- Horker Material Bindings start -->
@@ -6970,6 +6986,14 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>H1</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Yokuda</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Rigmors Cuirass</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -7899,6 +7923,14 @@
 			<identifier>Leather</identifier>
 			<substring>воров</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>ArmorOfIntrigue</substring>
+		</binding>
+		<binding>
+			<identifier>LeatherHeavy</identifier>
+			<substring>Rigmors Boots</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -8214,6 +8246,10 @@
 		<binding>
 			<identifier>HNordic</identifier>
 			<substring>Feyngaar's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>HNordic</identifier>
+			<substring>VanNord</substring>
 		</binding>
 	<!-- Nord Material Bindings end -->
 	
@@ -9667,6 +9703,10 @@
 			<identifier>SteelLight</identifier>
 			<substring>Plate scarf</substring><!-- Zzjays Wardrobe the lower case word is correct -->
 		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors Gauntlets</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -10234,6 +10274,10 @@
 		<binding>
 			<identifier>HStalhrim</identifier>
 			<substring>Red Stalhrim Heavy</substring>
+		</binding>
+		<binding>
+			<identifier>LStalhrimLow</identifier>
+			<substring>Vayan</substring>
 		</binding>
 	<!-- Stalhrim Material Bindings end -->
 	
@@ -13641,5 +13685,36 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Mrissi - A tail of troubles -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Armor_GrayCowl</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_BootsofSpringheelJak</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>manny_GF_Armor_Yokuda</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma-->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</reforge_exclusions>
 </ns2:armor>

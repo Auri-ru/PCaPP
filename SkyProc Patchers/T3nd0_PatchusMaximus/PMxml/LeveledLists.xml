@@ -1458,6 +1458,27 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles -->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2214,6 +2235,27 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles-->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4199,6 +4241,72 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles-->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_Weapon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>CasiusVaron</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Sword Of the Ancient Tongue -->
+			<exclusion>
+				<text>AncientTongues</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sword Of the Ancient Tongue -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewVanNord</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnewNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
+		<!-- Isilmeriel LOTR Weapons Collection -->
+			<exclusion>
+				<text>isil</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Isilmeriel LOTR Weapons Collection -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>xxGreatTemplar</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4487,7 +4595,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Spears By Soolie -->
-		
 		</distribution_exclusions_list_regular>
 
 		<distribution_exclusions_weapon_enchanted>
@@ -5682,6 +5789,81 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Sulfuras - The Reclaimed Hand -->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_Weapon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Sword Of the Ancient Tongue -->
+			<exclusion>
+				<text>AncientTongues</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sword Of the Ancient Tongue -->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_Weapon</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Sword Of the Ancient Tongue -->
+			<exclusion>
+				<text>AncientTongues</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Sword Of the Ancient Tongue -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewVanNord</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnewNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
+		<!-- Isilmeriel LOTR Weapons Collection -->
+			<exclusion>
+				<text>isil</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Isilmeriel LOTR Weapons Collection -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>xxGreatTemplar</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -7698,6 +7880,74 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles-->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Armor Of Intrigue -->
+			<exclusion>
+				<text>ArmorOfIntrigue</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Armor Of Intrigue -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Campfire -->
+			<exclusion>
+				<text>_Camp_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Campfire -->
+		<!-- Vayan Armor -->
+			<exclusion>
+				<text>001Vayan</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Vayan Armor -->
+		<!-- Belko Follower -->
+			<exclusion>
+				<text>aaaBelko</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Belko Follower -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewArmorNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>DivineAegis</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AegisCloak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -9366,6 +9616,67 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles-->
+		<!-- The Grey Cowl of Nocturnal -->
+			<exclusion>
+				<text>manny_GF_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- The Grey Cowl of Nocturnal -->
+		<!-- Armor Of Intrigue -->
+			<exclusion>
+				<text>ArmorOfIntrigue</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Armor Of Intrigue -->
+		<!-- Rigmor of Bruma -->
+			<exclusion>
+				<text>Rigmor_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Rigmor of Bruma -->
+		<!-- Vayan Armor -->
+			<exclusion>
+				<text>001Vayan</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Vayan Armor -->
+		<!-- Belko Follower -->
+			<exclusion>
+				<text>aaaBelko</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Belko Follower -->
+		<!-- VanNord -->
+			<exclusion>
+				<text>AnewArmorNordic</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VanNord -->
+		<!-- Mystic Elven -->
+			<exclusion>
+				<text>MysticElven</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Mystic Elven -->
+		<!-- Divine Aegis -->
+			<exclusion>
+				<text>DivineAegis</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AegisCloak</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Divine Aegis -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>

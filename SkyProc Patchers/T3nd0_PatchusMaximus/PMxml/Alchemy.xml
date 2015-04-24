@@ -2974,6 +2974,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Immersive Wenches compatibility end -->
+	<!-- Volundr compatibility start -->
+		<exclusion>
+			<text>Volundr</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Volundr compatibility end -->
 	</potion_exclusions>
 
 	<ingredient_exclusions>
@@ -2994,6 +3001,11 @@
 		</exclusion>
 		<exclusion>
 			<text>LCSDragonEggRedd</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>VolundrHerb</text>
 			<target>EDID</target>
 			<type>EQUALS</type>
 		</exclusion>

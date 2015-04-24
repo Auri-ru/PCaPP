@@ -232,7 +232,15 @@
 			<identifier>warforged</identifier>
 		</binding>
 		<binding>
+			<substring>Закален.</substring>
+			<identifier>warforged</identifier>
+		</binding>
+		<binding>
 			<substring>Reforged</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>Переков.</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -240,7 +248,15 @@
 			<identifier>recurve</identifier>
 		</binding>
 		<binding>
+			<substring>изогнутый</substring>
+			<identifier>recurve</identifier>
+		</binding>
+		<binding>
 			<substring>Lightweight</substring>
+			<identifier>lightweight</identifier>
+		</binding>
+		<binding>
+			<substring>легковесный</substring>
 			<identifier>lightweight</identifier>
 		</binding>
 		<binding>
@@ -248,11 +264,23 @@
 			<identifier>silenced</identifier>
 		</binding>
 		<binding>
+			<substring>бесшумный</substring>
+			<identifier>silenced</identifier>
+		</binding>
+		<binding>
 			<substring>Arbalest</substring>
 			<identifier>arbalest</identifier>
 		</binding>
 		<binding>
+			<substring>утяжеленный</substring>
+			<identifier>arbalest</identifier>
+		</binding>
+		<binding>
 			<substring>Refined</substring>
+			<identifier>refined</identifier>
+		</binding>
+		<binding>
+			<substring>Очищен.</substring>
 			<identifier>refined</identifier>
 		</binding>
 	<!-- PerMa modifiers (do not change) end-->
@@ -2004,6 +2032,10 @@
 			<identifier>Nord</identifier>
 			<substring>Северный топор</substring>
 		</binding>
+ 		<binding>
+			<identifier>Nord</identifier>
+			<substring>VanNord</substring>
+		</binding>
 		<binding>
 			<identifier>Advanced</identifier>
 			<substring>Regent's</substring>
@@ -2658,6 +2690,18 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Sulfuras</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Tongue</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Mystic Elven</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Divine Aegis</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -3173,6 +3217,10 @@
 		<binding>
 			<identifier>Draugr</identifier>
 			<substring>порождения пепла</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr Honed</identifier>
+			<substring>Bow of the Forgotten Chaos</substring>
 		</binding>
 	<!-- Drauger bindings end -->
 	
@@ -5162,6 +5210,10 @@
 			<identifier>Iron</identifier>
 			<substring>Valfar's Battleaxe</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Withdrawal</substring>
+		</binding>
 		<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -6490,6 +6542,18 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Loner's Greatword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rigmors Bastard Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Replica Heirloom Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Sorrow</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -9198,6 +9262,18 @@
 			<substring>Breton Knight Sword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Black Sting</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Daedric Crescent - Short</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Sword of the Divine Aegis</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
 	<!-- Arming Sword bindings end -->
 
 	<!-- Broadsword bindings start -->
@@ -9547,7 +9623,7 @@
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
-			<substring>Black Sting</substring>
+			<substring>Black Sting Dagger</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -9616,6 +9692,14 @@
 		</binding>
 		<binding>
 			<substring>HoarFrost</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Shards of Narsil</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Осколки Нарсила</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 	<!-- Dagger bindings end -->
@@ -9741,6 +9825,10 @@
 		</binding>
 		<binding>
 			<substring>Cloud Courtblade</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Zatoichi</substring>
 			<identifier>Katana</identifier>
 		</binding>
 	<!-- Katana bindings end -->
@@ -10249,7 +10337,14 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 	<!-- Scimitar bindings end -->
-
+	
+	<!-- Shiv bindings start -->
+		<binding>
+			<substring>The Withdrawal</substring>
+			<identifier>Shiv</identifier>
+		</binding>
+	<!-- Shiv bindings end -->
+	
 	<!-- Shortspear bindings start -->
 		<binding>
 			<substring>Pokeblade</substring>
@@ -10427,6 +10522,30 @@
 		</binding>
 		<binding>
 			<substring>Акавирская короткая сабля</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Steel Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Iron Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Ebony  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Dwarven  Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Orcish Zatoichi</substring>
+			<identifier>Tanto</identifier>
+		</binding>
+		<binding>
+			<substring>Short Elven Zatoichi</substring>
 			<identifier>Tanto</identifier>
 		</binding>
 	<!-- Tanto bindings end -->
@@ -10632,6 +10751,14 @@
 			<substring>Redguard slasher</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
+		<binding>
+			<substring>Replica Heirloom Sword</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Azuras Bane</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
 	<!-- Bastard Sword bindings end -->
 	
 	<!-- Battleaxe bindings start -->
@@ -10821,6 +10948,10 @@
 		</binding>
 		<binding>
 			<substring>Хротмунда</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Battlexe</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
 	<!-- Battleaxe bindings end -->
@@ -11122,6 +11253,10 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Deadric Crescent</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Daedric Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
@@ -11235,6 +11370,14 @@
 		</binding>
 		<binding>
 			<substring>Loner's Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>G. Sword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Black Sting Greatsword</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 	<!-- Greatsword bindings end -->
@@ -11574,6 +11717,10 @@
 			<substring>Dwemer Automatic Projectile Launcher</substring>
 			<identifier>Crossbow</identifier>
 		</binding>
+		<binding>
+			<substring>Aetherial Bolt Launcher</substring>
+			<identifier>Crossbow</identifier>
+		</binding>
 	<!-- Crossbow bindings end -->
 	
 	<!-- Longbow bindings start -->
@@ -11795,6 +11942,18 @@
 		</binding>
 		<binding>
 			<substring>Snowfall</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Bow of the Forgotten Chaos</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>VanNord Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Mystic Elven Bow</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -13535,6 +13694,32 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Sulfuras - The Reclaimed Hand -->
+	<!-- The Grey Cowl of Nocturnal -->
+		<exclusion>
+			<text>manny_GF_Weapon</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Grey Cowl of Nocturnal -->
+	<!-- Rigmor of Bruma -->
+		<exclusion>
+			<text>Rigmor_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>CasiusVaron</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Rigmor of Bruma -->
+	<!-- Campfire -->
+		<exclusion>
+			<text>_Camp_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Campfire -->
 	</reforge_exclusions>
 
 </ns2:weapons>
