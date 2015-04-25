@@ -1220,6 +1220,12 @@
 			<substring>Знамя Асгарда: </substring>
 		</binding>	
 		<!-- Aesir Armor end -->
+		<!-- Wrath of Nature - The Champion of Kynareth 1.3 end -->
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Adros' </substring>
+		</binding>	
+		<!-- Wrath of Nature - The Champion of Kynareth 1.3 start -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
