@@ -1154,6 +1154,72 @@
 			<substring>Руки Хладной гавани</substring>
 		</binding>
 		<!-- The Choice is Yours end -->
+		<!-- Aesir Armor start -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Шлем Асгарда: железный</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Шлем Асгарда: стража</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Шлем Асгарда: нордский пластинчатый</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Перчатки Асгарда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Сапоги Асгарда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Броня Асгарда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Шлем Асгарда: древний</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Обмундирование Асгарда</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Броня Эйнхериев</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Сапоги Эйнхериев</substring>
+		</binding>		
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Перчатки Эйнхериев</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Шлем Эйнхериев</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Щит Асгарда: </substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Обманный щит Асгарда</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Флаг Асгарда: </substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Знамя Асгарда: </substring>
+		</binding>	
+		<!-- Aesir Armor end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -13716,5 +13782,17 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Campfire -->
+	<!-- Aesir Armor start -->
+		<exclusion>
+			<text>OS_EAUE_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>OS_MONSTERARMOR</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>		
+	<!-- Aesir Armor end -->
 	</reforge_exclusions>
 </ns2:armor>
