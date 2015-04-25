@@ -1174,6 +1174,16 @@
 			<substring>Безымянная секира</substring>
 		</binding>
 		<!-- Civil War Overhaul end -->
+		<!-- Aesir Armor start -->
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Боевой топор Виндира</substring>
+		</binding>
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Губитель фалмеров</substring>
+		</binding>		
+		<!-- Aesir Armor end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
