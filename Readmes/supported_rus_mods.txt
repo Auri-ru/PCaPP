@@ -1,6 +1,7 @@
 Название: Aesir Armor-Броня Асгарда
-Источник: 
-Метод: в процессе Аури
+Источник: http://tesall.ru/files/file/4835-bronya-asgarda/
+Метод: патч PrePaMa_AesirArmor_Rus.esp + XML
+Ставить: ниже PerMa
 
 Название: Amazing Follower Tweaks
 Источник: http://tes.riotpixels.com/mods/skyrim/companions/aft.shtml
@@ -336,8 +337,12 @@
 Метод: замена 1nivWICCloaks.esp + XML
 Ставить: ниже PerMa
 
-Название: Wyrmstooth 1.15
-Источник: http://tes.riotpixels.com/mods/skyrim/quests/wyrmstooth.shtml
+Название: Winter Is Coming - Cloaks v2.3
+Источник: http://tes.riotpixels.com/mods/skyrim/clothes/winter-is-coming.shtml
+Метод: замена 1nivWICCloaks.esp + XML
+
+Название: Wrath of Nature - The Champion of Kynareth 1.3
+Источник: http://www.nexusmods.com/skyrim/mods/39928/?tab=2&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D39928&pUp=1
 Метод: XML
 
 Название: Бандитам тоже хочется
@@ -350,7 +355,7 @@
        Опциональный патч CCOR/WAFR (с реплейсером брони/оружия на уникальные) - https://mega.co.nz/#!JlIQUKIY!ayZUX5vaECRfj60JD9EzP5XyIR5cA8xzeanfK9oWfJQ
 Ставить: ниже PerMa и ExpandedWinterholdRuins.esp
 
-Название: Расширение городов Скайрима
+Название: Расширение городов Скайрима/Expanded Towns and Cities
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirenie_gorodov_skajrima/15-1-0-1799
 Метод: XML + Патч
 		Патч: https://mega.co.nz/#!UgZDXDKS!RzLJ49FKg-mbAlXmtxpZvTvYrJvbw_mQUF-uXTiwZoU
@@ -383,14 +388,15 @@ Real Shelter-Frostfall Tents WIP
 SkyUI 4.1
 Ultimate Combat/Беспощадный бой v.2.52
 Vivid Landscapes
+Wrath of Nature - The Path of the Druid
 
 На проверке (было запрошено, ответ не дали)
-Wrath of Nature - The Path of the Druid
-Wrath of Nature - The Champion of Kynareth
 Trade and Barter
 Dynamic loot
-Expanded Towns and Cities
 Helgen Reborn/Возрождение Хелгена v.105.3
+Дреморы Хладной Гавани
+Capes with HDT
+Dawnguard - Dwarven Rifles Variant G
 
 
 
