@@ -2392,6 +2392,10 @@
 		</binding>
 		<binding>
 			<identifier>DaedricHigh</identifier>
+			<substring>Золотой Меч</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
 			<substring>Золотая марка</substring>
 		</binding>
 		<binding>
@@ -2517,6 +2521,10 @@
 		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Golden Saint</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Золотого святого</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3411,15 +3419,15 @@
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
-			<substring>вемерский восточн </substring>
+			<substring>вемерский восточн</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
-			<substring>вемерская восточн </substring>
+			<substring>вемерская восточн</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
-			<substring>вемерское восточн </substring>
+			<substring>вемерское восточн</substring>
 		</binding>
 		<binding>
 			<identifier>DwarvenHigh</identifier>
@@ -4850,7 +4858,15 @@
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
+			<substring>Стеклянный восточны</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
 			<substring>Cyrodiilic Glass</substring>
+		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Сиродильский стеклянный</substring>
 		</binding>
 		<binding>
 			<identifier>GlassHigh</identifier>
@@ -5144,11 +5160,35 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>Сиродильская железная</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Сиродильский железный</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Eastern Iron</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>Железный восточн</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Железная восточн</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Fine Cyrodiilic Iron</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Хорошая сиродильская железная</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring>Хороший сиродильский железный</substring>
 		</binding>
 		<binding>
 			<identifier>IronLow</identifier>
@@ -5157,6 +5197,14 @@
 		<binding>
 			<identifier>IronLow</identifier>
 			<substring>Rusty Cyrodiilic Iron</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Ржавая сиродильская железн</substring>
+		</binding>
+		<binding>
+			<identifier>IronLow</identifier>
+			<substring>Ржавый сиродильский железн</substring>
 		</binding>
 		<binding>
 			<identifier>IronLow</identifier>
@@ -5596,6 +5644,10 @@
 		<binding>
 			<identifier>SilverHigh</identifier>
 			<substring>Eltonbrand</substring>
+		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Меч Эльтона</substring>
 		</binding>
 		<binding>
 			<identifier>RSilverHigh</identifier>
@@ -6249,6 +6301,10 @@
 		</binding>
 		<binding>
 			<identifier>SteelHigh</identifier>
+			<substring>Сиродильская железная дубина</substring>
+		</binding>
+		<binding>
+			<identifier>SteelHigh</identifier>
 			<substring>Cyrodiilic Steel</substring>
 		</binding>
 		<binding>
@@ -6262,6 +6318,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Truncheon of Submission</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Жезл повиновения</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -8520,6 +8580,10 @@
 			<substring>Булава кости мамонта</substring>
 			<identifier>Club</identifier>
 		</binding>
+		<binding>
+			<substring>Сиродильская железная дубина</substring>
+			<identifier>Spiked Club</identifier>
+		</binding>
 	
 		<!-- Russian Weapon bindings end -->
 	    <!-- Sotteta armor end-->
@@ -9203,6 +9267,10 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Меч Эльтона</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Farmer's cleaver</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -9792,6 +9860,10 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
+			<substring>Золотой Меч</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
 			<substring>Золотая марка</substring>
 			<identifier>Katana</identifier>
 		</binding>
@@ -10159,6 +10231,10 @@
 		<binding>
 			<identifier>Mace</identifier>
 			<substring>Truncheon of Submission</substring>
+		</binding>
+		<binding>
+			<identifier>Mace</identifier>
+			<substring>Жезл повиновения</substring>
 		</binding>
 		<binding>
 			<identifier>Mace</identifier>
