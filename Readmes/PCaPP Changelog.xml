@@ -2,23 +2,20 @@
 <Current>
 <v3>
 Now covers:
-	InsanitySorrow's Zatoichi (26619)
-	Vayan Armor (61616)
-	Belko (62149) Default gear
-	VanNord Carved Nordic Armour (64560)
-	Mystic Elven Armor - HD (5600)
-	Divine Aegis HD (9109) (20809)
+	ThirteenOrange's Quest mods (Steam)
 
 Blocklist:
 
 Exclusions:
 
 Fixes:
+	Some missed ITMs in CCOR patches.
 
 Changes:
 	Removed a few ITM records (SiC)
 
 Additions:
+	NPCs Atahba, Khayla and Ma'randru-jo covered by CCOR BOYD
 
 Balancing:
 
@@ -31,13 +28,28 @@ Updated Patches:
 	Immersive Weapons (IW)
 	AetheriumSwordsnArmor.esp (AAA)
 	Immersive Creatures Patch (SiC)
+	CCOR BOYD
+	CCOR
 
 New Patches:
 	Daedra of Coldharbour
 </v3>
 </Current>
 
+
 <Old>
+<v2.6.4>
+Now covers:
+	InsanitySorrow's Zatoichi (26619)
+	Vayan Armor (61616)
+	Belko (62149) Default gear
+	VanNord Carved Nordic Armour (64560)
+	Mystic Elven Armor - HD (5600)
+	Divine Aegis HD (9109) (20809)
+
+Additions:
+	More French strings.
+</v2.6.4>
 <v2.6.3>
 Now covers:
 	Elemental Arrows (49983)
