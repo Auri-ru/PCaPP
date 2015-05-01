@@ -2825,6 +2825,10 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Зуб Дракона</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Драконий клык</substring>
 		</binding>
 		<binding>
@@ -6491,6 +6495,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Меч Фалько</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Redguard Knife</substring>
 		</binding>
 		<binding>
@@ -9802,6 +9810,10 @@
 		</binding>
 		<binding>
 			<substring>Dragon's Fang</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Зуб Дракона</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>

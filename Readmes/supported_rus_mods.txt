@@ -132,6 +132,10 @@
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Helgen Reborn/Возрождение Хелгена 105.3
+Источник: http://tesall.ru/files/file/4968-vozrozhdenie-helgena/
+Метод: XML
+
 Название: High Level Enemies 
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/high-level-enemies.shtml
 Метод: XML
