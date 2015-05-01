@@ -53,7 +53,7 @@
 			<identifier>old</identifier>
 		</binding>
 		<binding>
-			<substring>стар</substring>
+			<substring> стар</substring>
 			<identifier>old</identifier>
 		</binding>
 		<binding>
@@ -65,7 +65,7 @@
 			<identifier>dented</identifier>
 		</binding>
 		<binding>
-			<substring>помят</substring>
+			<substring> помят</substring>
 			<identifier>dented</identifier>
 		</binding>
 		<binding>
@@ -77,7 +77,7 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
-			<substring>сломан</substring>
+			<substring> сломан</substring>
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
@@ -89,7 +89,7 @@
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
-			<substring>поврежден</substring>
+			<substring> поврежден</substring>
 			<identifier>broken</identifier>
 		</binding>
 		<binding>
@@ -101,7 +101,7 @@
 			<identifier>worn</identifier>
 		</binding>
 		<binding>
-			<substring>изношен</substring>
+			<substring> изношен</substring>
 			<identifier>worn</identifier>
 		</binding>
 		<binding>
@@ -113,7 +113,7 @@
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
-			<substring>плетен</substring>
+			<substring> плетен</substring>
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
@@ -125,7 +125,7 @@
 			<identifier>ragged</identifier>
 		</binding>
 		<binding>
-			<substring>рван</substring>
+			<substring> рван</substring>
 			<identifier>ragged</identifier>
 		</binding>
 		<binding>
@@ -137,7 +137,7 @@
 			<identifier>old</identifier>
 		</binding>
 		<binding>
-			<substring>древн</substring>
+			<substring> древн</substring>
 			<identifier>old</identifier>
 		</binding>
 		<binding>
@@ -149,7 +149,7 @@
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
-			<substring>обычн</substring>
+			<substring> обычн</substring>
 			<identifier>raddled</identifier>
 		</binding>
 		<binding>
@@ -161,7 +161,7 @@
 			<identifier>thin</identifier>
 		</binding>
 		<binding>
-			<substring>тонк</substring>
+			<substring> тонк</substring>
 			<identifier>thin</identifier>
 		</binding>
 		<!-- Bindings that lower the quality of armor end-->
@@ -173,7 +173,7 @@
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
-			<substring>качеств.</substring>
+			<substring> качеств.</substring>
 			<identifier>quality</identifier>
 		</binding>
 		<binding>
@@ -182,6 +182,10 @@
 		</binding>
 		<binding>
 			<substring>Переков.</substring>
+			<identifier>reforged</identifier>
+		</binding>
+		<binding>
+			<substring>Перекованн</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -202,7 +206,7 @@
 			<identifier>superior</identifier>
 		</binding>
 		<binding>
-			<substring>Преимущ</substring>
+			<substring>Превосходн</substring>
 			<identifier>superior</identifier>
 		</binding>
 		<binding>
@@ -214,7 +218,7 @@
 			<identifier>exceptional</identifier>
 		</binding>
 		<binding>
-			<substring>исключит</substring>
+			<substring> исключит</substring>
 			<identifier>exceptional</identifier>
 		</binding>
 		<binding>
@@ -226,7 +230,7 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
-			<substring>командир</substring>
+			<substring> командир</substring>
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
@@ -238,7 +242,7 @@
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
-			<substring>мощн</substring>
+			<substring> мощн</substring>
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
@@ -246,11 +250,11 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
-			<substring>Укреплен</substring>
+			<substring>Армирован</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
-			<substring>укреплен</substring>
+			<substring> армирован</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
@@ -262,7 +266,7 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
-			<substring>утеплен</substring>
+			<substring> утеплен</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
@@ -282,7 +286,7 @@
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
-			<substring>офицерск</substring>
+			<substring> офицерск</substring>
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
@@ -294,7 +298,7 @@
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
-			<substring>ветеранск</substring>
+			<substring> ветеранск</substring>
 			<identifier>veteran</identifier>
 		</binding>
 		<binding>
@@ -314,7 +318,7 @@
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
-			<substring>генерал</substring>
+			<substring> генерал</substring>
 			<identifier>commander</identifier>
 		</binding>
 		<binding>
@@ -326,7 +330,7 @@
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
-			<substring>военачальн</substring>
+			<substring> военачальн</substring>
 			<identifier>lord</identifier>
 		</binding>
 		<binding>
@@ -338,7 +342,7 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
-			<substring>улучш</substring>
+			<substring> улучш</substring>
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
@@ -350,7 +354,7 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
-			<substring>хорош</substring>
+			<substring> хорош</substring>
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
@@ -362,7 +366,7 @@
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
-			<substring>вождя</substring>
+			<substring> вождя</substring>
 			<identifier>fine</identifier>
 		</binding>
 		<binding>
@@ -374,7 +378,7 @@
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
-			<substring>золочен</substring>
+			<substring> золочен</substring>
 			<identifier>gilded</identifier>
 		</binding>
 		<binding>
@@ -386,7 +390,7 @@
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
-			<substring>массивн</substring>
+			<substring> массивн</substring>
 			<identifier>thick</identifier>
 		</binding>
 		<binding>
@@ -398,7 +402,7 @@
 			<identifier>noble</identifier>
 		</binding>
 		<binding>
-			<substring>благород</substring>
+			<substring> благород</substring>
 			<identifier>noble</identifier>
 		</binding>
 		<binding>
@@ -410,7 +414,7 @@
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
-			<substring>героев</substring>
+			<substring> героев</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -422,7 +426,7 @@
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
-			<substring>укреплен</substring>
+			<substring> укреплен</substring>
 			<identifier>reforged</identifier>
 		</binding>
 		<binding>
@@ -434,7 +438,7 @@
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
-			<substring>совершен</substring>
+			<substring> совершен</substring>
 			<identifier>officer</identifier>
 		</binding>
 		<binding>
@@ -446,7 +450,7 @@
 			<identifier>reinforced</identifier>
 		</binding>
 		<binding>
-			<substring>усилен</substring>
+			<substring> усилен</substring>
 			<identifier>reinforced</identifier>
 		</binding>
 	</armor_modifier_bindings>
@@ -1226,6 +1230,631 @@
 			<substring>Adros' </substring>
 		</binding>	
 		<!-- Wrath of Nature - The Champion of Kynareth 1.3 start -->
+		<!-- Dynamic Loot start-->
+		<!-- Dynamic Loot eng fix start-->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Conqueror's Leather</substring>
+		</binding>	
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Conqueror's Leather</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Savage Hide Cuffs</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Spellsword's Fur Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Vestment of Arcane Archer</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Wanderer's Fur Helmet</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Spellsword's Fur Bracers</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Bracers of Savagery</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Battlemage Fur Armguards</substring>
+		</binding>			
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Boots of Savagery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Boots of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Helmet of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Insulated Iron Wristguards</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Bogdweller's Fur Cape</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Barbarian's Iron Armguards</substring>
+		</binding>	
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Savage Iron Wristguards</substring>
+		</binding>	
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Spellsword's Iron Armor</substring>
+		</binding>		
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Wanderer's Iron Helmet</substring>
+		</binding>		
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Insulated Iron Wristguards</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Crude Iron Armor of Archery</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Paladin's Gilded Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bladesworn Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elven Jawbreakers</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Barbaric Glass Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Ascendant Glass Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Bosmer Glass Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Overlord's Glass Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Faceguard</substring>
+		</binding>		
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Armplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Legplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Temple Guardian Armplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Breastplate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Outlaw Steel Handguards</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Stormforged Plate Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Cold Imbued Plate Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Bogslayer Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Paladin's Battleplate</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Ancient Guardian Warboots</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Revitalizing Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Bladesworn Headguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Assault Greaves</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Assault Warboots</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Shaman's Armor</substring>
+		</binding>			
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ancient Guardian Stompers</substring>
+		</binding>	
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Orichalcum Jawbreakers</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Unstoppable Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Paladin's Orichalcum Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Bosmer Heavy Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Stormforged Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Ember Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Wastewalker's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Conqueror's Agile Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Savage Nord Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Trickster 's Ancient Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Nord Boots of Savagery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Beastcaller's Nord Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Huntsman's Helmet of Subtlety</substring>
+		</binding>		
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Spellsword's Handguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Resistant Dark Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Addictive Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Boots of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Helmet of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ascendant Daedric Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Conqueror's Agile Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Impenetrable Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Beastcaller's Towershield</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Mirror Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Conqueror's Imperial</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Imperial Helmet of the Warchief</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Heavy Imperial Ward</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Engraved Imperial Armguards</substring>
+		</binding>
+		<!-- Dynamic Loot eng fix end-->
+		<!-- Dynamic Loot rus fix start-->
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Дикарские сыромятные наручи</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховая броня Воина-мага</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховое облачение Мистического Лучника</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховой шлем Странника</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховые наручи Воина-мага</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховые наручи Дикости</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховые рукавицы Боевого Мага</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Меховой плащ Болотного Жителя</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Варварские железные рукавицы</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Защитная маска Мародера</substring>
+		</binding>		
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Наручи Мародера</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Ножные пластины Мародера</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Наручи Храмового Cтража</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Панцирь Мародера</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Покровитель Неприступности</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Выкованная бурей пластинчатая броня</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Мистические пластинчатые рукавицы</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Пластинчатые рукавицы Пронизывающего Холода</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Золоченая броня Паладина</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Перчатки Храмового Cтража</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Шлем Клинконосца</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стеклянный щит Властелина</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Варварские стеклянные сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Башенный щит Болотного Убийцы</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Боевые пластины Паладина</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Древние боевые сапоги стража</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Рукавицы Вдохновения</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Страж Клинконосца</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Наголенники Покушения</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Боевые пластины Вождя</substring>
+		</binding>	
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Боевые сапоги Покушения</substring>
+		</binding>			
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Броня Шамана</substring>
+		</binding>		
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Героический щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Древние ботинки стража</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Защитная стена</substring>
+		</binding>		
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Рукавицы Неодолимости</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит Гуляющего по лаве</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Щит Авангарда</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гравированная броня</substring>
+		</binding>			
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гравированные перчатки</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гравированные сапоги</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гравированный шлем</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Гравированный щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Выкованная бурей </substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Выкованный бурей </substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Выкованные бурей </substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Выкованный призраками нагрудник</substring>
+		</binding>		
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Героические перчатки</substring>
+		</binding>			
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Рукавицы Тления</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Крепкий драконий панцирь Шторма</substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Тяжелый шлем Босмера</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Устойчивый драконий костяной щит</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Гибкие рукавицы Завоевателя</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Грудная клетка Боевого Мага</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Дикарские нордские перчатки</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древние боевые наголенники</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древние ботинки с зазубринами</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древние нагрудные пластины Собирателя Штормов</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древние прочные рукавицы</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древние сапоги Мистической Стрельбы</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древний шлем Мистической Стрельбы</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древняя броня Болтуна</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древняя броня Болтуна</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древняя броня Ловкача</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древняя броня Полярника</substring>
+		</binding>		
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Нордские сапоги Дикости</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Нордские сапоги Призывателя Зверей</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Охотничий шлем Искусности</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Рукавицы Адаптации</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Рукавицы Воина-мага</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Темные рукавицы Устойчивости</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Башенный щит Неприступности</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Башенный щит Призывателя Зверей</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Зеркальный башенный щит</substring>
+		</binding>		
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперский шлем Вождя</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Тяжелый имперский оберег</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперские наручи Завоевателя</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Имперский шлем Завоевателя</substring>
+		</binding>				
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Гравированные имперские рукавицы</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Кираса Стражи Рассвета</substring>
+		</binding>		<binding>
+			<identifier>ForswornLow</identifier>
+			<substring>Бегунцы Леса</substring>
+		</binding>	
+		<binding>
+			<identifier>ForswornLow</identifier>
+			<substring>Броня Берсерка</substring>
+		</binding>	
+		<binding>
+			<identifier>Forsworn</identifier>
+			<substring>Броня Изгоев</substring>
+		</binding>	
+		<binding>
+			<identifier>ForswornHigh</identifier>
+			<substring>Вересковые сапоги</substring>
+		</binding>	
+		<!-- Dynamic Loot rus fix end-->
+		<!-- Dynamic Loot end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -1359,15 +1988,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Драконий панцирный</substring>
+			<substring>раконий панцирный</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Драконьи панцирные</substring>
+			<substring>раконьи панцирные</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
-			<substring>Драконья панцирная</substring>
+			<substring>раконья панцирная</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -1375,15 +2004,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
-			<substring>Драконий чешуйчатый</substring>
+			<substring>раконий чешуйчатый</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
-			<substring>Драконьи чешуйчатые</substring>
+			<substring>раконьи чешуйчатые</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
-			<substring>Драконья чешуйчатая</substring>
+			<substring>раконья чешуйчатая</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -1519,6 +2148,10 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
+			<substring>прочная железная</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
 			<substring>Прочная железная</substring>
 		</binding>
 		<binding>
@@ -1536,6 +2169,10 @@
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Прочная броня</substring>
+		</binding>
+		<binding>
+			<identifier>IronHigh</identifier>
+			<substring> прочная броня</substring>
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
@@ -1635,15 +2272,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Стальная пластинчатая</substring>
+			<substring>тальная пластинчатая</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Стальной пластинчатый</substring>
+			<substring>тальной пластинчатый</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>Стальные пластинчатые</substring>
+			<substring>тальные пластинчатые</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -2734,7 +3371,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Усиленные сапоги</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Molten Ribcage</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Расплавленная грудная клетка</substring><!-- Imperial -->
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2742,7 +3387,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Нагрудник Осквернителя</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Bloodsoaked Chestplate</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Пропитанные кровью нагрудные пластины</substring><!-- Imperial -->
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2750,7 +3403,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Тиски Уверенности</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Farseer's Headguard</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Страж Предсказателя</substring><!-- Imperial -->
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2758,7 +3419,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Защитная маска Призывателя Духов</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Crossbowman's Faceguard</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Защитная маска Арбалетчика</substring><!-- Imperial -->
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
@@ -2766,7 +3435,15 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFaction</identifier>
+			<substring>Опора Карателя</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
 			<substring>Field Marshal Warhelm</substring><!-- Imperial -->
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Военный шлем Фельдмаршала</substring><!-- Imperial -->
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
@@ -2774,7 +3451,15 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
+			<substring>Зеркальный щит</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionS</identifier><!-- Imperial -->
 			<substring>Impenetrable Aegis</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionS</identifier><!-- Imperial -->
+			<substring>Эгида Неприступности</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
@@ -2782,11 +3467,23 @@
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
+			<substring>Эгида Храбрости</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionS</identifier><!-- Imperial -->
 			<substring>Beastcaller's Aegis</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionS</identifier><!-- Imperial -->
+			<substring>Эгида Призывателя Зверей</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionS</identifier><!-- Imperial -->
 			<substring>Imperial Ward</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionS</identifier><!-- Imperial -->
+			<substring>Имперский оберег</substring>
 		</binding>
 		<binding>
 			<identifier>LightFactionLow</identifier>
@@ -3917,6 +4614,10 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Рукавицы Боевого Мага</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Ancient Battle Greaves</substring>
 		</binding>
 		<binding>
@@ -3933,7 +4634,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Древние тиски Коварства</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Bogdweller's Braincage</substring>
+		</binding><!-- Draugr -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Клетка разума Болотного Жителя</substring>
 		</binding><!-- Draugr -->
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3941,7 +4650,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Наголенники Нападения</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Barbaric Sabatons</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Варварские сабатоны</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3949,7 +4666,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Боевые сапоги Предотвращения</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Blessed Darksteel Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Благословенная броня из темной стали</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3957,7 +4682,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Боевые пластины Подавления</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Charged Breastplate</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Заряженный панцирь</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3965,7 +4698,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Замороженные боевые пластины Возмездия</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Hale Battleplate of the Storm</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Крепкие боевые пластины Шторма</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3973,7 +4714,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Бриллиантовые перчатки Целителя</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Treasurehunter's Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Перчатки Охотника за сокровищами</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3981,7 +4730,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Защитная маска Провидца</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Witchdoctor's Grim Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Мрачный шлем Шамана</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3989,7 +4746,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Мрачный шлем Верного Выстрела</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Abysmal Dragonspeaker's Warhelm</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Боевой шлем неудержимого драконьего покорителя</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -3997,7 +4762,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Фамильный щит</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Warlord's Heavy Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Тяжелый щит Военачальника</substring>
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
@@ -4005,7 +4778,15 @@
 		</binding>
 		<binding>
 			<identifier>Daedric</identifier>
+			<substring>Отклоняющий треугольный щит</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
 			<substring>Overlord's Heavy Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Тяжелый щит Властелина</substring>
 		</binding>
 		<binding>
 			<identifier>DaedricLight</identifier>
@@ -4269,7 +5050,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Варварские боевые сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Serenity Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Перчатки Спокойстия</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4277,7 +5066,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Рукавицы холодной ковки</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Masterwork Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Шедевральные рукавицы</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4285,7 +5082,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Рукавицы Морозного Проклятия</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dauntless Handguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Рукавицы Неустрашимости</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4293,7 +5098,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Костяной шлем Иллюзиониста</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Alchemist's Bone Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяной шлем Алхимика</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4301,7 +5114,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Шлем Боевого Вдохновения</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Battlemage Bone Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяной шлем Боевого мага</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4309,11 +5130,23 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Щит Доблести</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Highlord's Bulwark</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Бастион Верховного лорда</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Overlord's Bone Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяной щит Властелина</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4521,7 +5354,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Сабатоны Холодного Укуса</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Fanatic's Scale Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые сапоги Фанатика</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4529,7 +5370,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые сапоги Преследования</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Riptide Legguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Поножи Течения</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4537,7 +5386,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Потускневшие чешуйчатые сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Serenity</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Безмятежност</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4549,7 +5406,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Выдающиеся чешуйчатые пластины Воителя</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Exceptional Chestguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Исключительный нагрудник</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4557,11 +5422,23 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Ледяная кираса</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Coldbite Gauntlets</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Перчатки Холодного Укуса</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Bloodscale Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Перчатки Кровавой чешуи</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4573,7 +5450,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Страж Волшебника</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Lavawalker's Headguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Страж Гуляющего по лаве</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4585,7 +5470,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Страж Предков</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Spiritmender Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Шлем Целителя Духов</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4593,7 +5486,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Энигма</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Skyrider's Aegis</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Эгида Небесного всадника</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4601,7 +5502,15 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Отражающий барьер</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Overlord's Resistant Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Устойчивый щит Властелина</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -4833,7 +5742,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Наголенники Иллюзиониста</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Elementalist's Warboots</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Боевые сапоги Элементалиста</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4841,7 +5758,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Поблекшие ботинки</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Battlemage Chestguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Нагрудник Боевого Мага</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4849,11 +5774,23 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Нагрудные пластины Укротителя Демонов</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Occultist's Battleplate</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Боевые пластины Оккультиста</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Jawbreakers</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Крушители</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4865,7 +5802,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Большой шлем Поклявшегося</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Nightwatch Faceguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Защитная маска Ночного Дозора</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4873,7 +5818,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Полный шлем Возвращенного</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Valorous Greathelm</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Большой шлем Доблести</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -4881,7 +5834,15 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
-			<substring>Last Hope</substring><!-- Same name is used for a Elven Shield -->
+			<substring>Закаленный бастион Неприступности</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Last Hope</substring><!-- Dynamic Loot Same name is used for a Elven Shield -->
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Последняя надежда</substring>
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -5325,7 +6286,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Боевые пластины Противника</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Gauntlets of the Assailant</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Рукавицы Противника</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5333,7 +6302,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Шлем Противника</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Shield of the Assailant</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит Противника</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5365,6 +6342,10 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Предвестника</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Harbinger's Gauntlets</substring>
 		</binding>
 		<binding>
@@ -5381,7 +6362,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Сапоги Отчаяния</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Armor of Despair</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Броня Отчаяния</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5389,11 +6378,23 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Рукавицы Отчаяния</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Helmet of Despair</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Шлем Отчаяния</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Shield of Despair</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит Отчаяния</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -5652,6 +6653,10 @@
 			<substring>Assault</substring>
 		</binding>
 		<binding>
+			<identifier>Elven</identifier>
+			<substring>Покушения</substring>
+		</binding>
+		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Noldor</substring>
 		</binding>
@@ -5793,7 +6798,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring> кости мамонта</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Ancient Guardian Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Древние сапоги стража</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5801,7 +6814,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Сапоги Иллюзиониста</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Elementalist's Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Сапоги Элементалиста</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5809,7 +6830,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Золоченые доспехи Боевого Мага</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Demontamer's Cuirass</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Кираса Укротителя Демонов</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5817,7 +6846,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Золоченая броня Оккультиста</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Oathsworn Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Шлем Поклявшегося</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5825,7 +6862,15 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Шлем Ночного Дозора</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Revenant Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Шлем Возвращенного</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5833,11 +6878,23 @@
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Шлем Доблести</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Noble Shield</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
+			<substring>Щит Дворянина</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
 			<substring>Bogslayer Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Щит Болотного Убийцы</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -5896,8 +6953,16 @@
 			<substring>Terrorguard</substring>
 		</binding>
 		<binding>
+			<identifier>Falmer Hardened</identifier>
+			<substring>Стражи Ужаса</substring>
+		</binding>
+		<binding>
 			<identifier>Falmer Heavy</identifier>
 			<substring>Monstrous Faceguard</substring>
+		</binding>
+		<binding>
+			<identifier>Falmer Heavy</identifier>
+			<substring>Чудовищная защитная маска</substring>
 		</binding>
 		<binding>
 			<identifier>Falmer Hardened</identifier>
@@ -6034,6 +7099,10 @@
 		<binding>
 			<identifier>Fur</identifier>
 			<substring>Shadowmeld</substring>
+		</binding>
+		<binding>
+			<identifier>Fur</identifier>
+			<substring>Единение с тенями</substring>
 		</binding>
 	<!-- Fur Material Bindings end -->
 	
@@ -6289,7 +7358,15 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Рукавицы Безмятежности</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Dauntless Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Перчатки Неустрашимости</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -6297,11 +7374,23 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Блестящий щит</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Highlord's Protector</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Покровитель Верховного лорда</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Celestial Aegis</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Эгида Небес</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -6529,7 +7618,15 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
+			<substring>Баклер Восстановления</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
 			<substring>Mageslayer's Tough Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Жесткий щит Убийцы Магов</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -6537,11 +7634,23 @@
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
-			<substring>Flamebreaker</substring><!-- Same name is used for a Iron Shield -->
+			<substring>Легкий баклер Пехотинца</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Flamebreaker</substring><!-- Dynamic Loot Same name is used for a Iron Shield -->
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Огненный разрушитель</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Shadowcrawler's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Шлем Крадущегося в тени</substring>
 		</binding>
 		<binding>
 			<identifier>Hide</identifier>
@@ -7037,7 +8146,7 @@
 		</binding>
 		<binding>
 			<identifier>IronHigh</identifier>
-			<substring>Flamebreaker</substring><!-- Same name is used for a Hide Shield -->
+			<substring>Flamebreaker</substring><!-- Dynamic Loot Same name is used for a Hide Shield -->
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -7045,7 +8154,15 @@
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
+			<substring>Стихийная скорлупа</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
 			<substring>Spiked Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Шипованный щит</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -7797,7 +8914,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Расплавленная куртка</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Spiritcaller's Headguard</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Страж Призывателя Духов</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -7805,7 +8930,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Страж Лучника</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Marauder's Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кольчуга Мародера</substring>
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
@@ -7813,7 +8946,15 @@
 		</binding>
 		<binding>
 			<identifier>Leather</identifier>
+			<substring>Кольчуга Пустынника</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
 			<substring>Seer's Hauberk</substring>
+		</binding>
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Кольчуга Провидца</substring>
 		</binding>
 		<binding>
 			<identifier>LeatherHigh</identifier>
@@ -8577,7 +9718,15 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Ботинки Иллюзиониста</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Elementalists's Greaves</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Наголенники Элементалиста</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -8585,7 +9734,15 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Поблекшие наголенники</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Summoner's Breastplate</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Панцирь Призывателя</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -8593,7 +9750,15 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Наручи Устойчивости</substring>
+		</binding>		
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Hearthkeeper's Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Перчатки Хранителя</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -8601,11 +9766,23 @@
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Шлем Кровавой Жажды</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Highlander's Helmet</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
+			<substring>Шлем Горца</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
 			<substring>Nightwatch Greathelm</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Большой шлем Ночного Дозора</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -8614,6 +9791,10 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>Tribal Greathelm</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Большой шлем Племени</substring>
 		</binding>
 		<binding>
 			<identifier>Orcish</identifier>
@@ -8949,6 +10130,10 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring> Змеиной Кожи</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Wyrmhide Bracers</substring>
 		</binding>
 		<binding>
@@ -8961,7 +10146,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Мамонтовые сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Mammoth Bracers</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Мамонтовые наручи</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -8969,7 +10162,15 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring>Мамонтовая броня</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Mammoth Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Мамонтовый шлем</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -8978,6 +10179,10 @@
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Wildscale Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Дикой Чешуи</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -8997,7 +10202,11 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
-			<substring>Wastewalker's Helmet</substring>
+			<substring>Wastewalker's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Пустынника</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -9013,11 +10222,19 @@
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
+			<substring> Ненасытного</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
 			<substring>Hungerer's Helmet</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Nightstalker Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring> Ночного Следопыта</substring>
 		</binding>
 		<binding>
 			<identifier>Scaled</identifier>
@@ -9669,6 +10886,10 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Усиленные окованные сапоги</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Curative Shin Plateboots</substring>
 		</binding>
 		<binding>
@@ -9677,7 +10898,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Перекованные боевые наголенники</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Molten Battleplate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Расплавленные боевые пластины</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9685,7 +10914,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Панцирь Горца</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Ominous Armplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Зловещие наручи</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9693,7 +10930,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Рогатый шлем Призывателя Духов</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Crossbowman's Horned Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рогатый шлем Арбалетчика</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9701,11 +10946,19 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Рогатый шлем Карателя</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Reflecting Round Shield</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>Impenetrable Protector</substring>
+			<substring>Reflecting Round Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Круглый щит Отражения</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9713,7 +10966,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Бастион Храбрости</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Stalwart Defender's Barrier</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Стойкий барьер Защитника</substring><!-- Falmer -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9721,7 +10982,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>со стальными ребрами</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Witchblade's Greaves</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Поножи Клинка Ведьм</substring><!-- Falmer -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9729,7 +10998,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Нагрудные пластины Клинка Ведьм</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Witchblade's Handguards</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рукавицы Клинка Ведьм</substring><!-- Falmer -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9738,6 +11015,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Witchblade's Aegis</substring><!-- Falmer -->
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Эгида Клинка Ведьм</substring><!-- Falmer -->
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -10165,7 +11446,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>пластинчатые сапоги</substring>
+			<substring>ластинчатые сапоги</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -10173,7 +11454,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>пластинчатая броня</substring>
+			<substring>ластинчатая броня</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -10181,7 +11462,11 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>пластинчатые перчатки</substring>
+			<substring>ластинчатые перчатки</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>ластинчатые наручи</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -10189,11 +11474,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
-			<substring>пластинчатый шлем</substring>
+			<substring>ластинчатый шлем</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Armplates of Vigilance</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Пластинчатые наручи Дозора</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>
@@ -12118,6 +13407,10 @@
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
+			<substringArmor>меховая броня</substringArmor>
+			<masqueradeFaction>BANDIT</masqueradeFaction>
+		</armor_masquerade_binding>
+		<armor_masquerade_binding>
 			<substringArmor>Fur Bracers</substringArmor>
 			<masqueradeFaction>BANDIT</masqueradeFaction>
 		</armor_masquerade_binding>
@@ -12509,7 +13802,7 @@
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
-			<substringArmor>Имперские сапоги</substringArmor>
+			<substringArmor>мперские сапоги</substringArmor>
 			<masqueradeFaction>IMPERIAL</masqueradeFaction>
 		</armor_masquerade_binding>
 		<armor_masquerade_binding>
