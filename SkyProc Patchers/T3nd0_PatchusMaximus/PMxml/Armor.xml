@@ -2392,6 +2392,22 @@
 			<identifier>LightFaction</identifier>
 			<substring>Потрепанная Имперская броня</substring>
 		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Dragonguard Boots</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Dragonguard Armor</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Dragonguard Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
+			<substring>Dragonguard Helmet</substring>
+ 		</binding>
 	<!-- Faction material_Bindings end -->
 
 	<!-- Civil War material_Bindings Start -->
@@ -6315,6 +6331,10 @@
 			<identifier>Glass</identifier>
 			<substring>Поножи Морокеи</substring>
 		</binding>
+		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Black Hood</substring>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -9778,6 +9798,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Rigmors Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Heavy</identifier>
+			<substring>The Giant-Slayer's Plate</substring>
 		</binding>
 	<!-- Steel Material Bindings end -->
 	
