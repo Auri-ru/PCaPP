@@ -3874,7 +3874,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Испепелитель</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Earthshaker</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Землекрушитель</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3882,7 +3890,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Бич Мага</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Skyrage</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ярость небес</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3890,7 +3906,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Пожиратель Душ</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>The Sting</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Терзатель</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3898,7 +3922,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Клинок Опустошения</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Unrelenting Warmaul</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Безжалостный Боевой Топор</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -9283,11 +9315,23 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Бич Мага</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Skyrage</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Ярость небес</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Void Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Опустошения</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -9820,6 +9864,10 @@
 		</binding>
 		<binding>
 			<substring>The Sting</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Терзатель</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -11159,6 +11207,10 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Пожиратель Душ</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Perdition's Wrath</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
@@ -11907,6 +11959,10 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Землекрушитель</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Warmaul</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
@@ -12301,6 +12357,10 @@
 		</binding>
 		<binding>
 			<substring>Ashbringer</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Испепелитель</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
 		<binding>

@@ -1901,6 +1901,26 @@
 			<substring>Древний боевой шлем</substring>
 		</binding>	
 		<!-- Hjakhtraevarr Tomb  end -->
+		<!-- VALKNUT  start -->
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Сапоги Ренфри</substring>
+		</binding>				
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Камзол Ренфри</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Наруч Ренфри</substring>
+		</binding>	
+		<!-- VALKNUT  end -->
+		<!-- Deadly Dragons Armory  start -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Даэдрический щит Драконоборца</substring>
+		</binding>			
+		<!-- Deadly Dragons Armory  end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -4984,7 +5004,27 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Лютого Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonslayer's Bone</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяные Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяная Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяные Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Костяной Шлем Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -4992,7 +5032,31 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Доблестного Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Reinforced Dragonslayer's</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Усиленные Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Усиленная Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Усиленные Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Усиленный Шлем Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Усиленный Щит Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -5000,7 +5064,27 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Озлобленного Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Dragonslayer's Plate</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Пластинчатый Шлем Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Пластинчатые Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Пластинчатая Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Пластинчатые Сапоги Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -5008,11 +5092,23 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Earthshatter's</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>Землекрушителя</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Ruthless Dragonslayer's</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Неумолимого Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
@@ -5316,7 +5412,31 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Серебряные Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Серебряная Кираса Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Серебряные Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Серебряный Шлем Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Серебряный Щит Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Relentless Dragonslayer's</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Неотступного Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -5324,7 +5444,27 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Порочного Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonslayer's Mithril</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Митриловые Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Митриловая Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Митриловые Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Митриловый Шлем Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -5332,7 +5472,31 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Беспощадного Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonslayer's Light</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкая Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкие Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий Шлем Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Легкий Щит Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -5340,7 +5504,27 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Неистового Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Dragonslayer's Scale</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатая Броня Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатые Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Чешуйчатая Корона Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
@@ -5348,7 +5532,27 @@
 		</binding>
 		<binding>
 			<identifier>Dragonscale</identifier>
+			<substring>Кожаная Кираса Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Кожаные Сапоги Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Кожаные Перчатки Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Кожаный Капюшон Драконоборца</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
 			<substring>Deadly Dragonslayer's</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Смертоносного Драконоборца</substring>
 		</binding>
 		<binding>
 			<identifier>DragonscaleLow</identifier>

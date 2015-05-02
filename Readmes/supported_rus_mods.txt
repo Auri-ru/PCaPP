@@ -69,6 +69,16 @@
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
 	
+Название: Deadly Dragons Armory 4.4.0
+Источник: http://modgames.net/load/tes_v_skyrim/bronja/1/249-1-0-11715
+Метод: XML + патч PerMa_DeadlyDragonArmor_rusTranslateFix.esp
+Ставить: ниже PerMa
+	
+Название: Deadly Dragons Spells 4.4.5
+Источник: http://modgames.net/load/tes_v_skyrim/magija/1/277-1-0-11762
+Метод: XML
+Ставить: ниже PerMa
+
 Название: Daedra of Coldharbour/Дреморы Хладной Гавани 4.1
 Источник: http://tesall.ru/files/file/6009-dremory-hladnoj-gavani/
 Метод: XML
@@ -160,6 +170,7 @@
 Название: Hjakhtraevarr Tomb/Гробница Хьяктраэварра 1.9
 Источник: http://tesall.ru/files/file/4530-grobnitca-hyaktraevarra/
 Метод: XML
+Ставить: ниже PerMa
 
 Название: Hunterborn 1.4.3 
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/hunterborn.shtml
@@ -412,6 +423,10 @@
 Источник: http://tesall.ru/files/file/4540-sekret-charodeya/
 Метод: XML, только русская версия
 
+Название: Украденное детство 2.0
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-10729
+Метод: XML
+
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
 Climates of Tamriel 3.1
@@ -428,12 +443,19 @@ Wrath of Nature - The Path of the Druid
 Trade and Barter (явных конфликтов нет, кто попробует - отпишитесь на форуме как работает)
 Improved closefaced helmets/Улучшенные закрытые шлемы
 Rainbows/Радуги
+Run For Your Lives
+When Vampires Attack
+Convinient Horses
+Все было совсем не так! v1.24
+Катрия v1.2
+Ларина v1.3
+Садия v1.0
+Deadly Dragons
+
 
 В процессе
-Convinient Horses
-Ларина (LB)
-Садия (LB)
-Erdi Illia (LB)
+
+Дары Акатоша
 
 В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
 
@@ -467,9 +489,9 @@ Auto Unequip Ammo
 StoreFront
 Follower Trap Safety
 Katana Crafting
-Deadly Dragons
-Deadly Dragons Spells
-Deadly Dragons Armory
+
+
+
 
 
 

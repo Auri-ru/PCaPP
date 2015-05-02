@@ -8052,7 +8052,15 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>				
-		<!-- Dwemer Specters  end -->					</distribution_exclusions_armor_regular>
+		<!-- Dwemer Specters  end -->							
+		<!-- VALKNUT  start -->
+			<exclusion>
+				<text>aa_Erdi</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- VALKNUT  end -->
+		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS/STARTSWITH -->
