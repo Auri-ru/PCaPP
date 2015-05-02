@@ -630,6 +630,16 @@
 			<identifier>Bonemold</identifier>
 			<substring>Bonemold</substring>
 		</binding>
+		<!-- Dwemer Specters Start -->
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>DwarvenSteamCenturion</substring>
+		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Двемерский паровой центурион</substring>
+		</binding>
+		<!-- Dwemer Specters End  -->
 		<!-- Бандиткам снова хочется (+LB Eng) Start -->
 		<binding>
 			<identifier>LeatherLow</identifier>
@@ -1855,6 +1865,42 @@
 		</binding>	
 		<!-- Dynamic Loot rus fix end-->
 		<!-- Dynamic Loot end -->
+		<!-- Daedra of Coldharbour start -->
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Seducer Assassin</substring>
+		</binding>			
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>соблазнителя-ассасина</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Броня зивилаи</substring>
+		</binding>				
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Xivilai Armor</substring>
+		</binding>	
+		<!-- Daedra of Coldharbour end -->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>HDT - Плащ</substring>
+		</binding>		
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>HDT cape</substring>
+		</binding>			
+		<!-- Hjakhtraevarr Tomb  start -->
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient War Helmet</substring>
+		</binding>				
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Древний боевой шлем</substring>
+		</binding>	
+		<!-- Hjakhtraevarr Tomb  end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -4016,11 +4062,15 @@
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
-			<substring>эбонитовый легкий</substring>
+			<substring>бонитовый легкий</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyLight</identifier>
-			<substring>Эбонитовая легкая</substring>
+			<substring>бонитовая легкая</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>бонитовые легкие</substring>
 		</binding>
 	<!-- Artifacts -->
 	
@@ -15117,5 +15167,12 @@
 			<type>STARTSWITH</type>
 		</exclusion>		
 	<!-- Aesir Armor end -->
+	<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Hjakhtraevarr Tomb  end -->	
 	</reforge_exclusions>
 </ns2:armor>

@@ -1479,6 +1479,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Campfire -->
+		<!-- Hjakhtraevarr Tomb -->
+			<exclusion>
+				<text>Murder01</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>murder_SpellTomeConjureSpectralWolf</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Hjakhtraevarr Tomb -->
+		<!-- Quest Sorcery-->
+			<exclusion>
+				<text>tos_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Quest Sorcery -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2256,6 +2275,37 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Campfire -->
+		<!-- Hjakhtraevarr Tomb -->
+			<exclusion>
+				<text>Murder01</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Hjakhtraevarr Tomb -->
+		<!-- Into The Depths-->
+			<exclusion>
+				<text>000BuchdesBergarbeiters</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>000TageBuchBergarbeiter</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Into The Depths -->
+		<!-- Quest Sorcery-->
+			<exclusion>
+				<text>tos_AshurAhhe</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>tos_PenitusOrders</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Into The Depths -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4319,7 +4369,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>		
 		<!-- Aesir Armor end -->
-		</distribution_exclusions_weapon_regular>
+		<!-- Dwemer Specters  start -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>				
+		<!-- Dwemer Specters  end -->			</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS -->
@@ -5888,7 +5944,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>		
 		<!-- Aesir Armor end -->
-		</distribution_exclusions_weapon_enchanted>
+		<!-- Dwemer Specters  start -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>				
+		<!-- Dwemer Specters  end -->					</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS -->
@@ -7984,7 +8046,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>		
 		<!-- Aesir Armor end -->
-		</distribution_exclusions_armor_regular>
+		<!-- Dwemer Specters  start -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>				
+		<!-- Dwemer Specters  end -->					</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS/STARTSWITH -->
@@ -9725,7 +9793,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>		
 		<!-- Aesir Armor end -->
-		</distribution_exclusions_armor_enchanted>
+		<!-- Dwemer Specters  start -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>				
+		<!-- Dwemer Specters  end -->					</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS/STARTSWITH -->

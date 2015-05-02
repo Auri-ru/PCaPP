@@ -1,4 +1,8 @@
-Название: Aesir Armor-Броня Асгарда
+Название: 83Willows 101BugsHD Butterfly Dragonfly Luna-Moth Torchbug/Бабочки-стрекозы-жучки Скайрима
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/zhivnost/babochki_strekozy_zhuchki_skajrima_83willows_101bugshd_butterfly_dragonfly_luna_moth_torchbug/45-1-0-1969
+Метод: XML
+
+Название: Aesir Armor/Броня Асгарда
 Источник: http://tesall.ru/files/file/4835-bronya-asgarda/
 Метод: патч PrePaMa_AesirArmor_Rus.esp + XML
 Ставить: ниже PerMa
@@ -13,17 +17,17 @@
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
-Название: Armor of Yngol
+Название: Armor of Yngol/Броня Ингола 1.4
 Источник: http://tesall.ru/files/file/5111-bronya-ingola/
 Метод: XML 
 Ставить: ниже PerMa
 
-Название: Arissa - The Wandering Rogue
+Название: Arissa - The Wandering Rogue/Арисса - Странствующая разбойница v1-3
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/kompanony_i_rasy/stranstvujushhaja_razbojnica_arissa_arissa_the_wandering_rouge_1_3/68-1-0-2244
 Метод: XML 
 Ставить: ниже PerMa
 
-Название: Aurora - Standing Stones of Skyrim
+Название: Aurora - Standing Stones of Skyrim/Камни судьбы 2.03
 Источник: http://tesall.ru/files/file/6662-kamni-sudby/
 Метод: XML 
 Ставить: ниже PerMa
@@ -33,7 +37,7 @@
 Метод: замена BDYEB.esp (перевод уже встроен) + XML 
 Ставить: ниже PerMa
 
-Название: Bathing Beauties - Luxury Suite 5.1a
+Название: Bathing Beauties - Luxury Suite 5.1a/Купальни Скайрима "Люкс" v5.1a
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/skyrim_kupalni_skajrima_quot_ljuks_quot_v5_1a_bathing_beauties_luxury_suite/15-1-0-1482
 Метод: XML
 
@@ -41,6 +45,14 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/graphics/book-covers.shtml
 Метод: патчи из состава мода (патч для CCOR ставить выше патча для PerMa)
 Ставить: выше PerMa
+
+Название: Capes with HDT/Плащи с физикой движения 
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/bronja_i_odezhda/plashhi_s_fizikoj/12-1-0-2857
+Метод: XML
+
+Название: Civil War Overhaul
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/civil-war-overhaul.shtml
+Метод: XML
 
 Название: Cloaks of Skyrim 1.2
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
@@ -57,22 +69,26 @@
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
 	
-Название: Destroy the Thieves Guild
+Название: Daedra of Coldharbour/Дреморы Хладной Гавани 4.1
+Источник: http://tesall.ru/files/file/6009-dremory-hladnoj-gavani/
+Метод: XML
+
+Название: Destroy the Thieves Guild/Уничтожение Гильдии воров 1.2.4
 Источник: http://tesall.ru/files/file/5264-unichtozhenie-gildii-vorov/
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Dimond Armor Smithing
+Название: Dimond Armor Smithing/Самоцветная броня 1.3
 Источник: http://tesall.ru/files/file/4873-samotcvetnaya-bronya/
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Dimond Weapon Smithing
+Название: Dimond Weapon Smithing/Алмазное оружие 4.0
 Источник: http://tesall.ru/files/file/4013-almaznoe-oruzhie/
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Dragon Soul Relinquishment
+Название: Dragon Soul Relinquishment/Жертвование душ драконов 1.2
 Источник: http://tesall.ru/files/file/4635-zhertvovanie-dush-drakonov/
 Метод: XML
 Ставить: ниже PerMa
@@ -80,6 +96,10 @@
 Название: Dynamic Loot/Улучшенные трофеи 3.2
 Источник: http://tesall.ru/files/file/3889-uluchshennye-trofei/
 Метод: XML, ввиду небольшой исходной кривости и сключены луки и арбалеты, некоторые брони отличаются от патченых английской версией.
+
+Название: Dwemer Spectres/Призраки двемеров 2.0
+Источник: http://tesall.ru/files/file/4032-prizraki-dvemerov/
+Метод: XML
 
 Название: Emfy Cleric Robes
 Источник: http://modgames.net/load/tes_v_skyrim/1/emfy_armory_cleric_robes/306-1-0-18619
@@ -96,23 +116,19 @@
        ESP (Перевод, CCOR/WAFR TrueOrcish weapons patch) - https://mega.co.nz/#!ssAHEQgb!i4-eYOPFW76TqF8JUGQjzwRnxKC0gREbDpgF_9k-X5E
 Ставить: Ниже PerMa (после PerkusMaximus_Warrior.esp)
 
-Название: Опасные противники (Revenge of the Enemies)
-Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
+Название: Farm Animals/Домашние животные 1.7.1
+Источник: http://tesall.ru/files/file/6610-domashnie-zhivotnye/
 Метод: XML
 
-Название: Civil War Overhaul
-Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/civil-war-overhaul.shtml
-Метод: XML
-
-Название: The Choice is Yours
-Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
+Название: Farm everywhere/Огород без хлопот 1.6
+Источник: http://tesall.ru/files/file/5380-ogorod-bez-hlopot/
 Метод: XML
 
 Название: Falskaar 1.1.5
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/falskaar.shtml
 Метод: XML
 
-Название: FrostFall 2.6 
+Название: Frostfall - Hypothermia Camping Survival 2.6 
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/frostfall.shtml
 Метод: патч PerMa_Survivalism.esp + XML
 Ставить: патч после мастера
@@ -141,7 +157,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Hunterborn
+Название: Hjakhtraevarr Tomb/Гробница Хьяктраэварра 1.9
+Источник: http://tesall.ru/files/file/4530-grobnitca-hyaktraevarra/
+Метод: XML
+
+Название: Hunterborn 1.4.3 
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/hunterborn.shtml
 Метод: XML
 Ставить: после PerMa
@@ -166,7 +186,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Iomaungandr Rising
+Название: Into the Dephts/В глубины 1.3
+Источник: http://tesall.ru/files/file/4434-into-the-depths-skyrim/
+Метод: XML
+
+Название: Iomaungandr Rising/Возвращение Йомаунганда 1.0
 Источник: http://tesall.ru/files/file/6087-vozvraschenie-jomaunganda/
 Метод: XML
 Ставить: ниже PerMa
@@ -181,7 +205,7 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Legendary Rings
+Название: Legendary Rings/Легендарные кольца 2.0
 Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
 Метод: XML
 Ставить: ниже PerMa
@@ -200,7 +224,7 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Moonlight Tales
+Название: Moonlight Tales - Werewolf and Werebear Overhaul 2.33
 Источник: http://tesall.ru/files/file/4893-moonlight-tales-werewolf-and-werebear-overhaul/
 Метод: XML
 Ставить: ниже PerMa
@@ -210,37 +234,37 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: OBIS 2.1
+Название: OBIS - организованная преступность Скайрима 2.1
 Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
 Метод: XML
 Ставить: OBIS.esp, BanditPatrols.esp - выше PerMa, патчи - Ниже
 
-Название: Perfect Legionnaire 6.0
+Название: Perfect Legionnaire/Доспехи Идеальный Легионер 6.0
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/replejsery/skyrim_idealnyj_legioner/8-1-0-937
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Populated Dungeons Caves Ruins 1.07
+Название: Populated Dungeons Caves Ruins/Населенные подземелья, пещеры и руины 1.07
 Источник: http://tesall.ru/files/file/5782-naselennye-podzemelya-peschery-i-ruiny/
 Метод: XML
 Ставить: не важно
 
-Название: Populated Cities Towns Villages 1.25
+Название: Populated Cities Towns Villages/Населенные города и деревни 1.25
 Источник: http://tesall.ru/files/file/5622-naselennye-goroda-i-derevni/
 Метод: XML
 Ставить: не важно
 
-Название: Populated Forts Towers Places 1.28
+Название: Populated Forts Towers Places/Населенные форты, башни и прочие места 1.28
 Источник: http://tesall.ru/files/file/5728-naselennye-forty-bashni-i-prochie-mesta/
 Метод: XML
 Ставить: не важно
 
-Название: Populated Lands Roads Paths 1.26
+Название: Populated Lands Roads Paths/Странствующие персонажи 1.26
 Источник: http://tesall.ru/files/file/5695-stranstvuyuschie-personazhi/
 Метод: XML
 Ставить: не важно
 
-Название: Populated Skyrim Civil War 1.01
+Название: Populated Skyrim Civil War/Населенный Скайрим: Гражданская война 1.01
 Источник: http://tesall.ru/files/file/5820-naselennyj-skajrim-grazhdanskaya-vojna/
 Метод: XML
 Ставить: не важно
@@ -252,6 +276,10 @@
  
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
+Метод: XML
+
+Название: Revenge of the Enemies/Опасные противники 1.95
+Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
 Метод: XML
 
 Название: Skyrim Immersive Creatures v6.5.2a
@@ -269,17 +297,17 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Sofia - The Funny Fully Voiced Follower
+Название: Sofia - The Funny Fully Voiced Follower/Новый компаньон София 2.03
 Источник: http://modgames.net/load/tes_v_skyrim/kompanony/novyj_kompanon_sofija/251-1-0-17918
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Spell Eraser
+Название: Spell Eraser 1.1
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/spell-eraser.shtml
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Telvanni Hall
+Название: Telvanni Hall 1.04
 Источник: http://tes.riotpixels.com/mods/skyrim/quests/telvanni-hall.shtml
 Метод: XML
 Ставить: ниже PerMa
@@ -289,7 +317,7 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: TERA Armors Collection
+Название: TERA Armors Collection/Коллекция брони Тэра для UNP
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/bronja_dlja_cbbe_unp_7b_adec/kollekcija_broni_tehra_dlja_unp_tera_armors_collection_for_unp/11-1-0-1034
 Метод: XML
 Ставить: ниже PerMa
@@ -304,7 +332,11 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Ultimate Assortment 1.11
+Название: The Choice is Yours
+Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
+Метод: XML
+
+Название: Ultimate Assortment/Максимальный ассортимент 1.11
 Источник: http://tesall.ru/files/file/5225-maksimalnyj-assortiment/
 Метод: XML
 Ставить: 
@@ -319,12 +351,12 @@
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Vampiric Thirst
+Название: Vampiric Thirst/Голод 2.61
 Источник: http://tesall.ru/files/file/5739-golod/
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Vilja in Skyrim 4.1
+Название: Vilja in Skyrim/Вилья в Скайриме 4.1
 Источник: tesall.ru/files/file/6335-vilya-v-skajrime/
 Метод: XML
 Ставить: ниже PerMa
@@ -353,9 +385,10 @@
 Источник: http://www.nexusmods.com/skyrim/mods/39928/?tab=2&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D39928&pUp=1
 Метод: XML
 
-Название: Бандитам тоже хочется
+Название: Бандитам снова хочется
 Источник: http://modgames.net/load/tes_v_skyrim/replejsery/banditam_snova_khochetsja/252-1-0-19286
-Метод: XML ставить после PerMa
+Метод: XML 
+Ставить: после PerMa
 
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
@@ -369,20 +402,15 @@
 		Патч: https://mega.co.nz/#!UgZDXDKS!RzLJ49FKg-mbAlXmtxpZvTvYrJvbw_mQUF-uXTiwZoU
 Ставить: Ниже PerMa
 
-Название: Бабочки-стрекозы-жучки Скайрима (83Willows 101BugsHD Butterfly Dragonfly Luna-Moth Torchbug)
-Источник: http://gamer-mods.ru/load/tes_v_skyrim/zhivnost/babochki_strekozy_zhuchki_skajrima_83willows_101bugshd_butterfly_dragonfly_luna_moth_torchbug/45-1-0-1969
-Метод: XML
-
 Название: Реплейсер всей игровой брони для CBBE v5.1 (Remodeled Armor for CBBE Bodyslide и TBBP HDT)
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/replejsery/skyrim_retekstur_igrovoj_broni_dlja_cbbev3_v4_4_2_remodeled_armor_for_cbbev3_bodyslide/8-1-0-993
 Метод: XML + ESP
 		ESP: https://mega.co.nz/#!hoYgSaLT!ruvUSyd7KFOO5Ak5wNf4QAelnDA_HXnv7-hLdBjAgm4
 		WAFR/CCOR смерженный ESP. Использовать вместо всех трех ESP! Ставить после Complete Crafting Overhaul_Remade.esp и перед PerMa.
 
-азвание: Бандитам снова хочется
-Источник: http://modgames.net/load/tes_v_skyrim/replejsery/banditam_snova_khochetsja/252-1-0-19286
-Метод: XML ставить после PerMa
-
+Название: Секрет чародея 1.4
+Источник: http://tesall.ru/files/file/4540-sekret-charodeya/
+Метод: XML, только русская версия
 
 Моды для которых поддержка не требуется:
 Cart in Each Big Town
@@ -398,19 +426,52 @@ Ultimate Combat/Беспощадный бой v.2.52
 Vivid Landscapes
 Wrath of Nature - The Path of the Druid
 Trade and Barter (явных конфликтов нет, кто попробует - отпишитесь на форуме как работает)
+Improved closefaced helmets/Улучшенные закрытые шлемы
+Rainbows/Радуги
 
-На проверке 
+В процессе
+Convinient Horses
+Ларина (LB)
+Садия (LB)
+Erdi Illia (LB)
 
-Helgen Reborn/Возрождение Хелгена v.105.3
-Дреморы Хладной Гавани
-Capes with HDT
-Dawnguard - Dwarven Rifles Variant G
-В глубины 1.3
-Домашние животные 1.7.1
-Секрет чародея 1.4
-Скайрим для гигантов! 1.3 (все отдельные модули)
-Гробница Хьяктраэварра 1.9
-Огород без хлопот 1.6
+В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
+
+GR123 Knight Templar
+Cure Deseace and Poison
+Alfheim Knights
+Alfheim Robes
+Black Sacrament Armor
+Gildergreen Regrown
+Berts Breezkome Remodel
+Hanging Gardens
+Moonpath to Elsweyr
+Much Ado About Snow Elves
+Sea of Ghost
+Wyrmstooth
+Skyrim - Undeath
+The secret of Dragonhead
+Paaethurnax Dilemma
+It Beats for her
+Idemdalls Folly
+Skummel Sohu
+No mercy
+Quest of Seven Keys
+Acquisitive Soul Gems
+Драконы на продажу
+Better Quests Objectives
+Give me more
+Pandorium
+Dragon Priests Mask Quest Markers
+Auto Unequip Ammo
+StoreFront
+Follower Trap Safety
+Katana Crafting
+Deadly Dragons
+Deadly Dragons Spells
+Deadly Dragons Armory
+
+
 
 
 
