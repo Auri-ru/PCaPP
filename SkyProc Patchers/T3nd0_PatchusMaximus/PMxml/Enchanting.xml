@@ -8068,6 +8068,25 @@
 			<type>STARTSWITH</type>
 		</exclusion>				
 	<!-- Dwemer Specters  end -->	
+	<!-- SOL -->
+		<exclusion>
+			<text>Sol</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>SolII</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- SOL -->
+	<!-- Yharnyam Set -->
+		<exclusion>
+			<text>zzzWeapYham</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Yharnyam Set -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9541,6 +9560,13 @@
 			<type>EQUALS</type>
 		</exclusion>				
 	<!-- Dwemer Specters  end -->	
+	<!-- Yharnyam Set -->
+		<exclusion>
+			<text>zzzArmorYham</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Yharnyam Set -->
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>

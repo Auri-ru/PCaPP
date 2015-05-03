@@ -453,6 +453,10 @@
 			<substring> усилен</substring>
 			<identifier>reinforced</identifier>
 		</binding>
+		<binding>
+			<substring>Midweight</substring>
+			<identifier>thick</identifier>
+		</binding>
 	</armor_modifier_bindings>
 
 	<armor_modifiers> 
@@ -629,6 +633,290 @@
 		<binding>
 			<identifier>Bonemold</identifier>
 			<substring>Bonemold</substring>
+		</binding>		<!-- Dynamic Loot eng fix start-->
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Conqueror's Leather</substring>
+		</binding>	
+		<binding>
+			<identifier>Leather</identifier>
+			<substring>Conqueror's Leather</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Savage Hide Cuffs</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Spellsword's Fur Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Vestment of Arcane Archer</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Wanderer's Fur Helmet</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Spellsword's Fur Bracers</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Fur Bracers of Savagery</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Battlemage Fur Armguards</substring>
+		</binding>			
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Boots of Savagery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Boots of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Hide Helmet of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Insulated Iron Wristguards</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Bogdweller's Fur Cape</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Barbarian's Iron Armguards</substring>
+		</binding>	
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Savage Iron Wristguards</substring>
+		</binding>	
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Spellsword's Iron Armor</substring>
+		</binding>		
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Wanderer's Iron Helmet</substring>
+		</binding>		
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Insulated Iron Wristguards</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Crude Iron Armor of Archery</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Paladin's Gilded Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bladesworn Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Elven Jawbreakers</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Barbaric Glass Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Ascendant Glass Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Bosmer Glass Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Overlord's Glass Shield</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Faceguard</substring>
+		</binding>		
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Armplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Legplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Temple Guardian Armplates</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Marauder's Breastplate</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Outlaw Steel Handguards</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Stormforged Plate Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Cold Imbued Plate Gauntlets</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Bogslayer Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Paladin's Battleplate</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Ancient Guardian Warboots</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Revitalizing Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Bladesworn Headguard</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Assault Greaves</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Assault Warboots</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Shaman's Armor</substring>
+		</binding>			
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Ancient Guardian Stompers</substring>
+		</binding>	
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Orichalcum Jawbreakers</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Unstoppable Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Paladin's Orichalcum Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Bosmer Heavy Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Stormforged Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Ember Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Wastewalker's Helmet</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Conqueror's Agile Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Savage Nord Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Trickster 's Ancient Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Nord Boots of Savagery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Beastcaller's Nord Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Huntsman's Helmet of Subtlety</substring>
+		</binding>		
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Spellsword's Handguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Resistant Dark Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Addictive Armguards</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Boots of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Helmet of Arcane Archery</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ascendant Daedric Boots</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Conqueror's Agile Gauntlets</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Impenetrable Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Beastcaller's Towershield</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Mirror Towershield</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Conqueror's Imperial</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Imperial Helmet of the Warchief</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Heavy Imperial Ward</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Engraved Imperial Armguards</substring>
 		</binding>
 		<!-- Dwemer Specters Start -->
 		<binding>
@@ -2801,6 +3089,14 @@
 			<identifier>Clothing</identifier>
 			<substring>Thalmor Wings</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Altmer</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Альтмер</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Faction material_Bindings start -->
@@ -3686,11 +3982,11 @@
 			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionLow</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionLow</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Щит Солитьюда</substring>
 		</binding>
 		<binding>
@@ -4916,6 +5212,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Divine Aegis</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Akatosh</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Firelink</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -5343,6 +5647,10 @@
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Valfar's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Heavy Diamond</substring>
 		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
@@ -5808,6 +6116,10 @@
 			<identifier>Dragonscale</identifier>
 			<substring>L6</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Diamond</substring>
+		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
 	<!-- Dwarven Material Bindings start -->
@@ -6127,6 +6439,14 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Markarth Silverblood</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Heavy Ruby</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Helm of the Aethernaut</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -6772,6 +7092,10 @@
 			<identifier>Ebony</identifier>
 			<substring>Nerevarine</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Heavy Emerald</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -7203,6 +7527,10 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Sword Master</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Ruby</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -7712,6 +8040,10 @@
 			<identifier>GlassHigh</identifier>
 			<substring>Black Hood</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<identifier>Emerald</identifier>
+		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -7963,6 +8295,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Belko</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Garnet</substring>
 		</binding>
 	<!-- Hide Material Bindings end -->
 
@@ -8491,6 +8827,10 @@
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Rigmors Cuirass</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Heavy Garnet</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -9452,6 +9792,10 @@
 			<identifier>LeatherHeavy</identifier>
 			<substring>Rigmors Boots</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Yharnyam</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -10099,6 +10443,10 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>H5</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Heavy Sapphire</substring>
 		</binding>
 	<!-- Orcish Material Bindings end -->
 	
@@ -11372,6 +11720,14 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>The Giant-Slayer's Plate</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Amethyst</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Heavy Amethyst</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -11867,6 +12223,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Windhelm Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Sapphire</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
@@ -12598,6 +12958,13 @@
 			<armorBase>18</armorBase>
 			<identifier>Bonemold Light</identifier>
 			<type>LIGHT</type>
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
+			<armorBase>25</armorBase>
+			<identifier>Bonemold Medium</identifier>
+			<type>BOTH</type> <!-- Armor will count as both light and heavy when using perks, but only the original skill will be improved. -->
 			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
 		</armor_material>

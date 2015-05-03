@@ -2785,10 +2785,6 @@
 			<substring>Sovereign's Slayer</substring>
 		</binding>
 		<binding>
-			<identifier>Daedric</identifier>
-			<substring>Black Hands Dagger</substring>
-		</binding>
-		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Sulfuras</substring>
 		</binding>
@@ -2807,6 +2803,30 @@
 		<binding>
 			<identifier>DaedricHigh</identifier>
 			<substring>Aspect of Strength</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Akatosh</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Firelink</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Obliterator</substring>
+		</binding>'
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Lilith's Evening Star</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Ancient Obliterator</substring>
+		</binding>
+		<binding>
+			<identifier>DaedricHigh</identifier>
+			<substring>Lilith's Ancient Evening Star</substring>
 		</binding>
 	<!-- Daedric bindings end -->
 	
@@ -3639,6 +3659,14 @@
 			<identifier>Dwarven</identifier>
 			<substring>Atulg's Edge</substring>
 		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Nullsprocket</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Clutterbane</substring>
+		</binding>
 	<!-- Dwarven bindings end -->
 	
 	<!-- Ebony bindings start -->
@@ -4409,6 +4437,10 @@
 		<binding>
 			<identifier>EbonyHigh</identifier>
 			<substring>Истинное Пламя</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dragonborn Terra</substring>
 		</binding>
 	<!-- Ebony bindings end -->
 	
@@ -5416,6 +5448,10 @@
 			<identifier>Iron</identifier>
 			<substring>The Crab Slayer</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Hunter's Saw</substring>
+		</binding>
 		<!-- Iron bindings end -->
 	
 	<!-- Iron/Wood Clutter bindings start -->
@@ -5768,11 +5804,7 @@
 			<substring>Refined Luna</substring>
 		</binding>
 		<binding>
-			<identifier>SilverHigh</identifier>
-			<substring>Luna II</substring>
-		</binding>
-		<binding>
-			<identifier>RSilverHigh</identifier>
+			<identifier>RSilver</identifier>
 			<substring>Refined Luna II</substring>
 		</binding>
 		<binding>
@@ -6236,10 +6268,6 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Sol</substring>
-		</binding>
-		<binding>
-			<identifier>Steel</identifier>
-			<substring>Sol Greatsword</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -6812,6 +6840,22 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blessed Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Luna 1h</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Luna 2h</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Mars</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Venus</substring>
 		</binding>
 	<!-- Steel bindings end -->
 
@@ -9153,22 +9197,6 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
-			<substring>Проклятье Красного Орла</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
-			<substring>Ярость Красного Орла</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>		
-		<binding>
-			<substring>Soulrender</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
-			<substring>Душитель</substring>
-			<identifier>Arming Sword</identifier>
-		</binding>
-		<binding>
 			<substring>Albensword</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -10300,10 +10328,6 @@
 			<identifier>Longsword</identifier>
 		</binding>
 		<binding>
-			<substring>Luna II</substring>
-			<identifier>Longsword</identifier>
-		</binding>
-		<binding>
 			<substring>Sol</substring>
 			<identifier>Longsword</identifier>
 		</binding>
@@ -10397,6 +10421,14 @@
 		</binding>
 		<binding>
 			<substring>Shardslayer</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Mars</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Venus</substring>
 			<identifier>Longsword</identifier>
 		</binding>
 	<!-- Longsword bindings end -->
@@ -10514,6 +10546,14 @@
 			<substring>Булава Молага Бала</substring>
 			<identifier>Spiked Mace</identifier>
 		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (mace1h</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (mace1h</substring>
+			<identifier>Longmace</identifier>
+		</binding>
 		<!-- Mace bindings end -->
 
 	<!-- Maul bindings start -->
@@ -10527,7 +10567,7 @@
 		</binding>
 	<!-- Maul bindings end -->
 	
-	<!-- Morning Star -->
+	<!-- Morning Star bindings start -->
 		<binding>
 			<substring>Morning star</substring>
 			<identifier>Morning Star</identifier>
@@ -10544,7 +10584,15 @@
 			<substring>Эмфи, булава клерика</substring>
 			<identifier>Morning Star</identifier>
 		</binding>
-	<!-- Morning Star -->
+		<binding>
+			<substring>Lilith's Evening Star (1h)</substring>
+			<identifier>Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Evening Star (1h)</substring>
+			<identifier>Morning Star</identifier>
+		</binding>
+	<!-- Morning Star bindings end-->
 
 	<!-- Sabre bindings start -->
 		<binding>
@@ -10612,6 +10660,10 @@
 		</binding>
 		<binding>
 			<substring>Кровавая Коса</substring>
+			<identifier>Scimitar</identifier>
+		</binding>
+ 		<binding>
+			<substring>Soulrender</substring>
 			<identifier>Scimitar</identifier>
 		</binding>
 		<binding>
@@ -10843,6 +10895,14 @@
 			<substring>rapier</substring>
 			<identifier>Shortsword</identifier>
 		</binding>
+		<binding>
+			<substring>Short Terra</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
+		<binding>
+			<substring>Short Black Terra</substring>
+			<identifier>Shortsword</identifier>
+		</binding>
 	<!-- Shortsword bindings end -->
 
 	<!-- Tanto bindings start -->
@@ -11004,6 +11064,14 @@
 			<substring>Natat</substring>
 			<identifier>Waraxe</identifier>
 		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (1h</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (1h</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
 	<!-- Waraxe bindings end -->
 	<!-- =====================================================Light Weapon bindings end =================================================== -->
 
@@ -11099,6 +11167,14 @@
 		</binding>
 		<binding>
 			<substring>Azuras Bane</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Luna II</substring>
+			<identifier>Bastard Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Luna 2h</substring>
 			<identifier>Bastard Sword</identifier>
 		</binding>
 	<!-- Bastard Sword bindings end -->
@@ -11304,6 +11380,14 @@
 			<substring>Cloudcleaver</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
+		<binding>
+			<substring>Lilith's Obliterator</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
 	<!-- Battleaxe bindings end -->
 	
 	<!-- Battlestaff bindings start -->
@@ -11460,6 +11544,18 @@
 		</binding>
 		<binding>
 			<substring>Great Terra</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<bindin>
+			<substring>Great Black Terra</substring>
+			<identifier>Greatsword</identifier>
+		</bindin>
+		<binding>
+			<substring>Great Dragonborn Terra</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Black Dragonborn Terra</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
@@ -11738,9 +11834,25 @@
 			<substring>The Giant Slayer</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
+		<binding>
+			<substring>Great Mars</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Venus</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
 	<!-- Greatsword bindings end -->
 	
 	<!-- Halberd bindings start -->
+		<binding>
+			<substring>Lilith's Obliterator (halbert)</substring>
+			<identifier>Halberd</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (halbert)</substring>
+			<identifier>Halberd</identifier>
+		</binding>
 	<!-- Halberd bindings end -->
 	
 	<!-- Longmace bindings start -->
@@ -11758,6 +11870,14 @@
 		</binding>
 		<binding>
 			<substring>Black Ice</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Obliterator (mace</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Obliterator (mace</substring>
 			<identifier>Longmace</identifier>
 		</binding>
 	<!-- Longmace bindings end -->
@@ -12060,6 +12180,14 @@
 	<!-- Great Morning Star bindings start -->
 		<binding>
 			<substring>War Morning Star</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Evening Star (2h)</substring>
+			<identifier>Great Morning Star</identifier>
+		</binding>
+		<binding>
+			<substring>Lilith's Ancient Evening Star (2h)</substring>
 			<identifier>Great Morning Star</identifier>
 		</binding>
 	<!-- Great Morning Star bindings end -->
@@ -13670,7 +13798,7 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Wheels Of Lull-->
-	<!-- Brhuce: Legacy also affects Blackreach Railroad-->
+	<!-- Brhuce: Legacy also affects Blackreach Railroad and Dwemer Spectres-->
 		<exclusion>
 			<text>_tw_</text>
 			<target>EDID</target>
