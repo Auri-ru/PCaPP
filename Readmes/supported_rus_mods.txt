@@ -401,6 +401,10 @@
 Метод: XML 
 Ставить: после PerMa
 
+Название: Дары Акатоша
+Источник: http://tesall.ru/files/file/7252-dary-akatosha/
+Метод: XML, только русский вариант
+
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
 Метод: XML
@@ -455,7 +459,9 @@ Deadly Dragons
 
 В процессе
 
-Дары Акатоша
+Realistic Humanoid Movement Speed
+Dark Souls Armor - Combined Set
+Unique Bows Collection
 
 В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
 
