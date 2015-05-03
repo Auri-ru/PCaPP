@@ -737,6 +737,16 @@
 			<substring>Церемониальный топор</substring>
 		</binding>
 		<!-- не обрабатываемое родным патчером ваниль стоп -->
+		<!-- Hjakhtraevarr Tomb  start -->
+		<binding>
+			<substring>Ancient BattleLust</substring>
+			<identifier>Greatsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Древний боевой клинок жажды</substring>
+			<identifier>Greatsword</identifier>
+		</binding>	 		
+		<!-- Hjakhtraevarr Tomb  end -->
 		<!-- Immersive Weapons rus start -->
 		<binding>
 			<identifier>Daedric</identifier>
@@ -1184,6 +1194,30 @@
 			<substring>Губитель фалмеров</substring>
 		</binding>		
 		<!-- Aesir Armor end -->
+		<!-- Hjakhtraevarr Tomb  start -->
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Ancient BattleLust</substring>
+		</binding>	
+		<binding>
+			<identifier>Draugr</identifier>
+			<substring>Древний боевой клинок жажды</substring>
+		</binding>		
+		<!-- Hjakhtraevarr Tomb  end -->
+		<!-- Quest Sorcery-->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Удар небес</substring>
+		</binding>				
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Порыв ветра</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Бритва Аталга</substring>
+		</binding>	
+		<!-- Quest Sorcery -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -3313,6 +3347,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Обнулятор</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Нулевая шестерня</substring>
 		</binding>
 		<binding>
@@ -3836,7 +3874,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Испепелитель</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Earthshaker</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Землекрушитель</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3844,7 +3890,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Бич Мага</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Skyrage</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Ярость небес</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3852,7 +3906,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Пожиратель Душ</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>The Sting</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Терзатель</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -3860,7 +3922,15 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
+			<substring>Клинок Опустошения</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
 			<substring>Unrelenting Warmaul</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Безжалостный Боевой Топор</substring>
 		</binding>
 		<binding>
 			<identifier>EbonyHigh</identifier>
@@ -8666,11 +8736,11 @@
 		</binding>
 		<binding>
 			<substring>еликий клинок</substring>
-			<identifier>Greatswords</identifier>
+			<identifier>Greatsword</identifier>
 		</binding>		
 		<binding>
 			<substring>еликий Клинок</substring>
-			<identifier>Greatswords</identifier>
+			<identifier>Greatsword</identifier>
 		</binding>	
 			<!-- CCO start -->
 		<binding>
@@ -8900,6 +8970,30 @@
 			<identifier>Scimitar</identifier>
 		</binding>
 		<!-- Civil war overhaul end -->
+		<!-- Dreamora of Coldharbor start -->	
+		<binding>
+			<substring>испепелитель души</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Даэдрический длинный меч Хладной Гавани</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<!-- Dreamora of Coldharbor end -->	
+		<!-- Quest Sorcery start -->
+		<binding>
+			<substring>Удар небес</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>				
+		<binding>
+			<substring>Бритва Аталга</substring>
+			<identifier>Greatsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Порыв ветра</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>	
+			<!-- Quest Sorcery End -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -9221,11 +9315,23 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Бич Мага</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Skyrage</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Ярость небес</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Void Blade</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
+			<substring>Клинок Опустошения</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
@@ -9758,6 +9864,10 @@
 		</binding>
 		<binding>
 			<substring>The Sting</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Терзатель</substring>
 			<identifier>Dagger</identifier>
 		</binding>
 		<binding>
@@ -11097,6 +11207,10 @@
 			<identifier>Battleaxe</identifier>
 		</binding>
 		<binding>
+			<substring>Пожиратель Душ</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
 			<substring>Perdition's Wrath</substring>
 			<identifier>Battleaxe</identifier>
 		</binding>
@@ -11737,6 +11851,10 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Обнулятор</substring>
+			<identifier>Warhammer</identifier>
+		</binding>		
+		<binding>
 			<substring>Нулевая шестерня</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
@@ -11838,6 +11956,10 @@
 		</binding>
 		<binding>
 			<substring>Earthshaker</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Землекрушитель</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
@@ -12235,6 +12357,10 @@
 		</binding>
 		<binding>
 			<substring>Ashbringer</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Испепелитель</substring>
 			<identifier>Shortbow</identifier>
 		</binding>
 		<binding>
@@ -13950,6 +14076,32 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Campfire -->
+	<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Hjakhtraevarr Tomb  end -->	
+	<!-- Dwemer Specters  start -->
+		<exclusion>
+			<text>_tw_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Dwemer Specters end -->	
+	<!-- Quest Sorcery-->
+		<exclusion>
+			<text>tos_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>dunKatariahScimitarDUPLICATE001</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<!-- Quest Sorcery -->
 	</reforge_exclusions>
 
 </ns2:weapons>

@@ -8054,6 +8054,20 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Campfire -->
+	<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Hjakhtraevarr Tomb  end -->	
+	<!-- Dwemer Specters  start -->
+		<exclusion>
+			<text>_tw_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Dwemer Specters  end -->	
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -9513,6 +9527,20 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Campfire -->
+	<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+	<!-- Hjakhtraevarr Tomb  end -->	
+	<!-- Dwemer Specters  start -->
+		<exclusion>
+			<text>_tw_dwarvensteam</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>				
+	<!-- Dwemer Specters  end -->	
 	</enchantment_armor_exclusions>
 
 	<similarity_exclusions_armor>
@@ -10236,6 +10264,18 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Mrissi - A tail of troubles -->
+	<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+		<exclusion>
+			<text>murder_SpellTomeConjureSpectralWolf</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Hjakhtraevarr Tomb  end -->	
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -10905,6 +10945,18 @@
 				<type>EQUALS</type>
 			</exclusion>	
 		<!-- BBLuxorySuit end -->
+		<!-- Hjakhtraevarr Tomb  start -->
+		<exclusion>
+			<text>Murder01</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>				
+		<exclusion>
+			<text>murder_SpellTomeConjureSpectralWolf</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Hjakhtraevarr Tomb  end -->	
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>
