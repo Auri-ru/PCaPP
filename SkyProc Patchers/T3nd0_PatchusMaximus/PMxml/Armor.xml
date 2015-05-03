@@ -5184,6 +5184,10 @@
 		</binding>
 		<binding>
 			<identifier>Dragonplate</identifier>
+			<substring>"Сантения"</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
 			<substring>Eternal centurion</substring>
 		</binding>
 		<binding>
@@ -6857,6 +6861,14 @@
 		<binding>
 			<identifier>Elven</identifier>
 			<substring>Эльфийские ламеллярные</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Эльфийский ламеллярный</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Эльфийская ламеллярная</substring>
 		</binding>
 		<binding>
 			<identifier>Elven</identifier>
@@ -11068,7 +11080,7 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
-			<substring>стражника Кабельо</substring>
+			<substring>тражника Кабельо</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -11622,6 +11634,22 @@
 			<identifier>Steel Plate</identifier>
 			<substring>Scion Plate</substring>
 		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Шлем "Пластинчатый"</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Кольчуга "Пластинчатая"</substring>
+		</binding>		
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Перчатки "Пластинчатые"</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Сапоги "Пластинчатые"</substring>
+		</binding>	
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Keepers of Hattu</substring>
