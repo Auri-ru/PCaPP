@@ -1218,6 +1218,24 @@
 			<substring>Бритва Аталга</substring>
 		</binding>	
 		<!-- Quest Sorcery -->
+		<!-- Броня Акатоша  Start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Кинжал Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Боевой молот Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Боевой топор Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Меч Акатоша</substring>
+		</binding>			
+		<!-- Броня Акатоша  end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->

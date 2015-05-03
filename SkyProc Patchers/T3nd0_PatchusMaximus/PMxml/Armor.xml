@@ -1921,6 +1921,28 @@
 			<substring>Даэдрический щит Драконоборца</substring>
 		</binding>			
 		<!-- Deadly Dragons Armory  end -->
+		<!-- Броня Акатоша  Start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Щит Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Броня Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Шлем Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Сапоги Акатоша</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Перчатки Акатоша</substring>
+		</binding>			
+		<!-- Броня Акатоша  end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
