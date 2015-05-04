@@ -2511,6 +2511,10 @@
 			<outputString>шип. дубина</outputString>
 		</stringBinding>
 		<stringBinding>
+			<identifier>Spiked Club</identifier>
+			<outputString>шип. дубина</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Pickaxe</identifier>
 			<outputString>кирка</outputString>
 		</stringBinding>
