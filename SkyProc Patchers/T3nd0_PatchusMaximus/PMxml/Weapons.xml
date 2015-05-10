@@ -13401,6 +13401,11 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<exclusion>
+			<text>Заточка</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
 			<text>Ceremonial Sword</text>
 			<target>NAME</target>
 			<type>CONTAINS</type>
