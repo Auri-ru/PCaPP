@@ -8114,6 +8114,58 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Unexpected Blades -->
+		<!-- Unique bows start -->
+		<exclusion>
+			<text>axBowOfShadowsE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowScorpionsTailE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowFoamingWaveE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowTwisterE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowDwemerToolNo457E</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowHuntersRoarE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowOfGunnarSigvatsonE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowFaalSizaanE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowWithNoNameE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowOfElberondE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Unique bows end -->
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -10336,6 +10388,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Hjakhtraevarr Tomb  end -->	
+	<!-- The Shroud of Jotunheim end -->
+		<exclusion>
+			<text>0HoSSpellTomeTelekinesis</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- The Shroud of Jotunheim end -->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -11017,6 +11076,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<!-- Hjakhtraevarr Tomb  end -->	
+		<!-- The Shroud of Jotunheim end -->
+		<exclusion>
+			<text>0HoSSpellTomeTelekinesis</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Shroud of Jotunheim end -->
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>

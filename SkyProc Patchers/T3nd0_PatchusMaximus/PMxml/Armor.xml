@@ -1853,7 +1853,8 @@
 		<binding>
 			<identifier>LightFaction</identifier>
 			<substring>Кираса Стражи Рассвета</substring>
-		</binding>		<binding>
+		</binding>		
+		<binding>
 			<identifier>ForswornLow</identifier>
 			<substring>Бегунцы Леса</substring>
 		</binding>	
@@ -1949,6 +1950,76 @@
 			<substring>Перчатки Акатоша</substring>
 		</binding>			
 		<!-- Броня Акатоша  end -->
+		<!-- Pyro Mage Armor  Start -->
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Пиро, </substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Pyro </substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Пиро, стальная маска</substring>
+		</binding>			
+		<!-- Pyro Mage Armor end -->
+		<!-- Dark Soul Set  Start -->
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Сет элитного рыцаря - </substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Сет рыцаря - </substring>
+		</binding>
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Сет Солера - </substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Сет Орнштейна - </substring>
+		</binding>
+		<binding>
+			<identifier>DaedricLight</identifier>
+			<substring>Сет Гвина - </substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Сет Арториаса - </substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Сет Клинка Повелителя - </substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Фарфоровая маска</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Щит с эмблемой</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Щит света</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Большой щит Арториаса</substring>
+		</binding>	
+		<!-- Dark Soul Set end -->
+		<!-- The Shroud of Jotunheim start -->
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Шлем завоевателя</substring>
+		</binding>	
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Helm of the Conquerer</substring>
+		</binding>	
+		<!-- The Shroud of Jotunheim end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
