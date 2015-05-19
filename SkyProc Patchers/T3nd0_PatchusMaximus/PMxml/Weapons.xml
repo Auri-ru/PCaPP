@@ -1236,6 +1236,164 @@
 			<substring>Меч Акатоша</substring>
 		</binding>			
 		<!-- Броня Акатоша  end -->
+		<!-- Dark Soul Set start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Асторский прямой меч</substring>
+		</binding>			
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Прямой меч света</substring>
+		</binding>			
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Меч серебряного рыцаря</substring>
+		</binding>	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Меч черного рыцаря</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Большой меч Арториаса</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Большой меч Бездны</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Золотой след</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Темный серебряный след</substring>
+		</binding>	
+		<!-- Dark Soul Set end -->
+		<!-- Unique bows start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Bow Of Gunnar Sigvatson</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Лук Гунара Сигватсона</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Bow "Faal Sizaan"</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Лук "Фаал Сизаан"</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bow "Foaming Wave"</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Лук "Пенная волна"</substring>
+		</binding>			
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Bow "Twister"</substring>
+		</binding>			
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Лук "Вихрь"</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Bow "Hunter's Roar"</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Лук "Рык охотника"</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bow "Scorpion's Tail"</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Лук "Хвост скорпиона"</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Bow With No Name</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Безымянный лук</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Bow Of Elberond</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Лук Элберонда</substring>
+		</binding>			
+		<!-- Unique bows end -->
+		<!-- The Shroud of Jotunheim start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Gastberg</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Гетсберг</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Ljofulde</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Льофулд</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring> Nifel Fang</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>лык Первочервя</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Rыther</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Рютгер</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Mirkskog</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Миркског</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Blodstand</substring>
+		</binding>			
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Закаленный-в-крови</substring>
+		</binding>			
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Dagger of the Flesh</substring>
+		</binding>			
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Кинжал плоти</substring>
+		</binding>			
+		<!-- The Shroud of Jotunheim end -->
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -9076,6 +9234,136 @@
 			<identifier>Arming Sword</identifier>
 		</binding>	
 			<!-- Quest Sorcery End -->
+		<!-- Dark Soul Set start -->
+		<binding>
+			<substring>Асторский прямой меч</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Прямой меч света</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Меч серебряного рыцаря</substring>
+			<identifier>Longsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Меч черного рыцаря</substring>
+			<identifier>Longsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Большой меч Арториаса</substring>
+			<identifier>Greatsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Большой меч Бездны</substring>
+			<identifier>Greatsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Золотой след</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>	
+		<binding>
+			<identifier>Dagger</identifier>
+			<substring>Темный серебряный след</substring>
+		</binding>	
+		<!-- Dark Soul Set end -->
+		<!-- Unique bows start -->
+		<binding>
+			<substring>Лук Гунара Сигватсона</substring>
+			<identifier>Longbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Bow Of Gunnar Sigvatson</substring>
+			<identifier>Longbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Лук "Фаал Сизаан"</substring>
+			<identifier>Longbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Bow "Foaming Wave"</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Лук "Пенная волна"</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Bow "Twister"</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Лук "Вихрь"</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Лук "Хвост скорпиона"</substring>
+			<identifier>Longbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Безымянный лук</substring>
+			<identifier>Longbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Bow Of Elberond</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Лук Элберонда</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<!-- Unique bows end -->
+		<!-- The Shroud of Jotunheim start -->
+		<binding>
+			<substring>Гетсберг</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Gastberg</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Льофулд</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Ljofulde</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring> Nifel Fang</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>лык Первочервя</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Rыther</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Рютгер</substring>
+			<identifier>Longsword</identifier>
+		</binding>	
+		<binding>
+			<substring>Mirkskog</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Миркског</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Закаленный-в-крови</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<binding>
+			<substring>Blodstand</substring>
+			<identifier>Longsword</identifier>
+		</binding>			
+		<!-- The Shroud of Jotunheim end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -14314,6 +14602,110 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 		<!-- Quest Sorcery -->
+		<!-- Unique bows start -->
+		<exclusion>
+			<text>axBowOfShadowsE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowScorpionsTailE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowFoamingWaveE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowTwisterE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowDwemerToolNo457E</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowHuntersRoarE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowOfGunnarSigvatsonE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowFaalSizaanE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowWithNoNameE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>axBowOfElberondE</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Unique bows end -->
+		<!-- The Shroud of Jotunheim end -->
+		<exclusion>
+			<text>AAQGastBerg</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQYsmirsFury</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQCrescent2</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQRidersBlade</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQTrident</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQTypeK</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQNifelFang</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQRuther2</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQMirkskog</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>AAQFleshDagger</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Shroud of Jotunheim start -->
 	</reforge_exclusions>
 
 </ns2:weapons>
