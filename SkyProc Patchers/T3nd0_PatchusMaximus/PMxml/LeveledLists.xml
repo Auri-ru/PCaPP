@@ -384,14 +384,7 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Hearthfire multiple adoptions end -->
-		<!-- Brhuce: Legacy -->
-			<exclusion>
-				<text>_tw_</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-		<!-- Brhuce: Legacy -->
-		<!-- World Eater Beater -->
+		<!-- World Eater Beater and Bhruce Legacy -->
 			<exclusion>
 				<text>_tw_</text>
 				<target>EDID</target>
@@ -407,7 +400,7 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
-		<!-- World Eater Beater -->
+		<!-- World Eater Beater and Bhruce Legacy -->
 		<!-- Lost Wonders of Mzark -->
 			<exclusion>
 				<text>_lw_</text>
@@ -2306,6 +2299,94 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Into The Depths -->
+		<!-- Dwemer Spectres -->
+			<exclusion>
+				<text>_tw_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Dwemer Spectres -->
+		<!-- Black Horse Courier Reborn -->
+			<exclusion>
+				<text>_SAG_BlackHorse</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>_SAG_BHC</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Black Horse Courier Reborn -->
+		<!-- Gangs of Skyrim -->
+			<exclusion>
+				<text>NBBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>pLetter</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>PandoraL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>MysticBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SolitudeL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>KingsBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>CrimsonBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>MythicBook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>ValeriaL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>RABook</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>NordicL</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Gangs of Skyrim -->
+		<!-- Unexpected Blades -->
+			<exclusion>
+				<text>Halenzeinotes1</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>MoonsugarForging</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Unexpected Blades -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4375,7 +4456,63 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>				
-		<!-- Dwemer Specters  end -->			</distribution_exclusions_weapon_regular>
+		<!-- Dwemer Specters  end -->	
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>Akatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>FirelinkGreat</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
+		<!-- Terra -->
+			<exclusion>
+				<text>DTerra</text>
+				<target>EDID</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- Terra -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzWeapYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
+		<!-- Unexpected Blades -->
+			<exclusion>
+				<text>KhajiitLongDagger</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>ArgonianKindjal</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AkaviriDha</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>AnXileelCleaver</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>KhajiitYatagan</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Unexpected Blades -->
+		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS -->
@@ -5950,7 +6087,41 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>				
-		<!-- Dwemer Specters  end -->					</distribution_exclusions_weapon_enchanted>
+		<!-- Dwemer Specters  end -->					
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>Akatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>FirelinkGreat</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
+		<!-- SOL -->
+			<exclusion>
+				<text>Sol</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SolII</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- SOL -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzWeapYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
+		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS -->
@@ -8060,6 +8231,34 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- VALKNUT  end -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>ArmorAkatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>ArmorFirelink</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
+		<!-- Yharnyam Set -->
+			<exclusion>
+				<text>zzzArmorYham</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Yharnyam Set -->
+		<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
+			<exclusion>
+				<text>xxxESOAltmer</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -9807,7 +10006,56 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>				
-		<!-- Dwemer Specters  end -->					</distribution_exclusions_armor_enchanted>
+		<!-- Dwemer Specters  end -->
+		<!-- Gifts of Akatosh -->
+			<exclusion>
+				<text>ArmorAkatosh</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Gifts of Akatosh -->
+		<!-- Firelink Implements -->
+			<exclusion>
+				<text>ArmorFirelink</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Firelink Implements -->
+		<!-- Tribunal Masks - Judgement Day -->
+			<exclusion>
+				<text>ArmorTribunalMask</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Tribunal Masks - Judgement Day -->
+		<!-- Gangs Of Skyrim -->
+			<exclusions>
+				<text>ShadowA</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowG</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowH</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>ShadowB</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusions>
+			<exclusions>
+				<text>Wolf Pack</text>
+				<target>NAME</target>
+				<type>STARTSWITH</type>
+			</exclusions>
+		<!-- Gangs Of Skyrim -->
+		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
 		<!-- Target = EDID/FORMID Type = EQUALS/EQUALS_IGNORECASE/CONTAINS/STARTSWITH -->

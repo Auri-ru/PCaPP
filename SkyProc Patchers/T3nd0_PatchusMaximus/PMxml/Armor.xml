@@ -2,11 +2,11 @@
 <ns2:armor xmlns:ns2="PatchusMaximus.armorXML">
 
 	<armor_settings>
-		<armorFactorBody>4.0</armorFactorBody>
-		<armorFactorFeet>1.5</armorFactorFeet>
-		<armorFactorHands>1.5</armorFactorHands>
-		<armorFactorHead>2.0</armorFactorHead>
-		<armorFactorShield>2.5</armorFactorShield>
+		<armorFactorBody>3.9</armorFactorBody>
+		<armorFactorFeet>1.4</armorFactorFeet>
+		<armorFactorHands>1.4</armorFactorHands>
+		<armorFactorHead>1.9</armorFactorHead>
+		<armorFactorShield>2.4</armorFactorShield>
 		<!-- Space intentionally left blank-->
 		<meltdownOutputBody>2</meltdownOutputBody>
 		<meltdownOutputFeet>1</meltdownOutputFeet>
@@ -16,6 +16,8 @@
 		<!-- Space intentionally left blank-->
 		<maxProtection>90.0</maxProtection>
 		<protectionPerArmor>0.1</protectionPerArmor>
+		<armorRatingPCMax>1.4</armorRatingPCMax>
+		<armorRatingMax>1.75</armorRatingMax>
 	</armor_settings>
 
 	<armor_modifier_bindings>
@@ -452,6 +454,10 @@
 		<binding>
 			<substring> усилен</substring>
 			<identifier>reinforced</identifier>
+		</binding>
+		<binding>
+			<substring>Midweight</substring>
+			<identifier>thick</identifier>
 		</binding>
 	</armor_modifier_bindings>
 
@@ -2801,6 +2807,14 @@
 			<identifier>Clothing</identifier>
 			<substring>Thalmor Wings</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Altmer</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Альтмер</substring>
+		</binding>
 	<!-- Racial material_Bindings end -->
 
 	<!-- Faction material_Bindings start -->
@@ -3133,6 +3147,30 @@
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Helmet</substring>
  		</binding>
+		<binding>
+		<identifier>HeavyFactionHigh</identifier>
+			<substring>Tower Guard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Citadel Guard</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFaction</identifier>
+			<substring>Gondorian</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Mask Silver</substring>
+		</binding>
+		<binding>
+			<identifier>LightFactionLow</identifier>
+			<substring>Shadow</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>Wolf Pack</substring>
+		</binding>
 	<!-- Faction material_Bindings end -->
 
 	<!-- Civil War material_Bindings Start -->
@@ -3686,11 +3724,11 @@
 			<substring>Хаафингар</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionLow</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Shield of Solitude</substring>
 		</binding>
 		<binding>
-			<identifier>LightFactionLow</identifier>
+			<identifier>LightFactionHigh</identifier>
 			<substring>Щит Солитьюда</substring>
 		</binding>
 		<binding>
@@ -4916,6 +4954,14 @@
 			<identifier>Daedric</identifier>
 			<substring>Divine Aegis</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Akatosh</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Firelink</substring>
+		</binding>
 	<!-- Daedric Material Bindings end -->
 	
 	<!-- Dragonplate Material Bindings start -->
@@ -5343,6 +5389,10 @@
 		<binding>
 			<identifier>DragonplateHigh</identifier>
 			<substring>Valfar's Armor</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonplate</identifier>
+			<substring>Heavy Diamond</substring>
 		</binding>
 	<!-- Dragonplate Material Bindings end -->
 	
@@ -5808,6 +5858,14 @@
 			<identifier>Dragonscale</identifier>
 			<substring>L6</substring>
 		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Diamond</substring>
+		</binding>
+		<binding>
+			<identifier>Dragonscale</identifier>
+			<substring>Mask Gator</substring>
+		</binding>
 	<!-- Dragonscale Material Bindings end -->
 	
 	<!-- Dwarven Material Bindings start -->
@@ -6127,6 +6185,18 @@
 		<binding>
 			<identifier>Dwarven</identifier>
 			<substring>Markarth Silverblood</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Heavy Ruby</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Helm of the Aethernaut</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Mask Bronze</substring>
 		</binding>
 	<!-- Dwarven Material Bindings end -->
 	
@@ -6772,6 +6842,14 @@
 			<identifier>Ebony</identifier>
 			<substring>Nerevarine</substring>
 		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Heavy Emerald</substring>
+		</binding>
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Mask Ebony</substring>
+		</binding>
 	<!-- Ebony Material Bindings end -->
 	
 	<!-- Elven Material Bindings start -->
@@ -7203,6 +7281,14 @@
 		<binding>
 			<identifier>ElvenHigh</identifier>
 			<substring>Sword Master</substring>
+		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Ruby</substring>
+		</binding>
+		<binding>
+			<identifier>ElvenHigh</identifier>
+			<substring>Mask Gold</substring>
 		</binding>
 	<!-- Elven Material Bindings end -->
 	
@@ -7712,6 +7798,14 @@
 			<identifier>GlassHigh</identifier>
 			<substring>Black Hood</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Emerald</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Bosmer Ceremonial</substring>
+ 		</binding>
 	<!-- Glass Material Bindings end -->
 	
 	<!-- Gold Material Bindings start -->
@@ -7963,6 +8057,10 @@
 		<binding>
 			<identifier>Hide</identifier>
 			<substring>Belko</substring>
+		</binding>
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Garnet</substring>
 		</binding>
 	<!-- Hide Material Bindings end -->
 
@@ -8491,6 +8589,10 @@
 		<binding>
 			<identifier>IronHigh</identifier>
 			<substring>Rigmors Cuirass</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Heavy Garnet</substring>
 		</binding>
 	<!-- Iron Material Bindings end -->
 	
@@ -9452,6 +9554,10 @@
 			<identifier>LeatherHeavy</identifier>
 			<substring>Rigmors Boots</substring>
 		</binding>
+		<binding>
+			<identifier>LeatherHigh</identifier>
+			<substring>Yharnyam</substring>
+		</binding>
 	<!-- Leather Material Bindings end -->
 	
 	<!-- None Material Listings start -->
@@ -9525,59 +9631,59 @@
 			<substring>нордская легкая</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Dwarven</identifier>
 			<substring>Nordic Dwemer</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Dwarven</identifier>
 			<substring>Нордский двемерский</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Dwarven</identifier>
 			<substring>нордский двемерский</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Ebony</identifier>
 			<substring>Nordic Ebony</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Ebony</identifier>
 			<substring>Нордский эбонитовый</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Ebony</identifier>
 			<substring>нордский эбонитовый</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>EbonyLight</identifier>
 			<substring>Nordic Ebony Light</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>EbonyLight</identifier>
 			<substring>Нордский эбонитовый легкий щит</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>Elven</identifier>
 			<substring>Nordic Moonstone</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>Elven</identifier>
 			<substring>Нордский щит из лунного камня</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Orcish</identifier>
 			<substring>Nordic Orichalcum</substring>
 		</binding>
 		<binding>
-			<identifier>HNordic</identifier>
+			<identifier>Orcish</identifier>
 			<substring>Нордский орихалковый</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>OrcishLight</identifier>
 			<substring>Nordic Orichalcum Light</substring>
 		</binding>
 		<binding>
-			<identifier>LNordic</identifier>
+			<identifier>OrcishLight</identifier>
 			<substring>Нордский орихалковый легкий щит</substring>
 		</binding>
 		<binding>
@@ -9621,27 +9727,27 @@
 			<substring>кольчуга нордов</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Nord Mail Heavy</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Тяжелые кольчужные наручи нордов</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Тяжелые кольчужные сапоги нордов</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Тяжелый кольчужный койф нордов</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Nord Mail Hauberk</substring>
 		</binding>
 		<binding>
-			<identifier>HNordicLow</identifier>
+			<identifier>NordSteel</identifier>
 			<substring>Кольчужный хауберг нордов</substring>
 		</binding>
 		<binding>
@@ -10099,6 +10205,14 @@
 		<binding>
 			<identifier>Orcish</identifier>
 			<substring>H5</substring>
+		</binding>
+		<binding>
+			<identifier>Orcish</identifier>
+			<substring>Heavy Sapphire</substring>
+		</binding>
+		<binding>
+			<identifier>OrcishLight</identifier>
+			<substring>Mask Argon</substring>
 		</binding>
 	<!-- Orcish Material Bindings end -->
 	
@@ -11372,6 +11486,14 @@
 			<identifier>Steel Heavy</identifier>
 			<substring>The Giant-Slayer's Plate</substring>
 		</binding>
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Amethyst</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Heavy Amethyst</substring>
+		</binding>
 	<!-- Steel Material Bindings end -->
 	
 	<!-- Steel Plate Material Bindings start -->
@@ -11867,6 +11989,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Windhelm Steel</substring>
+		</binding>
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Sapphire</substring>
 		</binding>
 	<!-- Steel Plate Material Bindings end -->
 	
@@ -12602,6 +12728,13 @@
 			<materialTemper>BONEMOLD_HEAVY</materialTemper>
 		</armor_material>
 		<armor_material>
+			<armorBase>25</armorBase>
+			<identifier>Bonemold Medium</identifier>
+			<type>BOTH</type> <!-- Armor will count as both light and heavy when using perks, but only the original skill will be improved. -->
+			<materialMeltdown>BONEMOLD_HEAVY</materialMeltdown>
+			<materialTemper>BONEMOLD_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>32</armorBase>
 			<identifier>BonemoldLow</identifier>
 			<type>HEAVY</type>
@@ -12732,21 +12865,21 @@
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>64</armorBase>
+			<armorBase>59</armorBase>
 			<identifier>DaedricLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>65</armorBase>
+			<armorBase>60</armorBase>
 			<identifier>Daedric</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
 			<materialTemper>DAEDRIC</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>66</armorBase>
+			<armorBase>61</armorBase>
 			<identifier>DaedricHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DAEDRIC</materialMeltdown>
@@ -12757,21 +12890,21 @@
 	<!-- Dragonplate Material Listings start -->
 	<!-- Bindings allowed: DragonplateLow, Dragonplate, DragonplateHigh -->
 		<armor_material>
-			<armorBase>57</armorBase>
+			<armorBase>54</armorBase>
 			<identifier>DragonplateLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
 			<materialTemper>DRAGONPLATE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>58</armorBase>
+			<armorBase>55</armorBase>
 			<identifier>Dragonplate</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
 			<materialTemper>DRAGONPLATE</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>59</armorBase>
+			<armorBase>56</armorBase>
 			<identifier>DragonplateHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>DRAGONPLATE</materialMeltdown>
@@ -12853,21 +12986,21 @@
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>50</armorBase>
+			<armorBase>46</armorBase>
 			<identifier>EbonyLow</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase>
+			<armorBase>47</armorBase>
 			<identifier>Ebony</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
 			<materialTemper>EBONY</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>52</armorBase>
+			<armorBase>48</armorBase>
 			<identifier>EbonyHigh</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>EBONY</materialMeltdown>
@@ -13101,7 +13234,7 @@
 			<materialTemper>GLASS</materialTemper>
 		</armor_material>
 		<armor_material>
-			<armorBase>51</armorBase> <!-- Equal to Ebony -->
+			<armorBase>47</armorBase> <!-- Equal to Ebony -->
 			<identifier>GlassHeavy</identifier>
 			<type>HEAVY</type>
 			<materialMeltdown>GLASS</materialMeltdown>
@@ -13305,7 +13438,7 @@
 		</armor_material>
 		<armor_material>
 			<armorBase>23</armorBase> <!-- Equal to Iron -->
-			<identifier>Ancient Nord</identifier> <!-- Heavy Armor/Steel perk/Skyforge -->
+			<identifier>Ancient Nord</identifier> 
 			<type>HEAVY</type>
 			<materialMeltdown>IRON</materialMeltdown>
 			<materialTemper>IRON</materialTemper>
@@ -13332,10 +13465,17 @@
 			<materialTemper>NORDIC_HEAVY</materialTemper>
 		</armor_material>
 		<armor_material>
+			<armorBase>31</armorBase>
+			<identifier>NordSteel</identifier>
+			<type>HEAVY</type>
+			<materialMeltdown>NORDIC_HEAVY</materialMeltdown>
+			<materialTemper>NORDIC_HEAVY</materialTemper>
+		</armor_material>
+		<armor_material>
 			<armorBase>42</armorBase>
 			<identifier>HNordicLow</identifier>
 			<type>HEAVY</type>
-			<materialMeltdown>NORDIC_HEAVY</materialMeltdown>
+			<materialMeltdown>NORDIC_HEAVY</materialMeltdown><!-- Heavy Armor/Steel perk/Skyforge -->
 			<materialTemper>NORDIC_HEAVY</materialTemper>
 		</armor_material>
 		<armor_material>
@@ -15427,6 +15567,40 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>				
-	<!-- Hjakhtraevarr Tomb  end -->	
+	<!-- Hjakhtraevarr Tomb  end -->
+	<!-- Tribunal Masks - Judgement Day -->
+		<exclusion>
+			<text>ArmorTribunalMask</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Tribunal Masks - Judgement Day -->
+	<!-- Gangs Of Skyrim -->
+		<exclusion>
+			<text>ShadowA</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowG</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowH</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>ShadowB</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Wolf Pack</text>
+			<target>NAME</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Gangs Of Skyrim -->
 	</reforge_exclusions>
 </ns2:armor>

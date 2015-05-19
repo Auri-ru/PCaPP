@@ -5,6 +5,10 @@
 	<language><!-- English -->
 		<languageID>ENGLISH</languageID>
 		<stringBinding>
+			<identifier>Rifle</identifier>
+			<outputString>Rifle</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Great Morning Star</identifier>
 			<outputString>Great Morning Star</outputString>
 		</stringBinding>
@@ -2479,6 +2483,10 @@
 	<language><!-- Русский -->
 		<languageID>RUSSIAN</languageID>
 		<stringBinding>
+			<identifier>Rifle</identifier>
+			<outputString>винтовка</outputString>
+		</stringBinding>
+		<stringBinding>
 			<identifier>Hunting Knife</identifier>
 			<outputString>охот. нож</outputString>
 		</stringBinding>
@@ -2505,6 +2513,10 @@
 		<stringBinding>
 			<identifier>Spiked Mace</identifier>
 			<outputString>шип. булава</outputString>
+		</stringBinding>
+		<stringBinding>
+			<identifier>Spiked Club</identifier>
+			<outputString>шип. дубина</outputString>
 		</stringBinding>
 		<stringBinding>
 			<identifier>Spiked Club</identifier>

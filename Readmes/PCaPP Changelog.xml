@@ -1,28 +1,116 @@
 <Versions>
 <Current>
-<v3>
+<v3.1>
 Now covers:
-	ThirteenOrange's Quest mods (Steam)
+	
 
 Blocklist:
 
 Exclusions:
 
 Fixes:
-	Some missed ITMs in CCOR patches.
+	Unique Bows Redux (64879) binding corrected.
+	'Traveller' rank 3 and 'Well Insulated' Wayfarer perks required skill reduced below to 100 and 90 respectfully. (FF)
 
 Changes:
-	Removed a few ITM records (SiC)
+	Armor of 'Nordic Mail' reduced from about Orcish to Steel.
+	Nordic Dwemer Armor set to Dwarven.
+	Nordic Ebony Armor set to Ebony.
+	Nordic Moonstone Armor set to Elven.
+	Nordic Orichalcum Armor set to Orcish.
 
 Additions:
-	NPCs Atahba, Khayla and Ma'randru-jo covered by CCOR BOYD
 
 Balancing:
 
 Renamed:
-	Deadric Crescent -> Daedric Crescent - Short (IW) (Arming Sword)
-	Great Deadric Crescent -> Deadric Crescent (IW) (Greatsword) - Changed to match TES lore
-	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA)
+
+Updated Patches:
+	Frostfall (FF)
+
+New Patches:
+
+Removed Patches:
+</v3.1>
+</Current>
+
+
+<Old>
+<v3>
+Now covers:
+	Unexpected Blades (21857)
+	Gangs of Skyrim (52093)
+	Tribunal Masks -Judgement Day (26526)
+
+Blocklist:
+	WondersofWeather.esp
+
+Exclusions:
+	Shiv can no longer be reforged or Warforged, it's a sharpened spoon it's can't get that good.
+
+Changes:
+	Bugfix file is now nested in the main file and can be selected.
+	Character Creation Overhaul patch is now nested in the main file.
+
+Additions:
+	New code to modify PC and NPC armor skill multipliers (fArmorRatingMax and fArmorRatingPCMax)
+
+Balancing:
+	Weapons rebalanced to be more consistent without training.
+	Light and Heavy weapons will do slightly more damage (on average).
+	Ammo rebalanced to be more consistent and less random after firing (each material will still act a little different though).
+	NPC armor skill multiplier reduced from 2.5 to 1.75. (fArmorRatingMax)
+	Armor rebalanced to reduce scaling of higher end materials. Ebony, Glass, Stalhrim, Dragonplate and Daedric (Heavy versions) base armor reduced.
+	Lowered base armor factor (the PaMa multiplier) by 0.1 per piece. Makes it a bit harder to hit DR cap freely and indirectly buffs melee weapons.
+
+Updated Patches:
+	PerMa Fixes - Gutted-no longer usable)
+	WAFR patches - Minor adjustments for PerMa 1.3
+</v3>
+<v2.7>
+Now covers:
+	ThirteenOrange's Quest mods (Steam)
+	Gifts of Akatosh (Steam)
+	Firelink Implements (Steam)
+	Cynder Arrows (65221)
+	Diamond Armor Smithing (35647)
+	LUNA (55644)
+	TERRA (56049)
+	MARS (57182)
+	VENUS (56492)
+	Altmer ESO Armor Reborn (64532)
+	Dwemer Spectres (63022)
+	Black Horse Courier (59450)
+	Liliths Obliterator (23733)
+	Merp's Gondorian Armament (43641)
+	Bosmer Ceremonial Armor (51569)
+
+Blocklist:
+	Extensible Follower Framework (EFF/XFL)
+
+Exclusions:
+	Black Horse Courier flyers will no longer be distributed.
+
+Fixes:
+	Some missed ITMs in CCOR patches.
+	Necrosis, Void Bolt and Blight Curse now scale with Restoration and not Destruction as intended (FMR)
+	Cleaned unnecessary records (FMR)
+	Soulrender will now properly bind as a Scimitar.
+	Better handling of Dynamic Loot items.
+	Removed a few ITM records (SiC)
+
+Additions:
+	NPCs Atahba, Khayla and Ma'randru-jo now covered by CCOR BOYD patch
+	Carried over some missing globals (IW)
+	Added some survivalism perks (FF)
+
+Balancing:
+	Corrected bound weapon spell cost (BA)
+
+Renamed:
+	Deadric Crescent [Arming Sword] -> Daedric Crescent - Short [Arming Sword] (IW)
+	Great Deadric Crescent [Greatsword] -> Deadric Crescent [Greatsword] (IW) - To match TES lore
+	Dwarven Power Battlexe -> Dwarven Power Battleaxe (AAA) - Was missing the a in axe
 
 Updated Patches:
 	Immersive Weapons (IW)
@@ -30,14 +118,18 @@ Updated Patches:
 	Immersive Creatures Patch (SiC)
 	CCOR BOYD
 	CCOR
+	Forgotten Magic Redone (FMR)
+	Bound Armory (BA)
+	Better Vampires (BV) - Updated to 6.7
+	Frost Fall (FF)
 
 New Patches:
-	Daedra of Coldharbour
-</v3>
-</Current>
+	Daedra of Coldharbour (DoC)
+	Johnskyrims HD Armored Circlets (JAC)
 
-
-<Old>
+Removed Patches:
+	Left Hand Rings (v1.5 includes the changes)
+</v2.7>
 <v2.6.4>
 Now covers:
 	InsanitySorrow's Zatoichi (26619)
