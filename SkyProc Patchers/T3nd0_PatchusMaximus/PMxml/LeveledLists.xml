@@ -1498,6 +1498,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- The Shroud of Jotunheim end -->
+		<!-- iNeed -->
+			<exclusion>
+				<text>_SN</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- iNeed -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
