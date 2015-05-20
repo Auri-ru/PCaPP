@@ -473,25 +473,20 @@ Deadly Dragons
 Loot and Degradation
 Follower Trap Safety
 Realistic Humanoid Movement Speed
+Unread Books Glow 
+Predator Vision 
+Unlimited Bookshelves 
+Extended Encounters 
+Guard Dialogue Overhaul
 
 В процессе
 
-Character Creation Overhaul http://www.nexusmods...?id=21587&pUp=1 http://www.nexusmods...?id=21587&pUp=1
-Guard Dialogue Overhaul http://www.nexusmods...im/mods/23390/? http://tes.riotpixel...im/gameplay/gdo
-Harvest Overhaul http://www.nexusmods...im/mods/16553/? http://modgames.net/...a/247-1-0-18886
-iNeed - Food Water and Sleep http://www.nexusmods...im/mods/51473/? http://tes.riotpixel...lay/ineed.shtml
-Extended Encounters http://www.nexusmods...im/mods/50376/? http://tesall.ru/fil...hajnyh-sobytij/
-Predator Vision http://www.nexusmods...im/mods/22274/? http://tesall.ru/fil...enie-hischnika/
-Unlimited Bookshelves http://www.nexusmods...im/mods/10891/? http://tesall.ru/fil...knizhnye-polki/
-Unread Books Glow http://www.nexusmods...im/mods/10012/? http://tes.riotpixel...read-books-glow
-
+The Wheels of Lull 
+Fyr Manor 
+The Lost Wonders of Mzark 
+Aethernautics- A Space Travel Mod
 
 В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
-
-The Wheels of Lull http://www.nexusmods...im/mods/58672/? http://tesall.ru/fil...olesa-zatishya/
-Fyr Manor http://tesall.ru/files/file/5910-pomeste-fira/
-The Lost Wonders of Mzark http://tesall.ru/files/file/5007-zateryannye-chudesa-mzarka/
-Aethernautics- A Space Travel Mod http://tesall.ru/files/file/6302-eternavtika-kosmicheskoe-puteshestvie/
 GR123 Knight Templar
 Cure Deseace and Poison
 Alfheim Knights
