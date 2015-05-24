@@ -1708,6 +1708,14 @@
 			<identifier>Special Classic Tier 3</identifier>
 			<substring>Сердце волка</substring>
 		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Goat Heart</substring>
+		</binding>
+		<binding>
+			<identifier>Special Classic Tier 3</identifier>
+			<substring>Сердце козы</substring>
+		</binding>
 	<!-- Hunterborn Tier 3 end -->
 	<!-- Hunterborn Tier 4 start -->
 		<binding>
