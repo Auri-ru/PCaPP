@@ -1505,6 +1505,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- iNeed -->
+		<!-- Wrath of Nature -Path of the Druid & Champion of Kynareth -->
+			<exclusion>
+				<text>NW_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wrath of Nature -Path of the Druid & Champion of Kynareth -->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2508,6 +2515,13 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- The Shroud of Jotunheim end -->
+		<!-- Wrath of Nature -Path of the Druid -->
+			<exclusion>
+				<text>NW_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Wrath of Nature -Path of the Druid -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -3301,6 +3315,7 @@
 				<target>EDID</target>
 				<type>STARTSWITH</type>
 			</exclusion>
+		<!-- LotR -->
 			<exclusion>
 				<text>Sting</text>
 				<target>NAME</target>
@@ -3311,7 +3326,28 @@
 				<target>NAME</target>
 				<type>CONTAINS</type>
 			</exclusion>
-			<!-- Inigo-->
+			<exclusion>
+				<text>Narsil</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Нарсил</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Sauron</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Саурон</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- LotR -->
+		<!-- Inigo-->
 			<exclusion>
 				<text>Inigo</text>
 				<target>EDID</target>
@@ -4685,6 +4721,25 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- The Shroud of Jotunheim start -->
+		<!-- Immersive Jewelry -->
+			<exclusion>
+				<text>IJ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>01dam</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Immersive Jewelry -->
+		<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+			<exclusion>
+				<text>00LegendaryTwilightGreatSword</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Twilight Guild Wars 2 Legendary GreatSword -->
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -4928,6 +4983,18 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Clothing and Clutter Fixes end -->
+		<!-- LotR -->
+			<exclusion>
+				<text>Sauron</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+			<exclusion>
+				<text>Саурон</text>
+				<target>NAME</target>
+				<type>CONTAINS</type>
+			</exclusion>
+		<!-- LotR -->
 		<!-- Falskaar-->
 			<exclusion>
 				<text>FSL</text>
@@ -5519,13 +5586,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Skyrim Immersive Creatures end -->
-		<!-- Immersive Weapons start -->
-			<exclusion>
-				<text>IW</text>
-				<target>EDID</target>
-				<type>STARTSWITH</type>
-			</exclusion>
-		<!-- Immersive Weapons end -->
 		<!-- Jaysus Swords start -->
 			<exclusion>
 				<text>JSwords</text>
@@ -6346,6 +6406,25 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- The Shroud of Jotunheim start -->
+		<!-- The Ashbringers -->
+			<exclusion>
+				<text>Ashbringer</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>CorruptedAshbringer</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- The Ashbringers -->
+		<!-- Immersive Jewelry -->
+			<exclusion>
+				<text>IJ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Immersive Jewelry -->
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>
@@ -8484,6 +8563,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
+		<!-- Immersive Jewelry -->
+			<exclusion>
+				<text>IJ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Immersive Jewelry -->
 		</distribution_exclusions_armor_regular>
 
 		<distribution_exclusions_list_regular>
@@ -10280,6 +10366,13 @@
 				<type>STARTSWITH</type>
 			</exclusions>
 		<!-- Gangs Of Skyrim -->
+		<!-- Immersive Jewelry -->
+			<exclusion>
+				<text>IJ</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Immersive Jewelry -->
 		</distribution_exclusions_armor_enchanted>
 
 		<distribution_exclusions_list_enchanted>
