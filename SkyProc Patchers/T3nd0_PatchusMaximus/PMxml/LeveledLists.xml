@@ -4983,18 +4983,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Clothing and Clutter Fixes end -->
-		<!-- LotR -->
-			<exclusion>
-				<text>Sauron</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-			<exclusion>
-				<text>Саурон</text>
-				<target>NAME</target>
-				<type>CONTAINS</type>
-			</exclusion>
-		<!-- LotR -->
 		<!-- Falskaar-->
 			<exclusion>
 				<text>FSL</text>
