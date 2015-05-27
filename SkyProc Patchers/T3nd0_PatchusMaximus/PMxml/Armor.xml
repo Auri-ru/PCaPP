@@ -2020,6 +2020,90 @@
 			<substring>Helm of the Conquerer</substring>
 		</binding>	
 		<!-- The Shroud of Jotunheim end -->
+		<!--Wheels of Lull start -->
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Шлем Минутмена Аварри</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Шлем Миллисекундмена Лавадоса</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Шлем Векмен Нуминар</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Шлем Декадмена Субори</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Магнусский визор</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Краги Масскрофта</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Броня Наблюдателя</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Водолазный шлем</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Корона Памяти</substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Костяной страйдер</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Легкая  броня хронографа</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Перчатки наблюдателя</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Сапоги наблюдателя</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Голова наблюдателя</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Сапоги хронографа</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Сехтский защитный набор</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Шахтерское снаряжение Лулл</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Шлем хронографа</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Щит затишья</substring>
+		</binding>	
+		<!-- Wheels of Lull end -->
+		<!-- Fyr Manor start -->
+		<binding>
+			<identifier>DragonplateHigh</identifier>
+			<substring>Маска Сота Сила</substring>
+		</binding>	
+		<!-- Fyr Manor end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -15684,5 +15768,22 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Path of the Druid- The Champion of kynareth -->
+		<!-- Fyr Manor start -->
+		<exclusion>
+			<text>Fyr_Mask</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_Locket</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_MazedBand</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Fyr Manor end -->
 	</reforge_exclusions>
 </ns2:armor>

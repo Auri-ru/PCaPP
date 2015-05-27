@@ -1415,6 +1415,63 @@
 			<substring>Кинжал плоти</substring>
 		</binding>			
 		<!-- The Shroud of Jotunheim end -->
+		<!-- Fyr Manor start -->
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Кинжал Дома Сота</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Молот Гарена</substring>
+		</binding>			
+		<!-- Fyr Manor end -->
+		<!-- Wheels of Lull start -->
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Аркебуза</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Аркебуза затишья</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring> аркебуза</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Артофизический манипулятор</substring>
+		</binding>			
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Двемерская режущая сфера</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Заводн</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Колокола Сота Эх</substring>
+		</binding>			
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Мемодермический</substring>
+		</binding>			
+		<binding>
+			<identifier>Silver</identifier>
+			<substring>Остановитель Говери</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Посох диагностирования</substring>
+		</binding>			
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Топор Масскрофта</substring>
+		</binding>			
+		<!-- Wheels of Lull end -->
+
 		<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -9401,6 +9458,32 @@
 			<identifier>Longsword</identifier>
 		</binding>			
 		<!-- The Shroud of Jotunheim end -->
+		<!-- Wheels of Lull start -->
+		<binding>
+			<substring>ркебуза</substring>
+			<identifier>Shortbow</identifier>
+		</binding>			
+		<binding>
+			<substring>Артофизический манипулятор</substring>
+			<identifier>Warhammer</identifier>
+		</binding>			
+		<binding>
+			<substring>Двемерская режущая сфера</substring>
+			<identifier>Mace</identifier>
+		</binding>			
+		<binding>
+			<substring>Заводной бур</substring>
+			<identifier>Waraxe</identifier>
+		</binding>			
+		<binding>
+			<substring>Колокола Сота Эх</substring>
+			<identifier>Mace</identifier>
+		</binding>			
+		<binding>
+			<substring>Остановитель Говери</substring>
+			<identifier>Greatsword</identifier>
+		</binding>			
+		<!-- Wheels of Lull end -->
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -14204,6 +14287,11 @@
 			<target>EDID</target>
 			<type>STARTSWITH</type>
 		</exclusion>
+		<exclusion>
+			<text>_lull</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
 	<!-- Wheels Of Lull-->
 	<!-- Brhuce: Legacy also affects Blackreach Railroad and Dwemer Spectres-->
 		<exclusion>
@@ -14759,6 +14847,24 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<!-- The Shroud of Jotunheim start -->
+		<!-- Fyr Manor start -->
+		<exclusion>
+			<text>Fyr_Staff</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_Dagger</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_HammerOfGharen</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Fyr Manor end -->
+
 		<!-- Immersive Weapons -->
 		<exclusion>
 			<text>IWCAfterslash</text>

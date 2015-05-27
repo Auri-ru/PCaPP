@@ -364,6 +364,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tesall.ru/files/file/4671-skyrim-shroud-jotunheim/
 Метод: XML
 
+Название: The Wheels of Lull /Колеса Затишья 2.0
+Источник: http://tesall.ru/files/file/6638-kolesa-zatishya/
+Метод: XML + PaMa_WhellsOfLull_patch.esp, только русский
+
 Название: Ultimate Assortment/Максимальный ассортимент 1.11
 Источник: http://tesall.ru/files/file/5225-maksimalnyj-assortiment/
 Метод: XML
@@ -486,12 +490,18 @@ Guard Dialogue Overhaul
 
 В процессе
 
-The Wheels of Lull 
 Fyr Manor 
 The Lost Wonders of Mzark 
 Aethernautics- A Space Travel Mod
 
+Light armor Pack by Mikle - Mikle009 
+Shields Pack by Mikle - Мастерская Mikle009
+Сокол Обливиона / The Oblivion Falcon - A Lore-Friendly Star Wars Crossover
+More Craftables
+Рыбы Скайрима / Improved Fish
+
 В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
+
 GR123 Knight Templar
 Cure Deseace and Poison
 Alfheim Knights
