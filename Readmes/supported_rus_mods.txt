@@ -147,6 +147,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: патч PerMa_Survivalism.esp + XML
 Ставить: патч после мастера
 
+Название: Fyr Manor/Поместье Фира 1.01
+Источник: http://tesall.ru/files/file/5910-pomeste-fira/
+Метод: XML
+
 Название: Ghosu Weapon Pack 1.8
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/ghosus-weapon-pack.shtml
 Метод: XML
@@ -490,7 +494,6 @@ Guard Dialogue Overhaul
 
 В процессе
 
-Fyr Manor 
 The Lost Wonders of Mzark 
 Aethernautics- A Space Travel Mod
 

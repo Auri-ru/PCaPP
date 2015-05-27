@@ -2522,7 +2522,6 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wrath of Nature -Path of the Druid -->
-
 		<!-- Wheels of Lull start -->
 			<exclusion>
 				<text>_Lull_</text>
@@ -2535,6 +2534,13 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wheels of Lull end -->
+		<!-- Fyr Manor start -->
+			<exclusion>
+				<text>Fyr_</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+		<!-- Fyr Manor end -->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4757,17 +4763,17 @@
 		<!-- Fyr Manor start -->
 			<exclusion>
 				<text>Fyr_Staff</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_Dagger</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_HammerOfGharen</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Fyr Manor end -->
@@ -6467,17 +6473,17 @@
 		<!-- Fyr Manor start -->
 			<exclusion>
 				<text>Fyr_Staff</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_Dagger</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_HammerOfGharen</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Fyr Manor end -->
@@ -8642,17 +8648,17 @@
 		<!-- Fyr Manor start -->
 			<exclusion>
 				<text>Fyr_Mask</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_Locket</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_MazedBand</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Fyr Manor end -->
@@ -10475,17 +10481,17 @@
 		<!-- Fyr Manor start -->
 			<exclusion>
 				<text>Fyr_Mask</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_Locket</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 			<exclusion>
 				<text>Fyr_MazedBand</text>
-				<target>NAME</target>
+				<target>EDID</target>
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- Fyr Manor end -->
