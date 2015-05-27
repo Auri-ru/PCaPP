@@ -191,6 +191,11 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: замена Immersive Weapons.esp + XML
 Ставить: выше PerMa
 
+Название: iNeed - Food Water and Sleep
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/ineed.shtml
+Метод: XMl
+Ставить: после PerMa
+
 Название: Inconsequential NPCs 1.9с
 Источник: http://tesall.ru/files/file/4516-globalnoe-uluchshenie-elfov/
 Метод: XMl
