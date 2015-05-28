@@ -8166,6 +8166,24 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<!-- Unique bows end -->
+		<!-- Fyr Manor start -->
+		<exclusion>
+			<text>Fyr_Staff</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_Dagger</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_HammerOfGharen</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Fyr Manor end -->
+
 		<!-- Immersive Weapons -->
 		<exclusion>
 			<text>IWCAfterslash</text>
@@ -9809,6 +9827,35 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- ESO Altmer Armor by NewerMind43 RELOAD -->
+	<!-- Fyr Manor start -->
+		<exclusion>
+			<text>Fyr_Mask</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_Locket</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>Fyr_MazedBand</text>
+			<target>NAME</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Fyr Manor end -->
+	<!-- Wheels of Lull start -->
+		<exclusion>
+			<text>_lull</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>_Lull</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Wheels of Lull end -->
 	<!-- Wrath of Nature - The Champion of Kynareth -->
 		<exclusion>
 			<text>NW_Druid</text>

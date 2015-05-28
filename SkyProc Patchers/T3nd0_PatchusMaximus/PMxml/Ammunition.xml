@@ -65,6 +65,16 @@
 			<identifier>Standard Javelin</identifier>
 			<substring>Дротик</substring>
 		</binding>
+	<!-- Weels of Lull start -->	
+		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Заводной заряд</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Заряд затишья</substring>
+		</binding>
+	<!-- Weels of Lull end -->	
 	</ammunition_type_bindings>
 
 	<ammunition_modifiers>
@@ -1639,6 +1649,16 @@
 			<substring>Gondorian</substring>
 		</binding>
 	<!-- Merp's Gondorian Armor -->
+	<!-- Weels of Lull start -->	
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Заводной заряд</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Заряд затишья</substring>
+		</binding>
+	<!-- Weels of Lull end -->	
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
