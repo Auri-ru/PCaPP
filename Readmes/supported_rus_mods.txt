@@ -7,6 +7,10 @@
 Метод: патч PrePaMa_AesirArmor_Rus.esp + XML
 Ставить: ниже PerMa
 
+Название: Aethernautics- A Space Travel Mod/Этернавтика: космическое путешествие 1.2 
+Источник: tesall.ru/files/file/6302-eternavtika-kosmicheskoe-puteshestvie/
+Метод: XML 
+
 Название: Amazing Follower Tweaks
 Источник: http://tes.riotpixels.com/mods/skyrim/companions/aft.shtml
 Метод: XML 
@@ -364,6 +368,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
 Метод: XML
 
+Название: The Lost Wonders of Mzark/Затерянные чудеса Мзарка 1.3
+Источник: http://tesall.ru/files/file/5007-zateryannye-chudesa-mzarka/
+Метод: XML
+
 Название: The Shroud of Jotunheim/Тьма над Йотунхеймом 0.8 
 Источник: http://tesall.ru/files/file/4671-skyrim-shroud-jotunheim/
 Метод: XML
@@ -493,9 +501,6 @@ Extended Encounters
 Guard Dialogue Overhaul
 
 В процессе
-
-The Lost Wonders of Mzark 
-Aethernautics- A Space Travel Mod
 
 Light armor Pack by Mikle - Mikle009 
 Shields Pack by Mikle - Мастерская Mikle009

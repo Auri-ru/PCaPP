@@ -74,6 +74,14 @@
 			<identifier>Standard Bolt</identifier>
 			<substring>Заряд затишья</substring>
 		</binding>
+		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Дротик баллисты</substring>
+		</binding>
+		<binding>
+			<identifier>Standard Bolt</identifier>
+			<substring>Ballista Arrow</substring>
+		</binding>
 	<!-- Weels of Lull end -->	
 	</ammunition_type_bindings>
 
@@ -1657,6 +1665,14 @@
 		<binding>
 			<identifier>DwarvenNoMult</identifier>
 			<substring>Заряд затишья</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Дротик баллисты</substring>
+		</binding>
+		<binding>
+			<identifier>DwarvenNoMult</identifier>
+			<substring>Ballista Arrow</substring>
 		</binding>
 	<!-- Weels of Lull end -->	
 	</ammunition_material_bindings>
