@@ -1418,7 +1418,15 @@
 		<!-- Fyr Manor start -->
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>House Sotha Dagger</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Кинжал Дома Сота</substring>
+		</binding>			
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Hammer of Gharen</substring>
 		</binding>			
 		<binding>
 			<identifier>Dwarven</identifier>
@@ -6762,6 +6770,10 @@
 			<substring>Harquebus</substring>
 		</binding>
 		<binding>
+			<identifier>Steel</identifier>
+			<substring>Arquebus</substring>
+		</binding>
+		<binding>
 			<identifier>SteelHigh</identifier>
 			<substring>Black Bow</substring>
 		</binding>
@@ -9460,8 +9472,8 @@
 		<!-- The Shroud of Jotunheim end -->
 		<!-- Wheels of Lull start -->
 		<binding>
-			<substring>ркебуза</substring>
-			<identifier>Shortbow</identifier>
+			<substring>Hammer of Gharen</substring>
+			<identifier>Warhammer</identifier>
 		</binding>			
 		<binding>
 			<substring>Артофизический манипулятор</substring>
@@ -13038,6 +13050,10 @@
 		</binding>
 		<binding>
 			<substring>Arquebus</substring>
+			<identifier>Rifle</identifier>
+		</binding>
+		<binding>
+			<substring>ркебуза</substring>
 			<identifier>Rifle</identifier>
 		</binding>
 	<!-- Gun bindings end -->

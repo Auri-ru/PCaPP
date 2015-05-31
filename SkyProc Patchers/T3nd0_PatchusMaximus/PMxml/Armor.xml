@@ -2101,9 +2101,54 @@
 		<!-- Fyr Manor start -->
 		<binding>
 			<identifier>DragonplateHigh</identifier>
+			<substring>Sotha Sil's Mask</substring>
+		</binding>	
+		<binding>
+			<identifier>DragonplateHigh</identifier>
 			<substring>Маска Сота Сила</substring>
 		</binding>	
 		<!-- Fyr Manor end -->
+		<!-- Mzark Wonders start -->
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Мзарнумеза</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Mzarnumez</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Легкая броня Мзарнумеза</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Mzarnumez Light Curiass</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Mzark's Armor</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Броня Мзарка</substring>
+		</binding>	
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Hologram Armor</substring>
+		</binding>	
+		<!-- Mzark Wonders end -->
+		<!-- Aethernautics start -->
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>этернавта</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Aethernaut</substring>
+		</binding>	
+		<!-- Aethernautics end -->
+
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
