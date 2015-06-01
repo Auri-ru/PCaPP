@@ -2148,7 +2148,328 @@
 			<substring>Aethernaut</substring>
 		</binding>	
 		<!-- Aethernautics end -->
-
+		<!-- Light armor Pack by Mikle start -->
+		<binding>
+			<identifier>LNordicHigh</identifier>
+			<substring>Нордского Тана </substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужные Сапожки</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужные Перчатки</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужка</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужная Накидка</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Русский Шишак</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужный Шлем</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Кольчужный Капюшон</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Изумрудн</substring>
+		</binding>	
+		<binding>
+			<identifier>LNordicHigh</identifier>
+			<substring>Довакина </substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Драконa </substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Убийцы </substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Убийцы </substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские перчатки легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерская броня легкая</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерские сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>DwarvenLight</identifier>
+			<substring>Двемерский щит легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Восточный шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовая броня легкая</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовые перчатки легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Эбонитовый шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Восточный шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>EbonyLight</identifier>
+			<substring>Восточный шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Мифрилов</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Рыцарский Капюшон</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Рыцарские Сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Рыцарская Броня легкая</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Рыцарские Перчатки легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel PlateLight</identifier>
+			<substring>Шлем Морион</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Сапоги легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Броня легкая</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Перчатки легкие</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Шлем легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Русск</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Ратника</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Шлем Спартанский</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Шлем Викинга</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Щит Легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Щит Малый</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Дракона Щит закрытый</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Дракона Щит открытый</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Дракона Щит открытый</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Латный Щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Щит Латный</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Некроманта Щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Русский Щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Рыцаря Ужаса</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Храмовника Щит</substring>
+		</binding>	
+		<binding>
+			<identifier>Wood_Metal</identifier>
+			<substring>Щит Деревянный тяжелый</substring>
+		</binding>	
+		<binding>
+			<identifier>Wood_Metal</identifier>
+			<substring>Тарч Деревянный тяжелый</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Щит Длинный</substring>
+		</binding>	
+		<binding>
+			<identifier>StuddedHeavy</identifier>
+			<substring>Щит Змеи</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Щит Льва Ростовой</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит Мага</substring>
+		</binding>	
+		<binding>
+			<identifier>IronLight</identifier>
+			<substring>Щит Мечника</substring>
+		</binding>	
+		<binding>
+			<identifier>HideHeavy</identifier>
+			<substring>Щит Монстра</substring>
+		</binding>	
+		<binding>
+			<identifier>HideHeavy</identifier>
+			<substring>Щит Охотника</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Щит Охотника Медвежий</substring>
+		</binding>	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Щит Пламени</substring>
+		</binding>	
+		<binding>
+			<identifier>StuddedHeavy</identifier>
+			<substring>Щит Ростовой</substring>
+		</binding>	
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Щит Серафима</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Щит Скелета</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Щит Средний</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Щит Тевтонский</substring>
+		</binding>	
+		<binding>
+			<identifier>Dwarven</identifier>
+			<substring>Щит Терний</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold Light</identifier>
+			<substring>Щит Череп Дракона</substring>
+		</binding>	
+		<binding>
+			<identifier>Bonemold</identifier>
+			<substring>Щит Череп Мамонта</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит Черный</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Щит Шипованный</substring>
+		</binding>	
+		<binding>
+			<identifier>Hide</identifier>
+			<substring>Щит из шляпки гриба</substring>
+		</binding>	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Щит с Решеткой черный</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Щит с решеткой Античный</substring>
+		</binding>	
+		<binding>
+			<identifier>HeavyFactionLow</identifier>
+			<substring>Братьев Бури Щит тяжелый</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Стальной щит легкий</substring>
+		</binding>	
+		<binding>
+			<identifier>SteelLight</identifier>
+			<substring>Стальной щит легкий</substring>
+		</binding>	
+		<!-- Light armor Pack by Mikle end -->
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
