@@ -233,15 +233,15 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: XML
 Ставить: ниже PerMa
 
-Название: Legendary Rings/Легендарные кольца 2.0
-Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
-Метод: XML
-Ставить: ниже PerMa
-
 Название: Lady Body 2.1
 Источник: http://modgames.net/load/tes_v_skyrim/replejsery_tel/1/256-1-0-11011
 Метод: XML + патч (патчи есть в составе мода Бандитам снова хочется)
 Ставить: вместо esp ставить esm (в опциях мода).
+
+Название: Legendary Rings/Легендарные кольца 2.0
+Источник: http://tesall.ru/files/file/6456-legendarnye-koltca/
+Метод: XML
+Ставить: ниже PerMa
 
 Название: Lore Weapon Expansion 1.3
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lore-weapon-expansion.shtml
@@ -441,6 +441,14 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tesall.ru/files/file/7252-dary-akatosha/
 Метод: XML, только русский вариант
 
+Название: Набор - 78 Щитов / Shields Pack by Mikle - Мастерская Mikle009 
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/oruzhie/nabor_78_shhitov/10-1-0-1813
+Метод: XML
+
+Название: Набор - Легкая броня / Light armor Pack by Mikle - Mikle009 
+Источник: http://gamer-mods.ru/load/tes_v_skyrim/bronja_i_odezhda/nabor_legkaja_bronja/12-1-0-1815
+Метод: XML
+
 Название: Расширенные руины Винтерхолда
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/doma_i_lokacii/rasshirennye_ruiny_vinterkholda/15-1-0-2177
 Метод: XML
@@ -499,23 +507,18 @@ Predator Vision
 Unlimited Bookshelves 
 Extended Encounters 
 Guard Dialogue Overhaul
-
-В процессе
-
-Light armor Pack by Mikle - Mikle009 
-Shields Pack by Mikle - Мастерская Mikle009
-Сокол Обливиона / The Oblivion Falcon - A Lore-Friendly Star Wars Crossover
 More Craftables
 Рыбы Скайрима / Improved Fish
 
-В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
+В процессе
 
 GR123 Knight Templar
-Cure Deseace and Poison
-Alfheim Knights
-Alfheim Robes
+Cure Desease and Poison
 Black Sacrament Armor
 Gildergreen Regrown
+
+В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
+
 Berts Breezkome Remodel
 Hanging Gardens
 Moonpath to Elsweyr
