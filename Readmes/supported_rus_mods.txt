@@ -26,6 +26,10 @@
 Метод: XML 
 Ставить: ниже PerMa
 
+Название: Arise - Chapter 1 - The Black Sacrament/Пробуждение - Глава 1 - Черное причастие 4.1
+Источник: http://modgames.net/load/tes_v_skyrim/bronja/1/249-1-0-8681
+Метод: XML 
+
 Название: Arissa - The Wandering Rogue/Арисса - Странствующая разбойница v1-3
 Источник: http://gamer-mods.ru/load/tes_v_skyrim/kompanony_i_rasy/stranstvujushhaja_razbojnica_arissa_arissa_the_wandering_rouge_1_3/68-1-0-2244
 Метод: XML 
@@ -72,6 +76,10 @@
 Ставить: Complete Crafting Overhaul_Remade.esp, CCO-Frostfall, 
 	CCO-Skyrim-Immersive-Creatures- выше мастера, 
 	все остальное - ниже
+	
+Название: Cure Desease and Poison
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/cdap.shtml
+Метод: XML
 	
 Название: Dark Souls Armor - Combined Set/Броня из Dark Souls 1.1
 Источник: http://tesall.ru/files/file/5230-bronya-iz-dark-souls/
@@ -509,20 +517,17 @@ Extended Encounters
 Guard Dialogue Overhaul
 More Craftables
 Рыбы Скайрима / Improved Fish
+Gildergreen Regrown
 
 В процессе
 
-GR123 Knight Templar
-Cure Desease and Poison
-Black Sacrament Armor
-Gildergreen Regrown
-
-В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
-
-Berts Breezkome Remodel
+Berts Breezhome Remodel
 Hanging Gardens
 Moonpath to Elsweyr
 Much Ado About Snow Elves
+
+В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
+
 Sea of Ghost
 Wyrmstooth
 Skyrim - Undeath
@@ -534,14 +539,11 @@ Skummel Sohu
 No mercy
 Quest of Seven Keys
 Acquisitive Soul Gems
-Драконы на продажу
 Better Quests Objectives
 Give me more
-Pandorium
 Dragon Priests Mask Quest Markers
 Auto Unequip Ammo
 StoreFront
-Follower Trap Safety
 Katana Crafting
 
 

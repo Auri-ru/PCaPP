@@ -2470,6 +2470,16 @@
 			<substring>Стальной щит легкий</substring>
 		</binding>	
 		<!-- Light armor Pack by Mikle end -->
+		<!-- Black Sacrament Armor end -->	
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>"Черное Причастие"</substring>
+		</binding>
+		<binding>
+			<identifier>LightFaction</identifier>
+			<substring>"Черное Причастие ТБ"</substring>
+		</binding>
+		<!-- Black Sacrament Armor start -->	
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
