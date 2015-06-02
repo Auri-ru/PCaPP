@@ -8340,6 +8340,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Twilight Guild Wars 2 Legendary GreatSword -->
+	<!-- Black Sacrament Armor end -->	
+		<exclusion>
+			<text>EnchBSAAssassinsBow</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Black Sacrament Armor start -->	
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -11331,6 +11338,18 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Mzark Wonders end -->
+	<!-- Cure Desease and Poison start -->
+		<exclusion>
+			<text>CureDiseaseSpell</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<exclusion>
+			<text>CurePoisonSpell</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Cure Desease and Poison end -->
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>

@@ -1479,6 +1479,16 @@
 			<substring>Топор Масскрофта</substring>
 		</binding>			
 		<!-- Wheels of Lull end -->
+		<!-- Black Sacrament Armor end -->	
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Черного причастия</substring>
+		</binding>
+		<binding>
+			<identifier>Ebony</identifier>
+			<substring>Древний лук Ассасина</substring>
+		</binding>
+		<!-- Black Sacrament Armor start -->	
 
 		<!-- Custom material_Bindings End -->
 	
@@ -9496,6 +9506,32 @@
 			<identifier>Greatsword</identifier>
 		</binding>			
 		<!-- Wheels of Lull end -->
+		<!-- Black Sacrament Armor start -->	
+		<binding>
+			<substring>Древний лук Черного причастия</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ancient Black Sacrament Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<identifier>Longbow</identifier>
+			<substring>Древний лук Ассасина</substring>
+		</binding>
+		<binding>
+			<identifier>Longbow</identifier>
+			<substring>Ancient Assassin's Black Sacrament Bow</substring>
+		</binding>
+		<binding>
+			<substring>Древний ниндзято Черного причастия</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Ancient Black Sacrament Ninjato</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<!-- Black Sacrament Armor end -->	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -15030,6 +15066,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- The Ashbringers -->
+		<!-- Black Sacrament Armor end -->	
+		<exclusion>
+			<text>EnchBSAAssassinsBow</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Black Sacrament Armor start -->	
 	</reforge_exclusions>
 
 </ns2:weapons>

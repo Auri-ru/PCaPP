@@ -1675,6 +1675,16 @@
 			<substring>Ballista Arrow</substring>
 		</binding>
 	<!-- Weels of Lull end -->	
+	<!-- Black Sacrament Armor end -->	
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Древняя стрела Черного причастия</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Ancient Black Sacrament Arrow</substring>
+		</binding>
+	<!-- Black Sacrament Armor start -->	
 	</ammunition_material_bindings>
 
 	<ammunition_exclusions_multiplication>
