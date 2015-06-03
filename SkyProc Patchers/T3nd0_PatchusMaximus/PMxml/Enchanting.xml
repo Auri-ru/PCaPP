@@ -10643,6 +10643,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Mzark Wonders end -->
+	<!-- The Hanging Gardens start-->
+		<exclusion>
+			<text>_tw_summoncenturionPlayer_bh</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- The Hanging Gardens end-->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -11350,6 +11357,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Cure Desease and Poison end -->
+	<!-- The Hanging Gardens start-->
+		<exclusion>
+			<text>_tw_summoncenturionPlayer_bh</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- The Hanging Gardens end-->
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>

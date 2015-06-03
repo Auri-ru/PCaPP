@@ -3923,6 +3923,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Молот повелителя автоматов</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Dorana's Hammer</substring>
 		</binding>
 		<binding>
@@ -5387,6 +5391,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Seadog Cutlass</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Сабля морского волка</substring>
 		</binding>
 	<!-- Glass bindings end -->
 	
@@ -12682,6 +12690,10 @@
 		</binding>
 		<binding>
 			<substring>Staff of Automaton Mastery</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Молот повелителя автоматов</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>

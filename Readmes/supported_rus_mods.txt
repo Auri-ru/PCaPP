@@ -376,6 +376,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
 Метод: XML
 
+Название: The Hanging Gardens/Висячие Сады 1.1
+Источник: http://www.anvilbay.ru/files/hanging-gardens/
+Метод: XML + замена bhabhilon.esp
+
 Название: The Lost Wonders of Mzark/Затерянные чудеса Мзарка 1.3
 Источник: http://tesall.ru/files/file/5007-zateryannye-chudesa-mzarka/
 Метод: XML
@@ -518,11 +522,10 @@ Guard Dialogue Overhaul
 More Craftables
 Рыбы Скайрима / Improved Fish
 Gildergreen Regrown
+Berts Breezhome Remodel
 
 В процессе
 
-Berts Breezhome Remodel
-Hanging Gardens
 Moonpath to Elsweyr
 Much Ado About Snow Elves
 

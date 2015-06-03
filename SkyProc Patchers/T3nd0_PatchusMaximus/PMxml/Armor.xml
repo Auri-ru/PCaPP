@@ -10777,14 +10777,28 @@
 			<identifier>Scaled</identifier>
 			<substring>одинокого воина</substring>
 		</binding>
+		<!-- The Hanging Gardens start-->
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Seadog</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Морского волка</substring>
+			<identifier>Clothing</identifier>
+			<substring>Плащ морского волка</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Seadog Cape</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>морского волка</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Треуголка с перьями</substring>
+		</binding>
+		<!-- The Hanging Gardens end-->
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Hunter</substring>
