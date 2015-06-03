@@ -7899,6 +7899,10 @@
 			<identifier>Ancient Falmer</identifier>
 			<substring>SunBlessed</substring>
 		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Благословенный солнцем</substring>
+		</binding>
 	<!-- Falmer Material Bindings end -->
 	
 	<!-- Forsworn Material Bindings start -->

@@ -9540,6 +9540,20 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<!-- Black Sacrament Armor end -->	
+		<!-- Russian Much Ado About Snow Elves start -->	
+		<binding>
+			<substring>Древний фалмерский боевой топор</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Древний фалмерский великий меч</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Древняя фалмерская боевая палица</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<!-- Russian Much Ado About Snow Elves end -->	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -12964,6 +12978,10 @@
 		</binding>
 		<binding>
 			<substring>Ancient Falmer Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Древний фалмерский лук</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>

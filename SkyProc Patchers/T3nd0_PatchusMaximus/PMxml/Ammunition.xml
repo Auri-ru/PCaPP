@@ -1490,6 +1490,10 @@
 			<identifier>Ancient Falmer</identifier>
 			<substring>Ancient Falmer</substring>
 		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Древняя фалмерская стрела</substring>
+		</binding>
 	<!-- Much Ado about Snow Elves – A Tragedy! Act I -->
 	<!-- Dimond Weapon Smithing -->
 		<binding>

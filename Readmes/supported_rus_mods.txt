@@ -274,6 +274,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Much Ado About Snow Elves/Наследие Снежных Эльфов 102812
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11696
+Метод: XML
+
 Название: OBIS - организованная преступность Скайрима 2.1
 Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
 Метод: XML
@@ -530,10 +534,6 @@ Berts Breezhome Remodel
 
 В процессе
 
-Much Ado About Snow Elves
-
-В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
-
 Sea of Ghost
 Wyrmstooth
 Skyrim - Undeath
@@ -551,9 +551,3 @@ Dragon Priests Mask Quest Markers
 Auto Unequip Ammo
 StoreFront
 Katana Crafting
-
-
-
-
-
-
