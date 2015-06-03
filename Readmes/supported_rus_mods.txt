@@ -265,6 +265,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Moonpath to Elsweyr/Лунные тропы 9.5
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-10340
+Метод: XML
+
 Название: Mrissi - A tail of troubles
 Источник: http://www.nexusmods.com/skyrim/mods/33362/?
 Метод: XML
@@ -526,7 +530,6 @@ Berts Breezhome Remodel
 
 В процессе
 
-Moonpath to Elsweyr
 Much Ado About Snow Elves
 
 В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")

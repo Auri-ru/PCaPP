@@ -2480,6 +2480,24 @@
 			<substring>"Черное Причастие ТБ"</substring>
 		</binding>
 		<!-- Black Sacrament Armor start -->	
+		<!-- Moonpath to Elsweyr start -->	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Броня из панциря силигондера</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Siligonder Chitin Arrmor</substring>
+		</binding>
+		<binding>
+			<identifier>StuddedHigh</identifier>
+			<substring>Прочная броня из панциря силигондера</substring>
+		</binding>
+		<binding>
+			<identifier>StuddedHigh</identifier>
+			<substring>Hardened Siligonder Chitin Arrmors</substring>
+		</binding>
+		<!-- Moonpath to Elsweyr end -->	
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
