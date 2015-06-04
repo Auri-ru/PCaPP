@@ -2649,6 +2649,105 @@
 			<substring>Смертельный яд бешенства</substring>
 		</binding>
 		<!-- Mind affecting poisons end-->
+		<!-- The Hanging Gardens start-->
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Bargain Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Cheap Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Fresh Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Standard Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Quality Potion Of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Exclusive Potion of Healing</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Bargain Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Cheap Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Fresh Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Standard Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Quality Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Exclusive Potion Of Magicka</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Бросовое зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Дешёвое зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Свежее зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Обычное зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Качественное зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Эксклюзивное зелье лечения</substring>
+		</binding>
+		<binding>
+			<identifier>Tier1</identifier>
+			<substring>Бросовое зелье магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier2</identifier>
+			<substring>Дешёвое зелье магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier3</identifier>
+			<substring>Свежее зелье магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier4</identifier>
+			<substring>Обычное зелье магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier5</identifier>
+			<substring>Качественное зелье магии</substring>
+		</binding>
+		<binding>
+			<identifier>Tier6</identifier>
+			<substring>Эксклюзивное зелье магии</substring>
+		</binding>
+		
+		<!-- The Hanging Gardens end-->
 	</potion_multiplier_bindings>
 
 	<potion_exclusions>

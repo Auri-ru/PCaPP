@@ -2480,6 +2480,24 @@
 			<substring>"Черное Причастие ТБ"</substring>
 		</binding>
 		<!-- Black Sacrament Armor start -->	
+		<!-- Moonpath to Elsweyr start -->	
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Броня из панциря силигондера</substring>
+		</binding>
+		<binding>
+			<identifier>Studded</identifier>
+			<substring>Siligonder Chitin Arrmor</substring>
+		</binding>
+		<binding>
+			<identifier>StuddedHigh</identifier>
+			<substring>Прочная броня из панциря силигондера</substring>
+		</binding>
+		<binding>
+			<identifier>StuddedHigh</identifier>
+			<substring>Hardened Siligonder Chitin Arrmors</substring>
+		</binding>
+		<!-- Moonpath to Elsweyr end -->	
 	<!-- Custom material_Bindings End -->
 	
 	<!-- Default material_Bindings start -->
@@ -3312,6 +3330,18 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>теклянная талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>теклянный талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>теклянные талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>алморский стеклян</substring>
 		</binding>
 		<binding>
@@ -3662,6 +3692,7 @@
 			<identifier>LightFaction</identifier>
 			<substring>Потрепанная Имперская броня</substring>
 		</binding>
+		<!-- Sea of Ghost start-->
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Boots</substring>
@@ -3672,12 +3703,17 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
+			<substring>Стража Драконов</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Gauntlets</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Helmet</substring>
  		</binding>
+		<!-- Sea of Ghost end-->
 		<binding>
 		<identifier>HeavyFactionHigh</identifier>
 			<substring>Tower Guard</substring>
@@ -6787,15 +6823,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Золотые эбонитовые</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Золотая эбонитовая</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Золотой эбонитовый</substring>
+			<substring>Эбонитово-золот</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -6803,15 +6831,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Серебряные эбонитовые</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Серебряная эбонитовая</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Серебряный эбонитовый</substring>
+			<substring>Эбонитово-серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -7881,6 +7901,10 @@
 			<identifier>Ancient Falmer</identifier>
 			<substring>SunBlessed</substring>
 		</binding>
+		<binding>
+			<identifier>Ancient Falmer</identifier>
+			<substring>Благословенный солнцем</substring>
+		</binding>
 	<!-- Falmer Material Bindings end -->
 	
 	<!-- Forsworn Material Bindings start -->
@@ -8040,6 +8064,10 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Стальной стеклянный</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Стеклянно-стальн</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -8232,14 +8260,6 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>"Клык Теней"</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Thalmor</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Талмор</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -10777,14 +10797,28 @@
 			<identifier>Scaled</identifier>
 			<substring>одинокого воина</substring>
 		</binding>
+		<!-- The Hanging Gardens start-->
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Seadog</substring>
 		</binding>
 		<binding>
-			<identifier>Scaled</identifier>
-			<substring>Морского волка</substring>
+			<identifier>Clothing</identifier>
+			<substring>Плащ морского волка</substring>
 		</binding>
+		<binding>
+			<identifier>Clothing</identifier>
+			<substring>Seadog Cape</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>морского волка</substring>
+		</binding>
+		<binding>
+			<identifier>Scaled</identifier>
+			<substring>Треуголка с перьями</substring>
+		</binding>
+		<!-- The Hanging Gardens end-->
 		<binding>
 			<identifier>Scaled</identifier>
 			<substring>Hunter</substring>
@@ -12108,6 +12142,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Небесный стальной</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>

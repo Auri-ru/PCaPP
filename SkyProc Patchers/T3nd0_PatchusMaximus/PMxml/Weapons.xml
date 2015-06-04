@@ -3923,6 +3923,10 @@
 		</binding>
 		<binding>
 			<identifier>Dwarven</identifier>
+			<substring>Молот повелителя автоматов</substring>
+		</binding>
+		<binding>
+			<identifier>Dwarven</identifier>
 			<substring>Dorana's Hammer</substring>
 		</binding>
 		<binding>
@@ -5388,6 +5392,10 @@
 			<identifier>Glass</identifier>
 			<substring>Seadog Cutlass</substring>
 		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Сабля морского волка</substring>
+		</binding>
 	<!-- Glass bindings end -->
 	
 	<!-- Gold bindings start -->
@@ -5513,6 +5521,10 @@
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Pickaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Мотыга</substring>
 		</binding>
 		<binding>
 			<identifier>Iron</identifier>
@@ -5738,6 +5750,18 @@
 			<identifier>Iron</identifier>
 			<substring>The Crab Slayer</substring>
 		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Убийца крабов</substring>
+		</binding>		
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>Клинок Мореплавателя</substring>
+		</binding>
+		<binding>
+			<identifier>Iron</identifier>
+			<substring>The Seafarer's Sword	</substring>
+		</binding>		
 		<binding>
 			<identifier>Iron</identifier>
 			<substring>Hunter's Saw</substring>
@@ -6165,6 +6189,10 @@
 			<identifier>SilverHigh</identifier>
 			<substring>Merblight</substring>
 		</binding>
+		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Отравитель</substring>
+		</binding>	
 		<binding>
 			<identifier>RSilverHigh</identifier>
 			<substring>Refined Merblight</substring>
@@ -7129,7 +7157,15 @@
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
+			<substring>Сила Дракона</substring>
+		</binding>	
+		<binding>
+			<identifier>Steel</identifier>
 			<substring>Dragon's Grace</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Милость Дракона</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -7169,6 +7205,10 @@
 		<binding>
 			<identifier>Skyforge</identifier>
 			<substring>небесн</substring>
+		</binding>
+		<binding>
+			<identifier>Skyforge</identifier>
+			<substring> небесной кузницы</substring>
 		</binding>
 		<binding>
 			<identifier>Skyforge</identifier>
@@ -8735,6 +8775,10 @@
 			<identifier>Katar</identifier>
 		</binding>		 
 		<binding>
+			<substring>Мотыга</substring>
+			<identifier>Pickaxe</identifier>
+		</binding>				
+		<binding>
 			<substring>Кирка</substring>
 			<identifier>Pickaxe</identifier>
 		</binding>				
@@ -9532,6 +9576,20 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<!-- Black Sacrament Armor end -->	
+		<!-- Russian Much Ado About Snow Elves start -->	
+		<binding>
+			<substring>Древний фалмерский боевой топор</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Древний фалмерский великий меч</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Древняя фалмерская боевая палица</substring>
+			<identifier>Longmace</identifier>
+		</binding>
+		<!-- Russian Much Ado About Snow Elves end -->	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -10089,6 +10147,10 @@
 			<identifier>Arming Sword</identifier>
 		</binding>
 		<binding>
+			<substring>Отравитель</substring>
+			<identifier>Arming Sword</identifier>
+		</binding>
+		<binding>
 			<substring>Blessed Blade of Stendarr</substring>
 			<identifier>Arming Sword</identifier>
 		</binding>
@@ -10532,6 +10594,10 @@
 			<substring>The Crab Slayer</substring>
 			<identifier>Dagger</identifier>
 		</binding>
+		<binding>
+			<substring>Убийца крабов</substring>
+			<identifier>Dagger</identifier>
+		</binding>
 	<!-- Dagger bindings end -->
 
 	<!-- Hatchet bindings start -->
@@ -10670,7 +10736,15 @@
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
-			<substring>Dragon's Grace</substring>
+			<substring>Dragon's Strength</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Сила Дракона</substring>
+			<identifier>Katana</identifier>
+		</binding>
+		<binding>
+			<substring>Милость Дракона</substring>
 			<identifier>Katana</identifier>
 		</binding>
 		<binding>
@@ -10911,6 +10985,14 @@
 			<substring>Venus</substring>
 			<identifier>Longsword</identifier>
 		</binding>
+		<binding>
+			<substring>Клинок Мореплавателя</substring>
+			<identifier>Longsword</identifier>
+		</binding>	
+		<binding>
+			<substring>The Seafarer's Sword	</substring>
+			<identifier>Longsword</identifier>
+		</binding>		
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
@@ -12685,6 +12767,10 @@
 			<identifier>Warhammer</identifier>
 		</binding>
 		<binding>
+			<substring>Молот повелителя автоматов</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
 			<substring>Dorana's Hammer</substring>
 			<identifier>Warhammer</identifier>
 		</binding>
@@ -12952,6 +13038,10 @@
 		</binding>
 		<binding>
 			<substring>Ancient Falmer Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Древний фалмерский лук</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 		<binding>

@@ -16,6 +16,13 @@
 Метод: XML 
 Ставить: ниже PerMa
 
+Название: aMidianBorn - Content Addon 1.9
+Источник: http://www.nexusmods.com/skyrim/mods/24909/?
+Метод: XML
+Руссификация: 	при установке Skyforge оружия замените aMidianborn_Skyforge_Weapons.esp 
+				при установке Ebony-Differently брони замените Differently Ebony.esp 
+				при установке Glass-Variants брони замените AMB Glass Variants Lore.esp 
+
 Название: Archer's Armory
 Источник: http://www.nexusmods.com/skyrim/mods/59345/?
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
@@ -265,10 +272,18 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: XML
 Ставить: ниже PerMa
 
+Название: Moonpath to Elsweyr/Лунные тропы 9.5
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-10340
+Метод: XML
+
 Название: Mrissi - A tail of troubles
 Источник: http://www.nexusmods.com/skyrim/mods/33362/?
 Метод: XML
 Ставить: ниже PerMa
+
+Название: Much Ado About Snow Elves/Наследие Снежных Эльфов 102812
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11696
+Метод: XML
 
 Название: OBIS - организованная преступность Скайрима 2.1
 Источник: http://tesall.ru/files/download/5516-obis-organizovannaya-prestupnost-skajrima/
@@ -322,10 +337,14 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
 Метод: XML
 
+Название: Sea of Ghost/Море Призраков 1.4
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11519
+Метод: XML
+
 Название: Skyrim Immersive Creatures v6.5.2a
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
 Метод: патч Pre PaMa SiC Patch.esp+XML
-Ставить: все после мастера
+Ставить: мод до мастера, патч после
 
 Название: Sotteta Huntress Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_huntress_armor/306-1-0-18216
@@ -375,6 +394,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Название: The Choice is Yours
 Источник: http://tes.riotpixels.com/mods/skyrim/interface/the-choice-is-yours.shtml
 Метод: XML
+
+Название: The Hanging Gardens/Висячие Сады 1.1
+Источник: http://www.anvilbay.ru/files/hanging-gardens/
+Метод: XML + замена bhabhilon.esp
 
 Название: The Lost Wonders of Mzark/Затерянные чудеса Мзарка 1.3
 Источник: http://tesall.ru/files/file/5007-zateryannye-chudesa-mzarka/
@@ -518,17 +541,10 @@ Guard Dialogue Overhaul
 More Craftables
 Рыбы Скайрима / Improved Fish
 Gildergreen Regrown
+Berts Breezhome Remodel
+SkyTEST - Settings
 
 В процессе
-
-Berts Breezhome Remodel
-Hanging Gardens
-Moonpath to Elsweyr
-Much Ado About Snow Elves
-
-В очереди (если кто возьмет что делать, перенесите в раздел "В процессе")
-
-Sea of Ghost
 Wyrmstooth
 Skyrim - Undeath
 The secret of Dragonhead
@@ -545,9 +561,3 @@ Dragon Priests Mask Quest Markers
 Auto Unequip Ammo
 StoreFront
 Katana Crafting
-
-
-
-
-
-
