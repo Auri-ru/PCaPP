@@ -3330,6 +3330,18 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>теклянная талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>теклянный талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>теклянные талмор</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>алморский стеклян</substring>
 		</binding>
 		<binding>
@@ -3680,6 +3692,7 @@
 			<identifier>LightFaction</identifier>
 			<substring>Потрепанная Имперская броня</substring>
 		</binding>
+		<!-- Sea of Ghost start-->
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Boots</substring>
@@ -3690,12 +3703,17 @@
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
+			<substring>Стража Драконов</substring>
+		</binding>
+		<binding>
+			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Gauntlets</substring>
 		</binding>
 		<binding>
 			<identifier>HeavyFactionHigh</identifier>
 			<substring>Dragonguard Helmet</substring>
  		</binding>
+		<!-- Sea of Ghost end-->
 		<binding>
 		<identifier>HeavyFactionHigh</identifier>
 			<substring>Tower Guard</substring>
@@ -6805,15 +6823,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Золотые эбонитовые</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Золотая эбонитовая</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Золотой эбонитовый</substring>
+			<substring>Эбонитово-золот</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -6821,15 +6831,7 @@
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
-			<substring>Серебряные эбонитовые</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Серебряная эбонитовая</substring>
-		</binding>
-		<binding>
-			<identifier>Ebony</identifier>
-			<substring>Серебряный эбонитовый</substring>
+			<substring>Эбонитово-серебрян</substring>
 		</binding>
 		<binding>
 			<identifier>Ebony</identifier>
@@ -8065,6 +8067,10 @@
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
+			<substring>Стеклянно-стальн</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
 			<substring>Lilith's Hood (light)</substring>
 		</binding>
 		<binding>
@@ -8254,14 +8260,6 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>"Клык Теней"</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Thalmor</substring>
-		</binding>
-		<binding>
-			<identifier>Glass</identifier>
-			<substring>Талмор</substring>
 		</binding>
 		<binding>
 			<identifier>Glass</identifier>
@@ -12144,6 +12142,10 @@
 		<binding>
 			<identifier>Steel Plate</identifier>
 			<substring>Skyforge</substring>
+		</binding>
+		<binding>
+			<identifier>Steel Plate</identifier>
+			<substring>Небесный стальной</substring>
 		</binding>
 		<binding>
 			<identifier>Steel Plate</identifier>

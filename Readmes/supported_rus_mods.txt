@@ -16,6 +16,13 @@
 Метод: XML 
 Ставить: ниже PerMa
 
+Название: aMidianBorn - Content Addon 1.9
+Источник: http://www.nexusmods.com/skyrim/mods/24909/?
+Метод: XML
+Руссификация: 	при установке Skyforge оружия замените aMidianborn_Skyforge_Weapons.esp 
+				при установке Ebony-Differently брони замените Differently Ebony.esp 
+				при установке Glass-Variants брони замените AMB Glass Variants Lore.esp 
+
 Название: Archer's Armory
 Источник: http://www.nexusmods.com/skyrim/mods/59345/?
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
@@ -330,10 +337,14 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tesall.ru/files/file/5606-opasnye-protivniki/
 Метод: XML
 
+Название: Sea of Ghost/Море Призраков 1.4
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11519
+Метод: XML
+
 Название: Skyrim Immersive Creatures v6.5.2a
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
 Метод: патч Pre PaMa SiC Patch.esp+XML
-Ставить: все после мастера
+Ставить: мод до мастера, патч после
 
 Название: Sotteta Huntress Armor
 Источник: http://modgames.net/load/tes_v_skyrim/1/sotteta_armory_huntress_armor/306-1-0-18216
@@ -531,10 +542,9 @@ More Craftables
 Рыбы Скайрима / Improved Fish
 Gildergreen Regrown
 Berts Breezhome Remodel
+SkyTEST - Settings
 
 В процессе
-
-Sea of Ghost
 Wyrmstooth
 Skyrim - Undeath
 The secret of Dragonhead
