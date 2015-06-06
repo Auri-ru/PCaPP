@@ -1526,6 +1526,35 @@
 				<type>EQUALS</type>
 			</exclusion>
 		<!-- The Hanging Gardens end-->
+		<!-- Skyrim - Undeath start-->
+			<exclusion>
+				<text>NecroPoison</text>
+				<target>EDID</target>
+				<type>STARTSWITH</type>
+			</exclusion>
+			<exclusion>
+				<text>NecroCommandUndead</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>NecroLichRevenant</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>NecroPoisonCloak</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Skyrim - Undeath end-->
+		<!-- Skummel Sohu start-->
+			<exclusion>
+				<text>aaaPush</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Skummel Sohu end-->
 		</distribution_exclusions_spell>
 
 		<distribution_exclusions_book>
@@ -2567,6 +2596,52 @@
 				<type>STARTSWITH</type>
 			</exclusion>		
 			<!-- Mzark Wonders end -->
+		<!-- Skyrim - Undeath start-->
+			<exclusion>
+				<text>SpellTomeCommandUndead</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeConjureWispmother</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomePoisonCloak</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeEnervate</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeBlight</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+			<exclusion>
+				<text>SpellTomeDecay</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Skyrim - Undeath end-->
+		<!-- The Secret of Dragonhead end -->	
+		<exclusion>
+			<text>manny_DH_</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Skummel Sohu start-->
+			<exclusion>
+				<text>aaaSpellTomePush</text>
+				<target>EDID</target>
+				<type>EQUALS</type>
+			</exclusion>
+		<!-- Skummel Sohu end-->
 		</distribution_exclusions_book>
 
 		<distribution_exclusions_list>
@@ -4815,6 +4890,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wheels of Lull end -->
+		<!-- The Secret of Dragonhead end -->	
+		<exclusion>
+			<text>manny_DH_DaedricSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Idemdall's Folly start -->	
+		<exclusion>
+			<text>ndcBafungram</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ndcLilacor</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Idemdall's Folly end -->	
 		</distribution_exclusions_weapon_regular>
 
 		<distribution_exclusions_list_regular>
@@ -6525,6 +6619,25 @@
 				<type>STARTSWITH</type>
 			</exclusion>
 		<!-- Wheels of Lull end -->
+		<!-- The Secret of Dragonhead end -->	
+		<exclusion>
+			<text>manny_DH_DaedricSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Idemdall's Folly start -->	
+		<exclusion>
+			<text>ndcBafungram</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ndcLilacor</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Idemdall's Folly end -->	
 		</distribution_exclusions_weapon_enchanted>
 
 		<distribution_exclusions_list_enchanted>

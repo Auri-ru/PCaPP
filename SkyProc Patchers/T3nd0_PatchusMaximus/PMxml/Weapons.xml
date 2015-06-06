@@ -1489,6 +1489,22 @@
 			<substring>Древний лук Ассасина</substring>
 		</binding>
 		<!-- Black Sacrament Armor start -->	
+		<!-- The Secret of Dragonhead end -->	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ярость Мерунеса</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Mehrunes' Fury</substring>
+		</binding>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Idemdall's Folly start -->	
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Bafungram</substring>
+		</binding>
+		<!-- Idemdall's Folly end -->	
 
 		<!-- Custom material_Bindings End -->
 	
@@ -6202,6 +6218,10 @@
 			<substring>Blessed Blade of Stendarr</substring>
 		</binding>
 		<binding>
+			<identifier>SilverHigh</identifier>
+			<substring>Освященный меч Стендарра</substring>
+		</binding>
+		<binding>
 			<identifier>RSilverHigh</identifier>
 			<substring>Refined Blessed Blade of Stendarr</substring>
 		</binding>
@@ -7170,6 +7190,10 @@
 		<binding>
 			<identifier>Steel</identifier>
 			<substring>Blessed Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Steel</identifier>
+			<substring>Освященный кинжал</substring>
 		</binding>
 		<binding>
 			<identifier>Steel</identifier>
@@ -9590,6 +9614,50 @@
 			<identifier>Longmace</identifier>
 		</binding>
 		<!-- Russian Much Ado About Snow Elves end -->	
+		<!-- The Secret of Dragonhead start -->	
+		<binding>
+			<substring>Ярость Мерунеса</substring>
+			<identifier>Longsword</identifier>
+		</binding>
+		<binding>
+			<substring>Mehrunes' Fury</substring>
+			<identifier>Longsword</identifier>
+		</binding>		
+		<!-- The Secret of Dragonhead end -->	
+		<!-- Idemdall's Folly start -->	
+		<binding>
+			<substring>Bafungram</substring>
+			<identifier>Armingsword</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Greatsword</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Dagger</substring>
+			<identifier>Dagger</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Battleaxe</substring>
+			<identifier>Battleaxe</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Mace</substring>
+			<identifier>Mace</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Warhammer</substring>
+			<identifier>Warhammer</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the Bow</substring>
+			<identifier>Shortbow</identifier>
+		</binding>
+		<binding>
+			<substring>Bafungram the War Axe</substring>
+			<identifier>Waraxe</identifier>
+		</binding>
+		<!-- Idemdall's Folly end -->	
 	<!-- =====================================================Default Weapon bindings end =================================================== -->
 
 	<!-- =====================================================Light Weapon bindings start =================================================== -->
@@ -15163,6 +15231,25 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<!-- Black Sacrament Armor start -->	
+		<!-- The Secret of Dragonhead end -->	
+		<exclusion>
+			<text>manny_DH_DaedricSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Idemdall's Folly start -->	
+		<exclusion>
+			<text>ndcBafungram</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ndcLilacor</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Idemdall's Folly end -->	
 	</reforge_exclusions>
 
 </ns2:weapons>
