@@ -8347,6 +8347,25 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- Black Sacrament Armor start -->	
+		<!-- The Secret of Dragonhead end -->	
+		<exclusion>
+			<text>manny_DH_DaedricSword</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- The Secret of Dragonhead start -->	
+		<!-- Idemdall's Folly start -->	
+		<exclusion>
+			<text>ndcBafungram</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>ndcLilacor</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+		<!-- Idemdall's Folly end -->	
 	</enchantment_weapon_exclusions>
 
 	<enchantment_armor_exclusions>
@@ -10657,6 +10676,13 @@
 			<type>STARTSWITH</type>
 		</exclusion>
 	<!-- Sea Of Ghost end-->
+	<!-- Skummel Sohu start-->
+		<exclusion>
+			<text>aaaSpellTomePush</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Skummel Sohu end-->
 	</scroll_crafting_exclusions>
 
 	<staff_crafting_exclusions>
@@ -11371,6 +11397,13 @@
 			<type>EQUALS</type>
 		</exclusion>
 	<!-- The Hanging Gardens end-->
+	<!-- Skummel Sohu start-->
+		<exclusion>
+			<text>aaaSpellTomePush</text>
+			<target>EDID</target>
+			<type>EQUALS</type>
+		</exclusion>
+	<!-- Skummel Sohu end-->
 	</staff_crafting_exclusions>
 
 	<staff_crafting_disable_crafting_exclusions>

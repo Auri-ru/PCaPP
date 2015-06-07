@@ -8350,6 +8350,10 @@
 			<substring>Black Hood</substring>
 		</binding>
 		<binding>
+			<identifier>GlassHigh</identifier>
+			<substring>Черный капюшон</substring>
+		</binding>
+		<binding>
 			<identifier>Glass</identifier>
 			<substring>Emerald</substring>
 		</binding>

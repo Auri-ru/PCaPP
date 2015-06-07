@@ -23,6 +23,10 @@
 				при установке Ebony-Differently брони замените Differently Ebony.esp 
 				при установке Glass-Variants брони замените AMB Glass Variants Lore.esp 
 
+Название: Acquisitive Soul Gems 2.5.6
+Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/acquisitive-soul-gems
+Метод: установка патча из состава мода
+				
 Название: Archer's Armory
 Источник: http://www.nexusmods.com/skyrim/mods/59345/?
 Метод: замена Archer's Armory Skyrim.esp (перевод уже встроен) + XML 
@@ -73,6 +77,10 @@
 Источник: http://tes.riotpixels.com/mods/skyrim/clothes/cloaks-of-skyrim
 Метод: XML
 Ставить: ниже PerMa
+
+Название: Combat Evolved 2.4a
+Источник: http://www.nexusmods.com/skyrim/mods/56147/?tab=2&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D56147&pUp=1
+Метод: для русификации замена Combat Evolved.esp
 
 Название: Complete Crafting Overhaul Remade 1.5
 	+CCO-Frostfall-v1.1-ru.7z
@@ -204,6 +212,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Метод: XML
 Ставить: после PerMa
 
+Название: Idemdall's Folly/Безумие Идемдалла 1.0
+Источник: http://modgames.net/load/tes_v_skyrim/oruzhie/1/248-1-0-11646
+Метод: XML
+
 Название: Immersive Armors 7.1
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/immersive-armors.shtml
 Метод: замена Hothtrooper44_ArmorCompilation.esp + XML
@@ -242,6 +254,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tes.riotpixels.com/mods/skyrim/weapons/lotr-weapons.shtml
 Метод: XML
 Ставить: ниже PerMa
+
+Название: Katana Crafting / Набор катан 2.15
+Источник: http://modgames.net/load/tes_v_skyrim/oruzhie/1/248-1-0-9515
+Метод: XML
 
 Название: Konahriks Accoutrements - Dragon Priest Armory v5.5.0
 Источник: http://tes.riotpixels.com/mods/skyrim/armor/dragon-priest-armory.shtml
@@ -329,6 +345,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://modgames.net/load/tes_v_skyrim/bronja/pyro_mage_armor/249-1-0-19469
 Метод: XML
  
+Название: Quest - No Mercy/Квест - "Нет Милосердию!" 1.3
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11394
+Метод: XML
+ 
 Название: Realistic Needs and Diseases 1.9.10
 Источник: http://tes.riotpixels.com/mods/skyrim/gameplay/realistic-needs-and-diseases.shtml
 Метод: XML
@@ -340,6 +360,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Название: Sea of Ghost/Море Призраков 1.4
 Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11519
 Метод: XML
+
+Название: Skummel Sohu 1.2
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/skummel_sohu/250-1-0-17138
+Метод: XML, только русская версия
 
 Название: Skyrim Immersive Creatures v6.5.2a
 Источник: http://tes.riotpixels.com/mods/skyrim/overhauls/sic.shtml
@@ -403,6 +427,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 Источник: http://tesall.ru/files/file/5007-zateryannye-chudesa-mzarka/
 Метод: XML
 
+Название: The secret of Dragonhead/Тайна крепости Драконья Голова 3.0
+Источник: http://modgames.net/load/tes_v_skyrim/kvesty/1/250-1-0-11588
+Метод: XML
+
 Название: The Shroud of Jotunheim/Тьма над Йотунхеймом 0.8 
 Источник: http://tesall.ru/files/file/4671-skyrim-shroud-jotunheim/
 Метод: XML
@@ -413,6 +441,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 
 Название: Ultimate Assortment/Максимальный ассортимент 1.11
 Источник: http://tesall.ru/files/file/5225-maksimalnyj-assortiment/
+Метод: XML
+
+Название: Undeath
+Источник: http://tes.riotpixels.com/mods/skyrim/quests/undeath.shtml
 Метод: XML
 
 Название: Unique Bows Collection/Коллекция уникальных луков 1.1
@@ -461,6 +493,10 @@ sНазвание: Deadly Dragons Armory 4.4.0
 
 Название: Wrath of Nature - The Champion of Kynareth 1.3
 Источник: http://www.nexusmods.com/skyrim/mods/39928/?tab=2&navtag=http%3A%2F%2Fwww.nexusmods.com%2Fskyrim%2Fajax%2Fmodfiles%2F%3Fid%3D39928&pUp=1
+Метод: XML
+
+Название: Wyrmstooth 1.15
+Источник: http://tes.riotpixels.com/mods/skyrim/quests/wyrmstooth.shtml
 Метод: XML
 
 Название: Бандитам снова хочется
@@ -543,21 +579,16 @@ More Craftables
 Gildergreen Regrown
 Berts Breezhome Remodel
 SkyTEST - Settings
+The Paarthurnax Dilemma
+It Beats for her
+Auto Unequip Ammo
+Better Quests Objectives
+Dragon Priests Mask Quest Markers
+Give more
+StoreFront
 
 В процессе
-Wyrmstooth
-Skyrim - Undeath
-The secret of Dragonhead
-Paaethurnax Dilemma
-It Beats for her
-Idemdalls Folly
-Skummel Sohu
-No mercy
-Quest of Seven Keys
-Acquisitive Soul Gems
-Better Quests Objectives
-Give me more
-Dragon Priests Mask Quest Markers
-Auto Unequip Ammo
-StoreFront
-Katana Crafting
+
+Elric from Melnibone
+The Oblivion Realms Serie - The Gate of Solitude
+The Oblivion Realms Serie - Morthal Pain
