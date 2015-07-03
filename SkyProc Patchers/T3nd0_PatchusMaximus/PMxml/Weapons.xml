@@ -3110,6 +3110,18 @@
 			<identifier>DaedricHigh</identifier>
 			<substring>Twilight</substring>
 		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ancient Dagger of The Vampire</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Ornate Deathgiver</substring>
+		</binding>
+		<binding>
+			<identifier>Daedric</identifier>
+			<substring>Reaper</substring>
+		</binding>
 	<!-- Daedric bindings end -->
 	
 	<!-- Dragonplate bindings start -->
@@ -5039,6 +5051,10 @@
 			<identifier>ElvenHigh</identifier>
 			<substring>Recurve Elven Bow</substring>
 		</binding>
+		<binding>
+			<identifier>Elven</identifier>
+			<substring>Gibson's Dagger</substring>
+		</binding>
 	<!-- Elven bindings end -->
 	
 	<!-- Falmer/Forsworn bindings start -->
@@ -5411,6 +5427,38 @@
 		<binding>
 			<identifier>Glass</identifier>
 			<substring>Сабля морского волка</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Sword</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Dagger</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Greatsword</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood War Axe</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Bow</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Mace</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Battleaxe</substring>
+		</binding>
+		<binding>
+			<identifier>Glass</identifier>
+			<substring>Blood Warhammer</substring>
 		</binding>
 	<!-- Glass bindings end -->
 	
@@ -7722,7 +7770,7 @@
 
 	<!-- Bound Material Listings start -->
 		<weapon_material>
-			<damageModifier>1.9</damageModifier>
+			<damageModifier>1.284</damageModifier>
 			<identifier>BoundLow</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
@@ -7730,7 +7778,7 @@
 			<speedModifier>0.05</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>2</damageModifier>
+			<damageModifier>1.334</damageModifier>
 			<identifier>Bound</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
@@ -7738,7 +7786,7 @@
 			<speedModifier>0.05</speedModifier>
 		</weapon_material>
 		<weapon_material>
-			<damageModifier>2.05</damageModifier>
+			<damageModifier>1.384</damageModifier>
 			<identifier>BoundHigh</identifier>
 			<materialMeltdown>NONE</materialMeltdown>
 			<materialTemper>NONE</materialTemper>
@@ -11060,7 +11108,11 @@
 		<binding>
 			<substring>The Seafarer's Sword	</substring>
 			<identifier>Longsword</identifier>
-		</binding>		
+		</binding>	
+		<binding>
+			<substring>Vengence</substring>
+			<identifier>Longsword</identifier>
+		</binding>
 	<!-- Longsword bindings end -->
 
 	<!-- Mace bindings start -->
@@ -12265,6 +12317,14 @@
 			<identifier>Greatsword</identifier>
 		</binding>
 		<binding>
+			<substring>Riders Great Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
+			<substring>Great Riders Blade</substring>
+			<identifier>Greatsword</identifier>
+		</binding>
+		<binding>
 			<substring>Great Crescent</substring>
 			<identifier>Greatsword</identifier>
 		</binding>
@@ -13130,6 +13190,18 @@
 		</binding>
 		<binding>
 			<substring>The Giant's Downfall</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Blood Bow</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Ornate Deathgiver</substring>
+			<identifier>Longbow</identifier>
+		</binding>
+		<binding>
+			<substring>Reaper</substring>
 			<identifier>Longbow</identifier>
 		</binding>
 	<!-- Longbow bindings end -->
@@ -14137,21 +14209,6 @@
 		<exclusion>
 			<text>Woodcutter</text>
 			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Replica</text>
-			<target>EDID</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>Replica</text>
-			<target>NAME</target>
-			<type>CONTAINS</type>
-		</exclusion>
-		<exclusion>
-			<text>копия</text>
-			<target>NAME</target>
 			<type>CONTAINS</type>
 		</exclusion>
 		<exclusion>
@@ -15250,6 +15307,75 @@
 			<type>EQUALS</type>
 		</exclusion>
 		<!-- Idemdall's Folly end -->	
+	<!-- The Shrouded Lair - A Vampire Home -->
+		<exclusion>
+			<text>000SLVampDagger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000SLBow02</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodSwordSwordSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodDaggerSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodGreatswordSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodWaraxeSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodBowSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodMaceSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodBattleaxeSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>000BloodWarhammerSL</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- The Shrouded Lair - A Vampire Home -->
+	<!-- Skyfall Estate Buildable -->
+		<exclusion>
+			<text>aaaReaperBow</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>aaaSFSword</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+		<exclusion>
+			<text>aaaGibsonsDagger</text>
+			<target>EDID</target>
+			<type>STARTSWITH</type>
+		</exclusion>
+	<!-- Skyfall Estate Buildable -->
 	</reforge_exclusions>
 
 </ns2:weapons>
